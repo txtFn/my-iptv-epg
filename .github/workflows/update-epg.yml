@@ -31,15 +31,53 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate EPG
-        run: |
-          mkdir -p public
-          npm run grab --- --sites=canalplus.com --output=public/guide.xml
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
 
-      - name: Upload EPG
+      - name: Generate EPG from all active sites
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import re
+
+          with open("SITES.md", encoding="utf-8") as f:
+              content = f.read()
+
+          sites = []
+
+          for row in re.findall(r"<tr>(.*?)</tr>", content, re.S):
+              if "🟢" not in row:
+                  continue
+
+              match = re.search(r'href="sites/([^"]+)"', row)
+              if match:
+                  sites.append(match.group(1))
+
+          with open("/tmp/sites.txt", "w") as f:
+              f.write(",".join(sites))
+
+          print(f"Found {len(sites)} active EPG sources.")
+          PY
+
+          SITES=$(cat /tmp/sites.txt)
+
+          if [ -z "$SITES" ]; then
+            echo "No active EPG sources found."
+            exit 1
+          fi
+
+          mkdir -p public
+
+          npm run grab --- \
+            --sites="$SITES" \
+            --output=public/guide.xml
+
+          test -s public/guide.xml
+
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
-      - name: Publish EPG
+      - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
