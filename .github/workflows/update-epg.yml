@@ -1,0 +1,45 @@
+
+name: Update IPTV EPG
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate EPG
+        run: |
+          mkdir -p public
+          npm run grab --- --sites=canalplus.com --output=public/guide.xml
+
+      - name: Upload EPG
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Publish EPG
+        uses: actions/deploy-pages@v4
