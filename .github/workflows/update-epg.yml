@@ -1,4 +1,3 @@
-
 name: Update IPTV EPG
 
 on:
@@ -20,6 +19,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 55
+
+    env:
+      BATCH_SIZE: 5
+      SITE_TIMEOUT: 480
+      MAX_ATTEMPTS: 5
+      RETRY_COOLDOWN: 2700
 
     steps:
       # 1. Checkout repository
@@ -50,7 +55,7 @@ jobs:
             https://raw.githubusercontent.com/iptv-org/epg/master/SITES.md \
             -o /tmp/SITES.md
 
-      # 6. Select current batch
+      # 6. Select the current batch
       - name: Select next EPG batch
         id: batch
         shell: python
@@ -61,102 +66,75 @@ jobs:
           import hashlib
           import shutil
 
-          with open("/tmp/SITES.md", encoding="utf-8") as f:
+          with open('/tmp/SITES.md', encoding='utf-8') as f:
               content = f.read()
 
           sites = []
-
-          for row in re.findall(
-              r'<tr\b[^>]*>(.*?)</tr>',
-              content,
-              re.S | re.I
-          ):
-              if "🟢" not in row:
+          for row in re.findall(r'<tr\b[^>]*>(.*?)</tr>', content, re.S | re.I):
+              if '🟢' not in row:
                   continue
-
               match = re.search(r'href="sites/([^"]+)"', row)
-
               if match:
                   sites.append(match.group(1))
 
           sites = list(dict.fromkeys(sites))
-
           if not sites:
-              raise SystemExit("No active EPG sources found.")
+              raise SystemExit('No active EPG sources found.')
 
-          os.makedirs("epg-storage/work/guides", exist_ok=True)
+          os.makedirs('epg-storage/work/guides', exist_ok=True)
+          state_file = 'epg-storage/work/progress.json'
+          failures_file = 'epg-storage/work/failures.json'
+          signature = hashlib.sha256(','.join(sites).encode()).hexdigest()
 
-          state_file = "epg-storage/work/progress.json"
-
-          signature = hashlib.sha256(
-              ",".join(sites).encode()
-          ).hexdigest()
-
-          state = {
-              "signature": signature,
-              "index": 0,
-              "complete": False
-          }
-
+          state = {'signature': signature, 'index': 0, 'complete': False}
           if os.path.exists(state_file):
-              with open(state_file, encoding="utf-8") as f:
+              with open(state_file, encoding='utf-8') as f:
                   old = json.load(f)
-
-              if old.get("signature") == signature:
+              if old.get('signature') == signature:
                   state = old
               else:
-                  print("Source list changed. Resetting progress.")
+                  print('Source list changed. Resetting progress and retry state.')
+                  shutil.rmtree('epg-storage/work/guides', ignore_errors=True)
+                  os.makedirs('epg-storage/work/guides', exist_ok=True)
+                  with open(failures_file, 'w', encoding='utf-8') as f:
+                      json.dump({}, f, indent=2)
 
-                  shutil.rmtree(
-                      "epg-storage/work/guides",
-                      ignore_errors=True
-                  )
+          state['signature'] = signature
+          state['index'] = int(state.get('index', 0))
 
-                  os.makedirs(
-                      "epg-storage/work/guides",
-                      exist_ok=True
-                  )
+          if state['index'] >= len(sites):
+              state['complete'] = True
 
-          state["signature"] = signature
-          state["index"] = int(state.get("index", 0))
-
-          if state["index"] >= len(sites):
-              state["complete"] = True
-
-          with open(state_file, "w", encoding="utf-8") as f:
+          with open(state_file, 'w', encoding='utf-8') as f:
               json.dump(state, f, indent=2)
 
-          if state.get("complete"):
-              print("All EPG sources completed.")
-
-              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                  f.write("skip=true\n")
-
+          if state.get('complete'):
+              print('All EPG sources have been processed.')
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write('skip=true\n')
               raise SystemExit(0)
 
-          batch_size = 5
-          index = state["index"]
-
+          batch_size = int(os.environ.get('BATCH_SIZE', '5'))
+          index = state['index']
           batch = sites[index:index + batch_size]
-
           if not batch:
-              raise SystemExit("No sources selected.")
+              raise SystemExit('No sources selected.')
 
           next_index = index + len(batch)
           complete = next_index >= len(sites)
 
-          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-              f.write("skip=false\n")
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write('skip=false\n')
               f.write(f"sites={','.join(batch)}\n")
-              f.write(f"signature={signature}\n")
-              f.write(f"next={next_index}\n")
-              f.write(f"complete={str(complete).lower()}\n")
+              f.write(f'signature={signature}\n')
+              f.write(f'next={next_index}\n')
+              f.write(f'complete={str(complete).lower()}\n')
 
-          print(f"Total active sources: {len(sites)}")
-          print(f"Current batch: {batch}")
-          print(f"Current index: {index}")
+          print(f'Total active sources: {len(sites)}')
+          print(f'Current batch: {batch}')
+          print(f'Current index: {index}')
 
-      # 7. Download sources one by one
+      # 7. Download EPG sources one by one, with retry tracking
       - name: Download EPG batch
         id: download
         if: steps.batch.outputs.skip != 'true'
@@ -170,124 +148,207 @@ jobs:
           git -C epg-storage config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
+          mkdir -p epg-storage/work/guides
+          [ -f epg-storage/work/failures.json ] || echo '{}' > epg-storage/work/failures.json
+          if [ ! -f epg-storage/work/failed-sources.csv ]; then
+            echo 'site,attempts,last_attempt_utc,status,last_error' > epg-storage/work/failed-sources.csv
+          fi
+
           is_valid_xml() {
             python - "$1" <<'PY'
           import sys
           import xml.etree.ElementTree as ET
-
           try:
               root = ET.parse(sys.argv[1]).getroot()
-
-              if root.tag != "tv":
+              if root.tag != 'tv' or len(root) == 0:
                   sys.exit(1)
-
-              if len(root) == 0:
-                  sys.exit(1)
-
           except Exception:
               sys.exit(1)
-
           sys.exit(0)
+          PY
+          }
+
+          commit_storage() {
+            git -C epg-storage add -- work/failures.json work/failed-sources.csv work/progress.json
+            if ! git -C epg-storage diff --cached --quiet; then
+              git -C epg-storage commit -m "$1"
+              git -C epg-storage push origin HEAD:epg-data
+            fi
+          }
+
+          site_status() {
+            python - "$1" "$RETRY_COOLDOWN" <<'PY'
+          import sys, json, time
+          site = sys.argv[1]
+          cooldown = int(sys.argv[2])
+          try:
+              with open('epg-storage/work/failures.json', encoding='utf-8') as f:
+                  data = json.load(f)
+          except Exception:
+              data = {}
+          item = data.get(site, {})
+          if item.get('status') == 'permanent':
+              print('permanent')
+          elif int(item.get('next_retry', 0)) > int(time.time()):
+              print('cooldown')
+          else:
+              print('ready')
+          PY
+          }
+
+          record_failure() {
+            local site="$1"
+            local reason="$2"
+            python - "$site" "$reason" "$MAX_ATTEMPTS" "$RETRY_COOLDOWN" <<'PY'
+          import sys, json, time, csv, os
+          site, reason = sys.argv[1], sys.argv[2]
+          max_attempts, cooldown = int(sys.argv[3]), int(sys.argv[4])
+          path = 'epg-storage/work/failures.json'
+          try:
+              with open(path, encoding='utf-8') as f:
+                  data = json.load(f)
+          except Exception:
+              data = {}
+          now = int(time.time())
+          item = data.get(site, {})
+          attempts = int(item.get('attempts', 0)) + 1
+          status = 'permanent' if attempts >= max_attempts else 'retry'
+          item.update({
+              'attempts': attempts,
+              'last_attempt': now,
+              'next_retry': 0 if status == 'permanent' else now + cooldown,
+              'status': status,
+              'last_error': reason
+          })
+          data[site] = item
+          with open(path, 'w', encoding='utf-8') as f:
+              json.dump(data, f, indent=2)
+          csv_path = 'epg-storage/work/failed-sources.csv'
+          new_file = not os.path.exists(csv_path)
+          with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+              writer = csv.writer(f)
+              if new_file:
+                  writer.writerow(['site', 'attempts', 'last_attempt_utc', 'status', 'last_error'])
+              writer.writerow([site, attempts, time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime(now)), status, reason])
+          print(f'{site}: attempt {attempts}/{max_attempts}; status={status}')
+          PY
+            commit_storage "Record EPG failure: ${site}"
+          }
+
+          clear_failure() {
+            local site="$1"
+            python - "$site" <<'PY'
+          import sys, json
+          site = sys.argv[1]
+          path = 'epg-storage/work/failures.json'
+          try:
+              with open(path, encoding='utf-8') as f:
+                  data = json.load(f)
+          except Exception:
+              data = {}
+          if site in data:
+              del data[site]
+              with open(path, 'w', encoding='utf-8') as f:
+                  json.dump(data, f, indent=2)
           PY
           }
 
           save_source() {
             local site="$1"
-
+            clear_failure "$site"
             git -C epg-storage add -- \
               "work/guides/${site}.xml" \
-              work/progress.json
-
+              work/progress.json \
+              work/failures.json \
+              work/failed-sources.csv
             if ! git -C epg-storage diff --cached --quiet; then
-              git -C epg-storage commit \
-                -m "Save completed EPG source: ${site}"
-
+              git -C epg-storage commit -m "Save completed EPG source: ${site}"
               git -C epg-storage push origin HEAD:epg-data
             fi
           }
 
           IFS=',' read -ra SITE_LIST <<< "$SITES"
-
-          # Reserve 7 minutes for finalization and saving.
           DEADLINE=$((SECONDS + 48 * 60))
 
-          STOPPED=0
-
           for site in "${SITE_LIST[@]}"; do
-
             FILE="epg-storage/work/guides/${site}.xml"
-
-            echo "================================"
+            echo '================================'
             echo "Source: $site"
 
-            # Skip already completed sources.
             if [ -s "$FILE" ] && is_valid_xml "$FILE"; then
               echo "Already completed: $site"
+              save_source "$site"
               continue
             fi
 
-            # Check remaining execution time.
-            REMAINING=$((DEADLINE - SECONDS))
+            STATUS="$(site_status "$site")"
+            if [ "$STATUS" = 'permanent' ]; then
+              echo "Permanently failed; skipping: $site"
+              continue
+            elif [ "$STATUS" = 'cooldown' ]; then
+              echo "Retry cooldown active; skipping until next eligible run: $site"
+              continue
+            fi
 
+            REMAINING=$((DEADLINE - SECONDS))
             if [ "$REMAINING" -lt 120 ]; then
-              echo "Time limit approaching."
-              echo "Will continue with $site next hour."
-              STOPPED=1
+              echo "Time limit approaching. Remaining sources will continue next hour."
               break
             fi
 
-            # Remove only the incomplete current source.
+            AVAILABLE=$((REMAINING - 120))
+            SOURCE_TIMEOUT=$((AVAILABLE < SITE_TIMEOUT ? AVAILABLE : SITE_TIMEOUT))
             rm -f "$FILE"
 
-            echo "Downloading: $site"
-
-            if timeout --signal=TERM "${REMAINING}s" \
+            echo "Downloading: $site (timeout: $((SOURCE_TIMEOUT / 60)) minutes)"
+            timeout --signal=TERM --kill-after=30s "${SOURCE_TIMEOUT}s" \
               npm run grab -- \
                 --sites="$site" \
-                --output="epg-storage/work/guides/{site}.xml"; then
+                --output="epg-storage/work/guides/{site}.xml"
+            RESULT=$?
 
+            if [ "$RESULT" -eq 0 ]; then
               if [ -s "$FILE" ] && is_valid_xml "$FILE"; then
-
                 echo "SUCCESS: $site"
-
-                # Save immediately to epg-data.
                 save_source "$site"
-
               else
-                echo "Incomplete or invalid XML: $site"
+                echo "FAILED: invalid or incomplete XML: $site"
                 rm -f "$FILE"
-                STOPPED=1
-                break
+                record_failure "$site" "Invalid or incomplete XML"
               fi
-
             else
-              echo "Download stopped or failed: $site"
               rm -f "$FILE"
-              STOPPED=1
-              break
+              if [ "$RESULT" -eq 124 ] || [ "$RESULT" -eq 137 ]; then
+                REASON="Download timed out after $((SOURCE_TIMEOUT / 60)) minutes"
+              else
+                REASON="EPG grab exited with code $RESULT"
+              fi
+              echo "FAILED: $site - $REASON"
+              record_failure "$site" "$REASON"
             fi
-
           done
 
-          # Check whether every source in the current batch is ready.
-          ALL_COMPLETE=1
-
+          # A batch is resolved when each source has valid XML or has reached
+          # the permanent-failure limit. Temporary failures remain for retry.
+          ALL_RESOLVED=1
           for site in "${SITE_LIST[@]}"; do
             FILE="epg-storage/work/guides/${site}.xml"
-
-            if [ ! -s "$FILE" ] || ! is_valid_xml "$FILE"; then
-              ALL_COMPLETE=0
+            if [ -s "$FILE" ] && is_valid_xml "$FILE"; then
+              continue
+            fi
+            STATUS="$(site_status "$site")"
+            if [ "$STATUS" != 'permanent' ]; then
+              ALL_RESOLVED=0
               break
             fi
           done
 
-          if [ "$ALL_COMPLETE" -eq 1 ]; then
-            echo "All five sources are complete."
-            echo "batch_complete=true" >> "$GITHUB_OUTPUT"
+          if [ "$ALL_RESOLVED" -eq 1 ]; then
+            echo 'All sources in this batch are completed or permanently failed.'
+            echo 'batch_complete=true' >> "$GITHUB_OUTPUT"
           else
-            echo "Some sources remain unfinished."
-            echo "They will continue next hour."
-            echo "batch_complete=false" >> "$GITHUB_OUTPUT"
+            echo 'Some sources are waiting for another retry.'
+            echo 'batch_complete=false' >> "$GITHUB_OUTPUT"
           fi
 
       # 8. Combine all completed EPG files
@@ -301,52 +362,28 @@ jobs:
           import glob
           import xml.etree.ElementTree as ET
 
-          os.makedirs("public", exist_ok=True)
-
-          files = sorted(
-              glob.glob("epg-storage/work/guides/*.xml")
-          )
-
-          if not files:
-              raise SystemExit("No EPG files available.")
-
-          root = ET.Element("tv")
+          os.makedirs('public', exist_ok=True)
+          files = sorted(glob.glob('epg-storage/work/guides/*.xml'))
+          root = ET.Element('tv')
 
           for filename in files:
-              print(f"Combining: {filename}")
-
+              print(f'Combining: {filename}')
               try:
-                  tree = ET.parse(filename)
-                  source = tree.getroot()
-
-                  if source.tag != "tv":
-                      raise ValueError(
-                          f"Unexpected XML root: {filename}"
-                      )
-
+                  source = ET.parse(filename).getroot()
+                  if source.tag != 'tv':
+                      raise ValueError(f'Unexpected XML root: {filename}')
                   if not root.attrib:
                       root.attrib.update(source.attrib)
-
                   root.extend(list(source))
-
               except Exception as e:
-                  raise SystemExit(
-                      f"Failed to process {filename}: {e}"
-                  )
+                  raise SystemExit(f'Failed to process {filename}: {e}')
 
-          output = "public/guide.xml"
-
-          ET.ElementTree(root).write(
-              output,
-              encoding="utf-8",
-              xml_declaration=True
-          )
-
-          if os.path.getsize(output) == 0:
-              raise SystemExit("Combined guide.xml is empty.")
-
-          print(f"Total files: {len(files)}")
-          print(f"Guide size: {os.path.getsize(output)} bytes")
+          output = 'public/guide.xml'
+          ET.ElementTree(root).write(output, encoding='utf-8', xml_declaration=True)
+          print(f'Total EPG files combined: {len(files)}')
+          print(f'Guide size: {os.path.getsize(output)} bytes')
+          if not files:
+              print('WARNING: No successful EPG sources exist; generated an empty TV XML guide.')
 
       # 9. Configure GitHub Pages
       - name: Configure GitHub Pages
@@ -372,7 +409,7 @@ jobs:
           steps.download.outputs.batch_complete == 'true'
         uses: actions/deploy-pages@v4
 
-      # 12. Update progress after successful deployment
+      # 12. Update EPG progress after successful deployment
       - name: Update EPG progress
         id: progress
         if: steps.deploy.outcome == 'success'
@@ -384,42 +421,30 @@ jobs:
         run: |
           import os
           import json
-
           state = {
-              "signature": os.environ["SIGNATURE"],
-              "index": int(os.environ["NEXT_INDEX"]),
-              "complete": os.environ["COMPLETE"] == "true"
+              'signature': os.environ['SIGNATURE'],
+              'index': int(os.environ['NEXT_INDEX']),
+              'complete': os.environ['COMPLETE'] == 'true'
           }
-
-          with open(
-              "epg-storage/work/progress.json",
-              "w",
-              encoding="utf-8"
-          ) as f:
+          with open('epg-storage/work/progress.json', 'w', encoding='utf-8') as f:
               json.dump(state, f, indent=2)
-
-          print("EPG progress successfully updated.")
+          print('EPG progress successfully updated.')
           print(f"Next index: {state['index']}")
-          print(f"All sources completed: {state['complete']}")
+          print(f"All sources processed: {state['complete']}")
 
-      # 13. Save progress to storage branch
+      # 13. Save progress and retry state to storage branch
       - name: Save EPG progress
         if: steps.progress.outcome == 'success'
         shell: bash
         run: |
           set -e
-
           cd epg-storage
-
           git config user.name "github-actions[bot]"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
-
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add work/
-
           if git diff --cached --quiet; then
-            echo "No storage changes to save."
+            echo 'No storage changes to save.'
           else
-            git commit -m "Update EPG download progress"
+            git commit -m 'Update EPG download progress and retry state'
             git push origin HEAD:epg-data
           fi
