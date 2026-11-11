@@ -91,9 +91,9 @@ jobs:
           if not sites:
               raise SystemExit("No active EPG sources found.")
 
-          os.makedirs("work/guides", exist_ok=True)
+          os.makedirs("epg-storage/work/guides", exist_ok=True)
 
-          state_file = "work/progress.json"
+          state_file = "epg-storage/work/progress.json"
 
           signature = hashlib.sha256(
               ",".join(sites).encode()
