@@ -25,6 +25,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Checkout EPG storage branch
+        uses: actions/checkout@v4
+        with:
+          ref: epg-data
+          path: epg-storage
+
       # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
