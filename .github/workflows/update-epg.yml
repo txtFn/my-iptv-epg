@@ -114,7 +114,7 @@ jobs:
               else:
                   print("Active site list changed. Starting a new cycle.")
                   shutil.rmtree("epg-storage/work/guides")
-                  os.makedirs("work/guides", exist_ok=True)
+                  os.makedirs("epg-storage/work/guides", exist_ok=True)
 
           if state.get("complete"):
               print("All active EPG sources have been processed.")
