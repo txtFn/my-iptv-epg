@@ -109,12 +109,16 @@ jobs:
                   os.makedirs("epg-storage/work/guides", exist_ok=True)
 
           if state.get("complete"):
-              print("All active EPG sources have been processed.")
+              print("Previous cycle completed. Starting a new cycle.")
 
-              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                  f.write("skip=true\n")
+              shutil.rmtree("epg-storage/work/guides", ignore_errors=True)
+              os.makedirs("epg-storage/work/guides", exist_ok=True)
 
-              raise SystemExit(0)
+              state = {
+                  "signature": signature,
+                  "index": 0,
+                  "complete": False
+              }
 
           batch_size = 5
           index = state["index"]
