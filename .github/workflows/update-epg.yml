@@ -3,7 +3,8 @@ name: Update IPTV EPG
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '17 * * * *'
+      timezone: 'Asia/Manila'
   workflow_dispatch:
 
 permissions:
