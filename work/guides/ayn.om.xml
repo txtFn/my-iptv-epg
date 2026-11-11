@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261111">
+<channel id="OmanTV.om"><display-name>قناة عمان العامة</display-name><icon src="https://i.imgur.com/rBftT9x.png"/></channel>
+<channel id="OmanSportsTV.om"><display-name>قناة عمان الرياضية</display-name><icon src="https://i.imgur.com/1omi7p8.png"/></channel>
+<channel id="OmanTVCultural.om"><display-name>قناة عمان الثقافية</display-name><icon src="https://i.imgur.com/b38wNPK.png"/></channel>
+<channel id="OmanTVMubashir.om"><display-name>قناة عمان مباشر</display-name><icon src="https://i.imgur.com/UkQTR5b.png"/></channel>
+<programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="OmanSportsTV.om"><title lang="ar">لا يوجد جدول</title></programme>
+<programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="OmanSportsTV.om"><title lang="ar">الحدث - S2 - 2026 - الحلقة 38</title></programme>
+<programme start="20261110220000 +0000" stop="20261110235000 +0000" channel="OmanSportsTV.om"><title lang="ar">النصر × ظفار - كأس جلالة السلطان 2024 - 2025 - إياب دور الــ 8</title></programme>
+<programme start="20261110235000 +0000" stop="20261111020000 +0000" channel="OmanSportsTV.om"><title lang="ar">دوري الامم لكرة الطائرة 2020 - الحلقة 65</title></programme>
+<programme start="20261111020000 +0000" stop="20261111035000 +0000" channel="OmanSportsTV.om"><title lang="ar">دوري جندال للموسم الرياضي 2026 - 2027</title></programme>
+<programme start="20261111035000 +0000" stop="20261111053000 +0000" channel="OmanSportsTV.om"><title lang="ar">دورة ألعاب التضامن الأسلامي</title></programme>
+<programme start="20261111053000 +0000" stop="20261111073000 +0000" channel="OmanSportsTV.om"><title lang="ar">دوري جندال لكرة القدم 2026 - 2027 - الحلقة 24</title></programme>
+<programme start="20261111073000 +0000" stop="20261111080000 +0000" channel="OmanSportsTV.om"><title lang="ar">تايلند × ناميبيا - كأس العالم لخماسيات الهوكي - مسقط 2024</title></programme>
+<programme start="20261111080000 +0000" stop="20261111090000 +0000" channel="OmanSportsTV.om"><title lang="ar">الحدث - S2 - 2026 - الحلقة 39</title></programme>
+<programme start="20261111090000 +0000" stop="20261111110000 +0000" channel="OmanSportsTV.om"><title lang="ar">البطولة العربية الــ24 للكرة الطائرة - الأردن 2026</title></programme>
+<programme start="20261111110000 +0000" stop="20261111112000 +0000" channel="OmanSportsTV.om"><title lang="ar">النشرة الرياضية</title></programme>
+<programme start="20261111112000 +0000" stop="20261111123000 +0000" channel="OmanSportsTV.om"><title lang="ar">دورة الألعاب الشاطئية الثالثة - مسقط 2025 - الحلقة 10</title></programme>
+<programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="OmanSportsTV.om"><title lang="ar">الأستوديو التحليلي 2026 - 2027 - الحلقة 21</title></programme>
+<programme start="20261111130000 +0000" stop="20261111134500 +0000" channel="OmanSportsTV.om"><title lang="ar">تصفيات كأس آسيا للناشئين لكرة القدم - صلالة 2026 - الحلقة 3</title></programme>
+<programme start="20261111134500 +0000" stop="20261111140000 +0000" channel="OmanSportsTV.om"><title lang="ar">الأستوديو التحليلي 2026 - 2027 - الحلقة 21</title></programme>
+<programme start="20261111140000 +0000" stop="20261111145000 +0000" channel="OmanSportsTV.om"><title lang="ar">تصفيات كأس آسيا للناشئين لكرة القدم - صلالة 2026 - الحلقة 3</title></programme>
+<programme start="20261111145000 +0000" stop="20261111155500 +0000" channel="OmanSportsTV.om"><title lang="ar">الأستوديو التحليلي 2026 - 2027 - الحلقة 21</title></programme>
+<programme start="20261111155500 +0000" stop="20261111170000 +0000" channel="OmanSportsTV.om"><title lang="ar">تصفيات كأس آسيا للناشئين لكرة القدم - صلالة 2026 - الحلقة 4</title></programme>
+<programme start="20261111170000 +0000" stop="20261111175000 +0000" channel="OmanSportsTV.om"><title lang="ar">تصفيات كأس آسيا للناشئين لكرة القدم - صلالة 2026 - الحلقة 4</title></programme>
+<programme start="20261111175000 +0000" stop="20261111190000 +0000" channel="OmanSportsTV.om"><title lang="ar">///</title></programme>
+<programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="OmanSportsTV.om"><title lang="ar">تصفيات كأس آسيا للناشئين لكرة القدم - صلالة 2026 - الحلقة 1</title></programme>
+<programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="OmanSportsTV.om"><title lang="ar">تصفيات كأس آسيا للناشئين لكرة القدم - صلالة 2026 - الحلقة 1</title></programme>
+<programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="OmanSportsTV.om"><title lang="ar">الحدث - S2 - 2026 - الحلقة 39</title></programme>
+<programme start="20261111220000 +0000" stop="20261111235000 +0000" channel="OmanSportsTV.om"><title lang="ar">صحار × الشباب - كأس جلالة السلطان 2024 - 2025 - إياب دور الــ 8</title></programme>
+<programme start="20261111235000 +0000" stop="20261112020000 +0000" channel="OmanSportsTV.om"><title lang="ar">دوري الامم لكرة الطائرة 2020 - الحلقة 66</title></programme>
+<programme start="20261112020000 +0000" stop="20261112035000 +0000" channel="OmanSportsTV.om"><title lang="ar">دوري جندال للموسم الرياضي 2026 - 2027 - الحلقة 1</title></programme>
+<programme start="20261112035000 +0000" stop="20261112053000 +0000" channel="OmanSportsTV.om"><title lang="ar">دورة ألعاب التضامن الأسلامي</title></programme>
+<programme start="20261112053000 +0000" stop="20261112073000 +0000" channel="OmanSportsTV.om"><title lang="ar">دوري جندال لكرة القدم 2026 - 2027 - الحلقة 25</title></programme>
+<programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="OmanSportsTV.om"><title lang="ar">عمان × أستراليا - كأس العالم لخماسيات الهوكي - مسقط 2024</title></programme>
+<programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="OmanSportsTV.om"><title lang="ar">الحدث - S2 - 2026 - الحلقة 40</title></programme>
+<programme start="20261112090000 +0000" stop="20261112102200 +0000" channel="OmanSportsTV.om"><title lang="ar">البطولة العربية الــ24 للكرة الطائرة - الأردن 2026</title></programme>
+<programme start="20261112102200 +0000" stop="20261112110000 +0000" channel="OmanSportsTV.om"><title lang="ar">دورة ألعاب التضامن الاسلامي</title></programme>
+<programme start="20261112110000 +0000" stop="20261112112000 +0000" channel="OmanSportsTV.om"><title lang="ar">النشرة الرياضية</title></programme>
+<programme start="20261112112000 +0000" stop="20261112125000 +0000" channel="OmanSportsTV.om"><title lang="ar">نهائي كأس السوبر لكرة اليد ـ إعــــــادة</title></programme>
+<programme start="20261112125000 +0000" stop="20261112131000 +0000" channel="OmanSportsTV.om"><title lang="ar">الختـــــام</title></programme>
+<programme start="20261112131000 +0000" stop="20261112140000 +0000" channel="OmanSportsTV.om"><title lang="ar">دورة الألعاب الشاطئية الثالثة - مسقط 2025 - الحلقة 11</title></programme>
+<programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="OmanSportsTV.om"><title lang="ar">الحدث - S2 - 2026 - الحلقة 40</title></programme>
+<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="OmanSportsTV.om"><title lang="ar">دوري جندال للموسم الرياضي 2026 - 2027 - الحلقة 2</title></programme>
+<programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="OmanSportsTV.om"><title lang="ar">بطولة آسيا للرجال للكرة الطائرة ـ اليابان 2026 - الحلقة 15</title></programme>
+<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="OmanSportsTV.om"><title lang="ar">تصفيات كأس آسيا للناشئين لكرة القدم - صلالة 2026 - الحلقة 3</title></programme>
+<programme start="20261110200000 +0000" stop="20261110201000 +0000" channel="OmanTV.om"><title lang="ar">لا يوجد جدول</title></programme>
+<programme start="20261110201000 +0000" stop="20261110210000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج1 - الحلقة 10</title></programme>
+<programme start="20261110210000 +0000" stop="20261110213000 +0000" channel="OmanTV.om"><title lang="ar">أخبار الواحدة</title></programme>
+<programme start="20261110213000 +0000" stop="20261110215000 +0000" channel="OmanTV.om"><title lang="ar">برنامج/متون</title></programme>
+<programme start="20261110215000 +0000" stop="20261110222000 +0000" channel="OmanTV.om"><title lang="ar">كنا هنا</title></programme>
+<programme start="20261110222000 +0000" stop="20261110230000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 11</title></programme>
+<programme start="20261110230000 +0000" stop="20261110235000 +0000" channel="OmanTV.om"><title lang="ar">قهوة الصباح</title></programme>
+<programme start="20261110235000 +0000" stop="20261111003000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 14</title></programme>
+<programme start="20261111003000 +0000" stop="20261111004000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - خير يبقى</title></programme>
+<programme start="20261111004000 +0000" stop="20261111005000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261111005000 +0000" stop="20261111010000 +0000" channel="OmanTV.om"><title lang="ar">برنامج محاسن الإسلام - الموسم الثاني</title></programme>
+<programme start="20261111010000 +0000" stop="20261111010600 +0000" channel="OmanTV.om"><title lang="ar">أذان الفجر</title></programme>
+<programme start="20261111010600 +0000" stop="20261111024500 +0000" channel="OmanTV.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261111024500 +0000" stop="20261111032000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 1</title></programme>
+<programme start="20261111032000 +0000" stop="20261111040000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 11</title></programme>
+<programme start="20261111040000 +0000" stop="20261111041500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 23</title></programme>
+<programme start="20261111041500 +0000" stop="20261111043000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261111043000 +0000" stop="20261111044500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261111044500 +0000" stop="20261111052500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 14</title></programme>
+<programme start="20261111052500 +0000" stop="20261111053000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261111053000 +0000" stop="20261111065500 +0000" channel="OmanTV.om"><title lang="ar">برنامج قهوة الصباح 2026 - الحلقة 159</title></programme>
+<programme start="20261111065500 +0000" stop="20261111073000 +0000" channel="OmanTV.om"><title lang="ar">أخبار الحادية عشر</title></programme>
+<programme start="20261111073000 +0000" stop="20261111081000 +0000" channel="OmanTV.om"><title lang="ar">نظر عيني - الحلقة 7</title></programme>
+<programme start="20261111081000 +0000" stop="20261111081500 +0000" channel="OmanTV.om"><title lang="ar">اذان الظهر</title></programme>
+<programme start="20261111081500 +0000" stop="20261111090500 +0000" channel="OmanTV.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261111090500 +0000" stop="20261111093000 +0000" channel="OmanTV.om"><title lang="ar">مسار/اما بعد</title></programme>
+<programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="OmanTV.om"><title lang="ar">أفنان</title></programme>
+<programme start="20261111100000 +0000" stop="20261111103500 +0000" channel="OmanTV.om"><title lang="ar">أخبار الثانية</title></programme>
+<programme start="20261111103500 +0000" stop="20261111111500 +0000" channel="OmanTV.om"><title lang="ar">HUDSON AND REX - المسلسل الاجنبي</title></programme>
+<programme start="20261111111500 +0000" stop="20261111112000 +0000" channel="OmanTV.om"><title lang="ar">أذان العصر</title></programme>
+<programme start="20261111112000 +0000" stop="20261111114500 +0000" channel="OmanTV.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 1</title></programme>
+<programme start="20261111114500 +0000" stop="20261111120000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 24</title></programme>
+<programme start="20261111120000 +0000" stop="20261111121500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261111121500 +0000" stop="20261111123000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكارتوني ماركو بولو : الجزء الثاني</title></programme>
+<programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261111130000 +0000" stop="20261111134500 +0000" channel="OmanTV.om"><title lang="ar">أخبار عمان</title></programme>
+<programme start="20261111134500 +0000" stop="20261111135000 +0000" channel="OmanTV.om"><title lang="ar">اذان المغرب ينوه</title></programme>
+<programme start="20261111135000 +0000" stop="20261111143000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 12</title></programme>
+<programme start="20261111143000 +0000" stop="20261111144000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261111144000 +0000" stop="20261111144500 +0000" channel="OmanTV.om"><title lang="ar">اذان العشاء</title></programme>
+<programme start="20261111144500 +0000" stop="20261111150000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261111150000 +0000" stop="20261111153000 +0000" channel="OmanTV.om"><title lang="ar">أخبار اللغة الانجليزية</title></programme>
+<programme start="20261111153000 +0000" stop="20261111161500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 15</title></programme>
+<programme start="20261111161500 +0000" stop="20261111163000 +0000" channel="OmanTV.om"><title lang="ar">لكل بلد</title></programme>
+<programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="OmanTV.om"><title lang="ar">سكنى</title></programme>
+<programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - من عمان 2026</title></programme>
+<programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="OmanTV.om"><title lang="ar">أخبار العاشرة</title></programme>
+<programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="OmanTV.om"><title lang="ar">مسار/اما بعد</title></programme>
+<programme start="20261111193000 +0000" stop="20261111203000 +0000" channel="OmanTV.om"><title lang="ar">نظر عيني - الحلقة 7</title></programme>
+<programme start="20261111200000 +0000" stop="20261111201000 +0000" channel="OmanTV.om"><title lang="ar">نظر عيني - الحلقة 7</title></programme>
+<programme start="20261111201000 +0000" stop="20261111210000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 1</title></programme>
+<programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="OmanTV.om"><title lang="ar">أخبار الواحدة</title></programme>
+<programme start="20261111213000 +0000" stop="20261111222000 +0000" channel="OmanTV.om"><title lang="ar">بادر</title></programme>
+<programme start="20261111222000 +0000" stop="20261111230000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 12</title></programme>
+<programme start="20261111230000 +0000" stop="20261111235000 +0000" channel="OmanTV.om"><title lang="ar">قهوة الصباح</title></programme>
+<programme start="20261111235000 +0000" stop="20261112003000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 15</title></programme>
+<programme start="20261112003000 +0000" stop="20261112004000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - خير يبقى</title></programme>
+<programme start="20261112004000 +0000" stop="20261112005000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261112005000 +0000" stop="20261112010000 +0000" channel="OmanTV.om"><title lang="ar">برنامج محاسن الإسلام - الموسم الثاني</title></programme>
+<programme start="20261112010000 +0000" stop="20261112010600 +0000" channel="OmanTV.om"><title lang="ar">أذان الفجر</title></programme>
+<programme start="20261112010600 +0000" stop="20261112024500 +0000" channel="OmanTV.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261112024500 +0000" stop="20261112032000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 2</title></programme>
+<programme start="20261112032000 +0000" stop="20261112040000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 12</title></programme>
+<programme start="20261112040000 +0000" stop="20261112041500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 24</title></programme>
+<programme start="20261112041500 +0000" stop="20261112043000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261112043000 +0000" stop="20261112044500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261112044500 +0000" stop="20261112052500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 15</title></programme>
+<programme start="20261112052500 +0000" stop="20261112053000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261112053000 +0000" stop="20261112065500 +0000" channel="OmanTV.om"><title lang="ar">برنامج قهوة الصباح 2026 - الحلقة 160</title></programme>
+<programme start="20261112065500 +0000" stop="20261112073000 +0000" channel="OmanTV.om"><title lang="ar">أخبار الحادية عشر</title></programme>
+<programme start="20261112073000 +0000" stop="20261112081000 +0000" channel="OmanTV.om"><title lang="ar">نظر عيني - الحلقة 8</title></programme>
+<programme start="20261112081000 +0000" stop="20261112081500 +0000" channel="OmanTV.om"><title lang="ar">اذان الظهر</title></programme>
+<programme start="20261112081500 +0000" stop="20261112090500 +0000" channel="OmanTV.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261112090500 +0000" stop="20261112093000 +0000" channel="OmanTV.om"><title lang="ar">من كل بلد حكاية</title></programme>
+<programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="OmanTV.om"><title lang="ar">سكنى</title></programme>
+<programme start="20261112100000 +0000" stop="20261112103500 +0000" channel="OmanTV.om"><title lang="ar">أخبار الثانية</title></programme>
+<programme start="20261112103500 +0000" stop="20261112111500 +0000" channel="OmanTV.om"><title lang="ar">HUDSON AND REX - المسلسل الاجنبي</title></programme>
+<programme start="20261112111500 +0000" stop="20261112112000 +0000" channel="OmanTV.om"><title lang="ar">أذان العصر</title></programme>
+<programme start="20261112112000 +0000" stop="20261112114500 +0000" channel="OmanTV.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 2</title></programme>
+<programme start="20261112114500 +0000" stop="20261112120000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 25</title></programme>
+<programme start="20261112120000 +0000" stop="20261112121500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261112121500 +0000" stop="20261112123000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكارتوني ماركو بولو : الجزء الثاني</title></programme>
+<programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261112130000 +0000" stop="20261112134500 +0000" channel="OmanTV.om"><title lang="ar">أخبار عمان</title></programme>
+<programme start="20261112134500 +0000" stop="20261112135000 +0000" channel="OmanTV.om"><title lang="ar">اذان المغرب ينوه</title></programme>
+<programme start="20261112135000 +0000" stop="20261112143000 +0000" channel="OmanTV.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 13</title></programme>
+<programme start="20261112143000 +0000" stop="20261112144000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261112144000 +0000" stop="20261112144500 +0000" channel="OmanTV.om"><title lang="ar">اذان العشاء</title></programme>
+<programme start="20261112144500 +0000" stop="20261112150000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="OmanTV.om"><title lang="ar">أخبار اللغة الانجليزية</title></programme>
+<programme start="20261112153000 +0000" stop="20261112161500 +0000" channel="OmanTV.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 1</title></programme>
+<programme start="20261112161500 +0000" stop="20261112170000 +0000" channel="OmanTV.om"><title lang="ar">بادر</title></programme>
+<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="OmanTV.om"><title lang="ar">برنامج - من عمان 2026</title></programme>
+<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="OmanTV.om"><title lang="ar">أخبار العاشرة</title></programme>
+<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="OmanTV.om"><title lang="ar">أفنان</title></programme>
+<programme start="20261112193000 +0000" stop="20261112203000 +0000" channel="OmanTV.om"><title lang="ar">نظر عيني - الحلقة 8</title></programme>
+<programme start="20261110200000 +0000" stop="20261110201500 +0000" channel="OmanTVCultural.om"><title lang="ar">لا يوجد جدول</title></programme>
+<programme start="20261110201500 +0000" stop="20261110204000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي طرقات وعرة - الحلقة 1</title></programme>
+<programme start="20261110204000 +0000" stop="20261110210000 +0000" channel="OmanTVCultural.om"><title lang="ar">لا يوجد جدول</title></programme>
+<programme start="20261110210000 +0000" stop="20261110211500 +0000" channel="OmanTVCultural.om"><title lang="ar">R1 أخبار الثقافة</title></programme>
+<programme start="20261110211500 +0000" stop="20261110212000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج _ روائع من اليابان - الحلقة 111</title></programme>
+<programme start="20261110212000 +0000" stop="20261110221000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي _ عشاق السفر - الحلقة 1</title></programme>
+<programme start="20261110221000 +0000" stop="20261110230000 +0000" channel="OmanTVCultural.om"><title lang="ar">الاوركسترا السمفونية السلطانية العمانية</title></programme>
+<programme start="20261110230000 +0000" stop="20261110233000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج افريقيا قارة المستقبل</title></programme>
+<programme start="20261110233000 +0000" stop="20261111002000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - أفضل الأسواق على الأرض - الحلقة 7</title></programme>
+<programme start="20261111002000 +0000" stop="20261111012000 +0000" channel="OmanTVCultural.om"><title lang="ar">جلسات أيام بيت الزبير للسرد - 2023 - الحلقة 7</title></programme>
+<programme start="20261111012000 +0000" stop="20261111014000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رفاق البيئة - الحلقة 12</title></programme>
+<programme start="20261111014000 +0000" stop="20261111022500 +0000" channel="OmanTVCultural.om"><title lang="ar">بحيرات وجبال - الحلقة 2</title></programme>
+<programme start="20261111022500 +0000" stop="20261111025500 +0000" channel="OmanTVCultural.om"><title lang="ar">سبحانك ربي - الحلقة 12</title></programme>
+<programme start="20261111025500 +0000" stop="20261111031000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - حارات</title></programme>
+<programme start="20261111031000 +0000" stop="20261111033500 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - من عبق اللغة - الحلقة 29</title></programme>
+<programme start="20261111033500 +0000" stop="20261111040000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - عالمنا الاخضر - الحلقة 12</title></programme>
+<programme start="20261111040000 +0000" stop="20261111042500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - الوصول الى النجوم - الحلقة 10</title></programme>
+<programme start="20261111042500 +0000" stop="20261111043000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - فيتامينات</title></programme>
+<programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - الفضاء الشاسع - الحلقة 12</title></programme>
+<programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج _ رحلة المخطوط العربي _ج2 - الحلقة 12</title></programme>
+<programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="OmanTVCultural.om"><title lang="ar">فيلم - مدينة مليانة - عمارة الحضارة</title></programme>
+<programme start="20261111060000 +0000" stop="20261111065000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي المستقبل الحلم - الحلقة 6</title></programme>
+<programme start="20261111065000 +0000" stop="20261111070000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - إرث حضارة</title></programme>
+<programme start="20261111070000 +0000" stop="20261111073000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - أعلام الشعر المعاصر</title></programme>
+<programme start="20261111073000 +0000" stop="20261111080000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - كنوز الصحراء - الحلقة 14</title></programme>
+<programme start="20261111080000 +0000" stop="20261111083000 +0000" channel="OmanTVCultural.om"><title lang="ar">الزراعة من اجل الكوكب</title></programme>
+<programme start="20261111083000 +0000" stop="20261111090000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج الثقافي - أسرار الحياة والكون - الحلقة 5</title></programme>
+<programme start="20261111090000 +0000" stop="20261111093000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - المسافر - الحلقة 13</title></programme>
+<programme start="20261111093000 +0000" stop="20261111095500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رحلة الاستكشاف</title></programme>
+<programme start="20261111095500 +0000" stop="20261111100000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - كنوز من الموسوعة العمانية</title></programme>
+<programme start="20261111100000 +0000" stop="20261111101500 +0000" channel="OmanTVCultural.om"><title lang="ar">R2 أخبار الثقافة</title></programme>
+<programme start="20261111101500 +0000" stop="20261111103000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي مقاهي عتيقة - الحلقة 12</title></programme>
+<programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الوثائقي - عالم الأفلام - الحلقة 42</title></programme>
+<programme start="20261111110000 +0000" stop="20261111113000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - المناخ والطبيعة - الحلقة 3</title></programme>
+<programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - اماكن خلابة - الحلقة 4</title></programme>
+<programme start="20261111120000 +0000" stop="20261111124500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - أعلام الشعر المعاصر</title></programme>
+<programme start="20261111124500 +0000" stop="20261111125000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج _ روائع من اليابان - الحلقة 41</title></programme>
+<programme start="20261111125000 +0000" stop="20261111132000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - مآثر - الحلقة 12</title></programme>
+<programme start="20261111132000 +0000" stop="20261111135000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رحلة الاستكشاف</title></programme>
+<programme start="20261111135000 +0000" stop="20261111142000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رحلات جيولوجية - الحلقة 7</title></programme>
+<programme start="20261111142000 +0000" stop="20261111144500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي عالم المعرفة</title></programme>
+<programme start="20261111144500 +0000" stop="20261111151500 +0000" channel="OmanTVCultural.om"><title lang="ar">بحيرات وجبال - الحلقة 2</title></programme>
+<programme start="20261111151500 +0000" stop="20261111154500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - الفضاء الشاسع - الحلقة 3</title></programme>
+<programme start="20261111154500 +0000" stop="20261111160000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج ثقافي - صنعة - الحلقة 3</title></programme>
+<programme start="20261111160000 +0000" stop="20261111161500 +0000" channel="OmanTVCultural.om"><title lang="ar">أخبار الثقافة مباشر</title></programme>
+<programme start="20261111161500 +0000" stop="20261111163000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - زيوت عطرية</title></programme>
+<programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - الزامل</title></programme>
+<programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - خانة الذكريات - الحلقة 6</title></programme>
+<programme start="20261111180000 +0000" stop="20261111185000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - اختراعات عظيمة - الحلقة 9</title></programme>
+<programme start="20261111185000 +0000" stop="20261111190000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - بوصلة</title></programme>
+<programme start="20261111190000 +0000" stop="20261111194500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - أهل الأدب</title></programme>
+<programme start="20261111194500 +0000" stop="20261111204500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي أرض ونار - تطور فن الطبخ - الحلقة 12</title></programme>
+<programme start="20261111200000 +0000" stop="20261111201500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي أرض ونار - تطور فن الطبخ - الحلقة 12</title></programme>
+<programme start="20261111201500 +0000" stop="20261111204000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي طرقات وعرة - الحلقة 2</title></programme>
+<programme start="20261111204000 +0000" stop="20261111205500 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج وثائقي - حكاية أغنية - الحلقة 8</title></programme>
+<programme start="20261111205500 +0000" stop="20261111210000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - هل تعلم ج2 - الحلقة 44</title></programme>
+<programme start="20261111210000 +0000" stop="20261111211500 +0000" channel="OmanTVCultural.om"><title lang="ar">R1 أخبار الثقافة</title></programme>
+<programme start="20261111211500 +0000" stop="20261111212000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج _ روائع من اليابان - الحلقة 112</title></programme>
+<programme start="20261111212000 +0000" stop="20261111221000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي _ عشاق السفر - الحلقة 2</title></programme>
+<programme start="20261111221000 +0000" stop="20261111230000 +0000" channel="OmanTVCultural.om"><title lang="ar">الاوركسترا السمفونية السلطانية العمانية</title></programme>
+<programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="OmanTVCultural.om"/>
+<programme start="20261111233000 +0000" stop="20261111235500 +0000" channel="OmanTVCultural.om"/>
+<programme start="20261111235500 +0000" stop="20261112002000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي داخل العقل - الحلقة 15</title></programme>
+<programme start="20261112002000 +0000" stop="20261112012000 +0000" channel="OmanTVCultural.om"><title lang="ar">جلسات أيام بيت الزبير للسرد - 2023 - الحلقة 2</title></programme>
+<programme start="20261112012000 +0000" stop="20261112014000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رفاق البيئة - الحلقة 13</title></programme>
+<programme start="20261112014000 +0000" stop="20261112022500 +0000" channel="OmanTVCultural.om"><title lang="ar">بحيرات وجبال - الحلقة 3</title></programme>
+<programme start="20261112022500 +0000" stop="20261112025500 +0000" channel="OmanTVCultural.om"><title lang="ar">سبحانك ربي - الحلقة 13</title></programme>
+<programme start="20261112025500 +0000" stop="20261112031000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - حارات</title></programme>
+<programme start="20261112031000 +0000" stop="20261112033500 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - من عبق اللغة - الحلقة 30</title></programme>
+<programme start="20261112033500 +0000" stop="20261112040000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - عالمنا الاخضر - الحلقة 13</title></programme>
+<programme start="20261112040000 +0000" stop="20261112042500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - الوصول الى النجوم - الحلقة 11</title></programme>
+<programme start="20261112042500 +0000" stop="20261112043000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - فيتامينات</title></programme>
+<programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - الفضاء الشاسع - الحلقة 13</title></programme>
+<programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج _ رحلة المخطوط العربي _ج2 - الحلقة 13</title></programme>
+<programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - شطر الحكاية - ج4</title></programme>
+<programme start="20261112060000 +0000" stop="20261112065000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج محلي - ضفاف</title></programme>
+<programme start="20261112065000 +0000" stop="20261112070000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - إرث حضارة</title></programme>
+<programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - أعلام الشعر المعاصر</title></programme>
+<programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - كنوز الصحراء - الحلقة 15</title></programme>
+<programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="OmanTVCultural.om"><title lang="ar">الزراعة من اجل الكوكب</title></programme>
+<programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج الثقافي - أسرار الحياة والكون - الحلقة 6</title></programme>
+<programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - المسافر - الحلقة 14</title></programme>
+<programme start="20261112093000 +0000" stop="20261112095500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رحلة الاستكشاف</title></programme>
+<programme start="20261112095500 +0000" stop="20261112100000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - كنوز من الموسوعة العمانية</title></programme>
+<programme start="20261112100000 +0000" stop="20261112101500 +0000" channel="OmanTVCultural.om"><title lang="ar">R2 أخبار الثقافة</title></programme>
+<programme start="20261112101500 +0000" stop="20261112103000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي مقاهي عتيقة - الحلقة 13</title></programme>
+<programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الوثائقي - عالم الأفلام - الحلقة 43</title></programme>
+<programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - المناخ والطبيعة - الحلقة 4</title></programme>
+<programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - اماكن خلابة - الحلقة 5</title></programme>
+<programme start="20261112120000 +0000" stop="20261112124500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - أعلام الشعر المعاصر</title></programme>
+<programme start="20261112124500 +0000" stop="20261112125000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج _ روائع من اليابان - الحلقة 42</title></programme>
+<programme start="20261112125000 +0000" stop="20261112132000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - مآثر - الحلقة 13</title></programme>
+<programme start="20261112132000 +0000" stop="20261112135000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رحلة الاستكشاف</title></programme>
+<programme start="20261112135000 +0000" stop="20261112142000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - رحلات جيولوجية - الحلقة 8</title></programme>
+<programme start="20261112142000 +0000" stop="20261112144500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي عالم المعرفة</title></programme>
+<programme start="20261112144500 +0000" stop="20261112151500 +0000" channel="OmanTVCultural.om"><title lang="ar">بحيرات وجبال - الحلقة 3</title></programme>
+<programme start="20261112151500 +0000" stop="20261112154500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - الفضاء الشاسع - الحلقة 4</title></programme>
+<programme start="20261112154500 +0000" stop="20261112160000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج ثقافي - صنعة - الحلقة 4</title></programme>
+<programme start="20261112160000 +0000" stop="20261112161500 +0000" channel="OmanTVCultural.om"><title lang="ar">أخبار الثقافة مباشر</title></programme>
+<programme start="20261112161500 +0000" stop="20261112163000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - زيوت عطرية</title></programme>
+<programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="OmanTVCultural.om"/>
+<programme start="20261112170000 +0000" stop="20261112172500 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج قفزات مذهلة</title></programme>
+<programme start="20261112172500 +0000" stop="20261112180000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - حيوانات غيرت مجرى التاريخ</title></programme>
+<programme start="20261112180000 +0000" stop="20261112185000 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - اختراعات عظيمة - الحلقة 10</title></programme>
+<programme start="20261112185000 +0000" stop="20261112190000 +0000" channel="OmanTVCultural.om"><title lang="ar">برنامج - بوصلة</title></programme>
+<programme start="20261112190000 +0000" stop="20261112194500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي - أهل الأدب</title></programme>
+<programme start="20261112194500 +0000" stop="20261112204500 +0000" channel="OmanTVCultural.om"><title lang="ar">البرنامج الثقافي أرض ونار - تطور فن الطبخ - الحلقة 13</title></programme>
+<programme start="20261110200000 +0000" stop="20261110201000 +0000" channel="OmanTVMubashir.om"><title lang="ar">لا يوجد جدول</title></programme>
+<programme start="20261110201000 +0000" stop="20261110210000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج1 - الحلقة 10</title></programme>
+<programme start="20261110210000 +0000" stop="20261110213000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار الواحدة</title></programme>
+<programme start="20261110213000 +0000" stop="20261110215000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج/متون</title></programme>
+<programme start="20261110215000 +0000" stop="20261110222000 +0000" channel="OmanTVMubashir.om"><title lang="ar">كنا هنا</title></programme>
+<programme start="20261110222000 +0000" stop="20261110230000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 11</title></programme>
+<programme start="20261110230000 +0000" stop="20261110235000 +0000" channel="OmanTVMubashir.om"><title lang="ar">قهوة الصباح</title></programme>
+<programme start="20261110235000 +0000" stop="20261111003000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 14</title></programme>
+<programme start="20261111003000 +0000" stop="20261111004000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - خير يبقى</title></programme>
+<programme start="20261111004000 +0000" stop="20261111005000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261111005000 +0000" stop="20261111010000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج محاسن الإسلام - الموسم الثاني</title></programme>
+<programme start="20261111010000 +0000" stop="20261111010600 +0000" channel="OmanTVMubashir.om"><title lang="ar">أذان الفجر</title></programme>
+<programme start="20261111010600 +0000" stop="20261111024500 +0000" channel="OmanTVMubashir.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261111024500 +0000" stop="20261111032000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 1</title></programme>
+<programme start="20261111032000 +0000" stop="20261111040000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 11</title></programme>
+<programme start="20261111040000 +0000" stop="20261111041500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 23</title></programme>
+<programme start="20261111041500 +0000" stop="20261111043000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261111043000 +0000" stop="20261111044500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261111044500 +0000" stop="20261111052500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 14</title></programme>
+<programme start="20261111052500 +0000" stop="20261111053000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261111053000 +0000" stop="20261111065500 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج قهوة الصباح 2026 - الحلقة 159</title></programme>
+<programme start="20261111065500 +0000" stop="20261111073000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار الحادية عشر</title></programme>
+<programme start="20261111073000 +0000" stop="20261111081000 +0000" channel="OmanTVMubashir.om"><title lang="ar">نظر عيني - الحلقة 7</title></programme>
+<programme start="20261111081000 +0000" stop="20261111081500 +0000" channel="OmanTVMubashir.om"><title lang="ar">اذان الظهر</title></programme>
+<programme start="20261111081500 +0000" stop="20261111090500 +0000" channel="OmanTVMubashir.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261111090500 +0000" stop="20261111093000 +0000" channel="OmanTVMubashir.om"><title lang="ar">مسار/اما بعد</title></programme>
+<programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أفنان</title></programme>
+<programme start="20261111100000 +0000" stop="20261111103500 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار الثانية</title></programme>
+<programme start="20261111103500 +0000" stop="20261111111500 +0000" channel="OmanTVMubashir.om"><title lang="ar">HUDSON AND REX - المسلسل الاجنبي</title></programme>
+<programme start="20261111111500 +0000" stop="20261111112000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أذان العصر</title></programme>
+<programme start="20261111112000 +0000" stop="20261111114500 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 1</title></programme>
+<programme start="20261111114500 +0000" stop="20261111120000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 24</title></programme>
+<programme start="20261111120000 +0000" stop="20261111121500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261111121500 +0000" stop="20261111123000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكارتوني ماركو بولو : الجزء الثاني</title></programme>
+<programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261111130000 +0000" stop="20261111134500 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار عمان</title></programme>
+<programme start="20261111134500 +0000" stop="20261111135000 +0000" channel="OmanTVMubashir.om"><title lang="ar">اذان المغرب ينوه</title></programme>
+<programme start="20261111135000 +0000" stop="20261111143000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 12</title></programme>
+<programme start="20261111143000 +0000" stop="20261111144000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261111144000 +0000" stop="20261111144500 +0000" channel="OmanTVMubashir.om"><title lang="ar">اذان العشاء</title></programme>
+<programme start="20261111144500 +0000" stop="20261111150000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261111150000 +0000" stop="20261111153000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار اللغة الانجليزية</title></programme>
+<programme start="20261111153000 +0000" stop="20261111161500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 15</title></programme>
+<programme start="20261111161500 +0000" stop="20261111163000 +0000" channel="OmanTVMubashir.om"><title lang="ar">لكل بلد</title></programme>
+<programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="OmanTVMubashir.om"><title lang="ar">سكنى</title></programme>
+<programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - من عمان 2026</title></programme>
+<programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار العاشرة</title></programme>
+<programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="OmanTVMubashir.om"><title lang="ar">مسار/اما بعد</title></programme>
+<programme start="20261111193000 +0000" stop="20261111203000 +0000" channel="OmanTVMubashir.om"><title lang="ar">نظر عيني - الحلقة 7</title></programme>
+<programme start="20261111200000 +0000" stop="20261111201000 +0000" channel="OmanTVMubashir.om"><title lang="ar">نظر عيني - الحلقة 7</title></programme>
+<programme start="20261111201000 +0000" stop="20261111210000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 1</title></programme>
+<programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار الواحدة</title></programme>
+<programme start="20261111213000 +0000" stop="20261111222000 +0000" channel="OmanTVMubashir.om"><title lang="ar">بادر</title></programme>
+<programme start="20261111222000 +0000" stop="20261111230000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 12</title></programme>
+<programme start="20261111230000 +0000" stop="20261111235000 +0000" channel="OmanTVMubashir.om"><title lang="ar">قهوة الصباح</title></programme>
+<programme start="20261111235000 +0000" stop="20261112003000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 15</title></programme>
+<programme start="20261112003000 +0000" stop="20261112004000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - خير يبقى</title></programme>
+<programme start="20261112004000 +0000" stop="20261112005000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261112005000 +0000" stop="20261112010000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج محاسن الإسلام - الموسم الثاني</title></programme>
+<programme start="20261112010000 +0000" stop="20261112010600 +0000" channel="OmanTVMubashir.om"><title lang="ar">أذان الفجر</title></programme>
+<programme start="20261112010600 +0000" stop="20261112024500 +0000" channel="OmanTVMubashir.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261112024500 +0000" stop="20261112032000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 2</title></programme>
+<programme start="20261112032000 +0000" stop="20261112040000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 12</title></programme>
+<programme start="20261112040000 +0000" stop="20261112041500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 24</title></programme>
+<programme start="20261112041500 +0000" stop="20261112043000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261112043000 +0000" stop="20261112044500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261112044500 +0000" stop="20261112052500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 15</title></programme>
+<programme start="20261112052500 +0000" stop="20261112053000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261112053000 +0000" stop="20261112065500 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج قهوة الصباح 2026 - الحلقة 160</title></programme>
+<programme start="20261112065500 +0000" stop="20261112073000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار الحادية عشر</title></programme>
+<programme start="20261112073000 +0000" stop="20261112081000 +0000" channel="OmanTVMubashir.om"><title lang="ar">نظر عيني - الحلقة 8</title></programme>
+<programme start="20261112081000 +0000" stop="20261112081500 +0000" channel="OmanTVMubashir.om"><title lang="ar">اذان الظهر</title></programme>
+<programme start="20261112081500 +0000" stop="20261112090500 +0000" channel="OmanTVMubashir.om"><title lang="ar">من عمان</title></programme>
+<programme start="20261112090500 +0000" stop="20261112093000 +0000" channel="OmanTVMubashir.om"><title lang="ar">من كل بلد حكاية</title></programme>
+<programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="OmanTVMubashir.om"><title lang="ar">سكنى</title></programme>
+<programme start="20261112100000 +0000" stop="20261112103500 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار الثانية</title></programme>
+<programme start="20261112103500 +0000" stop="20261112111500 +0000" channel="OmanTVMubashir.om"><title lang="ar">HUDSON AND REX - المسلسل الاجنبي</title></programme>
+<programme start="20261112111500 +0000" stop="20261112112000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أذان العصر</title></programme>
+<programme start="20261112112000 +0000" stop="20261112114500 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - في أحضان الرفهاية - ج2 - الحلقة 2</title></programme>
+<programme start="20261112114500 +0000" stop="20261112120000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني آية ودعاء - الحلقة 25</title></programme>
+<programme start="20261112120000 +0000" stop="20261112121500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق النخبة</title></programme>
+<programme start="20261112121500 +0000" stop="20261112123000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكارتوني ماركو بولو : الجزء الثاني</title></programme>
+<programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الكرتوني - فريق إطفاء ورد</title></programme>
+<programme start="20261112130000 +0000" stop="20261112134500 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار عمان</title></programme>
+<programme start="20261112134500 +0000" stop="20261112135000 +0000" channel="OmanTVMubashir.om"><title lang="ar">اذان المغرب ينوه</title></programme>
+<programme start="20261112135000 +0000" stop="20261112143000 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل الخليجي - سدف - الحلقة 13</title></programme>
+<programme start="20261112143000 +0000" stop="20261112144000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - أعلام عمان</title></programme>
+<programme start="20261112144000 +0000" stop="20261112144500 +0000" channel="OmanTVMubashir.om"><title lang="ar">اذان العشاء</title></programme>
+<programme start="20261112144500 +0000" stop="20261112150000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - مناشدة - الموسم الثاني</title></programme>
+<programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار اللغة الانجليزية</title></programme>
+<programme start="20261112153000 +0000" stop="20261112161500 +0000" channel="OmanTVMubashir.om"><title lang="ar">المسلسل المصري - إثبات نسب - ضنى روحي - الحلقة 1</title></programme>
+<programme start="20261112161500 +0000" stop="20261112170000 +0000" channel="OmanTVMubashir.om"><title lang="ar">بادر</title></programme>
+<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="OmanTVMubashir.om"><title lang="ar">برنامج - من عمان 2026</title></programme>
+<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أخبار العاشرة</title></programme>
+<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="OmanTVMubashir.om"><title lang="ar">أفنان</title></programme>
+<programme start="20261112193000 +0000" stop="20261112203000 +0000" channel="OmanTVMubashir.om"><title lang="ar">نظر عيني - الحلقة 8</title></programme>
+</tv>
