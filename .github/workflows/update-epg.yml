@@ -3,7 +3,7 @@ name: Update IPTV EPG
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,71 +13,260 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 55
 
     steps:
+      # 1. Get repository files
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
+      # 3. Restore previously downloaded EPG files
+      - name: Restore EPG progress
+        uses: actions/cache/restore@v4
+        with:
+          path: work
+          key: epg-progress-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            epg-progress-${{ github.ref_name }}-
+
+      # 4. Install dependencies
       - name: Install dependencies
         run: npm install
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Generate EPG from all active sites
-        shell: bash
+      # 5. Get the latest upstream SITES.md
+      - name: Download latest SITES.md
         run: |
-          python3 - <<'PY'
-          import re
+          curl -fsSL \
+            https://raw.githubusercontent.com/iptv-org/epg/master/SITES.md \
+            -o /tmp/SITES.md
 
-          with open("SITES.md", encoding="utf-8") as f:
+      # 6. Select the next five active sources
+      - name: Select next EPG batch
+        id: batch
+        shell: python
+        run: |
+          import os
+          import re
+          import json
+          import hashlib
+          import shutil
+
+          with open("/tmp/SITES.md", encoding="utf-8") as f:
               content = f.read()
 
           sites = []
 
-          for row in re.findall(r"<tr>(.*?)</tr>", content, re.S):
+          for row in re.findall(
+              r'<tr\b[^>]*>(.*?)</tr>',
+              content,
+              re.S | re.I
+          ):
               if "🟢" not in row:
                   continue
 
               match = re.search(r'href="sites/([^"]+)"', row)
+
               if match:
                   sites.append(match.group(1))
 
-          with open("/tmp/sites.txt", "w") as f:
-              f.write(",".join(sites))
+          sites = list(dict.fromkeys(sites))
 
-          print(f"Found {len(sites)} active EPG sources.")
-          PY
+          if not sites:
+              raise SystemExit("No active EPG sources found.")
 
-          SITES=$(cat /tmp/sites.txt)
+          os.makedirs("work/guides", exist_ok=True)
 
-          if [ -z "$SITES" ]; then
-            echo "No active EPG sources found."
-            exit 1
-          fi
+          state_file = "work/progress.json"
 
-          mkdir -p public
+          signature = hashlib.sha256(
+              ",".join(sites).encode()
+          ).hexdigest()
+
+          state = {
+              "signature": signature,
+              "index": 0,
+              "complete": False
+          }
+
+          if os.path.exists(state_file):
+              with open(state_file, encoding="utf-8") as f:
+                  old = json.load(f)
+
+              if old.get("signature") == signature:
+                  state = old
+              else:
+                  print("Active site list changed. Starting a new cycle.")
+                  shutil.rmtree("work/guides")
+                  os.makedirs("work/guides", exist_ok=True)
+
+          if state.get("complete"):
+              print("All active EPG sources have been processed.")
+
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write("skip=true\n")
+
+              raise SystemExit(0)
+
+          batch_size = 5
+          index = state["index"]
+
+          batch = sites[index:index + batch_size]
+
+          if not batch:
+              raise SystemExit("No sources selected.")
+
+          next_index = index + len(batch)
+          complete = next_index >= len(sites)
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write("skip=false\n")
+              f.write(f"sites={','.join(batch)}\n")
+              f.write(f"signature={signature}\n")
+              f.write(f"next={next_index}\n")
+              f.write(f"complete={str(complete).lower()}\n")
+
+          print(f"Total active sources: {len(sites)}")
+          print(f"Current batch: {batch}")
+          print(f"Progress after batch: {next_index}/{len(sites)}")
+
+      # 7. Download the selected EPG sources
+      - name: Download EPG batch
+        if: steps.batch.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -e
+
+          SITES="${{ steps.batch.outputs.sites }}"
+
+          echo "Downloading: $SITES"
 
           npm run grab --- \
             --sites="$SITES" \
-            --output=public/guide.xml
+            --output="work/guides/{site}.xml"
 
-          test -s public/guide.xml
+          IFS=',' read -ra SITE_LIST <<< "$SITES"
 
+          for site in "${SITE_LIST[@]}"; do
+            FILE="work/guides/${site}.xml"
+
+            if [ ! -s "$FILE" ]; then
+              echo "ERROR: Missing or empty file: $FILE"
+              exit 1
+            fi
+
+            echo "Successfully downloaded: $site"
+          done
+
+      # 8. Combine previous and newly downloaded EPG files
+      - name: Combine all EPG files
+        if: steps.batch.outputs.skip != 'true'
+        shell: python
+        run: |
+          import os
+          import glob
+          import xml.etree.ElementTree as ET
+
+          os.makedirs("public", exist_ok=True)
+
+          files = sorted(
+              glob.glob("work/guides/*.xml")
+          )
+
+          if not files:
+              raise SystemExit("No EPG files available.")
+
+          root = ET.Element("tv")
+
+          for filename in files:
+              print(f"Combining: {filename}")
+
+              try:
+                  tree = ET.parse(filename)
+                  source = tree.getroot()
+
+                  if source.tag != "tv":
+                      raise ValueError(
+                          f"Unexpected XML root in {filename}"
+                      )
+
+                  if not root.attrib:
+                      root.attrib.update(source.attrib)
+
+                  root.extend(list(source))
+
+              except Exception as e:
+                  raise SystemExit(
+                      f"Failed to process {filename}: {e}"
+                  )
+
+          output = "public/guide.xml"
+
+          ET.ElementTree(root).write(
+              output,
+              encoding="utf-8",
+              xml_declaration=True
+          )
+
+          if not os.path.isfile(output) or os.path.getsize(output) == 0:
+              raise SystemExit("Combined guide.xml is empty.")
+
+          print(f"Total EPG files combined: {len(files)}")
+          print(f"Final guide size: {os.path.getsize(output)} bytes")
+
+      # 9. Configure GitHub Pages
+      - name: Configure GitHub Pages
+        if: steps.batch.outputs.skip != 'true'
+        uses: actions/configure-pages@v5
+
+      # 10. Upload the combined guide
       - name: Upload Pages artifact
+        if: steps.batch.outputs.skip != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
+      # 11. Deploy the updated guide
       - name: Deploy to GitHub Pages
+        id: deploy
+        if: steps.batch.outputs.skip != 'true'
         uses: actions/deploy-pages@v4
+
+      # 12. Save progress ONLY after successful deployment
+      - name: Update EPG progress
+        id: progress
+        if: steps.deploy.outcome == 'success'
+        shell: python
+        run: |
+          import json
+
+          state = {
+              "signature": "${{ steps.batch.outputs.signature }}",
+              "index": int("${{ steps.batch.outputs.next }}"),
+              "complete": "${{ steps.batch.outputs.complete }}" == "true"
+          }
+
+          with open("work/progress.json", "w", encoding="utf-8") as f:
+              json.dump(state, f, indent=2)
+
+          print("EPG progress successfully updated.")
+          print(f"Next index: {state['index']}")
+          print(f"All sources completed: {state['complete']}")
+
+      # 13. Persist downloaded files and progress
+      - name: Save EPG progress and downloads
+        if: steps.progress.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: work
+          key: epg-progress-${{ github.ref_name }}-${{ github.run_id }}
