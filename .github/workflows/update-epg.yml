@@ -37,15 +37,6 @@ jobs:
         with:
           node-version: 22
 
-      # 3. Restore previously downloaded EPG files
-      - name: Restore EPG progress
-        uses: actions/cache/restore@v4
-        with:
-          path: work
-          key: epg-progress-${{ github.ref_name }}-${{ github.run_id }}
-          restore-keys: |
-            epg-progress-${{ github.ref_name }}-
-
       # 4. Install dependencies
       - name: Install dependencies
         run: npm install
@@ -159,12 +150,12 @@ jobs:
 
           npm run grab --- \
             --sites="$SITES" \
-            --output="work/guides/{site}.xml"
+            --output="epg-storage/work/guides/{site}.xml"
 
           IFS=',' read -ra SITE_LIST <<< "$SITES"
 
           for site in "${SITE_LIST[@]}"; do
-            FILE="work/guides/${site}.xml"
+            FILE="epg-storage/work/guides/${site}.xml"
 
             if [ ! -s "$FILE" ]; then
               echo "ERROR: Missing or empty file: $FILE"
@@ -186,7 +177,7 @@ jobs:
           os.makedirs("public", exist_ok=True)
 
           files = sorted(
-              glob.glob("work/guides/*.xml")
+              glob.glob("epg-storage/work/guides/*.xml")
           )
 
           if not files:
@@ -262,17 +253,30 @@ jobs:
               "complete": "${{ steps.batch.outputs.complete }}" == "true"
           }
 
-          with open("work/progress.json", "w", encoding="utf-8") as f:
+          with open("epg-storage/work/progress.json", "w", encoding="utf-8") as f:
               json.dump(state, f, indent=2)
 
           print("EPG progress successfully updated.")
           print(f"Next index: {state['index']}")
           print(f"All sources completed: {state['complete']}")
 
-      # 13. Persist downloaded files and progress
-      - name: Save EPG progress and downloads
+      # 13. Save to storage branch
+      - name: Save EPG files to storage branch
         if: steps.progress.outcome == 'success'
-        uses: actions/cache/save@v4
-        with:
-          path: work
-          key: epg-progress-${{ github.ref_name }}-${{ github.run_id }}
+        shell: bash
+        run: |
+          set -e
+
+          cd epg-storage
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add work/
+
+          if git diff --cached --quiet; then
+            echo "No storage changes to save."
+          else
+            git commit -m "Update EPG download progress"
+            git push origin HEAD:epg-data
+          fi
