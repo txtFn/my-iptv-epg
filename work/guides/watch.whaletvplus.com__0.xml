@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="AlArabyTV.qa@SD"><display-name>Alaraby News</display-name><icon src="https://i.imgur.com/YMqWEe4.png"/></channel>
+<channel id="931186243466302962"><display-name>All Romance</display-name></channel>
+<channel id="756037372260914881"><display-name>ARTFLIX - Filmklassiker</display-name></channel>
+<channel id="758912580609122639"><display-name>AUTO BILD TV</display-name></channel>
+<channel id="automotorundsportchannel.de@SD"><display-name>AUTO MOTOR UND SPORT</display-name><icon src="https://i.imgur.com/o8wOvJ7.png"/></channel>
+<channel id="Bild.de@SD"><display-name>BILD TV</display-name><icon src="https://i.imgur.com/JD1j6XA.png"/></channel>
+<channel id="804626781734313105"><display-name>Computer BILD</display-name></channel>
+<channel id="931186243466302963"><display-name>Crimify</display-name></channel>
+<channel id="CuriosityNOW.de@DE"><display-name>Curiosity Now</display-name><icon src="https://i.imgur.com/gJ9eMaG.png"/></channel>
+<channel id="865833588896571654"><display-name>DDR TV-Archiv</display-name></channel>
+<channel id="865834601133250882"><display-name>Deluxe DeutschPop</display-name></channel>
+<channel id="DeluxeLounge.de@HD"><display-name>Deluxe Lounge HD</display-name><icon src="https://i.imgur.com/pgCA35z.png"/></channel>
+<channel id="EuronewsGerman.fr@SD"><display-name>euronews deutsch</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/></channel>
+<channel id="868726573804161919"><display-name>Fabella</display-name></channel>
+<channel id="840428589999988645"><display-name>Fantasja</display-name></channel>
+<channel id="FIFAPlus.uk@German"><display-name>FIFA+ (DE)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg"/></channel>
+<channel id="FocusTV.be@SD"><display-name>Focus TV</display-name><icon src="https://i.imgur.com/dvZS1Ns.png"/></channel>
+<channel id="GoldstarTV.de@Germany"><display-name>GoldStar TV</display-name><icon src="https://i.imgur.com/4ySO71h.png"/></channel>
+<channel id="804646250888168649"><display-name>Grjngo - Westernfilme</display-name></channel>
+<channel id="967946649035481281"><display-name>Herzfrequenz</display-name></channel>
+<channel id="869188811966976573"><display-name>Höhenrausch</display-name></channel>
+<channel id="345233088991267357"><display-name>Just Cooking</display-name></channel>
+<channel id="345232551755455753"><display-name>just.fishing</display-name></channel>
+<channel id="LoveThePlanet.es@DE"><display-name>Love The Planet (DE)</display-name><icon src="https://i.imgur.com/RBcD49X.png"/></channel>
+<channel id="840432427301603610"><display-name>Moconomy - Wirtschaft und Finanzen</display-name></channel>
+<channel id="MoreThanSportsTV.de@SD"><display-name>More Than Sports TV</display-name><icon src="https://i.imgur.com/SLrjImc.png"/></channel>
+<channel id="Motorvision.de@SD"><display-name>Motorvision (DE)</display-name><icon src="https://i.imgur.com/v4kj8pI.png"/></channel>
+<channel id="910029942321318186"><display-name>Motorvision Classic</display-name></channel>
+<channel id="Nachrichten360.de@HD"><display-name>Nachrichten 360</display-name><icon src="https://i.imgur.com/CwxYslK.png"/></channel>
+<channel id="Naruto.us@Germany"><display-name>Naruto</display-name><icon src="https://i.imgur.com/M8X3Kvc.png"/></channel>
+<channel id="345225226613301910"><display-name>Netzkino</display-name></channel>
+<channel id="869189701360756267"><display-name>One Terra</display-name></channel>
+<channel id="RedBullTV.at@DE"><display-name>Red Bull TV (DE)</display-name><icon src="https://i.postimg.cc/8c78JM28/image.png"/></channel>
+<channel id="840434840314060200"><display-name>Royalworld - Adel &amp; Dynastien</display-name></channel>
+<channel id="1034986045911343817"><display-name>Sooner: Coming of Age</display-name></channel>
+<channel id="1034986045911343818"><display-name>Sooner: Next Gen</display-name></channel>
+<channel id="345234158752767604"><display-name>SPIEGEL TV</display-name></channel>
+<channel id="925725141370479501"><display-name>Spiegel TV Action+Crime</display-name></channel>
+<channel id="931186243466302965"><display-name>Spiegel TV Konflikte</display-name></channel>
+<channel id="758911144097743475"><display-name>SPORT BILD TV</display-name></channel>
+<channel id="869190367760223448"><display-name>Sportdigital Free</display-name></channel>
+<channel id="281460117680495310"><display-name>Tempora</display-name></channel>
+<channel id="TerraMaterWILD.de@German"><display-name>Terra Mater Wild (DE)</display-name><icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png"/></channel>
+<channel id="345233364758374096"><display-name>Tierwelt Live</display-name></channel>
+<channel id="879581222538846508"><display-name>TOP Filme</display-name></channel>
+<channel id="879581416001117908"><display-name>TOP SciFi</display-name></channel>
+<channel id="480159814333764752"><display-name>TOP Serien</display-name></channel>
+<channel id="Trailers.es@DE"><display-name>Trailers (DE)</display-name><icon src="https://i.imgur.com/RwZ1hCN.png"/></channel>
+<channel id="Travelxp.in@DE"><display-name>Travelxp (DE)</display-name><icon src="https://i.imgur.com/HUWEnc5.png"/></channel>
+<channel id="878764907511158401"><display-name>wedotv Movies (DACH)</display-name></channel>
+<channel id="878876034450589813"><display-name>wedotv Sports</display-name></channel>
+<channel id="942280082834594521"><display-name>wedotv True Stories</display-name></channel>
+<channel id="281460414444211550"><display-name>Xplore Free</display-name></channel>
+<channel id="756846289022887647"><display-name>Yu-Gi-Oh! (DE)</display-name></channel>
+<channel id="886574565227497107"><display-name>5-Minute Crafts</display-name></channel>
+<channel id="972712064533996134"><display-name>123GO! (EN)</display-name></channel>
+<channel id="968837716807123421"><display-name>a-z B-Flix</display-name></channel>
+<channel id="968837716807123418"><display-name>a-z Best Classic TV</display-name></channel>
+<channel id="979187723418476860"><display-name>a-z Classic Flix</display-name></channel>
+<channel id="979187723418476859"><display-name>a-z Western Grit</display-name></channel>
+<channel id="ACLCornholeTV.us@SD"><display-name>ACL Cornhole TV</display-name><icon src="https://i.imgur.com/lBIq2ZD.png"/></channel>
+<channel id="AdventureEarth.de@SD"><display-name>Adventure Earth</display-name><icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png"/></channel>
+<channel id="AfricanewsEnglish.fr@SD"><display-name>africanews english</display-name><icon src="https://a.jsrdn.com/hls/22886/africanews/extras/1080_logo.png"/></channel>
+<channel id="942280082834594520"><display-name>Afroland African</display-name></channel>
+<channel id="942280082834594518"><display-name>Afroland Comedy</display-name></channel>
+<channel id="AfrolandCrime.za@SD"><display-name>Afroland Crime</display-name><icon src="https://admango.cdn.mangomolo.com/analytics/uploads/188/66d8510598.png"/></channel>
+<channel id="942280082834594515"><display-name>Afroland Docus</display-name></channel>
+<channel id="942280082834594514"><display-name>Afroland Faith</display-name></channel>
+<channel id="942280082834594513"><display-name>Afroland Family</display-name></channel>
+<channel id="942280082834594512"><display-name>Afroland Nollywood</display-name></channel>
+<channel id="942280082834594511"><display-name>Afroland Romance</display-name></channel>
+<channel id="942280082834594510"><display-name>Afroland Thriller</display-name></channel>
+<channel id="AfroLandTV.us@SD"><display-name>AfroLandTV</display-name><icon src="https://i.imgur.com/jvnkrEF.png"/></channel>
+<channel id="925707611914371540"><display-name>AllHipHop</display-name></channel>
+<channel id="1022125030546936775"><display-name>Arab Heritage TV</display-name></channel>
+<channel id="AutenticHistory.de@SD"><display-name>Autentic History</display-name><icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png"/></channel>
+<channel id="AutenticTravel.de@SD"><display-name>Autentic Travel</display-name><icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png"/></channel>
+<channel id="956148002287389582"><display-name>AWE Plus</display-name></channel>
+<channel id="942280082834594506"><display-name>Bark TV</display-name></channel>
+<channel id="877763995690868957"><display-name>BEONDTV</display-name></channel>
+<channel id="968837716807123420"><display-name>Beyond The Score</display-name></channel>
+<channel id="BilliardsTV.kr@SD"><display-name>Billiards TV</display-name><icon src="https://i.imgur.com/fo1k0Oj.png"/></channel>
+<channel id="BloombergOriginals.us@US"><display-name>Bloomberg Originals</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png"/></channel>
+<channel id="BloombergTV.us@Plus"><display-name>Bloomberg TV+</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"/></channel>
+<channel id="1022125030546936771"><display-name>Bollywood 4U</display-name></channel>
+<channel id="BratTV.us@SD"><display-name>Brat TV</display-name><icon src="https://i.imgur.com/Kkcp9Bk.png"/></channel>
+<channel id="ChinaTravel.cn@SD"><display-name>China Travel</display-name><icon src="https://i.imgur.com/vSgY3CD.png"/></channel>
+<channel id="1022125030546936770"><display-name>Chrono TV</display-name></channel>
+<channel id="1022125030546936772"><display-name>Cigar TV</display-name></channel>
+<channel id="CNAOriginals.sg@SD"><display-name>CNA Originals</display-name><icon src="https://i.imgur.com/hlFQTrB.png"/></channel>
+<channel id="894117456778889583"><display-name>Confess by Nosey</display-name></channel>
+<channel id="CookingPanda.us@SD"><display-name>Cooking Panda</display-name><icon src="https://i.imgur.com/bhY0Zcs.png"/></channel>
+<channel id="931186243466302961"><display-name>Craftsy TV</display-name></channel>
+<channel id="956148002287389585"><display-name>crema.tv</display-name></channel>
+<channel id="DaystarTV.us@SD"><display-name>Daystar</display-name><icon src="https://i.imgur.com/IjzCv8f.png"/></channel>
+<channel id="989293714931712083"><display-name>DeFiance News</display-name></channel>
+<channel id="858572078910539941"><display-name>DFB Play TV</display-name></channel>
+<channel id="DiscoveringChina.cn@SD"><display-name>Discovering China</display-name><icon src="https://i.imgur.com/wr2bLaA.png"/></channel>
+<channel id="1022125030546936774"><display-name>DIY Art</display-name></channel>
+<channel id="1022125030546936767"><display-name>Docu Vision</display-name></channel>
+<channel id="1022125030546936769"><display-name>Drive+Speed</display-name></channel>
+<channel id="DroneTV.us@SD"><display-name>Drone TV</display-name><icon src="https://i.ibb.co/S71C9RJC/dronetv.webp"/></channel>
+<channel id="956148002287389576"><display-name>Drool</display-name></channel>
+<channel id="EarthDay365.ca@SD"><display-name>Earth Day 365</display-name><icon src="https://epg.sam.stingray.com/IMAGE/EARTH-001/lg-direct/Channel_Logo_522x200.png"/></channel>
+<channel id="1022125030546936766"><display-name>Encore+</display-name></channel>
+<channel id="1022125030546936765"><display-name>Escape TV</display-name></channel>
+<channel id="EuronewsEnglish.fr@SD"><display-name>euronews english</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/></channel>
+<channel id="FailArmy.us@US"><display-name>FailArmy</display-name><icon src="https://i.imgur.com/VIpQJxL.png"/></channel>
+<channel id="FIFAPlus.uk@English"><display-name>FIFA+ (EN)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg"/></channel>
+<channel id="609411515976060398"><display-name>Filmzie</display-name></channel>
+<channel id="France24.fr@English"><display-name>France 24 (EN)</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="FUELTV.pt@AU"><display-name>FUEL TV (AU/NZ)</display-name><icon src="https://i.imgur.com/I8mviBy.png"/></channel>
+<channel id="FUELTV.pt@EMEA"><display-name>FUEL TV (BE)</display-name><icon src="https://i.imgur.com/I8mviBy.png"/></channel>
+<channel id="FUELTV.pt@BR"><display-name>FUEL TV (PT)</display-name><icon src="https://i.imgur.com/I8mviBy.png"/></channel>
+<channel id="CGTNGlobalBiz.cn@SD"><display-name>Global Biz</display-name><icon src="https://i.imgur.com/qBmomnF.png"/></channel>
+<channel id="1022125030546936768"><display-name>Goal TV</display-name></channel>
+<channel id="GoUSATV.us@SD"><display-name>GoUSA TV (EN)</display-name><icon src="https://i.imgur.com/x90ALip.png"/></channel>
+<channel id="GustoTV.ca@SD"><display-name>Gusto TV</display-name><icon src="https://i.imgur.com/swUX3hQ.png"/></channel>
+<channel id="1022125030546936764"><display-name>Homerun TV</display-name></channel>
+<channel id="1022125030546936763"><display-name>Hoop TV</display-name></channel>
+<channel id="1022125030546936762"><display-name>Hunt Fish TV</display-name></channel>
+<channel id="942280082834594524"><display-name>In Touch +</display-name></channel>
+<channel id="INFAST.nl@SD"><display-name>INFAST</display-name><icon src="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png"/></channel>
+<channel id="999420644834214624"><display-name>INTER 24/7 (EN)</display-name></channel>
+<channel id="INTRAVEL.nl"><display-name>INTRAVEL</display-name><icon src="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png"/></channel>
+<channel id="InTrouble.nl@SD"><display-name>INTROUBLE</display-name><icon src="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png"/></channel>
+<channel id="INWILD.nl@SD"><display-name>INWILD</display-name><icon src="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png"/></channel>
+<channel id="InWonder.nl@SD"><display-name>INWONDER</display-name><icon src="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png"/></channel>
+<channel id="JudgeNosey.us@US"><display-name>Judge Nosey</display-name><icon src="https://i.imgur.com/S4r98AB.png"/></channel>
+<channel id="JustforLaughs.us@UK"><display-name>Just For Laughs Comedy</display-name><icon src="https://i.imgur.com/YoK4vcm.png"/></channel>
+<channel id="JustforLaughsGags.us@SD"><display-name>Just For Laughs Gags</display-name><icon src="https://i.imgur.com/HjVEVMJ.png"/></channel>
+<channel id="956148002287389578"><display-name>LatiNation</display-name></channel>
+<channel id="1004498718126777094"><display-name>Loupe Art</display-name></channel>
+<channel id="LoveThePlanet.es@EN"><display-name>Love The Planet (EN)</display-name><icon src="https://i.imgur.com/RBcD49X.png"/></channel>
+<channel id="LoveWine.es@EN"><display-name>Love Wine (EN)</display-name><icon src="https://i.imgur.com/nWybhBz.png"/></channel>
+<channel id="1022125030546936761"><display-name>Mercury+</display-name></channel>
+<channel id="281495509876154458"><display-name>MotoRRacing (EN)</display-name></channel>
+<channel id="Motorvision.de@SD"><display-name>Motorvision (EN)</display-name><icon src="https://i.imgur.com/v4kj8pI.png"/></channel>
+<channel id="925724581519034199"><display-name>Motorvision (PT)</display-name></channel>
+<channel id="643123131363958663"><display-name>Movie Mania (EN)</display-name></channel>
+<channel id="643123720684571896"><display-name>Movie Mania (US)</display-name></channel>
+<channel id="1004498718126777096"><display-name>Movie Music (CET)</display-name></channel>
+<channel id="1004498718126777095"><display-name>Movie Music (EST)</display-name></channel>
+<channel id="967946649035481273"><display-name>Movieitaly Channel</display-name></channel>
+<channel id="903570737758545093"><display-name>NEW KFOOD</display-name></channel>
+<channel id="NewsmaxTV.us@SD"><display-name>Newsmax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png"/></channel>
+<channel id="NHRATV.us@SD"><display-name>NHRA TV</display-name><icon src="https://i.imgur.com/jZgcm4k.png"/></channel>
+<channel id="NollyAfrica.uk@SD"><display-name>Nolly Africa HD</display-name><icon src="https://i.imgur.com/IxtGpti.png"/></channel>
+<channel id="979187723418476864"><display-name>NOMADLife.tv</display-name></channel>
+<channel id="Nosey.us@US"><display-name>Nosey</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv_KrZtWIiODx5w-aXTru0YMO446I8ukXc5P0rPKrQg&amp;s"/></channel>
+<channel id="879563029959157019"><display-name>NTD</display-name></channel>
+<channel id="OANPlus.us@SD"><display-name>OAN Plus</display-name><icon src="https://i.imgur.com/0xW69iu.png"/></channel>
+<channel id="1022125030546936760"><display-name>Peekflick</display-name></channel>
+<channel id="PeopleAreAwesome.us@SD"><display-name>People are Awesome</display-name><icon src="https://i.imgur.com/MsIx7Ax.png"/></channel>
+<channel id="411588003363298938"><display-name>Pet Collective +</display-name></channel>
+<channel id="1022125030546936759"><display-name>Playing For Change</display-name></channel>
+<channel id="942280082834594508"><display-name>PLL Network</display-name></channel>
+<channel id="942280082834594504"><display-name>PowerSports World</display-name></channel>
+<channel id="QwestTV.fr@SD"><display-name>Qwest TV</display-name><icon src="https://i.imgur.com/DjgNNHK.png"/></channel>
+<channel id="RACERInternational.pl@FAST"><display-name>RACER International</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png"/></channel>
+<channel id="RedBullTV.at@AU"><display-name>Red Bull TV (AU)</display-name><icon src="https://i.postimg.cc/8c78JM28/image.png"/></channel>
+<channel id="RedBullTV.at@EUMENA"><display-name>Red Bull TV (EU/MENA)</display-name><icon src="https://i.postimg.cc/8c78JM28/image.png"/></channel>
+<channel id="RedBullTV.at@UK"><display-name>Red Bull TV (UK)</display-name><icon src="https://i.postimg.cc/8c78JM28/image.png"/></channel>
+<channel id="411586786151105512"><display-name>Revry Global</display-name></channel>
+<channel id="RevryHer.us@SD"><display-name>Revry Her</display-name><icon src="https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg"/></channel>
+<channel id="840435207521182904"><display-name>Royalworld - Nobility &amp; Dynasties</display-name></channel>
+<channel id="1022125030546936778"><display-name>Scifi World</display-name></channel>
+<channel id="ShiftTV.hr@SD"><display-name>SHIFT</display-name><icon src="https://i.imgur.com/mudXVT8.png"/></channel>
+<channel id="SKWAD.us@SD"><display-name>SKWAD</display-name><icon src="https://a.jsrdn.com/hls/22882/sqad/extras/1080_logo.png"/></channel>
+<channel id="956148002287389580"><display-name>Smart Healthy Green Living</display-name></channel>
+<channel id="1022125030546936777"><display-name>Space Series</display-name></channel>
+<channel id="1022125030546936776"><display-name>Sport Fishing TV</display-name></channel>
+<channel id="979187723418476863"><display-name>SportOutdoor.TV (EN)</display-name></channel>
+<channel id="1004498718126777093"><display-name>Stingray Cityscapes</display-name></channel>
+<channel id="1004498718126777092"><display-name>Stingray Cozy Café</display-name></channel>
+<channel id="StingrayEasyListening.ca@SD"><display-name>Stingray Easy Listening</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png"/></channel>
+<channel id="StingrayNaturescape.ca@SD"><display-name>Stingray Naturescape (CET)</display-name><icon src="https://i.imgur.com/882kd90.png"/></channel>
+<channel id="1004498718126777090"><display-name>Stingray Naturescape (EST)</display-name></channel>
+<channel id="StingrayRememberthe80s.ca@SD"><display-name>Stingray Remember the 80s</display-name><icon src="https://i.imgur.com/duwc8E8.png"/></channel>
+<channel id="StingraySmoothJazz.ca@SD"><display-name>Stingray Smooth Jazz</display-name><icon src="https://i.imgur.com/h1DsOzH.png"/></channel>
+<channel id="StingrayTheSpa.ca@SD"><display-name>Stingray SPA</display-name><icon src="https://i.imgur.com/ywAN923.png"/></channel>
+<channel id="1004498718126777087"><display-name>Stingray Stargaze</display-name></channel>
+<channel id="Tastytrade.us@SD"><display-name>Tasty</display-name><icon src="https://i.imgur.com/dXADRWn.png"/></channel>
+<channel id="TerraMaterWILD.de@English"><display-name>Terra Mater Wild (EN)</display-name><icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png"/></channel>
+<channel id="TheBoatShow.us@SD"><display-name>The Boat Show (EN)</display-name><icon src="https://i.imgur.com/qlhS2zw.png"/></channel>
+<channel id="925725895506330246"><display-name>The Red Green Channel</display-name></channel>
+<channel id="972720861289775954"><display-name>TidPix</display-name></channel>
+<channel id="942280082834594503"><display-name>time2Rlx</display-name></channel>
+<channel id="TraceSportStars.fr@HD"><display-name>Trace Sport Stars</display-name><icon src="https://i.imgur.com/FabFP5A.png"/></channel>
+<channel id="886562974989884515"><display-name>Trace UK</display-name></channel>
+<channel id="TraceUrban.fr@SD"><display-name>Trace Urban</display-name><icon src="https://i.imgur.com/DLIbUMx.png"/></channel>
+<channel id="Trailers.es@UK"><display-name>Trailers (EN)</display-name><icon src="https://i.imgur.com/RwZ1hCN.png"/></channel>
+<programme start="20261112134507 +0000" stop="20261112164147 +0000" channel="756037372260914881"><title lang="de">Sherlock Holmes und der Stern von Afrika</title><desc lang="de">Ein Spezialauftrag erreicht Meisterdetektiv Sherlock Holmes der sich eigentlich auf sein Altenteil nach Sussex zurückgezogen hat um Bienen zu züchten. Die Bitte von seiner Majestät König Edward kann er jedoch nicht abschlagen: Der renommierte Ermittler soll einen Diamanten sicher von Südafrika ins Vereinigte Königreich bringen. Bevor Sherlock und sein Freund Dr. Watson die ehrenvolle Aufgab.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-18/d489d2d9836c95db7184f4dae604ef3d.jpg.webp</image></programme>
+<programme start="20261112164147 +0000" stop="20261112192343 +0000" channel="756037372260914881"><title lang="de">55 Tage in Peking</title><desc lang="de">Während des Boxeraufstands von 1900 schmieden der US-Marineoffizier Major Matt Lewis und der britische Konsul Sir Arthur Robertson einen Plan, um die Rebellen in Schach zu halten.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/69ccdbe285c65c2827db7fa6288f0791.jpg.webp</image></programme>
+<programme start="20261112192343 +0000" stop="20261112210000 +0000" channel="756037372260914881"><title lang="de">Die Küste der Piraten</title><desc lang="de">Ein großartiges, farbenfrohes italienisches Kostüm-Epos mit Barker in der Rolle eines Schiffskapitäns, der es mit gerissenen Piraten zu tun bekommt. Es gibt jedoch einige interessante Wendungen und eine Fülle von Handlungssträngen.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-16/70ba080ef3cb356ca4116fd34ccc7336.jpg.webp</image></programme>
+<programme start="20261112210000 +0000" stop="20261112224605 +0000" channel="756037372260914881"><title lang="de">Einer kam Durch</title><desc lang="de">Der deutsche Fliegeroffizier Franz von Werra kommt im Zweiten Weltkrieg in britische Kriegsgefangenschaft und flieht aus verschiedenen Lagern.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/3e33d3b7ce8ad24e79a580462b70af07.jpg.webp</image></programme>
+<programme start="20261112224605 +0000" stop="20261113001225 +0000" channel="756037372260914881"><title lang="de">Drei Birken auf der Heide</title><desc lang="de">Förster Hans kehrt zu Vermessungsarbeiten in sein Heimatdorf zurück. Zunächst nimmt er Maß bei seiner Jugendliebe Rose.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-23/8c9b878335d5a5f68be65210f2037cb0.jpg.webp</image></programme>
+<programme start="20261113001225 +0000" stop="20261113014203 +0000" channel="756037372260914881"><title lang="de">Running Hero</title><desc lang="de">Ein Söldner wird angeheuert, um einen Professor in eine einsame Gegend zu bringen, wo eine russische MIG notgelandet ist.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/d18f330f769230118bc0fc11639541d7.jpg.webp</image></programme>
+<programme start="20261113014203 +0000" stop="20261113030557 +0000" channel="756037372260914881"><title lang="de">Die Stadt ist voller Geheimnisse</title><desc lang="de">Ein Industriewerk gerät in Schwierigkeiten. Der Fabrikbesitzer beschließt daraufhin, die Firma zu verkaufen und kündigt allen Angestellten. Der Film schildert, wie einige der Entlassenen mit der neuen Situation zurechtkommen.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/ad9e947f0e0d32805d4c0ee2179f919c.jpg.webp</image></programme>
+<programme start="20261113030557 +0000" stop="20261113040121 +0000" channel="756037372260914881"><title lang="de">Phantom des Schreckens</title><desc lang="de">Ein Mann wird durch eine unsichtbare Macht zum Mörder – ohne zu wissen, dass er von jemandem manipuliert wird.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/9e3d3bc24ea1c0086b9fcfd43184ee17.jpg.webp</image></programme>
+<programme start="20261113040121 +0000" stop="20261113054858 +0000" channel="756037372260914881"><title lang="de">Unter dem Vulkan</title><desc lang="de">Die Geschichte eines ehemaligen britischen Konsuls in Mexiko, den seine Verzweiflung an erlittener psychischer Qual in den Alkoholismus getrieben hat und der an einem einzigen Tag die Vision von Versöhnung und Glück und die Überschreitung der Grenze zur Selbstzerstörung erlebt.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/942dcee2ae8f7f10c0e247f345471a54.jpg.webp</image></programme>
+<programme start="20261113054858 +0000" stop="20261113072115 +0000" channel="756037372260914881"><title lang="de">Serenade einer großen Liebe</title><desc lang="de">Mario Lanza, einer der gefeiertsten Tenöre, singt seine berühmtesten Lieder. Der Film ist die Serenade einer großen Liebe. Nach schwerer, entbehrungsreicher Jugend ist der amerikanische Sänger Toni Costa kometenhaft zum Weltstar aufgestiegen. Vor allem die Herzen der Frauen fliegen ihm zu. Aber ebenso berühmt wie seine Stimme sind seine Skandalgeschichten.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/fc80bd76321f5b72a8223076d1be7b3a.jpg.webp</image></programme>
+<programme start="20261113072115 +0000" stop="20261113084830 +0000" channel="756037372260914881"><title lang="de">Jack London: Ruf der Wildnis</title><desc lang="de">Verfilmung des gleichnamigen Romans von Jack London um den Schlittenhund Buck.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/0148b7558596faa75298a69b3eeb8459.jpg.webp</image></programme>
+<programme start="20261113084830 +0000" stop="20261113103551 +0000" channel="756037372260914881"><title lang="de">Der letzte Musketier</title><desc lang="de">Der charismatische Schwertkämpfer und Dichter hilft einem anderen, die Frau zu umwerben, die er liebt, in dieser unkomplizierten Version des Stücks.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/9fc9fbaedaeaf88f7dda451e3c029d86.jpg.webp</image></programme>
+<programme start="20261113103551 +0000" stop="20261113121104 +0000" channel="756037372260914881"><title lang="de">Der Analphabet</title><desc lang="de">Jesse Hallam, ein ungebildeter Bergarbeiter aus Kentucky, zieht nach Cincinnati, damit seine Tochter dort an der Wirbelsäule operiert werden kann.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/c6dc1530a53bd26e334868127bbcd9d1.jpg.webp</image></programme>
+<programme start="20261113121104 +0000" stop="20261113140153 +0000" channel="756037372260914881"><title lang="de">Ein Stern geht auf</title><desc lang="de">Eine junge Frau kommt mit dem Traum vom Ruhm nach Hollywood und erreicht ihn nur mit Hilfe eines alkoholkranken Hauptdarstellers, der seine besten Tage schon hinter sich hat.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/bac50ed426ed98afacffd767b717c7b6.jpg.webp</image></programme>
+<programme start="20261113140153 +0000" stop="20261113154748 +0000" channel="756037372260914881"><title lang="de">Der Schatz der Korsaren</title><desc lang="de">Long John Silver taucht auf einer britischen Karibikinsel auf, wo er erfährt, dass der rivalisierende Pirat Mendoza das Schiff mit der Tochter des Gouverneurs entführt hat...</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/ade8160e3bf9c111a4ec53a0b56126fa.jpg.webp</image></programme>
+<programme start="20261113154748 +0000" stop="20261113172342 +0000" channel="756037372260914881"><title lang="de">Heidi kehrt heim</title><desc lang="de">Die junge Waise Heidi wird bei ihrem entfremdeten Großvater zurückgelassen, der als Einsiedler in den Schweizer Alpen lebt. Anfangs ist er kalt und distanziert, jedoch wächst seine Liebe zu ihr, bis er ihr Wohlergehen über sein eigenes Herz stellen muss.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/dd760c8f94de33a0ff798b56ec1145da.jpg.webp</image></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="756037372260914881"><title lang="de">ARTFLIX - Filmklassiker</title></programme>
+<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="758912580609122639"><title lang="de">AUTO BILD TV</title></programme>
+<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="804626781734313105"><title lang="de">Computer BILD</title></programme>
+<programme start="20261112162927 +0000" stop="20261112175842 +0000" channel="931186243466302962"><title lang="de">Wetterfee sucht Weihnachtswunder</title><desc lang="de">Gwen ist die Wetterfee des lokalen TV-Senders. Sie liebt ihren Job – und Weihnachten! Doch ihr Sender steht kurz vor der Pleite. Gwen versucht, ihre tägliche Advents-Challenge mit Hilfe von Adam, dem Organisator einer Spendenaktion für Spielsachen noch größer aufzuziehen. Und tatsächlich: nach kurzer Zeit gehen die beiden viral. Auch, weil die Zuschauer merken, wie es zwischen den beiden knistert.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-31/01bc9fd131f7c2e87f2a2abb572bbbba.jpg.webp</image></programme>
+<programme start="20261112175548 +0000" stop="20261112184151 +0000" channel="931186243466302963"><title lang="de">Grantchester - (S6E1) Folge 1</title><desc lang="de">Die Pfarrhausfamilie und die Keatings gönnen sich eine dringend benötigte Sommerpause.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-28/ae43d0ad74c2fbb8821f80deb8f6bd0a.jpg.webp</image></programme>
+<programme start="20261112175842 +0000" stop="20261112192904 +0000" channel="931186243466302962"><title lang="de">Das Weihnachts-Chalet</title><desc lang="de">Eine weihnachtsliebende geschiedene Frau bucht mit ihrer Mutter und ihrer Tochter ein Chalet für die Feiertage, wo sie einen Schriftsteller kennenlernt, der Weihnachten verachtet. Gemeinsam lernen sie den Zauber von Weihnachten und Familie kennen.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-31/c64b223751ae5cd3a3af295cf1ad7061.jpg.webp</image></programme>
+<programme start="20261112184151 +0000" stop="20261112192756 +0000" channel="931186243466302963"><title lang="de">Grantchester - (S6E2) Folge 2</title></programme>
+<programme start="20261112192756 +0000" stop="20261112201358 +0000" channel="931186243466302963"><title lang="de">Grantchester - (S6E3) Folge 3</title></programme>
+<programme start="20261112192904 +0000" stop="20261112210000 +0000" channel="931186243466302962"><title lang="de">Christmas in Vienna - Weihnachten in Wien</title><desc lang="de">Jess, eine Konzertviolinistin, deren Herz nicht mehr in der Musik ist, reist nach Wien für eine Aufführung. Dort findet sie die Inspiration, die ihr gefehlt hat, und eine neue Liebe.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-17/60f57e80b2fa3fe897dae2a9f6a5609e.jpg.webp</image></programme>
+<programme start="20261112201358 +0000" stop="20261112210000 +0000" channel="931186243466302963"><title lang="de">Grantchester - (S6E4) Folge 4</title></programme>
+<programme start="20261112210000 +0000" stop="20261112223730 +0000" channel="931186243466302962"><title lang="de">Love. Sex. Life.</title><desc lang="de">Rachel versucht, ihre Ehe mit einem Ausflug in einen Stripclub aufzupeppen. Sie freundet sich mit McKenna an, der ihr einen Lapdance gegeben hat. Sie zieht zu Rachels Familie und wird Kindermädchen für den Sohn.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/4dded0a99fadb6abe67332fbed9ed69a.jpg.webp</image></programme>
+<programme start="20261112210000 +0000" stop="20261112222857 +0000" channel="931186243466302963"><title lang="de">Inspector Banks - (S2E3) Der unschuldige Engel</title></programme>
+<programme start="20261112222857 +0000" stop="20261112235742 +0000" channel="931186243466302963"><title lang="de">Inspector Banks - (S3E1) Das verschwundene Lächeln</title></programme>
+<programme start="20261112223730 +0000" stop="20261113001207 +0000" channel="931186243466302962"><title lang="de">Swinger - Komm, spiel mit uns!</title><desc lang="de">Während ihr Mann bei der Arbeit ist und ihr Sohn in der Schule ist, träumt Laura von einem Renovierungsprojekt, um ihre unruhigen Tage zu ersetzen. Elliott, ihr unwiderstehlich heißer Privatunternehmer, erfüllt sich bald ihre verbotenen Träume.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-20/3c497843e5e747e363aebdbe423afddf.jpg.webp</image></programme>
+<programme start="20261112235742 +0000" stop="20261113004041 +0000" channel="931186243466302963"><title lang="de">Killer On The Line - (S2E1) Isom</title></programme>
+<programme start="20261113001207 +0000" stop="20261113014259 +0000" channel="931186243466302962"><title lang="de">Sugarbabes - Mädchen für gewisse Stunden</title><desc lang="de">Von ihrer Mitbewohnerin überredet, verabredet sich eine Studentin mit einem älteren Mann, der für ihre Begleitung bezahlt.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/c7e7e85681207f69c06aa31625344a9f.jpg.webp</image></programme>
+<programme start="20261113004041 +0000" stop="20261113012416 +0000" channel="931186243466302963"><title lang="de">Killer On The Line - (S2E2) Strettle</title></programme>
+<programme start="20261113012416 +0000" stop="20261113020735 +0000" channel="931186243466302963"><title lang="de">Killer On The Line - (S2E3) Cox</title></programme>
+<programme start="20261113014259 +0000" stop="20261113034631 +0000" channel="931186243466302962"><title lang="de">DUPLIKAT Dancing At The Blue Iguana</title><desc lang="de">Eine unglamouröse Darstellung des Lebens von Menschen, die ihren Lebensunterhalt in einem Stripclub verdienen.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/2f5b3f05ac64178a84892ac50acbeb00.jpg.webp</image></programme>
+<programme start="20261113020735 +0000" stop="20261113025114 +0000" channel="931186243466302963"><title lang="de">Killer On The Line - (S2E4) Christian</title></programme>
+<programme start="20261113025114 +0000" stop="20261113033446 +0000" channel="931186243466302963"><title lang="de">Killer On The Line - (S2E5) Trigg</title></programme>
+<programme start="20261113033446 +0000" stop="20261113041804 +0000" channel="931186243466302963"><title lang="de">Killer On The Line - (S2E6) Byrne</title></programme>
+<programme start="20261113034631 +0000" stop="20261113042022 +0000" channel="931186243466302962"><title lang="de">Red Shoe Diaries: Geheimes Verlangen S03E11</title><desc lang="de">Bobby schleicht sich zurück in das Leben von Elizabeth, einer blinden Late-Night-Radio-Moderatorin, und verführt ihre Technikerin Francis. Bei Sonnenaufgang ist Bobby verschwunden, Elizabeth ist allein in ihrer Dunkelheit, während Francis gelernt hat, das Licht anzunehmen.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/a3610eaa96c0e6520aac6255b91ea54b.jpg.webp</image></programme>
+<programme start="20261113041804 +0000" stop="20261113050016 +0000" channel="931186243466302963"><title lang="de">Real Detective - (S1E1) Tod per Anhalter</title></programme>
+<programme start="20261113042022 +0000" stop="20261113045115 +0000" channel="931186243466302962"><title lang="de">Red Shoe Diaries: ABC der Leidenschaft S03E02</title><desc lang="de">Ein wunderschönes, vielgeliebtes Model entdeckt, dass es 26 Arten zu lieben gibt.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/65656289d3796adb6f9e466dffe28c5d.jpg.webp</image></programme>
+<programme start="20261113045115 +0000" stop="20261113062321 +0000" channel="931186243466302962"><title lang="de">Weihnachten in Mistletoe - Ein Wintermärchen</title><desc lang="de">Willow sucht weihnachtliche Dörfer und Städte für Filmproduktionen. Da ihr gesamter Alltag aus Weihnachten besteht, ist sie zynisch und desillusioniert geworden. Ihr letzter Auftrag führt sie in die Stadt Mistletoe – ein perfekter Ort! Vor allem, nachdem sie in den charmanten Bürgermeister Zach getroffen hat, der ihr seine Hilfe anbietet. Findet Willow endlich ihr eigenes, festliches Happy-End?</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-16/5e7929c2b2d5c3ce9edb96585142f670.jpg.webp</image></programme>
+<programme start="20261113050016 +0000" stop="20261113053423 +0000" channel="931186243466302963"><title lang="de">Real Detective - (S1E2) Die Morde im Nationalpark</title></programme>
+<programme start="20261113053423 +0000" stop="20261113063258 +0000" channel="931186243466302963"><title lang="de">Der Adler - Die Spur des Verbrechens - Codename: Kalypso (1)</title></programme>
+<programme start="20261113062321 +0000" stop="20261113075236 +0000" channel="931186243466302962"><title lang="de">Wetterfee sucht Weihnachtswunder</title><desc lang="de">Gwen ist die Wetterfee des lokalen TV-Senders. Sie liebt ihren Job – und Weihnachten! Doch ihr Sender steht kurz vor der Pleite. Gwen versucht, ihre tägliche Advents-Challenge mit Hilfe von Adam, dem Organisator einer Spendenaktion für Spielsachen noch größer aufzuziehen. Und tatsächlich: nach kurzer Zeit gehen die beiden viral. Auch, weil die Zuschauer merken, wie es zwischen den beiden knistert.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-31/01bc9fd131f7c2e87f2a2abb572bbbba.jpg.webp</image></programme>
+<programme start="20261113063258 +0000" stop="20261113072924 +0000" channel="931186243466302963"><title lang="de">Der Adler - Die Spur des Verbrechens - Codename: Kalypso (2)</title></programme>
+<programme start="20261113072924 +0000" stop="20261113082232 +0000" channel="931186243466302963"><title lang="de">Der Adler - Die Spur des Verbrechens - Codename: Thanatos (1)</title></programme>
+<programme start="20261113075236 +0000" stop="20261113091839 +0000" channel="931186243466302962"><title lang="de">Meet Me in New York - Ungeplant ins Glück</title><desc lang="de">Die äußerst ehrgeizige Eventplanerin aus New York zählt nicht umsonst zu den Besten aus ihrer Branche. Doch eines Tages erhält Kelly von dem Redakteur Joe den Auftrag, den Geburtstag seiner kleinen Nichte zu organisieren.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-08/c58ec27687f9f2b42220f093e5583ee2.jpg.webp</image></programme>
+<programme start="20261113082232 +0000" stop="20261113091550 +0000" channel="931186243466302963"><title lang="de">Der Adler - Die Spur des Verbrechens - Codename: Thanatos (2)</title></programme>
+<programme start="20261113091550 +0000" stop="20261113104435 +0000" channel="931186243466302963"><title lang="de">Inspector Banks - (S3E1) Das verschwundene Lächeln</title></programme>
+<programme start="20261113091839 +0000" stop="20261113104633 +0000" channel="931186243466302962"><title lang="de">Mein Fake-Date</title><desc lang="de">Zwei bekennende &quot;Weihnachtsphobiker&quot; unterschreiben einen Vertrag, von dem sie über die Feiertage gegenseitig profitieren.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/42a51b8f76366dde2bfa3077dde9bf26.jpg.webp</image></programme>
+<programme start="20261113104435 +0000" stop="20261113112724 +0000" channel="931186243466302963"><title lang="de">Real Detective - (S2E6) Der Fall der achtjährigen Jackie</title></programme>
+<programme start="20261113104633 +0000" stop="20261113121356 +0000" channel="931186243466302962"><title lang="de">Mein Fake-Date 2 - Verkuppelt an Weihnachten</title><desc lang="de">Dieses Weihnachten will Tiffany ihrem langjährigen Schwarm Brett ihre Liebe gestehen. Doch der hat jetzt eine Freundin! Tiffany trifft Peter, dem ebenfalls das Herz gebrochen wurde. Die zwei geben vor, ein verliebtes Paar zu sein. So wollen sie ihre verlorenen Geliebten zurückgewinnen. Der Plan scheint perfekt aufzugehen. Denn Tiffany und Peter merken bald, was – oder wen - sie eigentlich wollen.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/106992715a4d47ae5342193e2fb44149.jpg.webp</image></programme>
+<programme start="20261113112724 +0000" stop="20261113120932 +0000" channel="931186243466302963"><title lang="de">Real Detective - (S2E7) Tod in der Garage</title></programme>
+<programme start="20261113120932 +0000" stop="20261113125150 +0000" channel="931186243466302963"><title lang="de">Real Detective - (S2E8) Das Ende der Idylle</title></programme>
+<programme start="20261113121356 +0000" stop="20261113134433 +0000" channel="931186243466302962"><title lang="de">Rote Glut</title><desc lang="de">Der Unternehmensberater Robert, Spross eines legendären Arbeiterführers, kehrt nach Jahren in seine Heimatstadt zurück, um ein Gutachten über die Rentabilität des dortigen Stahlwerkes zu erstellen. Davon hängt die Existenz der Menschen in der Region ab. Auch die seines älteren Bruders Adam, der in der Hütte als Stahlwerker arbeitet und im Betriebsrat um den Erhalt der Arbeitsplätze kämpft.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-08/9ca9a04de483bda88246b5183d3dd581.jpg.webp</image></programme>
+<programme start="20261113125150 +0000" stop="20261113134931 +0000" channel="931186243466302963"><title lang="de">Follow the Money: S01 E09</title></programme>
+<programme start="20261113134433 +0000" stop="20261113150803 +0000" channel="931186243466302962"><title lang="de">Twinkle All The Way - Die Weihnachtsplanerin</title><desc lang="de">Die Hochzeitsplanerin Cadence (Sarah Drew) lernt bei ihrer Arbeit den charmanten Eventmanager Henry (Ryan McPartlin) kennen. Ein gemeinsames Projekt rund um die wohlhabende Sue Sutton (Lanette Ware) und ihre &apos;VIP Christmas Eve Party&apos; führt schließlich die alleinerziehenden Eltern an Weihnachten näher zusammen…</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-26/de0ddfa426f7b062a6c3929ad9b25dca.jpg.webp</image></programme>
+<programme start="20261113134931 +0000" stop="20261113144746 +0000" channel="931186243466302963"><title lang="de">Follow the Money: S01 E10</title></programme>
+<programme start="20261113144746 +0000" stop="20261113161722 +0000" channel="931186243466302963"><title lang="de">Inspector Banks - (S3E3) Die Wege des Bösen</title></programme>
+<programme start="20261113150803 +0000" stop="20261113163423 +0000" channel="931186243466302962"><title lang="de">Im Bann der Leidenschaft</title><desc lang="de">Arturo Bol±a ist ein mittelmäßiger Versicherungsvertreter, der Frauen, Alkohol und jede Abkürzung liebt, die er zur Easy Street finden kann. Er glaubt, es mit der schönen Rebeca Solis, der Frau des...</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/47a7ca5cde9059455e0e571319628704.jpg.webp</image></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="931186243466302963"><title lang="de">Crimify</title></programme>
+<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="931186243466302962"><title lang="de">All Romance</title></programme>
+<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="AlArabyTV.qa@SD"><title lang="ar">Alaraby News</title></programme>
+<programme start="20261112181023 +0000" stop="20261112183417 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Die fünf coolsten Fast Lap Italiener</title><desc lang="de">Rennprofi Christian Menzel empfängt die Zuschauer bei sich zu Hause. Auf seiner Couch kürt er seine persönliche Top-Five der Italiener von Fast Lap? Heute geht‘s nicht um Emotion, Emotion und noch mal Emotion. Qualität? Zweitrangig. Bis ans Ende durchdacht? Egal. Abgeschlagen im Fast Lap Ranking? Spielt keine Rolle. Wer ist die Nummer Eins für Christian Menzel? Was bedeutet wenig Italien und italienische Autos für ihn? Dazu gibt es einige private Anekdoten unseres Testers Christian Menzel…Das gibt es so nur auf Menzels Couch.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/6872951d4b389d2858bb2e20610e7f33.jpg.webp</image></programme>
+<programme start="20261112183417 +0000" stop="20261112190039 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Best of Porsche: Ist das der perfekte Sportwagen?</title><desc lang="de">Rennprofi Christian Menzel empfängt die Zuschauer bei sich zu Hause. Auf seiner Couch kürt er seine persönliche Top-Five der Renner aus Zuffenhausen. Heute geht‘s um Autos, die den Ruf haben, perfekt zu sein. Wo man Leistung, Perfomance und absolute Detailliebe erwartet. Porsche eben. Welches Modell lässt das Herz des überzeugten Petrolheads am höchsten schlagen? Dazu gibt es einige sehr private Einblicke in die Gefühlswelt des Christian Menzel… Das gibt es so nur auf Menzels Couch.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/78158cb4e7225879a32b2865e64158fb.jpg.webp</image></programme>
+<programme start="20261112190039 +0000" stop="20261112192250 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Ausfahrt - Lancia Delta Integrale</title><desc lang="de">Christian Menzel ist bei sich zu Hause und erwartet eine Ausfahrt. Das Besondere: Es geht diesmal um ein Auto, was ihm selbst gehört. Und zwar ein absoluter Klassiker, eine Ikone des Rallye-Sports: Lancia Delta Integrale. Und der Wagen ist nicht nur einer der beliebtesten Youngtimer überhaupt, er ist auch noch der echte und ganz persönliche Traum von Christian Menzel.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/6f7c6749996b9744e85e91c6a49e1b9b.jpg.webp</image></programme>
+<programme start="20261112192250 +0000" stop="20261112194844 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Best of 2025</title><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/d611ea0d854afa0d987718c29f4bd658.jpg.webp</image></programme>
+<programme start="20261112194844 +0000" stop="20261112200911 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Menzels Top 5 der Wölfe im Schafspelz</title><desc lang="de">Rennprofi Christian Menzel empfängt die Zuschauer bei sich zu Hause. Auf seiner Couch kürt er seine persönliche Top-Five der Wölfe im Schafspelz? Heute geht‘s um Autos, die auf den ersten Blick nicht sportlich aussehen. Wo man eher Luxus, Platz und Komfort erwartet. Wölfe im Schafspelz eben. Welches getarnte Monster lässt das Herz des überzeugten Petrolheads am höchsten schlagen? Dazu gibt es einige sehr private Einblicke in die Gefühlswelt des Christian Menzel….Das gibt es so nur auf Menzels Couch.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/bedc1a4d9435ae8ead3a836e7b943790.jpg.webp</image></programme>
+<programme start="20261112200911 +0000" stop="20261112202621 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Garagengold Kurz - Bentley Open Tourer</title><desc lang="de">Es sind nicht nur die Autos, die Hasso Nauck in den Bann ziehen. Es ist das ganze Drumherum: die Zeit, die Technik, das Miteinander. Seit einigen Jahren ist der Hanseat Mitglied in einem der elitärsten und ebenso außergewöhnlichsten britischen Clubs: dem Benjafield&apos;s Racing Club. Er wurde zu Ehren der berühmten Bentley Boys - einer Gruppe wohlhabender Rennfahrer der 20er Jahre - gegründet. Heute ist es wieder soweit. Hasso Nauck trifft sich mit seinen Jungs auf den Classic Days auf Schloss Dyck. Immer mit dabei, seine Frau Ulla. Die beiden fahren zum Goodwood der deutschen Oldtimer-Szene mit dem Bentley 4 ½ litre Open Tourer, einer Renn-Lokomotive auf vier Rädern.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/e47d0dceccb5fddc42dc2eff77a3f2db.jpg.webp</image></programme>
+<programme start="20261112202621 +0000" stop="20261112204539 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Garagengold - 70 Jahre DS</title><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/e5699d8e19ba731b935753876e2888c0.jpg.webp</image></programme>
+<programme start="20261112204539 +0000" stop="20261112210342 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Garagengold - Die Kollektion: Toyota</title><desc lang="de">In Köln befindet sich ein echter Schatz für Autofans: die größte Toyota Sammlung außerhalb Japans. Rund 75 Fahrzeuge aus fünf Jahrzehnten Automobilgeschichte zeigen die Vielfalt der Marke – vom Land Cruiser bis zur Celica, vom Alltagsheld bis zum Supersportwagen. Redakteurin Karla Schlier hat sich in der Toyota Collection umgesehen und zeigt euch die Highlights. Mit dabei: zwei extrem seltene Toyota 2000 GT – eine echte Sportwagenikone.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/5336a9ad446bc202cb6db9e8b4dcf84c.jpg.webp</image></programme>
+<programme start="20261112210342 +0000" stop="20261112212145 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Garagengold - Die Kollektion: Toyota</title><desc lang="de">In Köln befindet sich ein echter Schatz für Autofans: die größte Toyota Sammlung außerhalb Japans. Rund 75 Fahrzeuge aus fünf Jahrzehnten Automobilgeschichte zeigen die Vielfalt der Marke – vom Land Cruiser bis zur Celica, vom Alltagsheld bis zum Supersportwagen. Redakteurin Karla Schlier hat sich in der Toyota Collection umgesehen und zeigt euch die Highlights. Mit dabei: zwei extrem seltene Toyota 2000 GT – eine echte Sportwagenikone.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/5336a9ad446bc202cb6db9e8b4dcf84c.jpg.webp</image></programme>
+<programme start="20261112212145 +0000" stop="20261112214103 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Garagengold - 70 Jahre DS</title><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/e5699d8e19ba731b935753876e2888c0.jpg.webp</image></programme>
+<programme start="20261112214103 +0000" stop="20261112215813 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Garagengold Kurz - Bentley Open Tourer</title><desc lang="de">Es sind nicht nur die Autos, die Hasso Nauck in den Bann ziehen. Es ist das ganze Drumherum: die Zeit, die Technik, das Miteinander. Seit einigen Jahren ist der Hanseat Mitglied in einem der elitärsten und ebenso außergewöhnlichsten britischen Clubs: dem Benjafield&apos;s Racing Club. Er wurde zu Ehren der berühmten Bentley Boys - einer Gruppe wohlhabender Rennfahrer der 20er Jahre - gegründet. Heute ist es wieder soweit. Hasso Nauck trifft sich mit seinen Jungs auf den Classic Days auf Schloss Dyck. Immer mit dabei, seine Frau Ulla. Die beiden fahren zum Goodwood der deutschen Oldtimer-Szene mit dem Bentley 4 ½ litre Open Tourer, einer Renn-Lokomotive auf vier Rädern.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/e47d0dceccb5fddc42dc2eff77a3f2db.jpg.webp</image></programme>
+<programme start="20261112215813 +0000" stop="20261112223414 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt - Besondere Motoren</title><desc lang="de">Im Auto können die verschiedensten Motoren arbeiten: Blubbernde V8, seidige Reihen-Sechszylinder oder auch rein elektrische Antriebe. Es gibt aber auch einige Besonderheiten wie Wankel- oder Turbinenmotoren. Auch der Dreizylinder hat seine Eigenarten. Schon mal von W8 oder W12-Motoren gehört? Und was hat es eigentlich mit dem 7-Zylinder auf sich? Alexander Bloch erklärt 7 besondere Motoren.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/042da68f661b8541cc4074a7e4bb8d91.jpg.webp</image></programme>
+<programme start="20261112223414 +0000" stop="20261112230849 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt - Wasserstoff-Antrieb</title><desc lang="de">Hat der Wasserstoff-Antrieb noch eine Zukunft? Alexander Bloch macht eine Bestandsaufnahme und erklärt die 9 größten Irrtümer zum Brennstoffzellen-Auto.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/dda8467bfa51429951f3b6f2884b214c.jpg.webp</image></programme>
+<programme start="20261112230849 +0000" stop="20261112234758 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt - Claas Xerion</title><desc lang="de">400.000 Euro teuer, bis zu 530 PS stark: Der Claas Xerion ist ein Traktor der Superlative. Alex schaut dem grünen Monster genau unter die Haube und erklärt wie der Xerion gebaut wird und wie er sich fährt.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/eccee5cbb1054e17cf65a05a694bfee6.jpg.webp</image></programme>
+<programme start="20261112234758 +0000" stop="20261113002301 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt - Hyundai i20 N</title><desc lang="de">Der neue Hyundai i20 N zählt zu den heißesten Auto-Neuheiten des Jahres 2021. Alexander Bloch fährt den koreanischen Hot Hatch und erklärt die technischen Details der Rennsemmel.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-24/f585f029332a501628a4221e15798e41.jpg.webp</image></programme>
+<programme start="20261113002301 +0000" stop="20261113010344 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt - Tesla Model 3 LR</title><desc lang="de">Das Tesla Model 3 Long Range des Jahrgangs 2021 tritt zum Elektroauto-Supertest an. Was hat sich bei der Modellpflege getan? Wie hoch ist der Verbrauch? Wie gut die Reichweite? Kann der Tesla bei Komfort, Bedienung und Verarbeitungsqualität überzeugen? Alexander Bloch testet das Model 3 in 10 Kategorien und vergibt pro Kapitel maximal 6 Sterne. Ist Tesla wirklich die Benchmark im E-Auto-Bereich?</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/adc3e1ce34803f00af752d4d0e9ff409.jpg.webp</image></programme>
+<programme start="20261113010344 +0000" stop="20261113011959 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Vorfahrt - KIA EV9</title><desc lang="de">Der Kia EV9 ist das erste dreireihige Elektro-SUV der Koreaner. Im Mittelpunkt steht die Nachhaltigkeit, doch soll dabei nicht auf Luxus und Geräumigkeit verzichtet werden. Wie bekommt Kia Luxus und Nachhaltigkeit unter einen Hut? Unsere Redakteurin Jil Weber nimmt den Giganten unter die Lupe.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-25/8e1d660c66bfe9179602af762b07a5be.jpg.webp</image></programme>
+<programme start="20261113011959 +0000" stop="20261113013629 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Vorfahrt - BYD Seal</title><desc lang="de">BYD treibt seine Expansionsstrategie voran und bringt dafür ein neues Modell nach Europa: den BYD Seal. Die sportliche Elektrolimousine soll mit Performance überzeugen. Gelingt das? Unser Redakteur Tim Hohenschurz verschafft sich einen ersten Eindruck.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-25/1144f526b6ec2f047d5a426166f3680c.jpg.webp</image></programme>
+<programme start="20261113013629 +0000" stop="20261113015929 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Vorfahrt - IAA 2023 Mini Electric</title><desc lang="de">Mini zeigt auf der IAA zwei neue Modelle: den Cooper und den Countryman. Beide kommen zuerst rein elektrisch. Es wird aber auch noch Verbrennermodelle geben. Besonders im Innenraum setzen die Briten jetzt auf Minimalismus und Digitalisierung.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-25/27742336e6525b42747eb0c7da428497.jpg.webp</image></programme>
+<programme start="20261113015929 +0000" stop="20261113021952 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Neuvorstellung - BMW iX3 vs. Mercedes-Benz GLC</title><desc lang="de">Premiere für zwei neue Premium-Elektro-SUVs auf der IAA Mobility: der BMW iX3 50 xDrive und der Mercedes-Benz GLC 400 EQ. In dieser Folge von 10 von 10 vergleichen wir beide Modelle in 10 Fakten von Reichweite über Leistung bis Preis. Welches E-SUV bietet mehr Alltagstauglichkeit, Technik und Fahrspaß?</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/25199221821aa86c1dee57b2a40ecc2b.jpg.webp</image></programme>
+<programme start="20261113021952 +0000" stop="20261113023705 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Neuvorstellung - Oldtimer mit Blaulicht: Einsatzfahrzeuge im Ruhestand</title><desc lang="de">Beim Bikertreff in Krefeld treffen sich nicht nur Motorradfans, sondern auch echte Legenden auf vier Rädern, alte Einsatzfahrzeuge mit Geschichte. Ob Polizei-Streifenwagen, historische Krankenwagen, THW Fahrzeuge oder Feuerwehrklassiker. Hier kommen alle zusammen, die früher im Einsatz unterwegs waren. Im Interview stellen wir zwei besondere Feuerwehr Oldtimer vor und zeigen, warum diese Fahrzeuge bis heute eine ganz besondere Ausstrahlung haben.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/27a87e7b30c6086b6e8fb2350e4527e1.jpg.webp</image></programme>
+<programme start="20261113023705 +0000" stop="20261113025418 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Neuvorstellung - Oldtimer mit Blaulicht</title><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/3f272616b0b4217f95deb884e5a1a459.jpg.webp</image></programme>
+<programme start="20261113025418 +0000" stop="20261113033138 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Dacia Sandero (2021): Wie baut man den günstigsten Neuwagen Deutschlands?</title><desc lang="de">Beim Thema Dacia scheiden sich die Geister: Für manche ist er der Vernunft-Kauf schlechthin. Andere würde sich lieber einen jungen Gebrauchtwagen einer anderen Marke zum gleichen Preis holen. Mit der neuesten Sandero-Generation will Dacia ab 2021 noch mehr Kunden für sich begeistern. Alexander Bloch erklärt wie Dacia so günstig produzieren kann. Was bekommt man vom Discounter unter den Autoherstellern? Im Fahrbericht: Dacia Sandero Stepway 2021.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/71267d8de46e53ec45d17d34d725b5d4.jpg.webp</image></programme>
+<programme start="20261113033138 +0000" stop="20261113035641 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt E-Auto-Highlights 2021: Die 10 wichtigsten Neuheiten</title><desc lang="de">Mit dem neuen ID.4 will VW bei den Elektro-SUV durchstarten. Doch kann der Wolfsburger auch gegen den kalifornischen E-Auto-Platzhirsch Tesla ankommen. Alexander Bloch fährt den neuen Volkswagen ID.4 und vergleicht ihn gegen das Tesla Model Y. Wie schneidet das SUV bei Rechweite, Verbrauch und Fahrdynamik ab? Was bietet der ID.4 bei Raumangebot, Verarbeitung und bei der Ladegeschwindigkeit? Und ganz wichtig: Hat VW die Software-Probleme endlich im Griff? Die Antworten gibt es im Test.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/a5a0939322b7c2449cb740c96c3ec48b.jpg.webp</image></programme>
+<programme start="20261113035641 +0000" stop="20261113042816 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Das neue Tesla Model S Plaid: Die 10 wichtigsten Fragen!</title><desc lang="de">Mit dem neuen Tesla Model S Plaid legt Elon Musk noch einmal eine ordentliche E-Schippe oben drauf. Was verspricht der neue Tesla? Wird er die neue Benchmark bei den E-Autos? Alexander Bloch beantwortet die 10 wichtigsten Fragen zum neuen Tesla Model S Plaid.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/e64b5e9ba63cc64ed46330decddf745e.jpg.webp</image></programme>
+<programme start="20261113042816 +0000" stop="20261113050319 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Der neue Hyundai i20 N: Erste Fahrt und Technik-Review</title><desc lang="de">Der neue Hyundai i20 N zählt zu den heißesten Auto-Neuheiten des Jahres 2021. Alexander Bloch fährt den koreanischen Hot Hatch und erklärt die technischen Details der Rennsemmel.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/a33785f364836deb8530d4f276930c36.jpeg.webp</image></programme>
+<programme start="20261113050319 +0000" stop="20261113052342 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Neuvorstellung - BMW iX3 vs. Mercedes-Benz GLC</title><desc lang="de">Premiere für zwei neue Premium-Elektro-SUVs auf der IAA Mobility: der BMW iX3 50 xDrive und der Mercedes-Benz GLC 400 EQ. In dieser Folge von 10 von 10 vergleichen wir beide Modelle in 10 Fakten von Reichweite über Leistung bis Preis. Welches E-SUV bietet mehr Alltagstauglichkeit, Technik und Fahrspaß?</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/25199221821aa86c1dee57b2a40ecc2b.jpg.webp</image></programme>
+<programme start="20261113052342 +0000" stop="20261113055137 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUAR0007AHD - Ford Bronco alt vs. neu</title><desc lang="de">Alt gegen neu, retro gegen moderne. In der Auto Arena treten zwei Generationen des Ford Bronco gegeneinader an. Karla und Tim pruefen die Offroad Ikonen auf Look und Feeling, Platzangebot und Gelaendetauglichkeit.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/281d3eaae5c6694503772df1b5632482.jpg.webp</image></programme>
+<programme start="20261113055137 +0000" stop="20261113060850 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Neuvorstellung - Oldtimer mit Blaulicht: Einsatzfahrzeuge im Ruhestand</title><desc lang="de">Beim Bikertreff in Krefeld treffen sich nicht nur Motorradfans, sondern auch echte Legenden auf vier Rädern, alte Einsatzfahrzeuge mit Geschichte. Ob Polizei-Streifenwagen, historische Krankenwagen, THW Fahrzeuge oder Feuerwehrklassiker. Hier kommen alle zusammen, die früher im Einsatz unterwegs waren. Im Interview stellen wir zwei besondere Feuerwehr Oldtimer vor und zeigen, warum diese Fahrzeuge bis heute eine ganz besondere Ausstrahlung haben.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/27a87e7b30c6086b6e8fb2350e4527e1.jpg.webp</image></programme>
+<programme start="20261113060850 +0000" stop="20261113062603 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Neuvorstellung - Oldtimer mit Blaulicht</title><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/3f272616b0b4217f95deb884e5a1a459.jpg.webp</image></programme>
+<programme start="20261113062603 +0000" stop="20261113065242 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Downsizing, Turbo &amp; Co</title><desc lang="de">Egal ob Benziner, Diesel oder Elektro: Ohne Motor geht nichts. Dabei gibt es rund um die Motorentechnik viele Stammtischweisheiten: z.B. Hubraum ist durch nichts zu ersetzen. Aber ist das wirklich so? Alexander Bloch erklärt die 10 größten Irrtümer zu Downsizing, Turbo und Co.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-27/41bf1c0f6b07967e29dcf0cc2649bab7.jpg.webp</image></programme>
+<programme start="20261113065242 +0000" stop="20261113071202 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Tesla Model X vs. Audi e-tron</title><desc lang="de">Der Audi e-tron fordert Tesla heraus: Kann der Ingolstädter das Model X schlagen? Alexander Bloch erklärt in einem ersten Vergleich wer wo die Nase vorne hat: Reichweite, Verbrauch, Ladegeschwindigkeit - Die Testwerte liefern klare Antworten. Tesla Model X vs Audi e-tron: Wer kommt weiter?</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-27/5072097870495eabed0b806edfafbca7.jpg.webp</image></programme>
+<programme start="20261113071202 +0000" stop="20261113073257 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Alles Blender</title><desc lang="de">Ein gutes Licht am Auto ist gerade in der dunklen Jahreszeit besonders wichtig. Dabei gibt es viele unterschiedliche Systeme: Halogen, Xenon, LED und sogar Laser-Licht. Aber was sind eigentlich die Unterschiede und was genau muss man beim Fahren mit Licht beachten? Hierzu gibt es einige Irrtümer und Mythen - und die erklären wir heute.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-11/8f7fa0d9fbbb62ef286f989a73809f60.jpg.webp</image></programme>
+<programme start="20261113073257 +0000" stop="20261113075041 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Tempolimit auf der Autobahn</title><desc lang="de">Gerade wird wieder verstärkt ein Tempolimit von 130 km/h auf deutschen Autobahnen gefordert. Was bringt das überhaupt? Ist nicht eh schon fast überall die Geschwindigkeit begrenzt? Alexander Bloch erklärt die 12 größten Irrtümer zum Tempolimit auf der deutschen Autobahn.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-11/f9efc06d40eee0d3a547874384cf24b5.jpg.webp</image></programme>
+<programme start="20261113075041 +0000" stop="20261113081323 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Gasautos</title><desc lang="de">Gasautos sind in Deutschland noch immer eine Randerscheinung. Dabei gibt es zahlreiche Vorteile, die für LPG oder CNG sprechen. Doch die Unsicherheit bei potenziellen Kunden ist oft groß. Zahlreiche Irrtümer zu Autogas und Erdgas sind an der Tagesordnung. Alexander Bloch erklärt die 11 größten Gasauto-Irrtümer.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-11/f6a60c3c11428cab0fa6d1cd5fcaf217.jpg.webp</image></programme>
+<programme start="20261113081323 +0000" stop="20261113084015 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Suzuki Jimny Liebe</title><desc lang="de">Um den neuen Suzuki Jimny ist ein großer Hype entstanden. In Deutschland ist der kleine Geländewagen nahezu komplett ausverkauft. Aber was macht den japanischen Kraxler so beliebt? Alexander Bloch erklärt die 10 Gründe, warum man den Suzuki Jimny lieben muss.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-11/9303fdfc9909bc36930ccf728a865824.jpg.webp</image></programme>
+<programme start="20261113084015 +0000" stop="20261113091238 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt 10 Dinge, die jeder Autofahrer wissen muss</title><desc lang="de">Selbst alte Autohasen sind sich bei manchen Dingen nicht sicher: Wann messe ich den Luftdruck? Was muss ich tun, wenn ich mich vertankt habe? Muss ich ab 7 Grad Außentemperatur wirklich schon Winterreifen aufziehen? Und wie schütze ich mich wirkungsvoll vor Autodiebstahl mittels Keyless-Go. Alexander Bloch erklärt die 10 Dinge, die jeder Autofahrer wissen muss.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-27/2a92f167c9479c93bfc577289e0e39c4.jpg.webp</image></programme>
+<programme start="20261113091238 +0000" stop="20261113094925 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Tesla Model 3 vs BMW 330i</title><desc lang="de">Aller guten Dinge sind drei: Genau das könnte man denken, wenn man auf Tesla Model 3 und BMW 3er blickt. Beide versuchen sich als sportliche Limousinen. Der Tesla als Performance-Version, der BMW als 330i. Doch wie nah sind sich die Beiden eigentlich? Und vor allem: Wer ist der bessere Dynamiker? Elektro vs Verbrenner, Allrad vs Hinterradantrieb, USA vs Deutschland: Alexander Bloch erklärt, wer in welcher Disziplin die Nase vorne hat - Beschleunigung, Bremsen, Slalom, Handling-Kurs, Drift.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-25/e7a234ffa9ca05f188052d72dc78f652.jpg.webp</image></programme>
+<programme start="20261113094925 +0000" stop="20261113102146 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt 1.000.000 Kilometer: So hält deine Auto ewig!</title><desc lang="de">In der 100. Folge von Bloch erklärt kümmert sich Alex um das Thema Dauerläufer: Wie hält dein Auto ewig? Im Mittelpunkt steht ein Lexus LS400 mit einer Million Kilometer auf der Uhr. Wie fährt sich so ein Kilometerfresser eigentlich? Und was muss man tun, damit das eigene Auto auch das Zeug zum Dauerläufer hat? Alex Bloch erklärt euch 10 wichtige Regeln - das wird gut!</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/79f78af8219dbb760ff8b0fbf1bc2396.jpg.webp</image></programme>
+<programme start="20261113102146 +0000" stop="20261113104257 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Bloch erklärt Claas Xerion: Mehr Technik als in jeder Luxus-Limo</title><desc lang="de">400.000 Euro teuer, bis zu 530 PS stark: Der Claas Xerion ist ein Traktor der Superlative. Alex schaut dem grünen Monster genau unter die Haube und erklärt wie der Xerion gebaut wird und wie er sich fährt.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-12/28dc2991715ac28f54d3fdc74f42eb78.jpg.webp</image></programme>
+<programme start="20261113104257 +0000" stop="20261113110508 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Ausfahrt - Lancia Delta Integrale</title></programme>
+<programme start="20261113110508 +0000" stop="20261113113217 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Ausfahrt - Porsche 928 GTS</title><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-26/ff7751b2e3140b439fc9e7a4a0ebe2dc.jpg.webp</image></programme>
+<programme start="20261113113217 +0000" stop="20261113115244 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">MENZCOU0008HD - Menzels Top 5 der Wölfe im Schafspelz</title><desc lang="de">Rennprofi Christian Menzel empfängt die Zuschauer bei sich zu Hause. Auf seiner Couch kürt er seine persönliche Top-Five der Wölfe im Schafspelz? Heute geht‘s um Autos, die auf den ersten Blick nicht sportlich aussehen. Wo man eher Luxus, Platz und Komfort erwartet. Wölfe im Schafspelz eben. Welches getarnte Monster lässt das Herz des überzeugten Petrolheads am höchsten schlagen? Dazu gibt es einige sehr private Einblicke in die Gefühlswelt des Christian Menzel….Das gibt es so nur auf Menzels Couch.</desc><image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-14/ef78c85101aa92cf65960230a6d38785.jpg.webp</image></programme>
+<programme start="20261113115244 +0000" stop="20261113121611 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Ausfahrt - Audi Quattro</title></programme>
+<programme start="20261113121611 +0000" stop="20261113124454 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Made in USA: Top 5 der Fast Lap Amis</title></programme>
+<programme start="20261113124454 +0000" stop="20261113130638 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Die Top 5 im Fliegengewicht</title></programme>
+<programme start="20261113130638 +0000" stop="20261113133032 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Die fünf coolsten Fast Lap Italiener</title></programme>
+<programme start="20261113133032 +0000" stop="20261113135654 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Best of Porsche: Ist das der perfekte Sportwagen?</title></programme>
+<programme start="20261113135654 +0000" stop="20261113141721 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Menzels Top 5 der Wölfe im Schafspelz</title></programme>
+<programme start="20261113141721 +0000" stop="20261113144315 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">Menzels Couch - Best of 2025</title></programme>
+<programme start="20261113144315 +0000" stop="20261113153133 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">E-Auto Supertest - Opel Corsa Elektro</title></programme>
+<programme start="20261113153133 +0000" stop="20261113162148 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">E-Auto Supertest - MG Marvel R</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="automotorundsportchannel.de@SD"><title lang="de">AUTO MOTOR UND SPORT</title></programme>
+<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="Bild.de@SD"><title lang="de">BILD TV</title></programme>
+</tv>
