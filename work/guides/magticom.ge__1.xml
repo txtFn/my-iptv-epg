@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="65001"><display-name>არგო</display-name></channel>
+<channel id="66000"><display-name>meteo24</display-name></channel>
+<channel id="66001"><display-name>მეცხრე ტალღა</display-name></channel>
+<channel id="66004"><display-name>GMTV</display-name></channel>
+<channel id="68000"><display-name>ერი მედია</display-name></channel>
+<channel id="68001"><display-name>თანამგზავრი TV</display-name></channel>
+<channel id="68002"><display-name>Euronews Georgia</display-name></channel>
+<channel id="68003"><display-name>GMS</display-name></channel>
+<channel id="68004"><display-name>Green TV - Chkhenkeli</display-name></channel>
+<channel id="68050"><display-name>ქართული TV</display-name></channel>
+<channel id="68051"><display-name>Tafu TV</display-name></channel>
+<channel id="68052"><display-name>თავისუფალი არხი</display-name></channel>
+<channel id="68100"><display-name>მეხუთე არხი</display-name></channel>
+<channel id="68350"><display-name>ჯორჯიან თაიმსი</display-name></channel>
+<channel id="SetantaSportsGeorgia.ge@SD"><display-name>Setanta Sports 1</display-name><icon src="https://i.imgur.com/VwQnBqa.png"/></channel>
+<channel id="SetantaSportsPlusGeorgia.ge@SD"><display-name>Setanta Sports 2</display-name><icon src="https://i.imgur.com/ZtoZQUV.png"/></channel>
+<channel id="69350"><display-name>E TV</display-name></channel>
+<channel id="70352"><display-name>სეზონი ტვ</display-name></channel>
+<channel id="70353"><display-name>BMG</display-name></channel>
+<channel id="71350"><display-name>Black</display-name></channel>
+<channel id="71351"><display-name>Red</display-name></channel>
+<channel id="71352"><display-name>Sci-Fi</display-name></channel>
+<channel id="72350"><display-name>Viju+ Serial</display-name></channel>
+<channel id="72351"><display-name>Plan B</display-name></channel>
+<channel id="72352"><display-name>Спортивный</display-name></channel>
+<channel id="72353"><display-name>М Золотая Коллекция</display-name></channel>
+<channel id="74352"><display-name>Espreso TV</display-name></channel>
+<channel id="75350"><display-name>TV12-აჭარა</display-name></channel>
+<channel id="76350"><display-name>კოლხეთი89</display-name></channel>
+<channel id="76351"><display-name>ეგრისიTV</display-name></channel>
+<channel id="76352"><display-name>TVC</display-name></channel>
+<channel id="76353"><display-name>Сапфир</display-name></channel>
+<channel id="76354"><display-name>ტვ პლიუსი</display-name></channel>
+<channel id="76356"><display-name>სფერო TV</display-name></channel>
+<channel id="76358"><display-name>ახალი ფორმულა</display-name></channel>
+<channel id="76359"><display-name>Первый Вегетарианский</display-name></channel>
+<channel id="76360"><display-name>პარლამენტის არხი</display-name></channel>
+<channel id="76361"><display-name>4ever Music</display-name></channel>
+<channel id="76362"><display-name>Sumiko</display-name></channel>
+<channel id="76363"><display-name>Кинеко</display-name></channel>
+</tv>
