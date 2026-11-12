@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="SPOTV.id@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/></channel>
+<channel id="StudioUniversalLatinAmerica.us@Brazil"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/></channel>
+<channel id="Thrill.hk@SD"><display-name>Thrill</display-name><icon src="https://i.imgur.com/Y282owj.png"/></channel>
+<channel id="Trans7.id@SD"><display-name>Trans 7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/></channel>
+<channel id="TransTV.id@SD"><display-name>Trans TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png"/></channel>
+<channel id="tvNAsia.hk@HD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"/></channel>
+<channel id="tvNAsia.hk@SD"><display-name>tvN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"/></channel>
+<channel id="tvNMoviesAsia.hk@HD"><display-name>tvN Movies HD</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/></channel>
+<channel id="tvNMoviesAsia.hk@SD"><display-name>tvN Movies</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/></channel>
+<channel id="tvOne.id@SD"><display-name>tvOne</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png"/></channel>
+<channel id="TVRI.id@SD"><display-name>TVRI</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"/></channel>
+<channel id="VisionPrime.id@SD"><display-name>Vision Prime</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/></channel>
+<channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
+<channel id="ZooMoo.sg@SD"><display-name>Zoomoo</display-name><icon src="https://i.imgur.com/ciTJrnl.png"/></channel>
+<programme start="20261111171000 +0000" stop="20261111180000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Penang HL</title></programme>
+<programme start="20261111180000 +0000" stop="20261111200000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261111200000 +0000" stop="20261111220000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 GT World Challenge Asia</title></programme>
+<programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="SPOTV.id@SD"><title lang="id">2026/27 ALM Weekly Highlights</title></programme>
+<programme start="20261111223000 +0000" stop="20261112003000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261112003000 +0000" stop="20261112023000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261112023000 +0000" stop="20261112043000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261112043000 +0000" stop="20261112063000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261112063000 +0000" stop="20261112070000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: AKL Vs WEL</title></programme>
+<programme start="20261112070000 +0000" stop="20261112083000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261112083000 +0000" stop="20261112100000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="SPOTV.id@SD"><title lang="id">The Open Official Film 2026</title></programme>
+<programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: MCY Vs WSW</title></programme>
+<programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: PER Vs NEW</title></programme>
+<programme start="20261112120000 +0000" stop="20261112133000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261112133000 +0000" stop="20261112150000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="SPOTV.id@SD"><title lang="id">A-League Men: SYD Vs CCM</title></programme>
+<programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: MAC Vs BRI</title></programme>
+<programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: ADL Vs MVC</title></programme>
+<programme start="20261112180000 +0000" stop="20261112200000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 PYCL Philippines</title></programme>
+<programme start="20261112200000 +0000" stop="20261112220000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 PYCL Philippines</title></programme>
+<programme start="20261112220000 +0000" stop="20261113000000 +0000" channel="SPOTV.id@SD"><title lang="id">Women&apos;s Team Golf League</title></programme>
+<programme start="20261113000000 +0000" stop="20261113020000 +0000" channel="SPOTV.id@SD"><title lang="id">Penrite Oil Sandown 500</title></programme>
+<programme start="20261113020000 +0000" stop="20261113041000 +0000" channel="SPOTV.id@SD"><title lang="id">Penrite Oil Sandown 500</title></programme>
+<programme start="20261113041000 +0000" stop="20261113060000 +0000" channel="SPOTV.id@SD"><title lang="id">A-League Men: PER Vs NEW</title></programme>
+<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka HL</title></programme>
+<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: SYD Vs CCM</title></programme>
+<programme start="20261113073000 +0000" stop="20261113090000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261113090000 +0000" stop="20261113103000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: AKL Vs WEL</title></programme>
+<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="SPOTV.id@SD"><title lang="id">Asia-Pacific Amateur C&apos;ship &apos;26</title></programme>
+<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: SYD Vs CCM</title></programme>
+<programme start="20261113120000 +0000" stop="20261113133000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261113133000 +0000" stop="20261113150000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="SPOTV.id@SD"><title lang="id">A-League Men: AKL Vs WEL</title></programme>
+<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="SPOTV.id@SD"><title lang="id">2026/27 ALM Weekly Highlights</title></programme>
+<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Hong Kong Cyclothon HL</title></programme>
+<programme start="20261113180000 +0000" stop="20261113200000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 PYCL Philippines</title></programme>
+<programme start="20261113200000 +0000" stop="20261113220000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 PYCL Philippines</title></programme>
+<programme start="20261113220000 +0000" stop="20261114000000 +0000" channel="SPOTV.id@SD"><title lang="id">Roshn Saudi League: NSR Vs KHL</title></programme>
+<programme start="20261114000000 +0000" stop="20261114013000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261114013000 +0000" stop="20261114030000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261114030000 +0000" stop="20261114043000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Asian Tournament: Iloilo</title></programme>
+<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="SPOTV.id@SD"><title lang="id">Asia-Pacific Amateur C&apos;ship &apos;26</title></programme>
+<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: MCY Vs WSW</title></programme>
+<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="SPOTV.id@SD"><title lang="id">ALM Mini Match: PER Vs NEW</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka HL</title></programme>
+<programme start="20261114070000 +0000" stop="20261114083000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261114083000 +0000" stop="20261114100000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Hong Kong Cyclothon HL</title></programme>
+<programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="SPOTV.id@SD"><title lang="id">2026/27 ALM Weekly Highlights</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="SPOTV.id@SD"><title lang="id">The Open Official Film 2026</title></programme>
+<programme start="20261114120000 +0000" stop="20261114133000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261114133000 +0000" stop="20261114150000 +0000" channel="SPOTV.id@SD"><title lang="id">CelcomDigi STL GP Melaka (L)</title></programme>
+<programme start="20261114150000 +0000" stop="20261114170000 +0000" channel="SPOTV.id@SD"><title lang="id">A-League Men: MAC Vs BRI</title></programme>
+<programme start="20261111170500 +0000" stop="20261111184500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Turbo</title></programme>
+<programme start="20261111184500 +0000" stop="20261111205500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Notting Hill</title></programme>
+<programme start="20261111205500 +0000" stop="20261111230000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Assault On Precinct 13</title></programme>
+<programme start="20261111230000 +0000" stop="20261112004500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Skyscraper</title></programme>
+<programme start="20261112004500 +0000" stop="20261112022500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Turbo</title></programme>
+<programme start="20261112022500 +0000" stop="20261112043000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Notting Hill</title></programme>
+<programme start="20261112043000 +0000" stop="20261112063500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Assault On Precinct 13</title></programme>
+<programme start="20261112063500 +0000" stop="20261112082000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Skyscraper</title></programme>
+<programme start="20261112082000 +0000" stop="20261112103000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Lost World: Jurassic Park</title></programme>
+<programme start="20261112103000 +0000" stop="20261112122500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Mummy: Dragon Emperor</title></programme>
+<programme start="20261112122500 +0000" stop="20261112142500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Last Night In Soho</title></programme>
+<programme start="20261112142500 +0000" stop="20261112161500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Couples Retreat</title></programme>
+<programme start="20261112161500 +0000" stop="20261112182500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Lost World: Jurassic Park</title></programme>
+<programme start="20261112182500 +0000" stop="20261112202000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Mummy: Dragon Emperor</title></programme>
+<programme start="20261112202000 +0000" stop="20261112222000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Last Night In Soho</title></programme>
+<programme start="20261112222000 +0000" stop="20261112230000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Defying Gravity: Wicked</title></programme>
+<programme start="20261112230000 +0000" stop="20261113005000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Couples Retreat</title></programme>
+<programme start="20261113005000 +0000" stop="20261113030000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Lost World: Jurassic Park</title></programme>
+<programme start="20261113030000 +0000" stop="20261113045500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Mummy: Dragon Emperor</title></programme>
+<programme start="20261113045500 +0000" stop="20261113065500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Last Night In Soho</title></programme>
+<programme start="20261113065500 +0000" stop="20261113084500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Couples Retreat</title></programme>
+<programme start="20261113084500 +0000" stop="20261113103000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">How To Train Your Dragon 2</title></programme>
+<programme start="20261113103000 +0000" stop="20261113121500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">How To Train...: Hidden World</title></programme>
+<programme start="20261113121500 +0000" stop="20261113141000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Central Intelligence</title></programme>
+<programme start="20261113141000 +0000" stop="20261113161500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Mummy</title></programme>
+<programme start="20261113161500 +0000" stop="20261113180000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">How To Train Your Dragon 2</title></programme>
+<programme start="20261113180000 +0000" stop="20261113194500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">How To Train...: Hidden World</title></programme>
+<programme start="20261113194500 +0000" stop="20261113214500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Central Intelligence</title></programme>
+<programme start="20261113214500 +0000" stop="20261113230000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Land Before Time</title></programme>
+<programme start="20261113230000 +0000" stop="20261114010500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Mummy</title></programme>
+<programme start="20261114010500 +0000" stop="20261114031000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Notting Hill</title></programme>
+<programme start="20261114031000 +0000" stop="20261114052000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Lost World: Jurassic Park</title></programme>
+<programme start="20261114052000 +0000" stop="20261114071500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Mummy: Dragon Emperor</title></programme>
+<programme start="20261114071500 +0000" stop="20261114101500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Casino</title></programme>
+<programme start="20261114101500 +0000" stop="20261114113000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Land Before Time</title></programme>
+<programme start="20261114113000 +0000" stop="20261114131500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">How To Train Your Dragon</title></programme>
+<programme start="20261114131500 +0000" stop="20261114150500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Great Wall</title></programme>
+<programme start="20261114150500 +0000" stop="20261114172500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Robin Hood</title></programme>
+<programme start="20261111170500 +0000" stop="20261111183000 +0000" channel="Thrill.hk@SD"><title lang="id">Tear Us Apart</title></programme>
+<programme start="20261111183000 +0000" stop="20261111194500 +0000" channel="Thrill.hk@SD"><title lang="id">The Case Of Disappearances</title></programme>
+<programme start="20261111194500 +0000" stop="20261111210000 +0000" channel="Thrill.hk@SD"><title lang="id">Night At The Eagle Inn</title></programme>
+<programme start="20261111210000 +0000" stop="20261111215500 +0000" channel="Thrill.hk@SD"><title lang="id">Sinister, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261111215500 +0000" stop="20261111232500 +0000" channel="Thrill.hk@SD"><title lang="id">Room For Rent</title></programme>
+<programme start="20261111232500 +0000" stop="20261112010500 +0000" channel="Thrill.hk@SD"><title lang="id">Mid-Night Two</title></programme>
+<programme start="20261112010500 +0000" stop="20261112023000 +0000" channel="Thrill.hk@SD"><title lang="id">Tear Us Apart</title></programme>
+<programme start="20261112023000 +0000" stop="20261112034500 +0000" channel="Thrill.hk@SD"><title lang="id">The Case Of Disappearances</title></programme>
+<programme start="20261112034500 +0000" stop="20261112050000 +0000" channel="Thrill.hk@SD"><title lang="id">Night At The Eagle Inn</title></programme>
+<programme start="20261112050000 +0000" stop="20261112055500 +0000" channel="Thrill.hk@SD"><title lang="id">Sinister, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261112055500 +0000" stop="20261112072500 +0000" channel="Thrill.hk@SD"><title lang="id">Room For Rent</title></programme>
+<programme start="20261112072500 +0000" stop="20261112090500 +0000" channel="Thrill.hk@SD"><title lang="id">Mid-Night Two</title></programme>
+<programme start="20261112090500 +0000" stop="20261112103000 +0000" channel="Thrill.hk@SD"><title lang="id">Tear Us Apart</title></programme>
+<programme start="20261112103000 +0000" stop="20261112114500 +0000" channel="Thrill.hk@SD"><title lang="id">The Case Of Disappearances</title></programme>
+<programme start="20261112114500 +0000" stop="20261112130000 +0000" channel="Thrill.hk@SD"><title lang="id">Night At The Eagle Inn</title></programme>
+<programme start="20261112130000 +0000" stop="20261112142500 +0000" channel="Thrill.hk@SD"><title lang="id">Chop Chop</title></programme>
+<programme start="20261112142500 +0000" stop="20261112160000 +0000" channel="Thrill.hk@SD"><title lang="id">Green Wood Robbery</title></programme>
+<programme start="20261112160000 +0000" stop="20261112174500 +0000" channel="Thrill.hk@SD"><title lang="id">Possession Of Leah Dela Cruz</title></programme>
+<programme start="20261112174500 +0000" stop="20261112190500 +0000" channel="Thrill.hk@SD"><title lang="id">An Unquiet Grave</title></programme>
+<programme start="20261112190500 +0000" stop="20261112210000 +0000" channel="Thrill.hk@SD"><title lang="id">The Elite Of Devils</title></programme>
+<programme start="20261112210000 +0000" stop="20261112222500 +0000" channel="Thrill.hk@SD"><title lang="id">Chop Chop</title></programme>
+<programme start="20261112222500 +0000" stop="20261113000000 +0000" channel="Thrill.hk@SD"><title lang="id">Green Wood Robbery</title></programme>
+<programme start="20261113000000 +0000" stop="20261113014500 +0000" channel="Thrill.hk@SD"><title lang="id">Possession Of Leah Dela Cruz</title></programme>
+<programme start="20261113014500 +0000" stop="20261113030500 +0000" channel="Thrill.hk@SD"><title lang="id">An Unquiet Grave</title></programme>
+<programme start="20261113030500 +0000" stop="20261113050000 +0000" channel="Thrill.hk@SD"><title lang="id">The Elite Of Devils</title></programme>
+<programme start="20261113050000 +0000" stop="20261113062500 +0000" channel="Thrill.hk@SD"><title lang="id">Chop Chop</title></programme>
+<programme start="20261113062500 +0000" stop="20261113080000 +0000" channel="Thrill.hk@SD"><title lang="id">Green Wood Robbery</title></programme>
+<programme start="20261113080000 +0000" stop="20261113094500 +0000" channel="Thrill.hk@SD"><title lang="id">Possession Of Leah Dela Cruz</title></programme>
+<programme start="20261113094500 +0000" stop="20261113110500 +0000" channel="Thrill.hk@SD"><title lang="id">An Unquiet Grave</title></programme>
+<programme start="20261113110500 +0000" stop="20261113130000 +0000" channel="Thrill.hk@SD"><title lang="id">The Elite Of Devils</title></programme>
+<programme start="20261113130000 +0000" stop="20261113143500 +0000" channel="Thrill.hk@SD"><title lang="id">Jealousy</title></programme>
+<programme start="20261113143500 +0000" stop="20261113160500 +0000" channel="Thrill.hk@SD"><title lang="id">Creepy Pasta</title></programme>
+<programme start="20261113160500 +0000" stop="20261113174000 +0000" channel="Thrill.hk@SD"><title lang="id">The Revenge</title></programme>
+<programme start="20261113174000 +0000" stop="20261113191000 +0000" channel="Thrill.hk@SD"><title lang="id">Malee</title></programme>
+<programme start="20261113191000 +0000" stop="20261113210000 +0000" channel="Thrill.hk@SD"><title lang="id">Whisper Of Silent Body</title></programme>
+<programme start="20261113210000 +0000" stop="20261113223500 +0000" channel="Thrill.hk@SD"><title lang="id">Jealousy</title></programme>
+<programme start="20261113223500 +0000" stop="20261114000500 +0000" channel="Thrill.hk@SD"><title lang="id">Creepy Pasta</title></programme>
+<programme start="20261114000500 +0000" stop="20261114014000 +0000" channel="Thrill.hk@SD"><title lang="id">The Revenge</title></programme>
+<programme start="20261114014000 +0000" stop="20261114031000 +0000" channel="Thrill.hk@SD"><title lang="id">Malee</title></programme>
+<programme start="20261114031000 +0000" stop="20261114050000 +0000" channel="Thrill.hk@SD"><title lang="id">Whisper Of Silent Body</title></programme>
+<programme start="20261114050000 +0000" stop="20261114063500 +0000" channel="Thrill.hk@SD"><title lang="id">Jealousy</title></programme>
+<programme start="20261114063500 +0000" stop="20261114080500 +0000" channel="Thrill.hk@SD"><title lang="id">Creepy Pasta</title></programme>
+<programme start="20261114080500 +0000" stop="20261114094000 +0000" channel="Thrill.hk@SD"><title lang="id">The Revenge</title></programme>
+<programme start="20261114094000 +0000" stop="20261114111000 +0000" channel="Thrill.hk@SD"><title lang="id">Malee</title></programme>
+<programme start="20261114111000 +0000" stop="20261114130000 +0000" channel="Thrill.hk@SD"><title lang="id">Whisper Of Silent Body</title></programme>
+<programme start="20261114130000 +0000" stop="20261114143000 +0000" channel="Thrill.hk@SD"><title lang="id">Rooftop</title></programme>
+<programme start="20261114143000 +0000" stop="20261114161000 +0000" channel="Thrill.hk@SD"><title lang="id">Fate Jealous Greed</title></programme>
+<programme start="20261114161000 +0000" stop="20261114175500 +0000" channel="Thrill.hk@SD"><title lang="id">Apartment 212</title></programme>
+<programme start="20261111171500 +0000" stop="20261111174500 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20261111174500 +0000" stop="20261111183000 +0000" channel="Trans7.id@SD"><title lang="id">Sport7</title></programme>
+<programme start="20261111183000 +0000" stop="20261111193000 +0000" channel="Trans7.id@SD"><title lang="id">Best Fishing</title></programme>
+<programme start="20261111193000 +0000" stop="20261111201500 +0000" channel="Trans7.id@SD"><title lang="id">Super Tawa</title></programme>
+<programme start="20261111201500 +0000" stop="20261111210000 +0000" channel="Trans7.id@SD"><title lang="id">LOL ComediHa!</title></programme>
+<programme start="20261111210000 +0000" stop="20261111214500 +0000" channel="Trans7.id@SD"><title lang="id">Big-Bang!</title></programme>
+<programme start="20261111214500 +0000" stop="20261111223000 +0000" channel="Trans7.id@SD"><title lang="id">Kisah Nyata</title></programme>
+<programme start="20261111223000 +0000" stop="20261111233000 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi</title></programme>
+<programme start="20261111233000 +0000" stop="20261112003000 +0000" channel="Trans7.id@SD"><title lang="id">Spotlite</title></programme>
+<programme start="20261112003000 +0000" stop="20261112013000 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita Pagi</title></programme>
+<programme start="20261112013000 +0000" stop="20261112023000 +0000" channel="Trans7.id@SD"><title lang="id">FYP (For Your Pagi)</title></programme>
+<programme start="20261112023000 +0000" stop="20261112031500 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita Heits</title></programme>
+<programme start="20261112031500 +0000" stop="20261112041500 +0000" channel="Trans7.id@SD"><title lang="id">Big-Bang!</title></programme>
+<programme start="20261112041500 +0000" stop="20261112050000 +0000" channel="Trans7.id@SD"><title lang="id">Enah Bikin Enak</title></programme>
+<programme start="20261112050000 +0000" stop="20261112054500 +0000" channel="Trans7.id@SD"><title lang="id">Jejak Si Gundul</title></programme>
+<programme start="20261112054500 +0000" stop="20261112063000 +0000" channel="Trans7.id@SD"><title lang="id">Bocah Petualang</title></programme>
+<programme start="20261112063000 +0000" stop="20261112071500 +0000" channel="Trans7.id@SD"><title lang="id">Kepo</title></programme>
+<programme start="20261112071500 +0000" stop="20261112074500 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi</title></programme>
+<programme start="20261112074500 +0000" stop="20261112081500 +0000" channel="Trans7.id@SD"><title lang="id">Spotlite Anti Kudet</title></programme>
+<programme start="20261112081500 +0000" stop="20261112090000 +0000" channel="Trans7.id@SD"><title lang="id">Bisik-Bisik Warga</title></programme>
+<programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="Trans7.id@SD"><title lang="id">Makan Receh</title></programme>
+<programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita Update</title></programme>
+<programme start="20261112110000 +0000" stop="20261112114500 +0000" channel="Trans7.id@SD"><title lang="id">On The Spot</title></programme>
+<programme start="20261112114500 +0000" stop="20261112121500 +0000" channel="Trans7.id@SD"><title lang="id">Secret Story</title></programme>
+<programme start="20261112121500 +0000" stop="20261112130000 +0000" channel="Trans7.id@SD"><title lang="id">POV (Pasti Obrolan Viral)</title></programme>
+<programme start="20261112130000 +0000" stop="20261112143000 +0000" channel="Trans7.id@SD"><title lang="id">Arisan</title></programme>
+<programme start="20261112143000 +0000" stop="20261112154500 +0000" channel="Trans7.id@SD"><title lang="id">Lapor Pak!</title></programme>
+<programme start="20261112154500 +0000" stop="20261112163000 +0000" channel="Trans7.id@SD"><title lang="id">The Police</title></programme>
+<programme start="20261112163000 +0000" stop="20261112171500 +0000" channel="Trans7.id@SD"><title lang="id">Misteri Dunia</title></programme>
+<programme start="20261112171500 +0000" stop="20261112174500 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20261112174500 +0000" stop="20261112183000 +0000" channel="Trans7.id@SD"><title lang="id">Sport7</title></programme>
+<programme start="20261112183000 +0000" stop="20261112193000 +0000" channel="Trans7.id@SD"><title lang="id">Best Fishing</title></programme>
+<programme start="20261112193000 +0000" stop="20261112201500 +0000" channel="Trans7.id@SD"><title lang="id">Super Tawa</title></programme>
+<programme start="20261112201500 +0000" stop="20261112210000 +0000" channel="Trans7.id@SD"><title lang="id">LOL ComediHa!</title></programme>
+<programme start="20261112210000 +0000" stop="20261112214500 +0000" channel="Trans7.id@SD"><title lang="id">Big-Bang!</title></programme>
+<programme start="20261112214500 +0000" stop="20261112223000 +0000" channel="Trans7.id@SD"><title lang="id">Pesantrend</title></programme>
+<programme start="20261112223000 +0000" stop="20261112233000 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi</title></programme>
+<programme start="20261112233000 +0000" stop="20261113003000 +0000" channel="Trans7.id@SD"><title lang="id">Spotlite</title></programme>
+<programme start="20261113003000 +0000" stop="20261113013000 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita Pagi</title></programme>
+<programme start="20261113013000 +0000" stop="20261113023000 +0000" channel="Trans7.id@SD"><title lang="id">FYP (For Your Pagi)</title></programme>
+<programme start="20261113023000 +0000" stop="20261113031500 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita Heits</title></programme>
+<programme start="20261113031500 +0000" stop="20261113041500 +0000" channel="Trans7.id@SD"><title lang="id">Big-Bang!</title></programme>
+<programme start="20261113041500 +0000" stop="20261113050000 +0000" channel="Trans7.id@SD"><title lang="id">Enah Bikin Enak</title></programme>
+<programme start="20261113050000 +0000" stop="20261113054500 +0000" channel="Trans7.id@SD"><title lang="id">Jejak Si Gundul</title></programme>
+<programme start="20261113054500 +0000" stop="20261113063000 +0000" channel="Trans7.id@SD"><title lang="id">Bocah Petualang</title></programme>
+<programme start="20261113063000 +0000" stop="20261113071500 +0000" channel="Trans7.id@SD"><title lang="id">Kepo</title></programme>
+<programme start="20261113071500 +0000" stop="20261113074500 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi</title></programme>
+<programme start="20261113074500 +0000" stop="20261113081500 +0000" channel="Trans7.id@SD"><title lang="id">Spotlite Anti Kudet</title></programme>
+<programme start="20261113081500 +0000" stop="20261113090000 +0000" channel="Trans7.id@SD"><title lang="id">Bisik-Bisik Warga</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="Trans7.id@SD"><title lang="id">Makan Receh</title></programme>
+<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita Update</title></programme>
+<programme start="20261113110000 +0000" stop="20261113114500 +0000" channel="Trans7.id@SD"><title lang="id">On The Spot</title></programme>
+<programme start="20261113114500 +0000" stop="20261113121500 +0000" channel="Trans7.id@SD"><title lang="id">Secret Story</title></programme>
+<programme start="20261113121500 +0000" stop="20261113130000 +0000" channel="Trans7.id@SD"><title lang="id">POV (Pasti Obrolan Viral)</title></programme>
+<programme start="20261113130000 +0000" stop="20261113143000 +0000" channel="Trans7.id@SD"><title lang="id">Arisan</title></programme>
+<programme start="20261113143000 +0000" stop="20261113154500 +0000" channel="Trans7.id@SD"><title lang="id">Lapor Pak!</title></programme>
+<programme start="20261113154500 +0000" stop="20261113163000 +0000" channel="Trans7.id@SD"><title lang="id">The Police</title></programme>
+<programme start="20261113163000 +0000" stop="20261113171500 +0000" channel="Trans7.id@SD"><title lang="id">Misteri Dunia</title></programme>
+<programme start="20261113171500 +0000" stop="20261113174500 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20261113174500 +0000" stop="20261113183000 +0000" channel="Trans7.id@SD"><title lang="id">Sport7</title></programme>
+<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="Trans7.id@SD"><title lang="id">Best Fishing</title></programme>
+<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Trans7.id@SD"><title lang="id">Dracin</title></programme>
+<programme start="20261113193000 +0000" stop="20261113201500 +0000" channel="Trans7.id@SD"><title lang="id">On The Spot</title></programme>
+<programme start="20261113201500 +0000" stop="20261113210000 +0000" channel="Trans7.id@SD"><title lang="id">LOL ComediHa!</title></programme>
+<programme start="20261113210000 +0000" stop="20261113214500 +0000" channel="Trans7.id@SD"><title lang="id">Apa Kata Dunia</title></programme>
+<programme start="20261113214500 +0000" stop="20261113223000 +0000" channel="Trans7.id@SD"><title lang="id">Pesantrend</title></programme>
+<programme start="20261113223000 +0000" stop="20261113233000 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi Pagi Akhir Pekan</title></programme>
+<programme start="20261113233000 +0000" stop="20261114003000 +0000" channel="Trans7.id@SD"><title lang="id">Spotlite</title></programme>
+<programme start="20261114003000 +0000" stop="20261114013000 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita Pagi On The Weekend</title></programme>
+<programme start="20261114013000 +0000" stop="20261114021500 +0000" channel="Trans7.id@SD"><title lang="id">Bikin Seneng</title></programme>
+<programme start="20261114021500 +0000" stop="20261114031500 +0000" channel="Trans7.id@SD"><title lang="id">Heits Abis</title></programme>
+<programme start="20261114031500 +0000" stop="20261114041500 +0000" channel="Trans7.id@SD"><title lang="id">Obrolan Tiap Waktu</title></programme>
+<programme start="20261114041500 +0000" stop="20261114050000 +0000" channel="Trans7.id@SD"><title lang="id">Enaknya Mantul</title></programme>
+<programme start="20261114050000 +0000" stop="20261114054500 +0000" channel="Trans7.id@SD"><title lang="id">Jejak Petualang</title></programme>
+<programme start="20261114054500 +0000" stop="20261114063000 +0000" channel="Trans7.id@SD"><title lang="id">The Explorer</title></programme>
+<programme start="20261114063000 +0000" stop="20261114071500 +0000" channel="Trans7.id@SD"><title lang="id">Mancing Mania Strike Back</title></programme>
+<programme start="20261114071500 +0000" stop="20261114081500 +0000" channel="Trans7.id@SD"><title lang="id">Redaksi Akhir Pekan</title></programme>
+<programme start="20261114081500 +0000" stop="20261114090000 +0000" channel="Trans7.id@SD"><title lang="id">Cuan Bos</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="Trans7.id@SD"><title lang="id">Makan Receh</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="Trans7.id@SD"><title lang="id">Selebrita On The Weekend</title></programme>
+<programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="Trans7.id@SD"><title lang="id">Legenda Bertuah</title></programme>
+<programme start="20261114113000 +0000" stop="20261114121500 +0000" channel="Trans7.id@SD"><title lang="id">Secret Story</title></programme>
+<programme start="20261114121500 +0000" stop="20261114130000 +0000" channel="Trans7.id@SD"><title lang="id">POV (Pasti Obrolan Viral)</title></programme>
+<programme start="20261114130000 +0000" stop="20261114143000 +0000" channel="Trans7.id@SD"><title lang="id">Arisan</title></programme>
+<programme start="20261114143000 +0000" stop="20261114154500 +0000" channel="Trans7.id@SD"><title lang="id">BTS</title></programme>
+<programme start="20261114154500 +0000" stop="20261114163000 +0000" channel="Trans7.id@SD"><title lang="id">The Police</title></programme>
+<programme start="20261114163000 +0000" stop="20261114181500 +0000" channel="Trans7.id@SD"><title lang="id">Tipu Daya Cinta</title></programme>
+<programme start="20261111170000 +0000" stop="20261111220000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Connected</title></programme>
+<programme start="20261111220000 +0000" stop="20261111233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20261111233000 +0000" stop="20261112003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi (L)</title></programme>
+<programme start="20261112003000 +0000" stop="20261112013000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Good Morning</title></programme>
+<programme start="20261112013000 +0000" stop="20261112033000 +0000" channel="TransTV.id@SD"><title lang="id">Pagi-Pagi Ambyar</title></programme>
+<programme start="20261112033000 +0000" stop="20261112053000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Siang</title></programme>
+<programme start="20261112053000 +0000" stop="20261112070000 +0000" channel="TransTV.id@SD"><title lang="id">Brownis (Obrowlan Manis)</title></programme>
+<programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="TransTV.id@SD"><title lang="id">Rumpi: No Secret</title></programme>
+<programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Today</title></programme>
+<programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20261112093000 +0000" stop="20261112103000 +0000" channel="TransTV.id@SD"><title lang="id">Monitor Ketua</title></programme>
+<programme start="20261112103000 +0000" stop="20261112114500 +0000" channel="TransTV.id@SD"><title lang="id">Bikin Laper</title></programme>
+<programme start="20261112114500 +0000" stop="20261112130000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Story</title></programme>
+<programme start="20261112130000 +0000" stop="20261112150000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop Trans TV</title></programme>
+<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop Trans TV</title></programme>
+<programme start="20261112170000 +0000" stop="20261112220000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Connected</title></programme>
+<programme start="20261112220000 +0000" stop="20261112233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20261112233000 +0000" stop="20261113003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi (L)</title></programme>
+<programme start="20261113003000 +0000" stop="20261113013000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Good Morning</title></programme>
+<programme start="20261113013000 +0000" stop="20261113033000 +0000" channel="TransTV.id@SD"><title lang="id">Pagi-Pagi Ambyar</title></programme>
+<programme start="20261113033000 +0000" stop="20261113053000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Siang</title></programme>
+<programme start="20261113053000 +0000" stop="20261113070000 +0000" channel="TransTV.id@SD"><title lang="id">Brownis (Obrowlan Manis)</title></programme>
+<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="TransTV.id@SD"><title lang="id">Rumpi: No Secret</title></programme>
+<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Today</title></programme>
+<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20261113093000 +0000" stop="20261113103000 +0000" channel="TransTV.id@SD"><title lang="id">Monitor Ketua</title></programme>
+<programme start="20261113103000 +0000" stop="20261113114500 +0000" channel="TransTV.id@SD"><title lang="id">Bikin Laper</title></programme>
+<programme start="20261113114500 +0000" stop="20261113130000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Story</title></programme>
+<programme start="20261113130000 +0000" stop="20261113150000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop Trans TV</title></programme>
+<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop Trans TV</title></programme>
+<programme start="20261113170000 +0000" stop="20261113220000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Connected</title></programme>
+<programme start="20261113220000 +0000" stop="20261113233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20261113233000 +0000" stop="20261114003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi (L)</title></programme>
+<programme start="20261114003000 +0000" stop="20261114020000 +0000" channel="TransTV.id@SD"><title lang="id">Kajian Hati</title></programme>
+<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="TransTV.id@SD"><title lang="id">Arjuna Mencari Cinta</title></programme>
+<programme start="20261114030000 +0000" stop="20261114043000 +0000" channel="TransTV.id@SD"><title lang="id">Ambyar In Weekend</title></programme>
+<programme start="20261114043000 +0000" stop="20261114053000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Siang</title></programme>
+<programme start="20261114053000 +0000" stop="20261114063000 +0000" channel="TransTV.id@SD"><title lang="id">The Little Talkchow</title></programme>
+<programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="TransTV.id@SD"><title lang="id">Masak Anti Ribet</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="TransTV.id@SD"><title lang="id">Tanah Air Beta</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Investigasi</title></programme>
+<programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="TransTV.id@SD"><title lang="id">Sehari Jadi Ratu</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="TransTV.id@SD"><title lang="id">Bikin Laper</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Story</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="TransTV.id@SD"><title lang="id">Kejora Show</title></programme>
+<programme start="20261114130000 +0000" stop="20261114150000 +0000" channel="TransTV.id@SD"><title lang="id">Trans TV Festival</title></programme>
+<programme start="20261114150000 +0000" stop="20261114170000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop Trans TV</title></programme>
+<programme start="20261111174500 +0000" stop="20261111190000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20261111190000 +0000" stop="20261111202000 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261111202000 +0000" stop="20261111220000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Painfully Delicious!, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261111220000 +0000" stop="20261111221500 +0000" channel="tvNAsia.hk@HD"><title lang="id">You Can Cook, Sam Kim, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261111221500 +0000" stop="20261111231000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Walking Through Village, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20261111231000 +0000" stop="20261112011000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261112011000 +0000" stop="20261112030000 +0000" channel="tvNAsia.hk@HD"><title lang="id">World Dice Tour S4, Ep 2</title><episode-num system="xmltv_ns">3.1.0/1</episode-num><episode-num system="onscreen">S04E02</episode-num></programme>
+<programme start="20261112030000 +0000" stop="20261112042000 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261112042000 +0000" stop="20261112054000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261112054000 +0000" stop="20261112071000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Abra-ca Empty, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261112071000 +0000" stop="20261112084000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Abra-ca Empty, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261112084000 +0000" stop="20261112091000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Chansung&apos;s Cooking, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261112091000 +0000" stop="20261112093000 +0000" channel="tvNAsia.hk@HD"><title lang="id">You Can Cook, Sam Kim, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261112093000 +0000" stop="20261112111000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Painfully Delicious!, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261112111000 +0000" stop="20261112131000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261112131000 +0000" stop="20261112143000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261112143000 +0000" stop="20261112164000 +0000" channel="tvNAsia.hk@HD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261112164000 +0000" stop="20261112175500 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261112175500 +0000" stop="20261112191500 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261112191500 +0000" stop="20261112204000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261112204000 +0000" stop="20261112220000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Sixth Sense: B-Side, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20261112220000 +0000" stop="20261112232000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261112232000 +0000" stop="20261113013000 +0000" channel="tvNAsia.hk@HD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261113013000 +0000" stop="20261113030000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Abra-ca Empty, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261113030000 +0000" stop="20261113042000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261113042000 +0000" stop="20261113053500 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261113053500 +0000" stop="20261113065000 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261113065000 +0000" stop="20261113085000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261113085000 +0000" stop="20261113091000 +0000" channel="tvNAsia.hk@HD"><title lang="id">You Can Cook, Sam Kim, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20261113091000 +0000" stop="20261113094000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Chansung&apos;s Cooking, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261113094000 +0000" stop="20261113115000 +0000" channel="tvNAsia.hk@HD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261113115000 +0000" stop="20261113131000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261113131000 +0000" stop="20261113143000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261113143000 +0000" stop="20261113161000 +0000" channel="tvNAsia.hk@HD"><title lang="id">GBRB: Joy Pops Laugh..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261113161000 +0000" stop="20261113173000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261113173000 +0000" stop="20261113183000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Walking Through Village, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20261113183000 +0000" stop="20261113204000 +0000" channel="tvNAsia.hk@HD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261113204000 +0000" stop="20261113220000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261113220000 +0000" stop="20261113235000 +0000" channel="tvNAsia.hk@HD"><title lang="id">GBRB: Joy Pops Laugh..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261113235000 +0000" stop="20261114002000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Chansung&apos;s Cooking, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261114002000 +0000" stop="20261114014000 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261114014000 +0000" stop="20261114030000 +0000" channel="tvNAsia.hk@HD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261114030000 +0000" stop="20261114042000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261114042000 +0000" stop="20261114063000 +0000" channel="tvNAsia.hk@HD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261114063000 +0000" stop="20261114084000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Europe Outside: Italy, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20261114084000 +0000" stop="20261114102000 +0000" channel="tvNAsia.hk@HD"><title lang="id">GBRB: Joy Pops Laugh..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261114102000 +0000" stop="20261114115000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261114115000 +0000" stop="20261114131000 +0000" channel="tvNAsia.hk@HD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261114131000 +0000" stop="20261114151000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261114151000 +0000" stop="20261114164500 +0000" channel="tvNAsia.hk@HD"><title lang="id">Painfully Delicious!, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261114164500 +0000" stop="20261114185000 +0000" channel="tvNAsia.hk@HD"><title lang="id">Europe Outside: Italy, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20261111174500 +0000" stop="20261111190000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20261111190000 +0000" stop="20261111202000 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261111202000 +0000" stop="20261111220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Painfully Delicious!, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261111220000 +0000" stop="20261111221500 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook, Sam Kim, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261111221500 +0000" stop="20261111231000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Walking Through Village, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20261111231000 +0000" stop="20261112011000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261112011000 +0000" stop="20261112030000 +0000" channel="tvNAsia.hk@SD"><title lang="id">World Dice Tour S4, Ep 2</title><episode-num system="xmltv_ns">3.1.0/1</episode-num><episode-num system="onscreen">S04E02</episode-num></programme>
+<programme start="20261112030000 +0000" stop="20261112042000 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261112042000 +0000" stop="20261112054000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261112054000 +0000" stop="20261112071000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Abra-ca Empty, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261112071000 +0000" stop="20261112084000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Abra-ca Empty, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261112084000 +0000" stop="20261112091000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Chansung&apos;s Cooking, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261112091000 +0000" stop="20261112093000 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook, Sam Kim, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261112093000 +0000" stop="20261112111000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Painfully Delicious!, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261112111000 +0000" stop="20261112131000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261112131000 +0000" stop="20261112143000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261112143000 +0000" stop="20261112164000 +0000" channel="tvNAsia.hk@SD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261112164000 +0000" stop="20261112175500 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261112175500 +0000" stop="20261112191500 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261112191500 +0000" stop="20261112204000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261112204000 +0000" stop="20261112220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: B-Side, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20261112220000 +0000" stop="20261112232000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261112232000 +0000" stop="20261113013000 +0000" channel="tvNAsia.hk@SD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261113013000 +0000" stop="20261113030000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Abra-ca Empty, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261113030000 +0000" stop="20261113042000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261113042000 +0000" stop="20261113053500 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261113053500 +0000" stop="20261113065000 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261113065000 +0000" stop="20261113085000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261113085000 +0000" stop="20261113091000 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook, Sam Kim, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20261113091000 +0000" stop="20261113094000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Chansung&apos;s Cooking, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261113094000 +0000" stop="20261113115000 +0000" channel="tvNAsia.hk@SD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261113115000 +0000" stop="20261113131000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20261113131000 +0000" stop="20261113143000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261113143000 +0000" stop="20261113161000 +0000" channel="tvNAsia.hk@SD"><title lang="id">GBRB: Joy Pops Laugh..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261113161000 +0000" stop="20261113173000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261113173000 +0000" stop="20261113183000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Walking Through Village, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20261113183000 +0000" stop="20261113204000 +0000" channel="tvNAsia.hk@SD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261113204000 +0000" stop="20261113220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261113220000 +0000" stop="20261113235000 +0000" channel="tvNAsia.hk@SD"><title lang="id">GBRB: Joy Pops Laugh..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261113235000 +0000" stop="20261114002000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Chansung&apos;s Cooking, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261114002000 +0000" stop="20261114014000 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261114014000 +0000" stop="20261114030000 +0000" channel="tvNAsia.hk@SD"><title lang="id">My Bias, My Boss, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261114030000 +0000" stop="20261114042000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261114042000 +0000" stop="20261114063000 +0000" channel="tvNAsia.hk@SD"><title lang="id">World Dice Tour S4, Ep 3</title><episode-num system="xmltv_ns">3.2.0/1</episode-num><episode-num system="onscreen">S04E03</episode-num></programme>
+<programme start="20261114063000 +0000" stop="20261114084000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Europe Outside: Italy, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20261114084000 +0000" stop="20261114102000 +0000" channel="tvNAsia.hk@SD"><title lang="id">GBRB: Joy Pops Laugh..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20261114102000 +0000" stop="20261114115000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: B-Side, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20261114115000 +0000" stop="20261114131000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Judge Returns, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20261114131000 +0000" stop="20261114151000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Undercover Chef: Friends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20261114151000 +0000" stop="20261114164500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Painfully Delicious!, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20261114164500 +0000" stop="20261114185000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Europe Outside: Italy, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20261111173000 +0000" stop="20261111191000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Salmokji: Whispering Water</title></programme>
+<programme start="20261111191000 +0000" stop="20261111211000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Waiting For Rain</title></programme>
+<programme start="20261111211000 +0000" stop="20261111230000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Office</title></programme>
+<programme start="20261111230000 +0000" stop="20261112005000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Hello Ghost</title></programme>
+<programme start="20261112005000 +0000" stop="20261112021000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Rolling</title></programme>
+<programme start="20261112021000 +0000" stop="20261112044500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Tazza: The Hidden Card</title></programme>
+<programme start="20261112044500 +0000" stop="20261112063000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">The Noisy Mansion</title></programme>
+<programme start="20261112063000 +0000" stop="20261112082000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Cafe Midnight</title></programme>
+<programme start="20261112082000 +0000" stop="20261112100000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Worst Woman</title></programme>
+<programme start="20261112100000 +0000" stop="20261112122000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">The Witch: The Other One</title></programme>
+<programme start="20261112122000 +0000" stop="20261112140000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Salmokji: Whispering Water</title></programme>
+<programme start="20261112140000 +0000" stop="20261112154500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Devils</title></programme>
+<programme start="20261112154500 +0000" stop="20261112173000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Single In Seoul</title></programme>
+<programme start="20261112173000 +0000" stop="20261112193000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Hi-Five</title></programme>
+<programme start="20261112193000 +0000" stop="20261112212000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Hitman: Agent Jun</title></programme>
+<programme start="20261112212000 +0000" stop="20261112231000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Whispering Corridors 6</title></programme>
+<programme start="20261112231000 +0000" stop="20261113011000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">War Of The Arrows</title></programme>
+<programme start="20261113011000 +0000" stop="20261113030000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">My Love, My Bride</title></programme>
+<programme start="20261113030000 +0000" stop="20261113050500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">A Melody To Remember</title></programme>
+<programme start="20261113050500 +0000" stop="20261113070000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Cadaver</title></programme>
+<programme start="20261113070000 +0000" stop="20261113082500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Rolling</title></programme>
+<programme start="20261113082500 +0000" stop="20261113102000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Hitman: Agent Jun</title></programme>
+<programme start="20261113102000 +0000" stop="20261113122000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Waiting For Rain</title></programme>
+<programme start="20261113122000 +0000" stop="20261113140000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">The Ultimate Duo</title></programme>
+<programme start="20261113140000 +0000" stop="20261113154500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Following</title></programme>
+<programme start="20261113154500 +0000" stop="20261113174500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">The Childe</title></programme>
+<programme start="20261113174500 +0000" stop="20261113193500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">The Roundup: Punishment</title></programme>
+<programme start="20261113193500 +0000" stop="20261113211500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">The Noisy Mansion</title></programme>
+<programme start="20261113211500 +0000" stop="20261113225500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">My Lovely Angel</title></programme>
+<programme start="20261113225500 +0000" stop="20261114003000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Salmokji: Whispering Water</title></programme>
+<programme start="20261114003000 +0000" stop="20261114023000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Waiting For Rain</title></programme>
+<programme start="20261114023000 +0000" stop="20261114043000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Unforgettable</title></programme>
+<programme start="20261114043000 +0000" stop="20261114064500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Cobweb</title></programme>
+<programme start="20261114064500 +0000" stop="20261114082000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Drive</title></programme>
+<programme start="20261114082000 +0000" stop="20261114101500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Hello Ghost</title></programme>
+<programme start="20261114101500 +0000" stop="20261114120500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Devils</title></programme>
+<programme start="20261114120500 +0000" stop="20261114140000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">My Love, My Bride</title></programme>
+<programme start="20261114140000 +0000" stop="20261114160000 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">The King&apos;s Warden</title></programme>
+<programme start="20261114160000 +0000" stop="20261114180500 +0000" channel="tvNMoviesAsia.hk@HD"><title lang="id">Rebound</title></programme>
+<programme start="20261111173000 +0000" stop="20261111191000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Salmokji: Whispering Water</title></programme>
+<programme start="20261111191000 +0000" stop="20261111211000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Waiting For Rain</title></programme>
+<programme start="20261111211000 +0000" stop="20261111230000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Office</title></programme>
+<programme start="20261111230000 +0000" stop="20261112005000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Hello Ghost</title></programme>
+<programme start="20261112005000 +0000" stop="20261112021000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Rolling</title></programme>
+<programme start="20261112021000 +0000" stop="20261112044500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Tazza: The Hidden Card</title></programme>
+<programme start="20261112044500 +0000" stop="20261112063000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">The Noisy Mansion</title></programme>
+<programme start="20261112063000 +0000" stop="20261112082000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Cafe Midnight</title></programme>
+<programme start="20261112082000 +0000" stop="20261112100000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Worst Woman</title></programme>
+<programme start="20261112100000 +0000" stop="20261112122000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">The Witch: The Other One</title></programme>
+<programme start="20261112122000 +0000" stop="20261112140000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Salmokji: Whispering Water</title></programme>
+<programme start="20261112140000 +0000" stop="20261112154500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Devils</title></programme>
+<programme start="20261112154500 +0000" stop="20261112173000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Single In Seoul</title></programme>
+<programme start="20261112173000 +0000" stop="20261112193000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Hi-Five</title></programme>
+<programme start="20261112193000 +0000" stop="20261112212000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Hitman: Agent Jun</title></programme>
+<programme start="20261112212000 +0000" stop="20261112231000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Whispering Corridors 6</title></programme>
+<programme start="20261112231000 +0000" stop="20261113011000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">War Of The Arrows</title></programme>
+<programme start="20261113011000 +0000" stop="20261113030000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">My Love, My Bride</title></programme>
+<programme start="20261113030000 +0000" stop="20261113050500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">A Melody To Remember</title></programme>
+<programme start="20261113050500 +0000" stop="20261113070000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Cadaver</title></programme>
+<programme start="20261113070000 +0000" stop="20261113082500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Rolling</title></programme>
+<programme start="20261113082500 +0000" stop="20261113102000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Hitman: Agent Jun</title></programme>
+<programme start="20261113102000 +0000" stop="20261113122000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Waiting For Rain</title></programme>
+<programme start="20261113122000 +0000" stop="20261113140000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">The Ultimate Duo</title></programme>
+<programme start="20261113140000 +0000" stop="20261113154500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Following</title></programme>
+<programme start="20261113154500 +0000" stop="20261113174500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">The Childe</title></programme>
+<programme start="20261113174500 +0000" stop="20261113193500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">The Roundup: Punishment</title></programme>
+<programme start="20261113193500 +0000" stop="20261113211500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">The Noisy Mansion</title></programme>
+<programme start="20261113211500 +0000" stop="20261113225500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">My Lovely Angel</title></programme>
+<programme start="20261113225500 +0000" stop="20261114003000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Salmokji: Whispering Water</title></programme>
+<programme start="20261114003000 +0000" stop="20261114023000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Waiting For Rain</title></programme>
+<programme start="20261114023000 +0000" stop="20261114043000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Unforgettable</title></programme>
+<programme start="20261114043000 +0000" stop="20261114064500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Cobweb</title></programme>
+<programme start="20261114064500 +0000" stop="20261114082000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Drive</title></programme>
+<programme start="20261114082000 +0000" stop="20261114101500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Hello Ghost</title></programme>
+<programme start="20261114101500 +0000" stop="20261114120500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Devils</title></programme>
+<programme start="20261114120500 +0000" stop="20261114140000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">My Love, My Bride</title></programme>
+<programme start="20261114140000 +0000" stop="20261114160000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">The King&apos;s Warden</title></programme>
+<programme start="20261114160000 +0000" stop="20261114180500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Rebound</title></programme>
+<programme start="20261111180000 +0000" stop="20261111193000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261111200000 +0000" stop="20261111203000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih</title></programme>
+<programme start="20261111203000 +0000" stop="20261111210000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi 2</title></programme>
+<programme start="20261111210000 +0000" stop="20261111230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi</title></programme>
+<programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi 2</title></programme>
+<programme start="20261111233000 +0000" stop="20261112013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
+<programme start="20261112013000 +0000" stop="20261112023000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat</title></programme>
+<programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi 2</title></programme>
+<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261112040000 +0000" stop="20261112053000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang</title></programme>
+<programme start="20261112053000 +0000" stop="20261112070000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
+<programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat Plus</title></programme>
+<programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Plus</title></programme>
+<programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih</title></programme>
+<programme start="20261112090000 +0000" stop="20261112110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20261112110000 +0000" stop="20261112130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="tvOne.id@SD"><title lang="id">Dua Sisi</title></programme>
+<programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam</title></programme>
+<programme start="20261112153000 +0000" stop="20261112163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261112163000 +0000" stop="20261112180000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20261112180000 +0000" stop="20261112193000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih</title></programme>
+<programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi 2</title></programme>
+<programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi</title></programme>
+<programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi 2</title></programme>
+<programme start="20261112233000 +0000" stop="20261113013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
+<programme start="20261113013000 +0000" stop="20261113023000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat</title></programme>
+<programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi 2</title></programme>
+<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261113040000 +0000" stop="20261113053000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang</title></programme>
+<programme start="20261113053000 +0000" stop="20261113070000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
+<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat Plus</title></programme>
+<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Plus</title></programme>
+<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih</title></programme>
+<programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20261113110000 +0000" stop="20261113130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="tvOne.id@SD"><title lang="id">One On One</title></programme>
+<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam</title></programme>
+<programme start="20261113153000 +0000" stop="20261113163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama 2</title></programme>
+<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20261113170000 +0000" stop="20261113183000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261113183000 +0000" stop="20261113193000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261113200000 +0000" stop="20261113211500 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261113211500 +0000" stop="20261113230000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261113233000 +0000" stop="20261114013000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114023000 +0000" stop="20261114033000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114040000 +0000" stop="20261114053000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114053000 +0000" stop="20261114070000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114090000 +0000" stop="20261114110000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114110000 +0000" stop="20261114130000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114130000 +0000" stop="20261114143000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114143000 +0000" stop="20261114153000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="tvOne.id@SD"><title lang="id">tvOne</title></programme>
+<programme start="20261111170000 +0000" stop="20261111190000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261111190000 +0000" stop="20261111210000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261111210000 +0000" stop="20261111230000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261111230000 +0000" stop="20261112010000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112010000 +0000" stop="20261112030000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112030000 +0000" stop="20261112050000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112050000 +0000" stop="20261112070000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112070000 +0000" stop="20261112090000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112090000 +0000" stop="20261112110000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112110000 +0000" stop="20261112130000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112130000 +0000" stop="20261112150000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261112230000 +0000" stop="20261113010000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113010000 +0000" stop="20261113030000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113030000 +0000" stop="20261113050000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113050000 +0000" stop="20261113070000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113110000 +0000" stop="20261113130000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113130000 +0000" stop="20261113150000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113170000 +0000" stop="20261113190000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113190000 +0000" stop="20261113210000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113210000 +0000" stop="20261113230000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114010000 +0000" stop="20261114030000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114030000 +0000" stop="20261114050000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114050000 +0000" stop="20261114070000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114070000 +0000" stop="20261114090000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114090000 +0000" stop="20261114110000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114110000 +0000" stop="20261114130000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114130000 +0000" stop="20261114150000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261114150000 +0000" stop="20261114170000 +0000" channel="TVRI.id@SD"><title lang="id">TVRI</title></programme>
+<programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="VisionPrime.id@SD"><title lang="id">Healing Jalur King Nassar</title></programme>
+<programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20261111190000 +0000" stop="20261111210000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261111210000 +0000" stop="20261111230000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261111230000 +0000" stop="20261112000000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261112000000 +0000" stop="20261112020000 +0000" channel="VisionPrime.id@SD"><title lang="id">Dishoom</title></programme>
+<programme start="20261112020000 +0000" stop="20261112040000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="VisionPrime.id@SD"><title lang="id">Healing Jalur King Nassar</title></programme>
+<programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261112070000 +0000" stop="20261112090000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261112090000 +0000" stop="20261112110000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261112110000 +0000" stop="20261112130000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="VisionPrime.id@SD"><title lang="id">Roy &amp; Marten Sahabat Sehidup...</title></programme>
+<programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="VisionPrime.id@SD"><title lang="id">Modi S1</title></programme>
+<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="VisionPrime.id@SD"><title lang="id">Bidhorini</title></programme>
+<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="VisionPrime.id@SD"><title lang="id">Healing Jalur King Nassar</title></programme>
+<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="VisionPrime.id@SD"><title lang="id">Liontin</title></programme>
+<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261112220000 +0000" stop="20261113000000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261113000000 +0000" stop="20261113020000 +0000" channel="VisionPrime.id@SD"><title lang="id">Critical Eleven</title></programme>
+<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261113030000 +0000" stop="20261113050000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="VisionPrime.id@SD"><title lang="id">Healing Jalur King Nassar</title></programme>
+<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="VisionPrime.id@SD"><title lang="id">Liontin</title></programme>
+<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261113090000 +0000" stop="20261113120000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="VisionPrime.id@SD"><title lang="id">Roy &amp; Marten Sahabat Sehidup...</title></programme>
+<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="VisionPrime.id@SD"><title lang="id">Modi S1</title></programme>
+<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="VisionPrime.id@SD"><title lang="id">Short Circuit</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="VisionPrime.id@SD"><title lang="id">Healing Jalur King Nassar</title></programme>
+<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20261113190000 +0000" stop="20261113210000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261113210000 +0000" stop="20261113230000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261114000000 +0000" stop="20261114020000 +0000" channel="VisionPrime.id@SD"><title lang="id">Milly &amp; Mamet</title></programme>
+<programme start="20261114020000 +0000" stop="20261114040000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="VisionPrime.id@SD"><title lang="id">My Dear Guardian</title></programme>
+<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="VisionPrime.id@SD"><title lang="id">Liontin</title></programme>
+<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261114090000 +0000" stop="20261114120000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terbaik Itu Kamu</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ternyata Ini Cinta</title></programme>
+<programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="VisionPrime.id@SD"><title lang="id">Candy Caddy</title></programme>
+<programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="VisionPrime.id@SD"><title lang="id">Modi S1</title></programme>
+<programme start="20261114150000 +0000" stop="20261114170000 +0000" channel="VisionPrime.id@SD"><title lang="id">Anjaana Anjaani</title></programme>
+<programme start="20261111170000 +0000" stop="20261111200000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Toilet: Ek Prem Katha</title></programme>
+<programme start="20261111200000 +0000" stop="20261111230000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Raksha Bandhan</title></programme>
+<programme start="20261111230000 +0000" stop="20261112013000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Sooryavanshi</title></programme>
+<programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Song Fillers</title></programme>
+<programme start="20261112020000 +0000" stop="20261112050000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Good Newwz</title></programme>
+<programme start="20261112050000 +0000" stop="20261112080000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Raksha Bandhan</title></programme>
+<programme start="20261112080000 +0000" stop="20261112110000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Toilet: Ek Prem Katha</title></programme>
+<programme start="20261112110000 +0000" stop="20261112140000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Jawani Janeman</title></programme>
+<programme start="20261112140000 +0000" stop="20261112170000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Jawan</title></programme>
+<programme start="20261112170000 +0000" stop="20261112200000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Jawani Janeman</title></programme>
+<programme start="20261112200000 +0000" stop="20261112230000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Jawan</title></programme>
+<programme start="20261112230000 +0000" stop="20261113013000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Toilet: Ek Prem Katha</title></programme>
+<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Song Fillers</title></programme>
+<programme start="20261113020000 +0000" stop="20261113050000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Singham Again</title></programme>
+<programme start="20261113050000 +0000" stop="20261113080000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Jawan</title></programme>
+<programme start="20261113080000 +0000" stop="20261113110000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Jawani Janeman</title></programme>
+<programme start="20261113110000 +0000" stop="20261113140000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">English Vinglish</title></programme>
+<programme start="20261113140000 +0000" stop="20261113170000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Tarla</title></programme>
+<programme start="20261113170000 +0000" stop="20261113200000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">English Vinglish</title></programme>
+<programme start="20261113200000 +0000" stop="20261113230000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Tarla</title></programme>
+<programme start="20261113230000 +0000" stop="20261114013000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Jawani Janeman</title></programme>
+<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Song Fillers</title></programme>
+<programme start="20261114020000 +0000" stop="20261114050000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Raksha Bandhan</title></programme>
+<programme start="20261114050000 +0000" stop="20261114080000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Tarla</title></programme>
+<programme start="20261114080000 +0000" stop="20261114110000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">English Vinglish</title></programme>
+<programme start="20261114110000 +0000" stop="20261114140000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Thank God</title></programme>
+<programme start="20261114140000 +0000" stop="20261114170000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Hi Papa</title></programme>
+<programme start="20261111170000 +0000" stop="20261111171500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
+<programme start="20261111171500 +0000" stop="20261111173000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 36</title><episode-num system="xmltv_ns">0.35.0/1</episode-num><episode-num system="onscreen">S01E36</episode-num></programme>
+<programme start="20261111173000 +0000" stop="20261111174500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
+<programme start="20261111174500 +0000" stop="20261111180000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 38</title><episode-num system="xmltv_ns">0.37.0/1</episode-num><episode-num system="onscreen">S01E38</episode-num></programme>
+<programme start="20261111180000 +0000" stop="20261111181500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
+<programme start="20261111181500 +0000" stop="20261111183000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 36</title><episode-num system="xmltv_ns">0.35.0/1</episode-num><episode-num system="onscreen">S01E36</episode-num></programme>
+<programme start="20261111183000 +0000" stop="20261111184500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
+<programme start="20261111184500 +0000" stop="20261111190000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 38</title><episode-num system="xmltv_ns">0.37.0/1</episode-num><episode-num system="onscreen">S01E38</episode-num></programme>
+<programme start="20261111190000 +0000" stop="20261111190500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 64</title><episode-num system="xmltv_ns">0.63.0/1</episode-num><episode-num system="onscreen">S01E64</episode-num></programme>
+<programme start="20261111190500 +0000" stop="20261111191000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 65</title><episode-num system="xmltv_ns">0.64.0/1</episode-num><episode-num system="onscreen">S01E65</episode-num></programme>
+<programme start="20261111191000 +0000" stop="20261111191500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 66</title><episode-num system="xmltv_ns">0.65.0/1</episode-num><episode-num system="onscreen">S01E66</episode-num></programme>
+<programme start="20261111191500 +0000" stop="20261111192000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 23</title><episode-num system="xmltv_ns">0.22.0/1</episode-num><episode-num system="onscreen">S01E23</episode-num></programme>
+<programme start="20261111192000 +0000" stop="20261111192500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 24</title><episode-num system="xmltv_ns">0.23.0/1</episode-num><episode-num system="onscreen">S01E24</episode-num></programme>
+<programme start="20261111192500 +0000" stop="20261111193000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 25</title><episode-num system="xmltv_ns">0.24.0/1</episode-num><episode-num system="onscreen">S01E25</episode-num></programme>
+<programme start="20261111193000 +0000" stop="20261111194500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Pop Safari S1, Ep 25</title><episode-num system="xmltv_ns">0.24.0/1</episode-num><episode-num system="onscreen">S01E25</episode-num></programme>
+<programme start="20261111194500 +0000" stop="20261111195000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 57</title><episode-num system="xmltv_ns">0.56.0/1</episode-num><episode-num system="onscreen">S01E57</episode-num></programme>
+<programme start="20261111195000 +0000" stop="20261111195500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 58</title><episode-num system="xmltv_ns">0.57.0/1</episode-num><episode-num system="onscreen">S01E58</episode-num></programme>
+<programme start="20261111195500 +0000" stop="20261111200000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 59</title><episode-num system="xmltv_ns">0.58.0/1</episode-num><episode-num system="onscreen">S01E59</episode-num></programme>
+<programme start="20261111200000 +0000" stop="20261111201500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20261111201500 +0000" stop="20261111203000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20261111203000 +0000" stop="20261111204500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20261111204500 +0000" stop="20261111210000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 19</title><episode-num system="xmltv_ns">0.18.0/1</episode-num><episode-num system="onscreen">S01E19</episode-num></programme>
+<programme start="20261111210000 +0000" stop="20261111211500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 23</title><episode-num system="xmltv_ns">0.22.0/1</episode-num><episode-num system="onscreen">S01E23</episode-num></programme>
+<programme start="20261111211500 +0000" stop="20261111213000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 24</title><episode-num system="xmltv_ns">0.23.0/1</episode-num><episode-num system="onscreen">S01E24</episode-num></programme>
+<programme start="20261111213000 +0000" stop="20261111214500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 25</title><episode-num system="xmltv_ns">0.24.0/1</episode-num><episode-num system="onscreen">S01E25</episode-num></programme>
+<programme start="20261111214500 +0000" stop="20261111220000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 26</title><episode-num system="xmltv_ns">0.25.0/1</episode-num><episode-num system="onscreen">S01E26</episode-num></programme>
+<programme start="20261111220000 +0000" stop="20261111221500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20261111221500 +0000" stop="20261111223000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20261111223000 +0000" stop="20261111224500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 41</title><episode-num system="xmltv_ns">0.40.0/1</episode-num><episode-num system="onscreen">S01E41</episode-num></programme>
+<programme start="20261111224500 +0000" stop="20261111230000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 42</title><episode-num system="xmltv_ns">0.41.0/1</episode-num><episode-num system="onscreen">S01E42</episode-num></programme>
+<programme start="20261111230000 +0000" stop="20261111231500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20261111231500 +0000" stop="20261111233000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20261111233000 +0000" stop="20261111234500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 41</title><episode-num system="xmltv_ns">0.40.0/1</episode-num><episode-num system="onscreen">S01E41</episode-num></programme>
+<programme start="20261111234500 +0000" stop="20261112000000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 42</title><episode-num system="xmltv_ns">0.41.0/1</episode-num><episode-num system="onscreen">S01E42</episode-num></programme>
+<programme start="20261112000000 +0000" stop="20261112000500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 67</title><episode-num system="xmltv_ns">0.66.0/1</episode-num><episode-num system="onscreen">S01E67</episode-num></programme>
+<programme start="20261112000500 +0000" stop="20261112001000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 68</title><episode-num system="xmltv_ns">0.67.0/1</episode-num><episode-num system="onscreen">S01E68</episode-num></programme>
+<programme start="20261112001000 +0000" stop="20261112001500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 69</title><episode-num system="xmltv_ns">0.68.0/1</episode-num><episode-num system="onscreen">S01E69</episode-num></programme>
+<programme start="20261112001500 +0000" stop="20261112002000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 26</title><episode-num system="xmltv_ns">0.25.0/1</episode-num><episode-num system="onscreen">S01E26</episode-num></programme>
+<programme start="20261112002000 +0000" stop="20261112002500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 27</title><episode-num system="xmltv_ns">0.26.0/1</episode-num><episode-num system="onscreen">S01E27</episode-num></programme>
+<programme start="20261112002500 +0000" stop="20261112003000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 28</title><episode-num system="xmltv_ns">0.27.0/1</episode-num><episode-num system="onscreen">S01E28</episode-num></programme>
+<programme start="20261112003000 +0000" stop="20261112004500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Pop Safari S1, Ep 26</title><episode-num system="xmltv_ns">0.25.0/1</episode-num><episode-num system="onscreen">S01E26</episode-num></programme>
+<programme start="20261112004500 +0000" stop="20261112005000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 60</title><episode-num system="xmltv_ns">0.59.0/1</episode-num><episode-num system="onscreen">S01E60</episode-num></programme>
+<programme start="20261112005000 +0000" stop="20261112005500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 61</title><episode-num system="xmltv_ns">0.60.0/1</episode-num><episode-num system="onscreen">S01E61</episode-num></programme>
+<programme start="20261112005500 +0000" stop="20261112010000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 62</title><episode-num system="xmltv_ns">0.61.0/1</episode-num><episode-num system="onscreen">S01E62</episode-num></programme>
+<programme start="20261112010000 +0000" stop="20261112011500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 20</title><episode-num system="xmltv_ns">0.19.0/1</episode-num><episode-num system="onscreen">S01E20</episode-num></programme>
+<programme start="20261112011500 +0000" stop="20261112013000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 21</title><episode-num system="xmltv_ns">1.20.0/1</episode-num><episode-num system="onscreen">S02E21</episode-num></programme>
+<programme start="20261112013000 +0000" stop="20261112014500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 22</title><episode-num system="xmltv_ns">1.21.0/1</episode-num><episode-num system="onscreen">S02E22</episode-num></programme>
+<programme start="20261112014500 +0000" stop="20261112020000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 23</title><episode-num system="xmltv_ns">1.22.0/1</episode-num><episode-num system="onscreen">S02E23</episode-num></programme>
+<programme start="20261112020000 +0000" stop="20261112021500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 27</title><episode-num system="xmltv_ns">0.26.0/1</episode-num><episode-num system="onscreen">S01E27</episode-num></programme>
+<programme start="20261112021500 +0000" stop="20261112023000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 28</title><episode-num system="xmltv_ns">0.27.0/1</episode-num><episode-num system="onscreen">S01E28</episode-num></programme>
+<programme start="20261112170000 +0000" stop="20261112171500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20261112171500 +0000" stop="20261112173000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20261112173000 +0000" stop="20261112174500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 41</title><episode-num system="xmltv_ns">0.40.0/1</episode-num><episode-num system="onscreen">S01E41</episode-num></programme>
+<programme start="20261112174500 +0000" stop="20261112180000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 42</title><episode-num system="xmltv_ns">0.41.0/1</episode-num><episode-num system="onscreen">S01E42</episode-num></programme>
+<programme start="20261112180000 +0000" stop="20261112181500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20261112181500 +0000" stop="20261112183000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20261112183000 +0000" stop="20261112184500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 41</title><episode-num system="xmltv_ns">0.40.0/1</episode-num><episode-num system="onscreen">S01E41</episode-num></programme>
+<programme start="20261112184500 +0000" stop="20261112190000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 42</title><episode-num system="xmltv_ns">0.41.0/1</episode-num><episode-num system="onscreen">S01E42</episode-num></programme>
+<programme start="20261112190000 +0000" stop="20261112190500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 67</title><episode-num system="xmltv_ns">0.66.0/1</episode-num><episode-num system="onscreen">S01E67</episode-num></programme>
+<programme start="20261112190500 +0000" stop="20261112191000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 68</title><episode-num system="xmltv_ns">0.67.0/1</episode-num><episode-num system="onscreen">S01E68</episode-num></programme>
+<programme start="20261112191000 +0000" stop="20261112191500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 69</title><episode-num system="xmltv_ns">0.68.0/1</episode-num><episode-num system="onscreen">S01E69</episode-num></programme>
+<programme start="20261112191500 +0000" stop="20261112192000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 26</title><episode-num system="xmltv_ns">0.25.0/1</episode-num><episode-num system="onscreen">S01E26</episode-num></programme>
+<programme start="20261112192000 +0000" stop="20261112192500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 27</title><episode-num system="xmltv_ns">0.26.0/1</episode-num><episode-num system="onscreen">S01E27</episode-num></programme>
+<programme start="20261112192500 +0000" stop="20261112193000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 28</title><episode-num system="xmltv_ns">0.27.0/1</episode-num><episode-num system="onscreen">S01E28</episode-num></programme>
+<programme start="20261112193000 +0000" stop="20261112194500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Pop Safari S1, Ep 26</title><episode-num system="xmltv_ns">0.25.0/1</episode-num><episode-num system="onscreen">S01E26</episode-num></programme>
+<programme start="20261112194500 +0000" stop="20261112195000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 60</title><episode-num system="xmltv_ns">0.59.0/1</episode-num><episode-num system="onscreen">S01E60</episode-num></programme>
+<programme start="20261112195000 +0000" stop="20261112195500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 61</title><episode-num system="xmltv_ns">0.60.0/1</episode-num><episode-num system="onscreen">S01E61</episode-num></programme>
+<programme start="20261112195500 +0000" stop="20261112200000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 62</title><episode-num system="xmltv_ns">0.61.0/1</episode-num><episode-num system="onscreen">S01E62</episode-num></programme>
+<programme start="20261112200000 +0000" stop="20261112201500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 20</title><episode-num system="xmltv_ns">0.19.0/1</episode-num><episode-num system="onscreen">S01E20</episode-num></programme>
+<programme start="20261112201500 +0000" stop="20261112203000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 21</title><episode-num system="xmltv_ns">1.20.0/1</episode-num><episode-num system="onscreen">S02E21</episode-num></programme>
+<programme start="20261112203000 +0000" stop="20261112204500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 22</title><episode-num system="xmltv_ns">1.21.0/1</episode-num><episode-num system="onscreen">S02E22</episode-num></programme>
+<programme start="20261112204500 +0000" stop="20261112210000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 23</title><episode-num system="xmltv_ns">1.22.0/1</episode-num><episode-num system="onscreen">S02E23</episode-num></programme>
+<programme start="20261112210000 +0000" stop="20261112211500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 27</title><episode-num system="xmltv_ns">0.26.0/1</episode-num><episode-num system="onscreen">S01E27</episode-num></programme>
+<programme start="20261112211500 +0000" stop="20261112213000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 28</title><episode-num system="xmltv_ns">0.27.0/1</episode-num><episode-num system="onscreen">S01E28</episode-num></programme>
+<programme start="20261112213000 +0000" stop="20261112214500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 29</title><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
+<programme start="20261112214500 +0000" stop="20261112220000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+<programme start="20261112220000 +0000" stop="20261112221500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 43</title><episode-num system="xmltv_ns">0.42.0/1</episode-num><episode-num system="onscreen">S01E43</episode-num></programme>
+<programme start="20261112221500 +0000" stop="20261112223000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 44</title><episode-num system="xmltv_ns">0.43.0/1</episode-num><episode-num system="onscreen">S01E44</episode-num></programme>
+<programme start="20261112223000 +0000" stop="20261112224500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 45</title><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20261112224500 +0000" stop="20261112230000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 46</title><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20261112230000 +0000" stop="20261112231500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 43</title><episode-num system="xmltv_ns">0.42.0/1</episode-num><episode-num system="onscreen">S01E43</episode-num></programme>
+<programme start="20261112231500 +0000" stop="20261112233000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 44</title><episode-num system="xmltv_ns">0.43.0/1</episode-num><episode-num system="onscreen">S01E44</episode-num></programme>
+<programme start="20261112233000 +0000" stop="20261112234500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 45</title><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20261112234500 +0000" stop="20261113000000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 46</title><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20261113000000 +0000" stop="20261113000500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 70</title><episode-num system="xmltv_ns">0.69.0/1</episode-num><episode-num system="onscreen">S01E70</episode-num></programme>
+<programme start="20261113000500 +0000" stop="20261113001000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 71</title><episode-num system="xmltv_ns">0.70.0/1</episode-num><episode-num system="onscreen">S01E71</episode-num></programme>
+<programme start="20261113001000 +0000" stop="20261113001500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 72</title><episode-num system="xmltv_ns">0.71.0/1</episode-num><episode-num system="onscreen">S01E72</episode-num></programme>
+<programme start="20261113001500 +0000" stop="20261113002000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 29</title><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
+<programme start="20261113002000 +0000" stop="20261113002500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+<programme start="20261113002500 +0000" stop="20261113003000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 31</title><episode-num system="xmltv_ns">0.30.0/1</episode-num><episode-num system="onscreen">S01E31</episode-num></programme>
+<programme start="20261113003000 +0000" stop="20261113004500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Pop Safari S1, Ep 27</title><episode-num system="xmltv_ns">0.26.0/1</episode-num><episode-num system="onscreen">S01E27</episode-num></programme>
+<programme start="20261113004500 +0000" stop="20261113005000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 63</title><episode-num system="xmltv_ns">0.62.0/1</episode-num><episode-num system="onscreen">S01E63</episode-num></programme>
+<programme start="20261113005000 +0000" stop="20261113005500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 64</title><episode-num system="xmltv_ns">0.63.0/1</episode-num><episode-num system="onscreen">S01E64</episode-num></programme>
+<programme start="20261113005500 +0000" stop="20261113010000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 66</title><episode-num system="xmltv_ns">0.65.0/1</episode-num><episode-num system="onscreen">S01E66</episode-num></programme>
+<programme start="20261113010000 +0000" stop="20261113011500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 24</title><episode-num system="xmltv_ns">1.23.0/1</episode-num><episode-num system="onscreen">S02E24</episode-num></programme>
+<programme start="20261113011500 +0000" stop="20261113013000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 25</title><episode-num system="xmltv_ns">1.24.0/1</episode-num><episode-num system="onscreen">S02E25</episode-num></programme>
+<programme start="20261113013000 +0000" stop="20261113014500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 26</title><episode-num system="xmltv_ns">1.25.0/1</episode-num><episode-num system="onscreen">S02E26</episode-num></programme>
+<programme start="20261113014500 +0000" stop="20261113020000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 27</title><episode-num system="xmltv_ns">1.26.0/1</episode-num><episode-num system="onscreen">S02E27</episode-num></programme>
+<programme start="20261113020000 +0000" stop="20261113021500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 31</title><episode-num system="xmltv_ns">0.30.0/1</episode-num><episode-num system="onscreen">S01E31</episode-num></programme>
+<programme start="20261113021500 +0000" stop="20261113023000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 32</title><episode-num system="xmltv_ns">0.31.0/1</episode-num><episode-num system="onscreen">S01E32</episode-num></programme>
+<programme start="20261113170000 +0000" stop="20261113171500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 43</title><episode-num system="xmltv_ns">0.42.0/1</episode-num><episode-num system="onscreen">S01E43</episode-num></programme>
+<programme start="20261113171500 +0000" stop="20261113173000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 44</title><episode-num system="xmltv_ns">0.43.0/1</episode-num><episode-num system="onscreen">S01E44</episode-num></programme>
+<programme start="20261113173000 +0000" stop="20261113174500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 45</title><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20261113174500 +0000" stop="20261113180000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 46</title><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20261113180000 +0000" stop="20261113181500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 43</title><episode-num system="xmltv_ns">0.42.0/1</episode-num><episode-num system="onscreen">S01E43</episode-num></programme>
+<programme start="20261113181500 +0000" stop="20261113183000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 44</title><episode-num system="xmltv_ns">0.43.0/1</episode-num><episode-num system="onscreen">S01E44</episode-num></programme>
+<programme start="20261113183000 +0000" stop="20261113184500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 45</title><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20261113184500 +0000" stop="20261113190000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Leo: Wildlife Ranger S1, Ep 46</title><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20261113190000 +0000" stop="20261113190500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 70</title><episode-num system="xmltv_ns">0.69.0/1</episode-num><episode-num system="onscreen">S01E70</episode-num></programme>
+<programme start="20261113190500 +0000" stop="20261113191000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 71</title><episode-num system="xmltv_ns">0.70.0/1</episode-num><episode-num system="onscreen">S01E71</episode-num></programme>
+<programme start="20261113191000 +0000" stop="20261113191500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal Alphabet S1, Ep 72</title><episode-num system="xmltv_ns">0.71.0/1</episode-num><episode-num system="onscreen">S01E72</episode-num></programme>
+<programme start="20261113191500 +0000" stop="20261113192000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 29</title><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
+<programme start="20261113192000 +0000" stop="20261113192500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+<programme start="20261113192500 +0000" stop="20261113193000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s That Noise? S1, Ep 31</title><episode-num system="xmltv_ns">0.30.0/1</episode-num><episode-num system="onscreen">S01E31</episode-num></programme>
+<programme start="20261113193000 +0000" stop="20261113194500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Pop Safari S1, Ep 27</title><episode-num system="xmltv_ns">0.26.0/1</episode-num><episode-num system="onscreen">S01E27</episode-num></programme>
+<programme start="20261113194500 +0000" stop="20261113195000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 63</title><episode-num system="xmltv_ns">0.62.0/1</episode-num><episode-num system="onscreen">S01E63</episode-num></programme>
+<programme start="20261113195000 +0000" stop="20261113195500 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 64</title><episode-num system="xmltv_ns">0.63.0/1</episode-num><episode-num system="onscreen">S01E64</episode-num></programme>
+<programme start="20261113195500 +0000" stop="20261113200000 +0000" channel="ZooMoo.sg@SD"><title lang="id">What&apos;s For Dinner? S1, Ep 66</title><episode-num system="xmltv_ns">0.65.0/1</episode-num><episode-num system="onscreen">S01E66</episode-num></programme>
+<programme start="20261113200000 +0000" stop="20261113201500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 24</title><episode-num system="xmltv_ns">1.23.0/1</episode-num><episode-num system="onscreen">S02E24</episode-num></programme>
+<programme start="20261113201500 +0000" stop="20261113203000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 25</title><episode-num system="xmltv_ns">1.24.0/1</episode-num><episode-num system="onscreen">S02E25</episode-num></programme>
+<programme start="20261113203000 +0000" stop="20261113204500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 26</title><episode-num system="xmltv_ns">1.25.0/1</episode-num><episode-num system="onscreen">S02E26</episode-num></programme>
+<programme start="20261113204500 +0000" stop="20261113210000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S2, Ep 27</title><episode-num system="xmltv_ns">1.26.0/1</episode-num><episode-num system="onscreen">S02E27</episode-num></programme>
+<programme start="20261113210000 +0000" stop="20261113211500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 31</title><episode-num system="xmltv_ns">0.30.0/1</episode-num><episode-num system="onscreen">S01E31</episode-num></programme>
+<programme start="20261113211500 +0000" stop="20261113213000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 32</title><episode-num system="xmltv_ns">0.31.0/1</episode-num><episode-num system="onscreen">S01E32</episode-num></programme>
+<programme start="20261113213000 +0000" stop="20261113214500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 33</title><episode-num system="xmltv_ns">0.32.0/1</episode-num><episode-num system="onscreen">S01E33</episode-num></programme>
+<programme start="20261113214500 +0000" stop="20261113220000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 34</title><episode-num system="xmltv_ns">0.33.0/1</episode-num><episode-num system="onscreen">S01E34</episode-num></programme>
+<programme start="20261113220000 +0000" stop="20261113221500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20261113221500 +0000" stop="20261113223000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20261113223000 +0000" stop="20261113224500 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20261113224500 +0000" stop="20261113230000 +0000" channel="ZooMoo.sg@SD"><title lang="id">ZooMoo&apos;s Got Brains S1, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
+<programme start="20261113230000 +0000" stop="20261113231500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20261113231500 +0000" stop="20261113233000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20261113233000 +0000" stop="20261113234500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20261113234500 +0000" stop="20261114000000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Animal All Stars S1, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20261114000000 +0000" stop="20261114001500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 27</title><episode-num system="xmltv_ns">0.26.0/1</episode-num><episode-num system="onscreen">S01E27</episode-num></programme>
+<programme start="20261114001500 +0000" stop="20261114003000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 28</title><episode-num system="xmltv_ns">0.27.0/1</episode-num><episode-num system="onscreen">S01E28</episode-num></programme>
+<programme start="20261114003000 +0000" stop="20261114004500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 29</title><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
+<programme start="20261114004500 +0000" stop="20261114010000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+<programme start="20261114010000 +0000" stop="20261114011500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 31</title><episode-num system="xmltv_ns">0.30.0/1</episode-num><episode-num system="onscreen">S01E31</episode-num></programme>
+<programme start="20261114011500 +0000" stop="20261114013000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 32</title><episode-num system="xmltv_ns">0.31.0/1</episode-num><episode-num system="onscreen">S01E32</episode-num></programme>
+<programme start="20261114013000 +0000" stop="20261114014500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 33</title><episode-num system="xmltv_ns">0.32.0/1</episode-num><episode-num system="onscreen">S01E33</episode-num></programme>
+<programme start="20261114014500 +0000" stop="20261114020000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 34</title><episode-num system="xmltv_ns">0.33.0/1</episode-num><episode-num system="onscreen">S01E34</episode-num></programme>
+<programme start="20261114020000 +0000" stop="20261114021500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
+<programme start="20261114021500 +0000" stop="20261114023000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 36</title><episode-num system="xmltv_ns">0.35.0/1</episode-num><episode-num system="onscreen">S01E36</episode-num></programme>
+<programme start="20261114023000 +0000" stop="20261114024500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
+<programme start="20261114024500 +0000" stop="20261114030000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 38</title><episode-num system="xmltv_ns">0.37.0/1</episode-num><episode-num system="onscreen">S01E38</episode-num></programme>
+<programme start="20261114030000 +0000" stop="20261114031500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20261114031500 +0000" stop="20261114033000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20261114033000 +0000" stop="20261114034500 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 41</title><episode-num system="xmltv_ns">0.40.0/1</episode-num><episode-num system="onscreen">S01E41</episode-num></programme>
+<programme start="20261114034500 +0000" stop="20261114040000 +0000" channel="ZooMoo.sg@SD"><title lang="id">Jelly Jamm S1, Ep 42</title><episode-num system="xmltv_ns">0.41.0/1</episode-num><episode-num system="onscreen">S01E42</episode-num></programme>
+</tv>
