@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="SRFinfo.ch@SD"><display-name>SRF info</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png"/></channel>
+<channel id="StarTV.ch@SD"><display-name>Star TV</display-name><icon src="https://i.imgur.com/04y9wz8.png"/></channel>
+<channel id="TeleM1.ch@SD"><display-name>Tele M1</display-name><icon src="https://i.imgur.com/oFiixzK.png"/></channel>
+<channel id="Telebasel.ch@SD"><display-name>Telebasel</display-name><icon src="https://i.imgur.com/t6HbqgA.png"/></channel>
+<channel id="TeleBarn.ch@SD"><display-name>TeleBärn</display-name><icon src="https://i.imgur.com/YwUbbKA.png"/></channel>
+<channel id="MDRFernsehen.de@Sachsen"><display-name>MDR Sachsen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png"/></channel>
+<channel id="Eurosport1.fr@Germany"><display-name>Eurosport 1 de</display-name><icon src="https://i.imgur.com/olQJgm7.png"/></channel>
+<channel id="Sport1.de@SD"><display-name>Sport1</display-name><icon src="https://i.imgur.com/Tsjt7v9.png"/></channel>
+<channel id="MTV.de@SD"><display-name>MTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/></channel>
+<channel id="ntv.at@SD"><display-name>n-tv</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png"/></channel>
+<channel id="ARDalpha.de@SD"><display-name>ARD-alpha</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png"/></channel>
+<channel id="WELT.de@SD"><display-name>WELT</display-name><icon src="https://i.imgur.com/s4TZoxx.png"/></channel>
+<channel id="CNN.us@SD"><display-name>CNN</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png"/></channel>
+<channel id="Rai1.it@SD"><display-name>Rai 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"/></channel>
+<channel id="Rai2.it@SD"><display-name>Rai 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"/></channel>
+<channel id="Rai3.it@HD"><display-name>Rai 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"/></channel>
+<channel id="France3.fr@RhoneAlpes"><display-name>France 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg"/></channel>
+<channel id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD"><display-name>TV5 Monde FBS</display-name><icon src="https://i.imgur.com/WmRbudc.png"/></channel>
+<channel id="EuronewsGerman.fr@SD"><display-name>euronews de</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/></channel>
+<channel id="TeleZuri.ch@SD"><display-name>TeleZüri</display-name><icon src="https://i.imgur.com/f8kzNT1.png"/></channel>
+<channel id="France5.fr@SD"><display-name>France 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"/></channel>
+<channel id="Tele1.ch@SD"><display-name>Tele 1</display-name><icon src="https://i.imgur.com/WIfBbLj.png"/></channel>
+<channel id="TVO.ch@SD"><display-name>TVO - das Ostschweizer Fernsehen</display-name><icon src="https://i.imgur.com/i57Vst6.png"/></channel>
+<channel id="TELE5.de@SD"><display-name>Tele 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png"/></channel>
+<channel id="BBCNews.uk@Europe"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="ZDFneo.de@SD"><display-name>ZDFneo</display-name><icon src="https://i.imgur.com/1JIIGgL.png"/></channel>
+<channel id="CNBCEurope.uk@SD"><display-name>CNBC Europe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"/></channel>
+<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TV8_logo.svg/500px-TV8_logo.svg.png"/></channel>
+<channel id="DisneyChannel.de@SD"><display-name>Disney Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"/></channel>
+<channel id="France24.fr@French"><display-name>France 24 fr</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/></channel>
+<channel id="AlJazeera.qa@English"><display-name>Al Jazeera en</display-name><icon src="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="BloombergTV.us@Europe"><display-name>Bloomberg</display-name><icon src="https://i.imgur.com/OuogLHx.png"/></channel>
+<channel id="RTPMundo.pt@SD"><display-name>RTPi</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png"/></channel>
+<channel id="TVEInternacionalEurope.es@SD"><display-name>TVEi</display-name><icon src="https://i.ibb.co/RpKLCMvp/tve.png"/></channel>
+<channel id="DMAX.de@SD"><display-name>DMAX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png"/></channel>
+<channel id="ORFIII.at@SD"><display-name>ORF 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png"/></channel>
+<channel id="ZDFinfo.de@SD"><display-name>ZDFinfo</display-name><icon src="https://i.imgur.com/vtq1IWp.png"/></channel>
+<channel id="AnixeHDSerie.de@SD"><display-name>Anixe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/960px-Anixe_HD.svg.png"/></channel>
+<channel id="DeluxeMusic.de@SD"><display-name>Deluxe Music</display-name><icon src="https://i.imgur.com/HimuPPb.png"/></channel>
+<channel id="7PlusNickSchweiz.ch@SD"><display-name>7+ / Nick CH</display-name><icon src="https://i.imgur.com/yK6XmT6.png"/></channel>
+<channel id="CBBC.uk@SD"><display-name>CBBC</display-name><icon src="https://i.imgur.com/tk8G4CU.png"/></channel>
+<channel id="ITV3.uk@SD"><display-name>ITV 3</display-name><icon src="https://i.imgur.com/JuyM2z5.png"/></channel>
+<channel id="Channel5.uk@SD"><display-name>Channel 5</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png"/></channel>
+<channel id="E4.uk@SD"><display-name>E4</display-name><icon src="https://i.imgur.com/22MfjF4.png"/></channel>
+<channel id="More4.uk@SD"><display-name>More 4</display-name><icon src="https://i.imgur.com/cx5YcAU.png"/></channel>
+<channel id="EuronewsItalian.fr@SD"><display-name>euronews it</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/></channel>
+<channel id="EuronewsEnglish.fr@SD"><display-name>euronews en</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/></channel>
+<channel id="EuronewsFrench.fr@SD"><display-name>euronews fr</display-name><icon src="https://i.imgur.com/5A0Wnrv.png"/></channel>
+<channel id="ITV2.uk@SD"><display-name>ITV 2</display-name><icon src="https://i.imgur.com/2BpUK0W.png"/></channel>
+<channel id="Channel4.uk@UK"><display-name>Channel 4</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png"/></channel>
+<channel id="Film4.uk@SD"><display-name>Film 4</display-name><icon src="https://i.imgur.com/MTSgoGI.png"/></channel>
+<channel id="W9.fr@SD"><display-name>W9</display-name><icon src="https://i.imgur.com/reYeMuE.png"/></channel>
+<channel id="Gulli.fr@SD"><display-name>Gulli</display-name><icon src="https://i.imgur.com/kqYssbW.png"/></channel>
+<channel id="RaiSport.it@SD"><display-name>Rai Sport 1</display-name><icon src="https://i.imgur.com/6PEevOM.png"/></channel>
+<channel id="TeleTop.ch@SD"><display-name>Tele Top</display-name><icon src="https://i.imgur.com/UTpajXB.png"/></channel>
+<channel id="LA7.it@SD"><display-name>La7</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png"/></channel>
+<channel id="Cielo.it@SD"><display-name>Cielo</display-name><icon src="https://i.imgur.com/tWUy3yx.png"/></channel>
+<channel id="RTL1025TV.it@SD"><display-name>RTL 102.5</display-name><icon src="https://i.imgur.com/75qUdR7.png"/></channel>
+<channel id="RaiNews24.it@SD"><display-name>Rai News 24</display-name><icon src="https://i.imgur.com/n2u57y3.png"/></channel>
+<channel id="France4.fr@SD"><display-name>France 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png"/></channel>
+<channel id="LemanBleu.ch@SD"><display-name>Léman Bleu</display-name><icon src="https://i.imgur.com/6ijbSTr.png"/></channel>
+<channel id="LaTele.ch@SD"><display-name>La Télé</display-name><icon src="https://i.imgur.com/DdCfl4n.png"/></channel>
+<channel id="TeleBielingue.ch@SD"><display-name>TeleBielingue</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png"/></channel>
+<channel id="CanalAlphaNeuchatel.ch@SD"><display-name>Canal Alpha Neuchâtel</display-name><icon src="https://i.imgur.com/eQ8xHK9.jpg"/></channel>
+<channel id="TeleTicino.ch@SD"><display-name>TeleTicino</display-name><icon src="https://i.imgur.com/u6dLKa9.png"/></channel>
+<channel id="SAT1Gold.de@SD"><display-name>Sat.1 Gold</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png"/></channel>
+<channel id="SRF1.ch@SD"><display-name>SRF 1</display-name><icon src="https://i.imgur.com/xgml2Pl.png"/></channel>
+<channel id="SRFzwei.ch@SD"><display-name>SRF zwei</display-name><icon src="https://i.imgur.com/887SKjm.png"/></channel>
+<channel id="RTS2.ch@SD"><display-name>RTS Deux</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/960px-RTS_2_logo_2019.svg.png"/></channel>
+<channel id="ZDF.de@SD"><display-name>ZDF</display-name><icon src="https://i.imgur.com/rtLb6m9.png"/></channel>
+<channel id="ORF1.at@SD"><display-name>ORF 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg"/></channel>
+<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://i.imgur.com/QxHt9NC.png"/></channel>
+<channel id="DasErste.de@SD"><display-name>Das Erste</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"/></channel>
+<channel id="arte.de@SD"><display-name>Arte de</display-name><icon src="https://i.imgur.com/ecXMjNl.png"/></channel>
+<channel id="3sat.de@SD"><display-name>3sat</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"/></channel>
+<channel id="M6.ch@SD"><display-name>M6 Suisse</display-name><icon src="https://i.imgur.com/7GVp3fW.png"/></channel>
+<channel id="Kanal9.ch@SD"><display-name>Kanal9</display-name><icon src="https://i.imgur.com/TNciMh2.png"/></channel>
+<channel id="Sudostschweiz.ch@SD"><display-name>Tele Südostschweiz</display-name><icon src="https://i.imgur.com/pACLTuF.png"/></channel>
+<channel id="ProSiebenMaxx.de@SD"><display-name>ProSieben Maxx</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png"/></channel>
+<channel id="S1.ch@SD"><display-name>S1</display-name><icon src="https://i.imgur.com/rV0Gx1V.png"/></channel>
+<channel id="TV24.ch@SD"><display-name>TV24</display-name><icon src="https://i.imgur.com/TOgivuE.png"/></channel>
+<channel id="phoenix.de@HD"><display-name>Phoenix</display-name><icon src="https://i.imgur.com/T1532t9.png"/></channel>
+<channel id="Rete4.it@SD"><display-name>Rete 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png"/></channel>
+<channel id="arte.fr@SD"><display-name>Arte fr</display-name><icon src="https://i.imgur.com/ecXMjNl.png"/></channel>
+<channel id="RTS1.ch@SD"><display-name>RTS Un</display-name><icon src="https://i.imgur.com/OP5lHv9.png"/></channel>
+<channel id="BBCOne.uk@London"><display-name>BBC One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"/></channel>
+<channel id="BBCTwo.uk@England"><display-name>BBC Two</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"/></channel>
+<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://share.google/qhHwXjkSbZPrPrDtg"/></channel>
+<channel id="BRFernsehen.de@Sud"><display-name>BR Fernsehen Süd</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png"/></channel>
+<channel id="NDRFernsehen.de@Hamburg"><display-name>NDR Fernsehen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png"/></channel>
+<channel id="WDRFernsehen.de@Koln"><display-name>WDR Fernsehen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png"/></channel>
+<channel id="RSILa1.ch@SD"><display-name>RSI LA 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/960px-RSI_La_1_2012.svg.png"/></channel>
+<channel id="RSILa2.ch@SD"><display-name>RSI LA 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png"/></channel>
+<channel id="Swiss1.ch@SD"><display-name>SWISS1</display-name><icon src="https://i.imgur.com/KiINjID.png"/></channel>
+<channel id="France2.fr@SD"><display-name>France 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"/></channel>
+<channel id="KiKA.de@SD"><display-name>KiKa</display-name><icon src="https://i.imgur.com/vZdNp5S.png"/></channel>
+<channel id="Italia1.it@SD"><display-name>Italia 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png"/></channel>
+<channel id="SWRFernsehenBadenWurttemberg.de@SD"><display-name>SWR Fernsehen BW</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png"/></channel>
+<channel id="ITV1.uk@London"><display-name>ITV</display-name><icon src="https://i.imgur.com/xwPekCF.png"/></channel>
+<channel id="ORF2.at@SD"><display-name>ORF 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg"/></channel>
+<channel id="5Plus.ch@SD"><display-name>5+</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/0/04/5_Plus_TV.svg/revision/latest/scale-to-width-down/512"/></channel>
+<channel id="3Plus.ch@SD"><display-name>3+</display-name><icon src="https://i.imgur.com/w90p4yx.png"/></channel>
+<channel id="4Plus.ch@SD"><display-name>4+</display-name><icon src="https://i.imgur.com/5KlJk5n.png"/></channel>
+<channel id="VOX.de@SD"><display-name>VOX</display-name><icon src="https://i.imgur.com/QPcmfZb.png"/></channel>
+<channel id="kabeleins.de@SD"><display-name>Kabel Eins</display-name><icon src="https://i.imgur.com/6pulSHZ.png"/></channel>
+<channel id="ProSiebenSchweiz.ch@SD"><display-name>ProSieben Schweiz</display-name><icon src="https://i.imgur.com/I25oS4j.png"/></channel>
+<channel id="RTL.de@SD"><display-name>RTL</display-name><icon src="https://i.imgur.com/94K94k2.png"/></channel>
+<channel id="RTLZwei.de@SD"><display-name>RTLZWEI</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png"/></channel>
+<channel id="Nitro.de@SD"><display-name>NITRO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png"/></channel>
+<channel id="RTLSuper.de@SD"><display-name>Super RTL</display-name><icon src="https://i.imgur.com/KbdK8t9.png"/></channel>
+<channel id="SAT1.de@SD"><display-name>Sat.1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png"/></channel>
+<channel id="sixx.de@SD"><display-name>sixx</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png"/></channel>
+<channel id="PulsAcht.ch@SD"><display-name>Puls 8</display-name><icon src="https://i.imgur.com/a49Cb39.png"/></channel>
+<channel id="TLC.de@SD"><display-name>TLC Deutschland</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/></channel>
+<channel id="TV25.ch@SD"><display-name>TV25</display-name><icon src="https://i.imgur.com/cggutzP.png"/></channel>
+<channel id="Carac1.ch@SD"><display-name>CARAC 1 HD</display-name><icon src="https://i.imgur.com/TSc35U6.png"/></channel>
+<channel id="6ter.fr@SD"><display-name>6ter</display-name><icon src="https://i.imgur.com/2nd5Cox.png"/></channel>
+<channel id="BFMTV.fr@SD"><display-name>BFM TV</display-name><icon src="https://i.imgur.com/YJCcczD.png"/></channel>
+<channel id="RMCLife.fr@SD"><display-name>RMC Life</display-name><icon src="https://img1.dc2.oqee.net/channel_pictures/3606/w512"/></channel>
+<channel id="TF1SeriesFilms.fr@SD"><display-name>TF1 Séries Films</display-name><icon src="https://i.imgur.com/4CJIDKQ.png"/></channel>
+<channel id="LEquipe.fr@SD"><display-name>L&apos;Équipe 21</display-name><icon src="https://i.imgur.com/t35zhM9.png"/></channel>
+<channel id="TFX.fr@SD"><display-name>TFX</display-name><icon src="https://i.imgur.com/d91GcVf.png"/></channel>
+<channel id="RMCStory.fr@SD"><display-name>RMC Story</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png"/></channel>
+<channel id="RiC.de@SD"><display-name>RiC</display-name><icon src="https://i.imgur.com/4wMZ8Em.png"/></channel>
+<channel id="RMCDecouverte.fr@SD"><display-name>RMC Découverte</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png"/></channel>
+<channel id="TMC.fr@SD"><display-name>TMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png"/></channel>
+<channel id="TV8MontBlanc.fr@SD"><display-name>TV8 Mont Blanc</display-name><icon src="https://i.imgur.com/dOXRNVj.png"/></channel>
+<channel id="TVM3.ch@SD"><display-name>TVM3</display-name><icon src="https://i.imgur.com/zNJlFMg.png"/></channel>
+<channel id="386"><display-name>wetter.tv</display-name></channel>
+<channel id="ComedyCentral.de@SD"><display-name>Comedy Central</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/></channel>
+<channel id="QS24tv.ch@SD"><display-name>QS24</display-name><icon src="https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png"/></channel>
+<channel id="BlueZoomD.ch@SD"><display-name>blue Zoom de</display-name><icon src="https://i.imgur.com/yjBeQzx.png"/></channel>
+<channel id="6Plus.ch@SD"><display-name>6+</display-name><icon src="https://i.imgur.com/7CN1zfD.png"/></channel>
+<channel id="20.it@SD"><display-name>20 Mediaset</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png"/></channel>
+<channel id="24Horas.es@SD"><display-name>24H</display-name><icon src="https://i.ibb.co/21sXZ3GT/24h.png"/></channel>
+<channel id="4seven.uk@SD"><display-name>4Seven</display-name><icon src="https://i.imgur.com/Fpaxyop.png"/></channel>
+<channel id="5SELECT.uk@SD"><display-name>5SELECT</display-name><icon src="https://i.imgur.com/WJ9xR6l.png"/></channel>
+<channel id="5USA.uk@SD"><display-name>5USA</display-name><icon src="https://i.imgur.com/Pi7so2l.png"/></channel>
+<channel id="BBCArabic.uk@SD"><display-name>BBC Arabic</display-name><icon src="https://i.imgur.com/ScyTG6P.png"/></channel>
+<channel id="BBCFour.uk@UK"><display-name>BBC Four</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png"/></channel>
+<channel id="BBCNews.uk@UK"><display-name>BBC News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="BBCParliament.uk@SD"><display-name>BBC Parliament</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png"/></channel>
+<channel id="Carac5.ch@SD"><display-name>beCuriousTV</display-name><icon src="https://i.imgur.com/0D4CvYp.png"/></channel>
+<channel id="BibelTV.de@SD"><display-name>Bibel TV</display-name><icon src="https://i.imgur.com/RLwmrk3.png"/></channel>
+<channel id="Boing.it@SD"><display-name>Boing</display-name><icon src="https://i.imgur.com/rabKj9i.png"/></channel>
+<channel id="BVN.nl@SD"><display-name>BVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png"/></channel>
+<channel id="Canal9.ch@SD"><display-name>Canal9</display-name><icon src="https://i.imgur.com/TNciMh2.png"/></channel>
+<channel id="CanaleItalia.it@SD"><display-name>Canale Italia</display-name><icon src="https://i.imgur.com/ZqxOFkN.png"/></channel>
+<channel id="Cartoonito.it@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/6vYWCD0.png"/></channel>
+<channel id="CBeebies.uk@SD"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/></channel>
+<channel id="Challenge.uk@SD"><display-name>Challenge</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2202.png"/></channel>
+<channel id="MediasetExtra2.it@SD"><display-name>Mediaset Extra 2</display-name><icon src="https://i.imgur.com/G51Lvah.png"/></channel>
+<channel id="ClassTVModa.it@SD"><display-name>Class TV Moda</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png"/></channel>
+<channel id="ClublandTV.uk@SD"><display-name>Clubland TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png"/></channel>
+<channel id="CNews.fr@SD"><display-name>CNEWS</display-name><icon src="https://i.imgur.com/sSNhk2g.png"/></channel>
+<channel id="CStar.fr@SD"><display-name>CSTAR</display-name><icon src="https://i.imgur.com/w4kAX1V.png"/></channel>
+<channel id="UDave.uk@SD"><display-name>Dave</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"/></channel>
+<channel id="DW.de@English"><display-name>Deutsche Welle en</display-name><icon src="https://i.imgur.com/MNKkgfa.png"/></channel>
+<channel id="DW.de@Arabic"><display-name>Deutsche Welle ar</display-name><icon src="https://i.imgur.com/MNKkgfa.png"/></channel>
+<channel id="DW.de@Espanol"><display-name>Deutsche Welle es</display-name><icon src="https://i.imgur.com/MNKkgfa.png"/></channel>
+<channel id="DMF.de@SD"><display-name>Deutsches Musik Fernsehen</display-name><icon src="https://i.imgur.com/sJaBU7X.jpeg"/></channel>
+<channel id="DMAX.it@SD"><display-name>DMAX Italia</display-name><icon src="https://i.imgur.com/uGd9fnn.png"/></channel>
+<channel id="UDrama.uk@SD"><display-name>Drama</display-name><icon src="https://i.imgur.com/cGBJx59.png"/></channel>
+<channel id="FashionTVEurope.fr@SD"><display-name>Fashion TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"/></channel>
+<channel id="Focus.it@SD"><display-name>Focus</display-name><icon src="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/960px-Focus_Logo.svg.png"/></channel>
+<channel id="FoodNetwork.uk@SD"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png"/></channel>
+<channel id="France24.fr@English"><display-name>France 24 en</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="Franceinfo.fr@SD"><display-name>franceinfo</display-name><icon src="https://i.imgur.com/eITXz6A.png"/></channel>
+<channel id="Frisbee.it@SD"><display-name>Frisbee</display-name><icon src="https://i.imgur.com/U1MF1vR.png"/></channel>
+<channel id="Giallo.it@HD"><display-name>Giallo</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png"/></channel>
+<channel id="GODTV.uk@SD"><display-name>GOD Channel</display-name><icon src="https://i.imgur.com/oxdM3gm.png"/></channel>
+<channel id="hrfernsehen.de@SD"><display-name>hr-fernsehen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png"/></channel>
+<channel id="HSE.de@SD"><display-name>HSE24</display-name><icon src="https://i.imgur.com/IecRNCk.png"/></channel>
+<channel id="HSEExtra.de@SD"><display-name>HSE24 Extra</display-name><icon src="https://i.imgur.com/nvMpbip.png"/></channel>
+<channel id="HSETrend.de@SD"><display-name>HSE24 Trend</display-name><icon src="https://i.imgur.com/qwh2urX.png"/></channel>
+<channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/></channel>
+<channel id="Italia2.it@SD"><display-name>Italia 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png"/></channel>
+<channel id="ITV4.uk@SD"><display-name>ITV 4</display-name><icon src="https://i.imgur.com/DYI4IA2.png"/></channel>
+<channel id="ITVBe.uk@SD"><display-name>ITVBe</display-name><icon src="https://i.imgur.com/98U4KjU.png"/></channel>
+<channel id="KTV.de@SD"><display-name>K-TV</display-name><icon src="https://i.imgur.com/2Fhbmdk.png"/></channel>
+<channel id="K2.it@SD"><display-name>K2</display-name><icon src="https://i.imgur.com/T1E8rFF.png"/></channel>
+<channel id="kabeleinsDoku.de@SD"><display-name>Kabel Eins Doku</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png"/></channel>
+<channel id="KTO.fr@SD"><display-name>KTO</display-name><icon src="https://i.imgur.com/EY6TsdV.png"/></channel>
+<channel id="La5.it@SD"><display-name>La5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png"/></channel>
+<channel id="LA7d.it@SD"><display-name>La7d</display-name><icon src="https://i.imgur.com/sM0A3GD.png"/></channel>
+<channel id="LCI.fr@SD"><display-name>LCI</display-name><icon src="https://i.imgur.com/DED8EXs.png"/></channel>
+<channel id="N24Doku.de@SD"><display-name>N24 Doku</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png"/></channel>
+<channel id="Nove.it@SD"><display-name>NOVE</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/></channel>
+<channel id="NOWRock.uk@SD"><display-name>Now 90s</display-name><icon src="https://i.imgur.com/GuM4GnX.png"/></channel>
+<channel id="One.de@SD"><display-name>ARD ONE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png"/></channel>
+<channel id="PBSAmerica.uk@SD"><display-name>PBS America</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PBS_America_2022.svg/960px-PBS_America_2022.svg.png"/></channel>
+<channel id="SkyMix.uk@SD"><display-name>Sky Mix</display-name><icon src="https://i.imgur.com/hHEz5rq.png"/></channel>
+<channel id="R9.at@SD"><display-name>R9 Österreich</display-name><icon src="https://i.imgur.com/SVJiXxh.png"/></channel>
+<channel id="RadioBremenFernsehen.de@SD"><display-name>Radio Bremen TV</display-name><icon src="https://i.imgur.com/wsTOcuX.png"/></channel>
+<channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/></channel>
+<channel id="Rai5.it@SD"><display-name>Rai 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png"/></channel>
+<channel id="RaiGulp.it@SD"><display-name>Rai Gulp</display-name><icon src="https://i.imgur.com/irAhPJM.png"/></channel>
+<channel id="RaiMovie.it@SD"><display-name>Rai Movie</display-name><icon src="https://i.imgur.com/0FjxXU9.png"/></channel>
+<channel id="RaiPremium.it@SD"><display-name>Rai Premium</display-name><icon src="https://i.imgur.com/40g5Urz.png"/></channel>
+<channel id="RaiScuola.it@SD"><display-name>Rai Scuola</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png"/></channel>
+</tv>
