@@ -22,6 +22,8 @@ env:
   FIRST_TIMEOUT_MIN: "20" # per-unit timeout, first attempt
   RETRY_TIMEOUT_MIN: "40" # per-unit timeout, retries
   MAX_ATTEMPTS: "3"       # real failures allowed per unit per cycle
+  SITE_STRIKE_LIMIT: "2"  # auto-skip a site after this many failed attempts (if it is mostly failing)
+  EXCLUDE_SITES: ""       # comma-separated sites to skip entirely, e.g. "dstv.com"
   REFRESH_HOURS: "12"     # after a cycle completes, wait this long, then start a fresh one
   EPG_DAYS: "3"
   MAX_CONN: "3"
@@ -161,11 +163,55 @@ jobs:
               with open(STATE, "w", encoding="utf-8") as f:
                   json.dump(state, f, indent=2)
 
+          STRIKE_LIMIT = int(os.environ["SITE_STRIKE_LIMIT"])
+          EXCLUDE = {x.strip() for x in os.environ.get("EXCLUDE_SITES", "").split(",") if x.strip()}
+
+          def site_of(u):
+              return u.rsplit("@", 1)[0]
+
           done = set(state["done"])
           attempts = state["attempts"]
-          pending = [u for u in state["units"]
-                     if u not in done and attempts.get(u, 0) < MAX_ATTEMPTS]
-          pending.sort(key=lambda u: attempts.get(u, 0))  # stable sort
+          skipped = set(state.get("skipped", []))
+
+          # Auto-skip: every failed attempt (timeout, error, bad XML) is a
+          # "strike" against the site. A site is skipped for the rest of the
+          # cycle once it has STRIKE_LIMIT strikes and strikes outnumber twice
+          # its successes. Slow or broken sites (like dstv.com) get cut off
+          # quickly, while healthy big sites with a few hiccups keep going.
+          strikes, ok_by_site = {}, {}
+          for u in state["units"]:
+              s = site_of(u)
+              strikes[s] = strikes.get(s, 0) + attempts.get(u, 0)
+              if u in done:
+                  ok_by_site[s] = ok_by_site.get(s, 0) + 1
+          auto = {s for s, n in strikes.items()
+                  if n >= STRIKE_LIMIT and n > 2 * ok_by_site.get(s, 0)}
+          blocked = auto | EXCLUDE
+          newly = {u for u in state["units"] if site_of(u) in blocked}
+          if not newly <= skipped:
+              skipped |= newly
+              state["skipped"] = sorted(skipped)
+              info = state.setdefault("skipped_sites", {})
+              for s in sorted(auto):
+                  info[s] = {"strikes": strikes[s], "done": ok_by_site.get(s, 0)}
+              with open(STATE, "w", encoding="utf-8") as f:
+                  json.dump(state, f, indent=2)
+          if blocked:
+              print(f"Skipping sites this cycle: {sorted(blocked)}")
+              for s in sorted(auto):
+                  print(f"  auto-skipped {s}: {strikes[s]} strikes, {ok_by_site.get(s, 0)} done")
+
+          # Order: fewest failures first, then chunk number, so every site gets
+          # its first chunk before any site gets its second (no site hogs the run).
+          pending, rank, seen_idx = [], {}, {}
+          for u in state["units"]:
+              s = site_of(u)
+              rank[u] = seen_idx.get(s, 0)
+              seen_idx[s] = rank[u] + 1
+              if u in done or u in skipped or attempts.get(u, 0) >= MAX_ATTEMPTS:
+                  continue
+              pending.append(u)
+          pending.sort(key=lambda u: (attempts.get(u, 0), rank[u]))
           batch = pending[:BATCH_SIZE]
 
           print(f"Units: {len(state['units'])} | done: {len(done)} | pending: {len(pending)}")
@@ -270,11 +316,19 @@ jobs:
           IFS=',' read -ra UNIT_LIST <<< "${UNITS:-}"
           DEADLINE=$((SECONDS + BUDGET_MIN * 60))
           OK=0; FAIL=0
+          declare -A STRIKES OKS   # per-site results during this run
 
           for unit in "${UNIT_LIST[@]}"; do
             [ -z "$unit" ] && continue
             site="${unit%@*}"
             k="${unit##*@}"
+
+            # Same auto-skip rule as the selection step, applied mid-run.
+            S=${STRIKES[$site]:-0}; G=${OKS[$site]:-0}
+            if [ "$S" -ge "$SITE_STRIKE_LIMIT" ] && [ "$S" -gt "$((2 * G))" ]; then
+              echo "AUTO-SKIP: $unit ($site keeps failing: $S strikes, $G ok)"
+              continue
+            fi
             echo "================================"
             echo "Unit: $unit (site $site, chunk $k)"
 
@@ -332,6 +386,7 @@ jobs:
               commit_push "Save EPG unit: ${unit}" || echo "WARN: push failed for $unit"
               echo "SUCCESS: $unit"
               OK=$((OK + 1))
+              OKS[$site]=$(( ${OKS[$site]:-0} + 1 ))
             elif [ "$RC" -eq 124 ] && [ "$CAPPED" -eq 1 ]; then
               echo "Cut off by run budget (not counted as a failure): $unit"
               break
@@ -344,6 +399,7 @@ jobs:
               record_failure "$unit" "$REASON"
               commit_push "Record EPG failure: ${unit}" || echo "WARN: push failed"
               FAIL=$((FAIL + 1))
+              STRIKES[$site]=$(( ${STRIKES[$site]:-0} + 1 ))
             fi
             rm -f "$TMP" "$CHUNK_FILE"
           done
@@ -429,8 +485,10 @@ jobs:
               s = json.load(f)
           maxa = int(os.environ["MAX_ATTEMPTS"])
           done = set(s["done"])
+          skipped = set(s.get("skipped", []))
           pending = [u for u in s["units"]
-                     if u not in done and s["attempts"].get(u, 0) < maxa]
+                     if u not in done and u not in skipped
+                     and s["attempts"].get(u, 0) < maxa]
           if not pending:
               s["complete"] = True
               s["completed_at"] = datetime.now(timezone.utc).isoformat()
