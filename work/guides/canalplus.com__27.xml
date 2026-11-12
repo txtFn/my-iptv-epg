@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="Action.fr@SD"><display-name>ACTION</display-name><icon src="https://i.imgur.com/Zv9VsVq.png"/></channel>
+<channel id="Animaux.fr@SD"><display-name>ANIMAUX</display-name><icon src="https://i.imgur.com/FM9FVAG.png"/></channel>
+<channel id="ArirangWorld.kr@SD"><display-name>ARIRANG TV</display-name><icon src="https://i.imgur.com/5Aoithj.png"/></channel>
+<channel id="arte.fr@SD"><display-name>ARTE</display-name><icon src="https://i.imgur.com/ecXMjNl.png"/></channel>
+<channel id="AstrocenterTV.fr@SD"><display-name>ASTROCENTER TV</display-name><icon src="https://i.imgur.com/3xlJV7O.png"/></channel>
+<channel id="Automotolachaine.fr@SD"><display-name>AUTOMOTO LA CHAINE</display-name><icon src="https://i.imgur.com/ebf2uc7.png"/></channel>
+<channel id="beINSports1.qa@France"><display-name>BEIN SPORTS 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
+<channel id="beINSports2.qa@France"><display-name>BEIN SPORTS 2</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/></channel>
+<channel id="beINSports3.qa@France"><display-name>BEIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png"/></channel>
+<channel id="beINSportsMax4.qa@France"><display-name>BEIN SPORTS MAX 4</display-name><icon src="https://i.imgur.com/j7osMfM.png"/></channel>
+<channel id="beINSportsMax5.qa@France"><display-name>BEIN SPORTS MAX 5</display-name><icon src="https://i.imgur.com/L6TvXAi.png"/></channel>
+<channel id="beINSportsMax6.qa@France"><display-name>BEIN SPORTS MAX 6</display-name><icon src="https://i.imgur.com/GHZHRPF.png"/></channel>
+<channel id="beINSportsMax7.qa@France"><display-name>BEIN SPORTS MAX 7</display-name><icon src="https://i.imgur.com/sMH0tFc.png"/></channel>
+<channel id="beINSportsMax8.qa@France"><display-name>BEIN SPORTS MAX 8</display-name><icon src="https://i.imgur.com/VTzzoQP.png"/></channel>
+<channel id="beINSportsMax9.qa@France"><display-name>BEIN SPORTS MAX 9</display-name><icon src="https://i.imgur.com/dMTBut1.png"/></channel>
+<channel id="beINSportsMax10.qa@France"><display-name>BEIN SPORTS MAX 10</display-name><icon src="https://i.imgur.com/lVB4Ao9.png"/></channel>
+<channel id="BET.fr@SD"><display-name>BET</display-name><icon src="https://i.imgur.com/HOtpa6H.png"/></channel>
+<channel id="BFMBusiness.fr@SD"><display-name>BFM BUSINESS</display-name><icon src="https://i.imgur.com/psqIHn4.png"/></channel>
+<channel id="BFMTV.fr@SD"><display-name>BFM TV</display-name><icon src="https://i.imgur.com/YJCcczD.png"/></channel>
+<channel id="BloombergTV.us@Europe"><display-name>BLOOMBERG TV</display-name><icon src="https://i.imgur.com/OuogLHx.png"/></channel>
+<channel id="BlueZoomD.ch@SD"><display-name>BLUE ZOOM</display-name><icon src="https://i.imgur.com/yjBeQzx.png"/></channel>
+<channel id="CanalAlphaNE.ch@SD"><display-name>CANAL ALPHA NE</display-name><icon src="https://i.imgur.com/59oTi5K.png"/></channel>
+<channel id="CanalJ.fr@SD"><display-name>CANAL J</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png"/></channel>
+<channel id="CanalPlus.fr@SD"><display-name>CANAL+</display-name><icon src="https://i.imgur.com/5HcyMnW.png"/></channel>
+<channel id="CanalPlusDocs.fr@SD"><display-name>CANAL+DOCS</display-name><icon src="https://i.imgur.com/WFXhE8f.png"/></channel>
+<channel id="CanalPlusFoot.fr@SD"><display-name>CANAL+FOOT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png"/></channel>
+<channel id="CanalPlusGrandEcran.fr@SD"><display-name>CANAL+GRAND ECRAN</display-name><icon src="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&amp;ssl=1"/></channel>
+<channel id="CanalPlusKids.fr@SD"><display-name>CANAL+KIDS</display-name><icon src="https://i.imgur.com/xknv5py.png"/></channel>
+<channel id="CanalPlusPremierLeague.fr@SD"><display-name>CANAL+PREMIER LEAGUE</display-name><icon src="https://i.imgur.com/aKFlhRO.png"/></channel>
+<channel id="CanalPlusSeries.fr@SD"><display-name>CANAL+SERIES</display-name><icon src="https://i.imgur.com/JxXXTGk.png"/></channel>
+<channel id="CanalPlusSport360.fr@SD"><display-name>CANAL+SPORT360</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png"/></channel>
+<channel id="CanalPlusSport.fr@SD"><display-name>CANAL+SPORT</display-name><icon src="https://i.imgur.com/EOXnU15.png"/></channel>
+<channel id="ChassePeche.fr@SD"><display-name>CHASSE ET PECHE</display-name><icon src="https://i.imgur.com/ZIS2ZQ1.png"/></channel>
+<channel id="CinePlusClassic.fr@SD"><display-name>CINE+ CLASSIC</display-name><icon src="https://i.imgur.com/y2zeLS3.jpeg"/></channel>
+<channel id="CinePlusClub.fr@SD"><display-name>CINE+ FESTIVAL</display-name><icon src="https://i.imgur.com/OJfAUMj.png"/></channel>
+<channel id="CinePlusEmotion.fr@SD"><display-name>CINE+ EMOTION</display-name><icon src="https://i.imgur.com/upYjPvc.jpeg"/></channel>
+<channel id="CinePlusFrisson.fr@SD"><display-name>CINE+ FRISSON</display-name><icon src="https://i.imgur.com/MwFtbnR.jpeg"/></channel>
+<channel id="CinePlusPremier.fr@SD"><display-name>OCS</display-name><icon src="https://i.imgur.com/b20LLN6.png"/></channel>
+<channel id="CNBCEurope.uk@SD"><display-name>CNBC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"/></channel>
+<channel id="CNews.fr@SD"><display-name>CNEWS</display-name><icon src="https://i.imgur.com/sSNhk2g.png"/></channel>
+<channel id="ComediePlus.fr@SD"><display-name>COMEDIE+</display-name><icon src="https://i.imgur.com/ArgX0Af.png"/></channel>
+<channel id="ComedyCentral.fr@SD"><display-name>COMEDY CENTRAL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/></channel>
+<channel id="CStar.fr@SD"><display-name>CSTAR</display-name><icon src="https://i.imgur.com/w4kAX1V.png"/></channel>
+<channel id="CStarHitsFrance.fr@SD"><display-name>EUROPE 2 POP TV</display-name></channel>
+<channel id="DasErste.de@SD"><display-name>ARD DAS ERSTE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"/></channel>
+<channel id="DorcelTV.nl@SD"><display-name>DORCEL TV</display-name><icon src="https://i.imgur.com/RkzyjEd.png"/></channel>
+<channel id="DorcelXXX.nl@SD"><display-name>DORCEL XXX</display-name><icon src="https://i.imgur.com/ZwMZEKZ.png"/></channel>
+<channel id="Equidia.fr@SD"><display-name>EQUIDIA</display-name><icon src="https://i.imgur.com/QPpbRcZ.png"/></channel>
+<channel id="EuronewsFrench.fr@SD"><display-name>EURONEWS</display-name><icon src="https://i.imgur.com/5A0Wnrv.png"/></channel>
+<channel id="Eurosport1.fr@France"><display-name>EUROSPORT 1</display-name><icon src="https://i.imgur.com/olQJgm7.png"/></channel>
+<channel id="Eurosport2.fr@France"><display-name>EUROSPORT 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/></channel>
+<channel id="Eurosport360HD1.fr@SD"><display-name>EUROSPORT 360 1</display-name><icon src="https://i.imgur.com/YFHXbVF.png"/></channel>
+<channel id="Eurosport360HD2.fr@SD"><display-name>EUROSPORT 360 2</display-name><icon src="https://i.imgur.com/XojEcFE.png"/></channel>
+<channel id="Eurosport360HD3.fr@SD"><display-name>EUROSPORT 360 3</display-name><icon src="https://i.imgur.com/g1s0frd.png"/></channel>
+<channel id="Eurosport360HD4.fr@SD"><display-name>EUROSPORT 360 4</display-name><icon src="https://i.imgur.com/q04IXvZ.png"/></channel>
+<channel id="Eurosport360HD5.fr@SD"><display-name>EUROSPORT 360 5</display-name><icon src="https://i.imgur.com/kwUbuYb.png"/></channel>
+<channel id="Eurosport360HD6.fr@SD"><display-name>EUROSPORT 360 6</display-name><icon src="https://i.imgur.com/gERBekR.png"/></channel>
+<channel id="Eurosport360HD7.fr@SD"><display-name>EUROSPORT 360 7</display-name><icon src="https://i.imgur.com/zSs0tNR.png"/></channel>
+<channel id="Eurosport360HD8.fr@SD"><display-name>EUROSPORT 360 8</display-name><icon src="https://i.imgur.com/LQuiFdu.png"/></channel>
+<channel id="France2.fr@SD"><display-name>FRANCE 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"/></channel>
+<channel id="France3.fr@Alpes"><display-name>F3 ALPES</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Alsace"><display-name>F3 ALSACE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Aquitaine"><display-name>F3 AQUITAINE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/a7/France_3_Aquitaine_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Auvergne"><display-name>F3 AUVERGNE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@BasseNormandie"><display-name>F3 NORMANDIE B</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Bourgogne"><display-name>F3 BOURGOGNE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/77/France_3_Bourgogne_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Bretagne"><display-name>F3 BRETAGNE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/c/c2/France_3_Bretagne_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@CentreValdeLoire"><display-name>F3 CENTRE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/96/France_3_Centre-Val_de_Loire_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@ChampagneArdenne"><display-name>F3 CHAMP ARDENNE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/97/France_3_Champagne-Ardenne_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@CorseViaStella"><display-name>F3 CORSEVIASTELLA</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/07/France_3_Corse_Via_Stella_-_Logo.svg"/></channel>
+<channel id="France3.fr@CotedAzur"><display-name>F3 COTE D&apos;AZUR</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@FrancheComte"><display-name>F3 FRANCHE COMTE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/17/France_3_Franche-Comt%C3%A9_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@HauteNormandie"><display-name>F3 NORMANDIE H</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@LanguedocRoussillon"><display-name>F3 LANGUEDOCROUS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/f4/France_3_Languedoc-Roussillon_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Limousin"><display-name>F3 LIMOUSIN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/5/58/France_3_Limousin_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Lorraine"><display-name>F3 LORRAINE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@MidiPyrenees"><display-name>F3 MIDI PYRENEES</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/fa/France_3_Midi-Pyr%C3%A9n%C3%A9es_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@NordPasdeCalais"><display-name>F3 NORD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/66/France_3_Nord-Pas-de-Calais_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@NouvelleAquitaine"><display-name>F3 NOA</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@ParisIledeFrance"><display-name>F3 PARIS IDF</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/16/France_3_Paris_Ile-de-France_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@PaysdelaLoire"><display-name>F3 PAYS DE LA LOIRE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Pays_de_la_Loire_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@Picardie"><display-name>F3 PICARDIE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/47/France_3_Picardie_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@PoitouCharentes"><display-name>F3 POITOU CHARENT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2d/France_3_Poitou-Charentes_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@ProvenceAlpes"><display-name>F3 PROVENCE ALPES</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/1f/France_3_Provence-Alpes_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@RhoneAlpes"><display-name>F3 RHONE ALPES</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg"/></channel>
+<channel id="France3.fr@SD"><display-name>FRANCE 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg"/></channel>
+<channel id="France4.fr@SD"><display-name>FRANCE 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png"/></channel>
+<channel id="France5.fr@SD"><display-name>FRANCE 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"/></channel>
+<channel id="France24.fr@English"><display-name>FRANCE 24 ENG</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="France24.fr@French"><display-name>FRANCE 24</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/></channel>
+<channel id="Franceinfo.fr@SD"><display-name>FRANCEINFO:</display-name><icon src="https://i.imgur.com/eITXz6A.png"/></channel>
+<channel id="GameOne.fr@SD"><display-name>GAME ONE</display-name><icon src="https://i.imgur.com/UHkaObv.png"/></channel>
+<channel id="GolfPlus.fr@SD"><display-name>GOLF+</display-name><icon src="https://i.imgur.com/WHnddkg.png"/></channel>
+<channel id="Gulli.fr@SD"><display-name>GULLI</display-name><icon src="https://i.imgur.com/kqYssbW.png"/></channel>
+<channel id="HistoireTV.fr@SD"><display-name>HISTOIRE TV</display-name><icon src="https://i.imgur.com/hxuJXll.png"/></channel>
+<channel id="i24NEWSFrench.il@SD"><display-name>I24 NEWS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png"/></channel>
+<channel id="InfosportPlus.fr@SD"><display-name>INFOSPORT+</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/960px-Infosport%2B_%282016%29.svg.png"/></channel>
+<channel id="JOne.fr@SD"><display-name>J-ONE</display-name><icon src="https://i.imgur.com/cicreDo.png"/></channel>
+<channel id="LaChaineMeteo.fr@SD"><display-name>LA CHAINE METEO</display-name><icon src="https://i.imgur.com/dFHAmkT.png"/></channel>
+<channel id="LaTele.ch@SD"><display-name>LA TELE</display-name><icon src="https://i.imgur.com/DdCfl4n.png"/></channel>
+<channel id="LCI.fr@SD"><display-name>LCI</display-name><icon src="https://i.imgur.com/DED8EXs.png"/></channel>
+<channel id="LCP.fr@SD"><display-name>LCP</display-name><icon src="https://i.imgur.com/k7UImOJ.png"/></channel>
+<channel id="LemanBleu.ch@SD"><display-name>LEMAN BLEU</display-name><icon src="https://i.imgur.com/6ijbSTr.png"/></channel>
+<channel id="LEquipe.fr@SD"><display-name>L&apos;EQUIPE</display-name><icon src="https://i.imgur.com/t35zhM9.png"/></channel>
+<channel id="LFMTV.ch@SD"><display-name>CARAC3</display-name><icon src="https://i.imgur.com/0ZiJm7H.png"/></channel>
+<channel id="M6.fr@HD"><display-name>M6</display-name><icon src="https://i.imgur.com/7GVp3fW.png"/></channel>
+<channel id="M6Music.fr@SD"><display-name>M6 MUSIC</display-name></channel>
+<channel id="Mangas.fr@SD"><display-name>MANGAS</display-name><icon src="https://i.imgur.com/wmmEOza.png"/></channel>
+<channel id="ManX.be@SD"><display-name>MAN X</display-name><icon src="https://i.imgur.com/rod1KmE.png"/></channel>
+<channel id="MCM.fr@SD"><display-name>MCM</display-name><icon src="https://i.imgur.com/F5WNCp0.png"/></channel>
+<channel id="Melody.fr@SD"><display-name>MELODY</display-name><icon src="https://i.imgur.com/9GVyQ6x.png"/></channel>
+<channel id="Mezzo.fr@SD"><display-name>MEZZO</display-name><icon src="https://i.imgur.com/auNdGeW.png"/></channel>
+<channel id="MezzoLive.fr@SD"><display-name>MEZZO LIVE</display-name><icon src="https://i.imgur.com/H9ytKPN.png"/></channel>
+<channel id="MGGTV.fr@SD"><display-name>MGG TV</display-name><icon src="https://i.imgur.com/TFXXcIB.png"/></channel>
+<channel id="MTV.fr@SD"><display-name>MTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/></channel>
+<channel id="MultiSports1.fr@SD"><display-name>MULTISPORTS 1</display-name><icon src="https://i.imgur.com/sWKVs7F.png"/></channel>
+<channel id="MultiSports2.fr@SD"><display-name>MULTISPORTS 2</display-name><icon src="https://i.imgur.com/AXSgo41.png"/></channel>
+<channel id="MultiSports3.fr@SD"><display-name>MULTISPORTS 3</display-name><icon src="https://i.imgur.com/ol2qxLM.png"/></channel>
+<channel id="MultiSports4.fr@SD"><display-name>MULTISPORTS 4</display-name><icon src="https://i.imgur.com/tgvNLyy.png"/></channel>
+<channel id="MultiSports5.fr@SD"><display-name>MULTISPORTS 5</display-name><icon src="https://i.imgur.com/fFmTJwV.png"/></channel>
+<channel id="MultiSports6.fr@SD"><display-name>MULTISPORTS 6</display-name><icon src="https://i.imgur.com/qD53BMA.png"/></channel>
+<channel id="Nickelodeon.fr@SD"><display-name>NICKELODEON</display-name><icon src="https://i.imgur.com/E84jnP8.png"/></channel>
+<channel id="NickelodeonJunior.fr@SD"><display-name>NICKELODEON JUNIOR</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png"/></channel>
+<channel id="NickelodeonTeen.fr@SD"><display-name>NICKTOONS</display-name></channel>
+<channel id="NovelasTV.fr@SD"><display-name>NOVELAS TV</display-name><icon src="https://i.imgur.com/HZw19jM.png"/></channel>
+<channel id="NRJHits.fr@SD"><display-name>NRJ HITS</display-name><icon src="https://i.imgur.com/2xDVwOh.png"/></channel>
+<channel id="OlympiaTV.fr@SD"><display-name>OLYMPIA TV</display-name><icon src="https://i.imgur.com/F7z42mX.png"/></channel>
+<channel id="OneTV.ch@SD"><display-name>CARAC2</display-name><icon src="https://i.imgur.com/7cz52W3.png"/></channel>
+<channel id="ORF1.at@SD"><display-name>ORF 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg"/></channel>
+<channel id="ParamountChannel.fr@SD"><display-name>PARAMOUNT NETWORK</display-name></channel>
+<channel id="ParisPremiere.fr@SD"><display-name>PARIS PREMIERE</display-name><icon src="https://i.imgur.com/ily4bEm.png"/></channel>
+<channel id="PinkX.fr@SD"><display-name>PINK X</display-name><icon src="https://i.imgur.com/WsS4Kkm.png"/></channel>
+<channel id="PiwiPlus.fr@SD"><display-name>PIWI+</display-name><icon src="https://i.imgur.com/Ahckjj2.png"/></channel>
+<channel id="PlanetePlus.fr@SD"><display-name>PLANETE+</display-name><icon src="https://i.imgur.com/RMbMGMg.png"/></channel>
+<channel id="PlanetePlusAventure.fr@SD"><display-name>PLANETE+AVENTURE</display-name><icon src="https://i.imgur.com/h09sbN0.png"/></channel>
+<channel id="PlanetePlusCrime.fr@SD"><display-name>PLANETE+CRIME</display-name><icon src="https://i.imgur.com/xGGBbun.png"/></channel>
+<channel id="PolarPlus.fr@SD"><display-name>POLAR+</display-name><icon src="https://i.imgur.com/RjnuWFU.png"/></channel>
+<channel id="RFMTV.fr@SD"><display-name>RFM TV</display-name><icon src="https://i.imgur.com/FVDTJxW.png"/></channel>
+<channel id="RMCDecouverte.fr@SD"><display-name>RMC DECOUVERTE</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png"/></channel>
+<channel id="RMCSport1.fr@SD"><display-name>RMC SPORT 1</display-name><icon src="https://i.imgur.com/NsFTG7u.png"/></channel>
+<channel id="RMCSport2.fr@SD"><display-name>RMC SPORT 2</display-name><icon src="https://i.imgur.com/nZd8aPo.png"/></channel>
+<channel id="RMCStory.fr@SD"><display-name>RMC STORY</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png"/></channel>
+<channel id="RougeTV.ch@SD"><display-name>CARAC1</display-name><icon src="https://i.imgur.com/hx3exCH.png"/></channel>
+<channel id="RTL9.lu@SD"><display-name>RTL9</display-name><icon src="https://i.imgur.com/nFqjVNW.png"/></channel>
+<channel id="Seasons.fr@SD"><display-name>SEASONS</display-name><icon src="https://i.imgur.com/vBti1As.png"/></channel>
+<channel id="SerieClub.fr@SD"><display-name>SERIE CLUB</display-name><icon src="https://i.imgur.com/V8wRRg5.png"/></channel>
+<channel id="SRF1.ch@SD"><display-name>SRF 1</display-name><icon src="https://i.imgur.com/xgml2Pl.png"/></channel>
+<channel id="TeleBielingue.ch@SD"><display-name>TELEBIELINGUE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png"/></channel>
+<channel id="TeletoonPlus.fr@1"><display-name>TELETOON+1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png"/></channel>
+<channel id="TeletoonPlus.fr@SD"><display-name>TELETOON+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png"/></channel>
+<channel id="Teva.fr@SD"><display-name>TEVA</display-name><icon src="https://i.imgur.com/kDW0hN5.png"/></channel>
+<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://i.imgur.com/QxHt9NC.png"/></channel>
+<channel id="TF1SeriesFilms.fr@SD"><display-name>TF1 SERIES FILMS</display-name><icon src="https://i.imgur.com/4CJIDKQ.png"/></channel>
+<channel id="TFX.fr@SD"><display-name>TFX</display-name><icon src="https://i.imgur.com/d91GcVf.png"/></channel>
+<channel id="TiJi.fr@SD"><display-name>TIJI</display-name><icon src="https://i.imgur.com/ZjsfAGb.png"/></channel>
+<channel id="TMC.fr@SD"><display-name>TMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png"/></channel>
+<channel id="ToutelHistoire.fr@SD"><display-name>TOUTE L&apos;HISTOIRE</display-name><icon src="https://i.imgur.com/xRfyQYn.png"/></channel>
+<channel id="TraceLatina.fr@SD"><display-name>TRACE LATINA</display-name><icon src="https://i.imgur.com/CUVAi4u.png"/></channel>
+<channel id="TraceUrban.fr@SD"><display-name>TRACE URBAN</display-name><icon src="https://i.imgur.com/DLIbUMx.png"/></channel>
+<channel id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD"><display-name>TV5 MONDE</display-name><icon src="https://i.imgur.com/WmRbudc.png"/></channel>
+<channel id="TVBreizh.fr@SD"><display-name>TV BREIZH</display-name><icon src="https://i.imgur.com/O8W4yhn.png"/></channel>
+<channel id="UshuaiaTV.fr@SD"><display-name>USHUAIA TV</display-name><icon src="https://i.imgur.com/WjjlqbP.png"/></channel>
+<channel id="VixenTV.ca@SD"><display-name>VIXEN</display-name><icon src="https://i.imgur.com/5Iq2h96.png"/></channel>
+<channel id="W9.fr@SD"><display-name>W9</display-name><icon src="https://i.imgur.com/reYeMuE.png"/></channel>
+<channel id="XXL.fr@SD"><display-name>XXL</display-name><icon src="https://i.imgur.com/TEuLkeQ.png"/></channel>
+<channel id="ga#180001"><display-name>13EME RUE</display-name></channel>
+<channel id="ga#180002"><display-name>GLOBAL AFRICA</display-name></channel>
+<channel id="ga#180003"><display-name>AB1</display-name></channel>
+<channel id="ga#180005"><display-name>ZACU TV</display-name></channel>
+<channel id="ga#180006"><display-name>AFRICA 24 INFINITY</display-name></channel>
+<channel id="ga#180007"><display-name>ARTE France</display-name></channel>
+<channel id="ga#180008"><display-name>BBC NEWS</display-name></channel>
+<channel id="ga#180009"><display-name>AFRICA 24 SPORT</display-name></channel>
+<channel id="ga#180010"><display-name>CRTV</display-name></channel>
+<channel id="ga#180011"><display-name>W-SPORT</display-name></channel>
+<channel id="ga#180012"><display-name>AFRICA 24 ENGLISH</display-name></channel>
+<channel id="ga#180015"><display-name>LERAL TV</display-name></channel>
+<channel id="ga#180016"><display-name>CANAL+ CINEMA OUEST</display-name></channel>
+<channel id="ga#180017"><display-name>RTG2</display-name></channel>
+<channel id="ga#180018"><display-name>CANAL+ PREMIERE OUEST</display-name></channel>
+<channel id="ga#180019"><display-name>KABACK TV</display-name></channel>
+<channel id="ga#180025"><display-name>INFO TV</display-name></channel>
+<channel id="ga#180026"><display-name>CAM10</display-name></channel>
+<channel id="ga#180027"><display-name>DBS</display-name></channel>
+<channel id="ga#180030"><display-name>BOSOLO TV</display-name></channel>
+<channel id="ga#180031"><display-name>RTCE</display-name></channel>
+<channel id="ga#180032"><display-name>MALAIKA TV</display-name></channel>
+<channel id="ga#180034"><display-name>HERITAGE TV</display-name></channel>
+<channel id="ga#180036"><display-name>E!</display-name></channel>
+<channel id="ga#180037"><display-name>Bukedde TV</display-name></channel>
+<channel id="ga#180040"><display-name>EURONEWS</display-name></channel>
+<channel id="ga#180045"><display-name>FRANCE 3</display-name></channel>
+<channel id="ga#180046"><display-name>FRANCE 5</display-name></channel>
+<channel id="ga#180047"><display-name>SINEMA ZETU</display-name></channel>
+<channel id="ga#180048"><display-name>CNEWS</display-name></channel>
+<channel id="ga#180054"><display-name>LCI</display-name></channel>
+<channel id="ga#180057"><display-name>France 2 INT</display-name></channel>
+<channel id="ga#180059"><display-name>MANGAS</display-name></channel>
+<channel id="ga#180060"><display-name>RTB ZENITH</display-name></channel>
+<channel id="ga#180063"><display-name>MEZZO</display-name></channel>
+</tv>
