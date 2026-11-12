@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="M1.hu@SD"><display-name>M1</display-name><icon src="https://i.imgur.com/r4tgKZK.png"/></channel>
+<channel id="M2.hu@SD"><display-name>M2 / Petőfi TV</display-name><icon src="https://i.imgur.com/B0nYT0l.png"/></channel>
+<channel id="TV2.hu@SD"><display-name>TV2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png"/></channel>
+<channel id="RTL.hu@SD"><display-name>RTL</display-name><icon src="https://i.imgur.com/ruRshE1.png"/></channel>
+<channel id="Duna.hu@SD"><display-name>DUNA Televízió</display-name><icon src="https://i.imgur.com/oPbsSlp.png"/></channel>
+<channel id="HBOCentralEurope.hu@HD"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"/></channel>
+<channel id="Spektrum.hu@SD"><display-name>Spektrum</display-name><icon src="https://i.imgur.com/GmFRQ82.png"/></channel>
+<channel id="HirTV.hu@SD"><display-name>Hír TV</display-name><icon src="https://i.imgur.com/xmIUDRN.png"/></channel>
+<channel id="NationalGeographic.hu@SD"><display-name>National Geographic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"/></channel>
+<channel id="ATV.hu@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/85sIvrX.png"/></channel>
+<channel id="Minimax.hu@SD"><display-name>Minimax</display-name><icon src="https://i.imgur.com/WWOlm1x.png"/></channel>
+<channel id="Viasat3.hu@SD"><display-name>VIASAT3</display-name><icon src="https://i.imgur.com/ehx7R3A.png"/></channel>
+<channel id="FilmPlus.hu@SD"><display-name>Film+</display-name><icon src="https://i.imgur.com/OWqzJyy.png"/></channel>
+<channel id="DisneyChannel.hu@SD"><display-name>Disney Channel</display-name><icon src="https://i.imgur.com/aOa73uT.png"/></channel>
+<channel id="Eurosport2.fr@France"><display-name>Eurosport 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/></channel>
+<channel id="TV4.hu@SD"><display-name>TV4</display-name><icon src="https://i.imgur.com/cjypCfu.png"/></channel>
+<channel id="Nickelodeon.hu@SD"><display-name>Nickelodeon</display-name><icon src="https://i.imgur.com/fXs8f6a.png"/></channel>
+<channel id="42"><display-name>AXN</display-name></channel>
+<channel id="Sport2.hu@SD"><display-name>Sport2</display-name><icon src="https://i.imgur.com/UxflVoU.png"/></channel>
+<channel id="TVPaprika.hu@SD"><display-name>TV Paprika</display-name><icon src="https://i.imgur.com/KLpZIS6.png"/></channel>
+<channel id="CinemaxCentralEurope.hu@HD"><display-name>Cinemax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png"/></channel>
+<channel id="HBO2CentralEurope.hu@HD"><display-name>HBO 2</display-name><icon src="https://i.imgur.com/JiWBsLQ.png"/></channel>
+<channel id="ViasatHistory.se@SD"><display-name>Viasat History</display-name><icon src="https://i.imgur.com/wRP9XA7.png"/></channel>
+<channel id="CartoonitoCEE.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/9MrzLb1.png"/></channel>
+<channel id="CoolTV.hu@SD"><display-name>Cool</display-name><icon src="https://i.imgur.com/rXJtthd.png"/></channel>
+<channel id="82"><display-name>Animal Planet</display-name></channel>
+<channel id="DiscoveryChannel.hu@SD"><display-name>Discovery Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/></channel>
+<channel id="DiscoveryScience.us@SD"><display-name>Discovery Science</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"/></channel>
+<channel id="FilmCafe.hu@Hungary"><display-name>Filmcafe</display-name><icon src="https://i.imgur.com/jaKRnzU.png"/></channel>
+<channel id="Sport1.hu@SD"><display-name>Sport1</display-name><icon src="https://i.imgur.com/X5X3tKC.png"/></channel>
+<channel id="CartoonNetworkCEE.uk@Hungary"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/></channel>
+<channel id="Eurosport1.fr@France"><display-name>Eurosport 1</display-name><icon src="https://i.imgur.com/olQJgm7.png"/></channel>
+<channel id="FilmMania.hu@SD"><display-name>Film Mánia</display-name><icon src="https://i.imgur.com/crhsomk.png"/></channel>
+<channel id="DunaWorld.hu@SD"><display-name>Duna World</display-name><icon src="https://i.imgur.com/uOBQJZS.png"/></channel>
+<channel id="Viasat2.hu@SD"><display-name>VIASAT2</display-name><icon src="https://i.imgur.com/lEAhKPa.png"/></channel>
+<channel id="ViasatFilm.hu@SD"><display-name>VIASAT FILM</display-name><icon src="https://i.imgur.com/5CoP6ex.png"/></channel>
+<channel id="139"><display-name>AMC</display-name></channel>
+<channel id="NationalGeographicWild.hu@SD"><display-name>National Geographic Wild</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"/></channel>
+<channel id="HBO3CentralEurope.hu@HD"><display-name>HBO 3</display-name><icon src="https://i.imgur.com/3QIHh2V.png"/></channel>
+<channel id="MTVGlobal.uk@SD"><display-name>MTV</display-name><icon src="https://i.imgur.com/n2BoU7Q.png"/></channel>
+<channel id="ducktv.sk@SD"><display-name>Duck TV</display-name><icon src="https://i.imgur.com/gRFQ35W.png"/></channel>
+<channel id="Viasat6.hu@SD"><display-name>VIASAT6</display-name><icon src="https://i.imgur.com/kypSbFX.png"/></channel>
+<channel id="TheFishingHuntingChannel.hu@SD"><display-name>Fishing &amp; Hunting</display-name><icon src="https://i.imgur.com/KcTTnUA.png"/></channel>
+<channel id="RTLHarom.hu@SD"><display-name>RTL III</display-name><icon src="https://i.imgur.com/c4Hhhzs.png"/></channel>
+<channel id="SorozatPlus.hu@SD"><display-name>Sorozat+</display-name><icon src="https://i.imgur.com/KsxWZIw.png"/></channel>
+<channel id="RTLGold.hu@SD"><display-name>RTL Gold</display-name><icon src="https://i.imgur.com/PwbLDUQ.png"/></channel>
+<channel id="ComedyCentral.hu@SD"><display-name>Comedy Central</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/></channel>
+<channel id="DaVinci.hu@SD"><display-name>Da Vinci</display-name><icon src="https://i.imgur.com/eFKbeFy.png"/></channel>
+<channel id="LifeTV.hu@SD"><display-name>LifeTv</display-name><icon src="https://i.imgur.com/3znYv1N.png"/></channel>
+<channel id="OzoneTV.hu@SD"><display-name>OzoneTv</display-name><icon src="https://i.imgur.com/eSNF9qt.png"/></channel>
+<channel id="Prime.hu@SD"><display-name>Prime</display-name><icon src="https://i.imgur.com/VvZEP4s.png"/></channel>
+<channel id="SlagerTV.hu@SD"><display-name>Sláger TV</display-name><icon src="https://i.imgur.com/qDNRgSQ.png"/></channel>
+<channel id="MuzsikaTV.hu@SD"><display-name>Muzsika TV</display-name><icon src="https://i.imgur.com/kmQ5vYC.png"/></channel>
+<channel id="ViasatNature.se@SD"><display-name>Viasat Nature</display-name><icon src="https://i.imgur.com/ousRqqD.png"/></channel>
+<channel id="MoziPlus.hu@SD"><display-name>Mozi+</display-name><icon src="https://i.imgur.com/LtCnPFJ.png"/></channel>
+<channel id="NickJr.hu@SD"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"/></channel>
+<channel id="RTLKetto.hu@SD"><display-name>RTL II</display-name><icon src="https://i.imgur.com/IVv0qrI.png"/></channel>
+<channel id="SuperTV2.hu@SD"><display-name>SuperTV2</display-name><icon src="https://i.imgur.com/JCu1u2v.png"/></channel>
+<channel id="BBCEarth.uk@Romania"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/></channel>
+<channel id="ParamountNetwork.hu@SD"><display-name>Paramount Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png"/></channel>
+<channel id="FoodNetworkEMEA.us@SD"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png"/></channel>
+<channel id="M4Sport.hu@SD"><display-name>M4 Sport</display-name><icon src="https://i.imgur.com/TQ4uJZk.png"/></channel>
+<channel id="M5.hu@SD"><display-name>M5</display-name><icon src="https://i.imgur.com/y21wFd0.png"/></channel>
+<channel id="IzauraTV.hu@SD"><display-name>Izaura TV</display-name><icon src="https://i.imgur.com/p9YFnpw.png"/></channel>
+<channel id="Spiler1.hu@SD"><display-name>Spíler1 TV</display-name><icon src="https://i.imgur.com/pbk8c4x.png"/></channel>
+<channel id="FEM3.hu@SD"><display-name>FEM3</display-name><icon src="https://i.imgur.com/AF4Sz8Z.png"/></channel>
+<channel id="TV2Sef.hu@SD"><display-name>TV2 Séf</display-name><icon src="https://i.imgur.com/8GFj3XP.png"/></channel>
+<channel id="TV2Kids.hu@SD"><display-name>TV2 Kids</display-name><icon src="https://i.imgur.com/Zltlezm.png"/></channel>
+<channel id="TeenNick.hu@SD"><display-name>TeenNick</display-name><icon src="https://i.imgur.com/KZq73CE.png"/></channel>
+<channel id="317"><display-name>ATV Spirit</display-name></channel>
+<channel id="318"><display-name>CBS Reality</display-name></channel>
+<channel id="319"><display-name>Cinemax 2</display-name></channel>
+<channel id="320"><display-name>D1 TV</display-name></channel>
+<channel id="321"><display-name>Dikh TV</display-name></channel>
+<channel id="322"><display-name>EsportGuru</display-name></channel>
+<channel id="323"><display-name>Euronews</display-name></channel>
+<channel id="324"><display-name>FilmBox Extra HD</display-name></channel>
+<channel id="325"><display-name>FilmBox Family</display-name></channel>
+<channel id="326"><display-name>Film4</display-name></channel>
+<channel id="327"><display-name>FilmBox Stars HD</display-name></channel>
+<channel id="328"><display-name>Főnix TV</display-name></channel>
+<channel id="329"><display-name>Galaxy4</display-name></channel>
+<channel id="330"><display-name>Apostol TV</display-name></channel>
+<channel id="331"><display-name>DunaMédia TV</display-name></channel>
+<channel id="332"><display-name>PAX Tv</display-name></channel>
+<channel id="333"><display-name>Direct One</display-name></channel>
+<channel id="334"><display-name>Jocky TV</display-name></channel>
+<channel id="335"><display-name>TV2 Comedy</display-name></channel>
+<channel id="336"><display-name>Moziverzum</display-name></channel>
+<channel id="337"><display-name>Investigation Discovery</display-name></channel>
+<channel id="338"><display-name>Jazz TV</display-name></channel>
+<channel id="339"><display-name>Kanapé TV</display-name></channel>
+<channel id="340"><display-name>Match4</display-name></channel>
+<channel id="341"><display-name>Max4</display-name></channel>
+<channel id="342"><display-name>Nicktoons</display-name></channel>
+<channel id="343"><display-name>Epic Drama</display-name></channel>
+<channel id="344"><display-name>Spíler2 TV</display-name></channel>
+<channel id="345"><display-name>Aréna 4</display-name></channel>
+<channel id="346"><display-name>Fit HD</display-name></channel>
+</tv>
