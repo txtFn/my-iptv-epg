@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="Inspirasi.my@SD"><display-name>Inspirasi</display-name></channel>
+<channel id="NickJrAsia.sg@SD"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"/></channel>
+<channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/></channel>
+<channel id="TV1.my@SD"><display-name>TV1</display-name><icon src="https://i.imgur.com/wSyPmiY.png"/></channel>
+<channel id="TV3.my@SD"><display-name>TV3</display-name><icon src="https://i.imgur.com/bHcZgIo.png"/></channel>
+<channel id="WarnerTV.ph@SD"><display-name>Warner TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
+<channel id="TVAlhijrah.my@SD"><display-name>TV AlHijrah HD</display-name><icon src="https://i.imgur.com/rKJjhv6.png"/></channel>
+<channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/></channel>
+<channel id="8TV.my@SD"><display-name>8TV</display-name><icon src="https://i.imgur.com/Jkx9W88.png"/></channel>
+<channel id="ParamountNetwork.my@SD"><display-name>Paramount Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png"/></channel>
+<channel id="TV9.my@SD"><display-name>TV9</display-name><icon src="https://i.imgur.com/Krh1F8d.png"/></channel>
+<channel id="tvNMoviesAsia.hk@SD"><display-name>tvN Movies HD</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/></channel>
+<channel id="ROCKEntertainment.sg@SD"><display-name>ROCK Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/></channel>
+<channel id="BoomerangAsia.sg@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/Sp0zelF.png"/></channel>
+<channel id="NTV7.my@SD"><display-name>DidikTV KPM</display-name><icon src="https://i.imgur.com/jDWR3xI.png"/></channel>
+<channel id="TV2.my@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/LGEdeyJ.png"/></channel>
+<channel id="ColorsCineplex.in@SD"><display-name>Colors Cineplex</display-name><icon src="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg"/></channel>
+<channel id="BBCLifestyle.uk@Asia"><display-name>BBC Lifestyle HD</display-name><icon src="https://i.imgur.com/9mzJJ3y.png"/></channel>
+<channel id="DuniaSinema.my@SD"><display-name>Dunia Sinema HD</display-name></channel>
+<channel id="nowJelli.hk@SD"><display-name>Now Jelli HD</display-name><icon src="https://i.imgur.com/PT8r08W.png"/></channel>
+<channel id="MTVLive.uk@SD"><display-name>MTV Live</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/></channel>
+<channel id="tvNAsia.hk@SD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"/></channel>
+<channel id="Pesona.my@SD"><display-name>Pesona HD</display-name></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png"/></channel>
+<channel id="AlJazeera.qa@English"><display-name>Al Jazeera</display-name><icon src="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="SalamTV.id@SD"><display-name>Salam HD</display-name><icon src="https://i.imgur.com/00Ifzgo.png"/></channel>
+<channel id="BBCNews.uk@AsiaPacific"><display-name>BBC News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="SPOTV.kr@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/></channel>
+<channel id="CinemaWorld.my@SD"><display-name>CinemaWorld HD</display-name><icon src="https://i.imgur.com/D2qNVZ7.png"/></channel>
+<channel id="ROCKAction.sg@SD"><display-name>ROCK Action</display-name><icon src="https://i.imgur.com/l6lmlqG.png"/></channel>
+<channel id="SETInternational.tw@SD"><display-name>SETI</display-name><icon src="https://i.imgur.com/GOTyx8k.png"/></channel>
+<channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/></channel>
+<channel id="LuxeTV.lu@SD"><display-name>Luxe.TV HD</display-name><icon src="https://i.imgur.com/24ehonx.png"/></channel>
+<channel id="DW.de@English"><display-name>DW</display-name><icon src="https://i.imgur.com/MNKkgfa.png"/></channel>
+<channel id="TravelChannelAsia.sg@SD"><display-name>Travel Channel HD</display-name><icon src="https://i.imgur.com/rNfzYP5.png"/></channel>
+<channel id="Sensasi.my@SD"><display-name>Sensasi</display-name></channel>
+<channel id="BernamaTV.my@SD"><display-name>Bernama TV</display-name><icon src="https://i.imgur.com/skJjF4m.png"/></channel>
+<channel id="BBCEarth.uk@Asia"><display-name>BBC Earth HD</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/></channel>
+<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks HD</display-name></channel>
+<channel id="SPOTV2.kr@SD"><display-name>SPOTV2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/></channel>
+<channel id="ColorsTamil.in@SD"><display-name>Colors Tamil HD</display-name><icon src="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature HD</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/></channel>
+<channel id="HITS.sg@SD"><display-name>HITS</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/></channel>
+<channel id="KPlus.sg@SD"><display-name>K-Plus</display-name><icon src="https://i.imgur.com/RbS0q71.png"/></channel>
+<channel id="CelestialMoviesMalaysia.my@SD"><display-name>Celestial Movies</display-name></channel>
+<channel id="GEM.sg@SD"><display-name>GEM</display-name><icon src="https://i.imgur.com/DjI6SS1.png"/></channel>
+<channel id="AXNAsia.sg@Malaysia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
+<channel id="CelestialClassicMovies.my@SD"><display-name>CCM</display-name></channel>
+<channel id="HITSMovies.sg@SD"><display-name>HITS Movies</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/></channel>
+<channel id="UnifiSports1.my@SD"><display-name>unifi Sports 1</display-name><icon src="https://i.imgur.com/Ixoabqf.png"/></channel>
+<channel id="beINSports.qa@MENA"><display-name>beIN SPORTS</display-name><icon src="https://i.imgur.com/RLrMBlm.png"/></channel>
+<channel id="beINSports3.qa@MENA"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png"/></channel>
+<channel id="55631601"><display-name>DEGUP</display-name></channel>
+<channel id="CCTV4Asia.cn@SD"><display-name>CCTV-4 HD</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png"/></channel>
+<channel id="SonyYay.in@SD"><display-name>Sony YAY!</display-name><icon src="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="WION.in@SD"><display-name>Wion</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="SIAR.my@SD"><display-name>SIAR</display-name><icon src="https://i.imgur.com/oumX3Gn.png"/></channel>
+<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/></channel>
+<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="ParlimenMalaysia.my@SD"><display-name>Parlimen Malaysia</display-name></channel>
+<channel id="beINSports4.qa@MENA"><display-name>beIN SPORTS 4</display-name><icon src="https://i.imgur.com/vwAgJNi.png"/></channel>
+<channel id="59922231"><display-name>beIN SPORTS 2</display-name></channel>
+<channel id="59924306"><display-name>Moonbug</display-name></channel>
+<channel id="59953839"><display-name>ONE</display-name></channel>
+<channel id="64822719"><display-name>TVS</display-name></channel>
+</tv>
