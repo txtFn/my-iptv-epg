@@ -1,54 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261111">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
 <channel id="ATNNational.af@SD"><display-name>Ariana Television</display-name><icon src="https://i.imgur.com/HIPeUDL.png"/></channel>
-<programme start="20261111013000 +0000" stop="20261111020000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
-<programme start="20261111020000 +0000" stop="20261111023000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
-<programme start="20261111023000 +0000" stop="20261111030000 +0000" channel="ATNNational.af@SD"><title lang="en">Cartoon</title></programme>
-<programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="ATNNational.af@SD"><title lang="en">Cartoon</title></programme>
-<programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
-<programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
-<programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
-<programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
-<programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
-<programme start="20261111060000 +0000" stop="20261111063000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
-<programme start="20261111063000 +0000" stop="20261111070000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Highlight</title></programme>
-<programme start="20261111070000 +0000" stop="20261111073000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Highlight</title></programme>
-<programme start="20261111073000 +0000" stop="20261111080000 +0000" channel="ATNNational.af@SD"><title lang="en">Falaah</title></programme>
-<programme start="20261111080000 +0000" stop="20261111083000 +0000" channel="ATNNational.af@SD"><title lang="en">Falaah</title></programme>
-<programme start="20261111083000 +0000" stop="20261111083500 +0000" channel="ATNNational.af@SD"><title lang="en">ACL - Pre Show</title></programme>
-<programme start="20261111083500 +0000" stop="20261111090000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111090000 +0000" stop="20261111093000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111110000 +0000" stop="20261111113000 +0000" channel="ATNNational.af@SD"><title lang="en">Post/Pre Show</title></programme>
-<programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111130000 +0000" stop="20261111133000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111133000 +0000" stop="20261111140000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Pre Show</title></programme>
-<programme start="20261111140000 +0000" stop="20261111143000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111143000 +0000" stop="20261111150000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111150000 +0000" stop="20261111153000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111153000 +0000" stop="20261111160000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111160000 +0000" stop="20261111163000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111173000 +0000" stop="20261111180000 +0000" channel="ATNNational.af@SD"><title lang="en">Dari News</title></programme>
-<programme start="20261111180000 +0000" stop="20261111183000 +0000" channel="ATNNational.af@SD"><title lang="en">City Report</title></programme>
-<programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
-<programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
-<programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111200000 +0000" stop="20261111203000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111203000 +0000" stop="20261111210000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
-<programme start="20261111213000 +0000" stop="20261111220000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111223000 +0000" stop="20261111230000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261111233000 +0000" stop="20261112000000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
-<programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
-<programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
 <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
 <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
 <programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="ATNNational.af@SD"><title lang="en">Cartoon</title></programme>
@@ -98,4 +49,102 @@
 <programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
 <programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
 <programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
+<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="ATNNational.af@SD"><title lang="en">Cartoon</title></programme>
+<programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="ATNNational.af@SD"><title lang="en">Cartoon</title></programme>
+<programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="ATNNational.af@SD"><title lang="en">Chai Sob</title></programme>
+<programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="ATNNational.af@SD"><title lang="en">Chai Sob</title></programme>
+<programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Timeout</title></programme>
+<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Timeout</title></programme>
+<programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Highlight</title></programme>
+<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Highlight</title></programme>
+<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran Stories</title></programme>
+<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran Stories</title></programme>
+<programme start="20261113083000 +0000" stop="20261113083500 +0000" channel="ATNNational.af@SD"><title lang="en">ACL - Pre Show</title></programme>
+<programme start="20261113083500 +0000" stop="20261113090000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="ATNNational.af@SD"><title lang="en">Post/Pre Show</title></programme>
+<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Pre Show</title></programme>
+<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="ATNNational.af@SD"><title lang="en">Dari News</title></programme>
+<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="ATNNational.af@SD"><title lang="en">City Report</title></programme>
+<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
+<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
+<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="ATNNational.af@SD"><title lang="en">Parwana Ha</title></programme>
+<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="ATNNational.af@SD"><title lang="en">Parwana Ha</title></programme>
+<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
+<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
+<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
+<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="ATNNational.af@SD"><title lang="en">Sobho Zindagi</title></programme>
+<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261114060000 +0000" stop="20261114063000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Highlight</title></programme>
+<programme start="20261114070000 +0000" stop="20261114073000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL Highlight</title></programme>
+<programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="ATNNational.af@SD"><title lang="en">Falaah</title></programme>
+<programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="ATNNational.af@SD"><title lang="en">Falaah</title></programme>
+<programme start="20261114083000 +0000" stop="20261114083500 +0000" channel="ATNNational.af@SD"><title lang="en">ACL - Pre Show</title></programme>
+<programme start="20261114083500 +0000" stop="20261114090000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="ATNNational.af@SD"><title lang="en">Post/Pre Show</title></programme>
+<programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114133000 +0000" stop="20261114140000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Pre Show</title></programme>
+<programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114173000 +0000" stop="20261114180000 +0000" channel="ATNNational.af@SD"><title lang="en">Dari News</title></programme>
+<programme start="20261114180000 +0000" stop="20261114183000 +0000" channel="ATNNational.af@SD"><title lang="en">City Report</title></programme>
+<programme start="20261114183000 +0000" stop="20261114190000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261114190000 +0000" stop="20261114193000 +0000" channel="ATNNational.af@SD"><title lang="en">Documentary</title></programme>
+<programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114200000 +0000" stop="20261114203000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114203000 +0000" stop="20261114210000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="ATNNational.af@SD"><title lang="en">ACL Match</title></programme>
+<programme start="20261114213000 +0000" stop="20261114220000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114220000 +0000" stop="20261114223000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="ATNNational.af@SD"><title lang="en">IPL - Match</title></programme>
+<programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
+<programme start="20261115010000 +0000" stop="20261115013000 +0000" channel="ATNNational.af@SD"><title lang="en">Quran-e Majid</title></programme>
 </tv>
