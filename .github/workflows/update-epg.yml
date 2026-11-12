@@ -22,9 +22,9 @@ jobs:
 
     env:
       BATCH_SIZE: 5
-      SITE_TIMEOUT: 480
+      SITE_TIMEOUT: 420
       MAX_ATTEMPTS: 5
-      RETRY_COOLDOWN: 2700
+      RETRY_COOLDOWN: 3600
 
     steps:
       # 1. Checkout repository
@@ -168,14 +168,6 @@ jobs:
           PY
           }
 
-          commit_storage() {
-            git -C epg-storage add -- work/failures.json work/failed-sources.csv work/progress.json
-            if ! git -C epg-storage diff --cached --quiet; then
-              git -C epg-storage commit -m "$1"
-              git -C epg-storage push origin HEAD:epg-data
-            fi
-          }
-
           site_status() {
             python - "$1" "$RETRY_COOLDOWN" <<'PY'
           import sys, json, time
@@ -232,7 +224,6 @@ jobs:
               writer.writerow([site, attempts, time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime(now)), status, reason])
           print(f'{site}: attempt {attempts}/{max_attempts}; status={status}')
           PY
-            commit_storage "Record EPG failure: ${site}"
           }
 
           clear_failure() {
@@ -256,19 +247,12 @@ jobs:
           save_source() {
             local site="$1"
             clear_failure "$site"
-            git -C epg-storage add -- \
-              "work/guides/${site}.xml" \
-              work/progress.json \
-              work/failures.json \
-              work/failed-sources.csv
-            if ! git -C epg-storage diff --cached --quiet; then
-              git -C epg-storage commit -m "Save completed EPG source: ${site}"
-              git -C epg-storage push origin HEAD:epg-data
-            fi
           }
 
           IFS=',' read -ra SITE_LIST <<< "$SITES"
-          DEADLINE=$((SECONDS + 48 * 60))
+          # Keep the download step well inside the 55-minute job limit.
+          # This leaves time for checkout/install, final Git push, and deployment.
+          DEADLINE=$((SECONDS + 40 * 60))
 
           for site in "${SITE_LIST[@]}"; do
             FILE="epg-storage/work/guides/${site}.xml"
@@ -327,6 +311,16 @@ jobs:
               record_failure "$site" "$REASON"
             fi
           done
+
+          # Save all XML and retry-state changes in one Git commit/push.
+          # Avoids multiple slow pushes during a single batch.
+          git -C epg-storage add -- work/
+          if ! git -C epg-storage diff --cached --quiet; then
+            git -C epg-storage commit -m "Save EPG batch results and retry state"
+            git -C epg-storage push origin HEAD:epg-data
+          else
+            echo 'No EPG storage changes to commit.'
+          fi
 
           # A batch is resolved when each source has valid XML or has reached
           # the permanent-failure limit. Temporary failures remain for retry.
