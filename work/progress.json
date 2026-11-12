@@ -1135,7 +1135,8 @@
     "dsmart.com.tr@0"
   ],
   "attempts": {
-    "content.astro.com.my@0": 1
+    "content.astro.com.my@0": 1,
+    "dstv.com@0": 1
   },
   "complete": false
 }
