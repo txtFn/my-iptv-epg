@@ -50,7 +50,9 @@ jobs:
             https://raw.githubusercontent.com/iptv-org/epg/master/SITES.md \
             -o /tmp/SITES.md
 
-      # 6. Select current batch
+      # 6. Select current batch by checking completed XML files
+      # This prevents the workflow from restarting at the first source
+      # when a previous source timed out or failed.
       - name: Select next EPG batch
         id: batch
         shell: python
@@ -59,7 +61,7 @@ jobs:
           import re
           import json
           import hashlib
-          import shutil
+          import xml.etree.ElementTree as ET
 
           with open("/tmp/SITES.md", encoding="utf-8") as f:
               content = f.read()
@@ -84,58 +86,57 @@ jobs:
           if not sites:
               raise SystemExit("No active EPG sources found.")
 
-          os.makedirs("epg-storage/work/guides", exist_ok=True)
+          guides_dir = "epg-storage/work/guides"
+          os.makedirs(guides_dir, exist_ok=True)
 
           state_file = "epg-storage/work/progress.json"
-
           signature = hashlib.sha256(
               ",".join(sites).encode()
           ).hexdigest()
 
-          state = {
-              "signature": signature,
-              "index": 0,
-              "complete": False
-          }
-
+          old_state = {}
           if os.path.exists(state_file):
-              with open(state_file, encoding="utf-8") as f:
-                  old = json.load(f)
+              try:
+                  with open(state_file, encoding="utf-8") as f:
+                      old_state = json.load(f)
+              except (OSError, json.JSONDecodeError):
+                  print("Progress file is unreadable; rebuilding progress from XML files.")
 
-              if old.get("signature") == signature:
-                  state = old
-              else:
-                  print("Source list changed. Resetting progress.")
+          if old_state.get("signature") != signature:
+              print("Source list changed. Checking existing XML files against the new list.")
 
-                  shutil.rmtree(
-                      "epg-storage/work/guides",
-                      ignore_errors=True
-                  )
+          # The XML files are the source of truth, not the saved index.
+          # Find the first site that does not have a valid, non-empty TV XML.
+          index = len(sites)
 
-                  os.makedirs(
-                      "epg-storage/work/guides",
-                      exist_ok=True
-                  )
+          for i, site in enumerate(sites):
+              filename = os.path.join(guides_dir, f"{site}.xml")
 
-          state["signature"] = signature
-          state["index"] = int(state.get("index", 0))
+              try:
+                  root = ET.parse(filename).getroot()
+                  if root.tag == "tv" and len(root) > 0:
+                      print(f"COMPLETED: {site}")
+                      continue
+              except (OSError, ET.ParseError):
+                  pass
 
-          if state["index"] >= len(sites):
-              state["complete"] = True
-
-          with open(state_file, "w", encoding="utf-8") as f:
-              json.dump(state, f, indent=2)
-
-          if state.get("complete"):
-              print("All EPG sources completed.")
-
-              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                  f.write("skip=true\n")
-
-              raise SystemExit(0)
+              index = i
+              print(f"FIRST UNFINISHED SOURCE: {site}")
+              break
 
           batch_size = 5
-          index = state["index"]
+
+          # If every XML exists but the previous Pages deployment did not
+          # finish, rerun the final batch so the combined guide can deploy.
+          if index >= len(sites):
+              if old_state.get("signature") == signature and old_state.get("complete") is True:
+                  print("All EPG sources are complete and already marked deployed.")
+                  with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                      f.write("skip=true\n")
+                  raise SystemExit(0)
+
+              index = max(0, len(sites) - batch_size)
+              print("All source XML files exist; retrying the final batch deployment.")
 
           batch = sites[index:index + batch_size]
 
@@ -145,6 +146,17 @@ jobs:
           next_index = index + len(batch)
           complete = next_index >= len(sites)
 
+          # Keep a checkpoint for diagnostics. The next run will still
+          # verify the XML files rather than blindly trusting this index.
+          state = {
+              "signature": signature,
+              "index": index,
+              "complete": False
+          }
+
+          with open(state_file, "w", encoding="utf-8") as f:
+              json.dump(state, f, indent=2)
+
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
               f.write("skip=false\n")
               f.write(f"sites={','.join(batch)}\n")
@@ -153,8 +165,9 @@ jobs:
               f.write(f"complete={str(complete).lower()}\n")
 
           print(f"Total active sources: {len(sites)}")
-          print(f"Current batch: {batch}")
-          print(f"Current index: {index}")
+          print(f"Selected batch starting at index: {index}")
+          print(f"Selected sources: {batch}")
+          print(f"Next index after this batch: {next_index}")
 
       # 7. Download sources one by one
       - name: Download EPG batch
@@ -306,7 +319,7 @@ jobs:
           done
 
           if [ "$ALL_COMPLETE" -eq 1 ]; then
-            echo "All five sources are complete."
+            echo "All sources in the selected batch are complete."
             echo "batch_complete=true" >> "$GITHUB_OUTPUT"
           else
             echo "Some sources remain unfinished."
