@@ -1,4 +1,3 @@
-
 name: Update IPTV EPG
 
 on:
@@ -16,119 +15,137 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
+env:
+  BATCH_SIZE: "25"        # max sources considered per run (time budget is the real limit)
+  BUDGET_MIN: "100"       # minutes the download loop may run
+  FIRST_TIMEOUT_MIN: "30" # per-source timeout, first attempt
+  RETRY_TIMEOUT_MIN: "60" # per-source timeout, retries
+  MAX_ATTEMPTS: "3"       # real failures allowed per source per cycle
+  REFRESH_HOURS: "12"     # after a cycle completes, wait this long, then start a fresh one
+  EPG_DAYS: "3"
+  MAX_CONN: "3"
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 120
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
 
     steps:
-      # 1. Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Checkout EPG storage branch
       - name: Checkout EPG storage branch
         uses: actions/checkout@v4
         with:
           ref: epg-data
           path: epg-storage
 
-      # 3. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      # 4. Install dependencies
       - name: Install dependencies
         run: npm install
 
-      # 5. Download latest SITES.md
-      - name: Download latest SITES.md
-        run: |
-          curl -fsSL \
-            https://raw.githubusercontent.com/iptv-org/epg/master/SITES.md \
-            -o /tmp/SITES.md
-
-      # 6. Select the next batch using the persistent index.
-      # Failed sources are considered processed and are NOT retried this cycle.
-      - name: Select next EPG batch
+      # Stateless selection: pending = frozen cycle list - done - exhausted.
+      # Sources with fewer failures go first, so every source gets a first
+      # attempt before any retry.
+      - name: Select pending sources
         id: batch
         shell: python
         run: |
-          import os
-          import re
-          import json
-          import hashlib
+          import os, re, json, urllib.request
+          from datetime import datetime, timezone, timedelta
 
-          with open("/tmp/SITES.md", encoding="utf-8") as f:
-              content = f.read()
+          REFRESH = timedelta(hours=float(os.environ["REFRESH_HOURS"]))
+          MAX_ATTEMPTS = int(os.environ["MAX_ATTEMPTS"])
+          BATCH_SIZE = int(os.environ["BATCH_SIZE"])
+          STATE = "epg-storage/work/progress.json"
+          now = datetime.now(timezone.utc)
 
-          sites = []
-          for row in re.findall(r'<tr\b[^>]*>(.*?)</tr>', content, re.S | re.I):
-              if "🟢" not in row:
-                  continue
-              match = re.search(r'href="sites/([^"]+)"', row)
-              if match:
-                  sites.append(match.group(1))
+          def out(**kw):
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  for k, v in kw.items():
+                      f.write(f"{k}={v}\n")
 
-          sites = list(dict.fromkeys(sites))
-          if not sites:
-              raise SystemExit("No active EPG sources found.")
+          def fresh_sites():
+              url = "https://raw.githubusercontent.com/iptv-org/epg/master/SITES.md"
+              content = urllib.request.urlopen(url, timeout=60).read().decode("utf-8")
+              sites = []
+              for row in re.findall(r'<tr\b[^>]*>(.*?)</tr>', content, re.S | re.I):
+                  if "🟢" not in row:
+                      continue
+                  m = re.search(r'href="sites/([^"]+)"', row)
+                  if m:
+                      sites.append(m.group(1).strip("/"))
+              return list(dict.fromkeys(sites))
 
           os.makedirs("epg-storage/work/guides", exist_ok=True)
-          state_file = "epg-storage/work/progress.json"
-          signature = hashlib.sha256(",".join(sites).encode()).hexdigest()
 
-          state = {"signature": signature, "index": 0, "complete": False}
-          if os.path.exists(state_file):
+          state = None
+          if os.path.exists(STATE):
               try:
-                  with open(state_file, encoding="utf-8") as f:
-                      old = json.load(f)
-                  if old.get("signature") == signature:
-                      state = old
-                  else:
-                      print("Active source list changed; starting a new cycle at source 1.")
+                  with open(STATE, encoding="utf-8") as f:
+                      state = json.load(f)
+                  if not isinstance(state.get("sites"), list):
+                      state = None  # old format -> start a new cycle
               except (OSError, json.JSONDecodeError):
-                  print("Progress file is unreadable; starting at source 1.")
+                  state = None
 
-          if state.get("complete") is True:
-              print("This source cycle is complete. No downloads are needed.")
-              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                  f.write("skip=true\n")
-              raise SystemExit(0)
+          if state and state.get("complete"):
+              try:
+                  age = now - datetime.fromisoformat(state["completed_at"])
+              except Exception:
+                  age = REFRESH
+              if age < REFRESH:
+                  print(f"Cycle complete {age} ago; next refresh after {REFRESH}.")
+                  out(skip="true")
+                  raise SystemExit(0)
+              state = None
 
-          index = max(0, min(int(state.get("index", 0)), len(sites)))
-          batch_size = 5
-          batch = sites[index:index + batch_size]
-          next_index = index + len(batch)
-          complete = next_index >= len(sites)
+          if state is None:
+              sites = fresh_sites()
+              if not sites:
+                  raise SystemExit("No active EPG sources found.")
+              state = {
+                  "cycle_started": now.isoformat(),
+                  "sites": sites,
+                  "done": [],
+                  "attempts": {},
+                  "complete": False,
+              }
+              print(f"New cycle started with {len(sites)} sources.")
+              with open(STATE, "w", encoding="utf-8") as f:
+                  json.dump(state, f, indent=2)
 
-          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-              f.write("skip=false\n")
-              f.write(f"sites={','.join(batch)}\n")
-              f.write(f"signature={signature}\n")
-              f.write(f"start={index}\n")
-              f.write(f"total={len(sites)}\n")
-              f.write(f"complete={str(complete).lower()}\n")
+          done = set(state["done"])
+          attempts = state["attempts"]
+          pending = [s for s in state["sites"]
+                     if s not in done and attempts.get(s, 0) < MAX_ATTEMPTS]
+          pending.sort(key=lambda s: attempts.get(s, 0))  # stable sort
+          batch = pending[:BATCH_SIZE]
 
-          print(f"Total active sources: {len(sites)}")
-          print(f"Starting at index: {index}")
-          print(f"Selected batch: {batch if batch else 'No downloads; deployment can be retried.'}")
+          print(f"Sources: {len(state['sites'])} | done: {len(done)} | pending: {len(pending)}")
+          print(f"Batch: {batch}")
+          out(skip="false", sites=",".join(batch))
 
-      # 7. Download sources one by one. Every attempted source advances progress,
-      # whether it succeeds, fails, or times out. Failed sources are not retried.
       - name: Download EPG batch
         id: download
         if: steps.batch.outputs.skip != 'true'
         shell: bash
         env:
           SITES: ${{ steps.batch.outputs.sites }}
-          START_INDEX: ${{ steps.batch.outputs.start }}
-          SIGNATURE: ${{ steps.batch.outputs.signature }}
-          TOTAL_SITES: ${{ steps.batch.outputs.total }}
         run: |
           set -uo pipefail
+
+          STATE_FILE=epg-storage/work/progress.json
+          FAILED_CSV=epg-storage/work/failed-sources.csv
+          mkdir -p /tmp/grab epg-storage/work/guides
+          [ -f "$FAILED_CSV" ] || echo 'site,reason,attempted_utc' > "$FAILED_CSV"
 
           git -C epg-storage config user.name "github-actions[bot]"
           git -C epg-storage config user.email \
@@ -148,238 +165,219 @@ jobs:
           PYXML
           }
 
-          save_source() {
-            local site="$1"
-            git -C epg-storage add -- "work/guides/${site}.xml"
+          update_state() {  # $1=site  $2=done|fail
+            python - "$STATE_FILE" "$1" "$2" <<'PYSTATE'
+          import json, sys
+          path, site, result = sys.argv[1:4]
+          with open(path, encoding="utf-8") as f:
+              s = json.load(f)
+          if result == "done":
+              if site not in s["done"]:
+                  s["done"].append(site)
+          else:
+              s["attempts"][site] = s["attempts"].get(site, 0) + 1
+          with open(path, "w", encoding="utf-8") as f:
+              json.dump(s, f, indent=2)
+          PYSTATE
+          }
+
+          get_attempts() {
+            python - "$STATE_FILE" "$1" <<'PYGET'
+          import json, sys
+          with open(sys.argv[1], encoding="utf-8") as f:
+              print(json.load(f)["attempts"].get(sys.argv[2], 0))
+          PYGET
+          }
+
+          commit_push() {
+            git -C epg-storage add -A -- work
             if ! git -C epg-storage diff --cached --quiet; then
-              git -C epg-storage commit -m "Save completed EPG source: ${site}" &&
-                git -C epg-storage push origin HEAD:epg-data
+              git -C epg-storage commit -q -m "$1" &&
+                git -C epg-storage push -q origin HEAD:epg-data
             fi
           }
 
           record_failure() {
-            local site="$1"
-            local reason="$2"
-            mkdir -p epg-storage/work
-            if [ ! -f epg-storage/work/failed-sources.csv ]; then
-              echo 'cycle_signature,site,reason,attempted_utc' > epg-storage/work/failed-sources.csv
-            fi
-            printf '"%s","%s","%s","%s"\n' \
-              "$SIGNATURE" "$site" "$reason" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-              >> epg-storage/work/failed-sources.csv
+            printf '"%s","%s","%s"\n' "$1" "$2" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$FAILED_CSV"
           }
 
           IFS=',' read -ra SITE_LIST <<< "${SITES:-}"
-          PROCESSED=0
-          DEADLINE=$((SECONDS + 48 * 60))
-          SITE_TIMEOUT=$((8 * 60))
+          DEADLINE=$((SECONDS + BUDGET_MIN * 60))
+          OK=0; FAIL=0
 
           for site in "${SITE_LIST[@]}"; do
             [ -z "$site" ] && continue
-            FILE="epg-storage/work/guides/${site}.xml"
             echo "================================"
             echo "Source: $site"
 
-            # A valid existing XML is already completed; move past it.
-            if [ -s "$FILE" ] && is_valid_xml "$FILE"; then
-              echo "Already completed: $site"
-              PROCESSED=$((PROCESSED + 1))
-              continue
-            fi
-
             REMAINING=$((DEADLINE - SECONDS))
             if [ "$REMAINING" -lt 120 ]; then
-              echo "Time limit approaching; leaving $site and later sources for the next run."
+              echo "Time budget used up; remaining sources wait for the next run."
               break
             fi
 
-            ATTEMPT_TIMEOUT=$SITE_TIMEOUT
-            if [ "$REMAINING" -lt "$ATTEMPT_TIMEOUT" ]; then
-              ATTEMPT_TIMEOUT=$((REMAINING - 30))
-            fi
-            if [ "$ATTEMPT_TIMEOUT" -lt 30 ]; then
-              echo "Not enough time to start $site; leaving it for the next run."
-              break
-            fi
-
-            rm -f "$FILE"
-            echo "Downloading: $site"
-
-            if timeout --signal=TERM --kill-after=20s "${ATTEMPT_TIMEOUT}s" \
-              npm run grab -- \
-                --sites="$site" \
-                --output="epg-storage/work/guides/{site}.xml"; then
-
-              if [ -s "$FILE" ] && is_valid_xml "$FILE"; then
-                echo "SUCCESS: $site"
-                if save_source "$site"; then
-                  echo "SAVED: $site"
-                else
-                  echo "ERROR: could not save XML for $site"
-                  record_failure "$site" "save_failed"
-                  rm -f "$FILE"
-                fi
-              else
-                echo "ERROR: incomplete or invalid XML: $site"
-                record_failure "$site" "invalid_or_empty_xml"
-                rm -f "$FILE"
-              fi
+            ATT=$(get_attempts "$site")
+            if [ "$ATT" -eq 0 ]; then
+              T=$((FIRST_TIMEOUT_MIN * 60))
             else
-              RC=$?
-              if [ "$RC" -eq 124 ]; then
-                echo "TIMEOUT (exit code 124): $site"
-                record_failure "$site" "timeout_124"
-              else
-                echo "ERROR: $site failed with exit code $RC"
-                record_failure "$site" "exit_code_${RC}"
-              fi
-              rm -f "$FILE"
+              T=$((RETRY_TIMEOUT_MIN * 60))
             fi
 
-            # Crucial: failed/timed-out attempts count as processed too.
-            PROCESSED=$((PROCESSED + 1))
-            echo "Moving to the next source. Processed in this run: $PROCESSED"
+            # If the run's time budget (not the source) is what limits us,
+            # a timeout must not count as a failed attempt.
+            CAPPED=0
+            if [ "$((REMAINING - 30))" -lt "$T" ]; then
+              T=$((REMAINING - 30))
+              CAPPED=1
+              if [ "$T" -lt 300 ]; then
+                echo "Not enough time left to give $site a fair try; next run."
+                break
+              fi
+            fi
+
+            TMP="/tmp/grab/${site}.xml"
+            FILE="epg-storage/work/guides/${site}.xml"
+            rm -f "$TMP"
+            echo "Downloading $site (attempt $((ATT + 1)), limit ${T}s)"
+
+            timeout --signal=TERM --kill-after=20s "${T}s" \
+              npm run grab -- \
+                --site="$site" \
+                --days="$EPG_DAYS" \
+                --maxConnections="$MAX_CONN" \
+                --output="$TMP"
+            RC=$?
+
+            if [ "$RC" -eq 0 ] && [ -s "$TMP" ] && is_valid_xml "$TMP"; then
+              # Replace the old guide only now, so a failed refresh keeps old data.
+              cp "$TMP" "$FILE"
+              update_state "$site" done
+              commit_push "Save EPG source: ${site}" || echo "WARN: push failed for $site"
+              echo "SUCCESS: $site"
+              OK=$((OK + 1))
+            elif [ "$RC" -eq 124 ] && [ "$CAPPED" -eq 1 ]; then
+              echo "Cut off by run budget (not counted as a failure): $site"
+              break
+            else
+              if [ "$RC" -eq 124 ]; then REASON="timeout"
+              elif [ "$RC" -eq 0 ]; then REASON="invalid_or_empty_xml"
+              else REASON="exit_code_${RC}"; fi
+              echo "FAILED ($REASON): $site"
+              update_state "$site" fail
+              record_failure "$site" "$REASON"
+              commit_push "Record EPG failure: ${site}" || echo "WARN: push failed"
+              FAIL=$((FAIL + 1))
+            fi
+            rm -f "$TMP"
           done
 
-          NEW_INDEX=$((START_INDEX + PROCESSED))
-          if [ "$NEW_INDEX" -gt "$TOTAL_SITES" ]; then
-            NEW_INDEX="$TOTAL_SITES"
-          fi
+          echo "Run finished. Succeeded: $OK, failed: $FAIL"
 
-          # Persist progress regardless of whether a source succeeded or failed.
-          python - "$SIGNATURE" "$NEW_INDEX" "$TOTAL_SITES" <<'PYSTATE'
-          import json, sys
-          signature, index, total = sys.argv[1], int(sys.argv[2]), int(sys.argv[3])
-          state = {
-              "signature": signature,
-              "index": index,
-              "complete": index >= total
-          }
-          with open("epg-storage/work/progress.json", "w", encoding="utf-8") as f:
-              json.dump(state, f, indent=2)
-          print(f"Progress saved: index {index}/{total}; cycle complete={state['complete']}")
-          PYSTATE
-
-          # Save progress and failure log even if every download in this batch failed.
-          git -C epg-storage add -- work/progress.json work/failed-sources.csv
-          if ! git -C epg-storage diff --cached --quiet; then
-            git -C epg-storage commit -m "Advance EPG source progress"
-            git -C epg-storage push origin HEAD:epg-data
-          fi
-
-          echo "Processed $PROCESSED source(s) in this run. Next index: $NEW_INDEX"
-          echo "batch_complete=true" >> "$GITHUB_OUTPUT"
-          if [ "$NEW_INDEX" -ge "$TOTAL_SITES" ]; then
-            echo "cycle_complete=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "cycle_complete=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      # 8. Combine all completed EPG files
+      # Streams files, so memory stays flat even for very large guides.
+      # Channels are written first (deduplicated), then programmes.
       - name: Combine all EPG files
-        if: |
-          steps.batch.outputs.skip != 'true'
+        if: steps.batch.outputs.skip != 'true'
         shell: python
         run: |
-          import os
-          import glob
+          import os, glob, gzip, shutil
           import xml.etree.ElementTree as ET
 
           os.makedirs("public", exist_ok=True)
-
-          files = sorted(
-              glob.glob("epg-storage/work/guides/*.xml")
-          )
-
+          files = sorted(glob.glob("epg-storage/work/guides/*.xml"))
           if not files:
               raise SystemExit("No EPG files available.")
 
-          root = ET.Element("tv")
+          seen = set()
+          counts = {"channel": 0, "programme": 0}
+          bad = []
 
-          for filename in files:
-              print(f"Combining: {filename}")
+          with open("public/guide.xml", "wb") as out:
+              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
+              for tag in ("channel", "programme"):
+                  for fn in files:
+                      try:
+                          for _, el in ET.iterparse(fn, events=("end",)):
+                              if el.tag not in ("channel", "programme"):
+                                  continue
+                              if el.tag == tag:
+                                  if tag == "channel":
+                                      cid = el.get("id")
+                                      if cid in seen:
+                                          el.clear()
+                                          continue
+                                      seen.add(cid)
+                                  out.write(ET.tostring(el, encoding="utf-8"))
+                                  out.write(b"\n")
+                                  counts[tag] += 1
+                              el.clear()
+                      except ET.ParseError as e:
+                          if fn not in bad:
+                              bad.append(fn)
+                          print(f"WARN: {fn}: {e}")
+              out.write(b"</tv>\n")
 
-              try:
-                  tree = ET.parse(filename)
-                  source = tree.getroot()
+          with open("public/guide.xml", "rb") as src, gzip.open("public/guide.xml.gz", "wb") as dst:
+              shutil.copyfileobj(src, dst)
 
-                  if source.tag != "tv":
-                      raise ValueError(
-                          f"Unexpected XML root: {filename}"
-                      )
+          print(f"Files: {len(files)} (unreadable: {len(bad)})")
+          print(f"Channels: {counts['channel']} | Programmes: {counts['programme']}")
+          print(f"guide.xml: {os.path.getsize('public/guide.xml')} bytes")
+          if counts["programme"] == 0:
+              raise SystemExit("Combined guide has no programmes.")
 
-                  if not root.attrib:
-                      root.attrib.update(source.attrib)
-
-                  root.extend(list(source))
-
-              except Exception as e:
-                  raise SystemExit(
-                      f"Failed to process {filename}: {e}"
-                  )
-
-          output = "public/guide.xml"
-
-          ET.ElementTree(root).write(
-              output,
-              encoding="utf-8",
-              xml_declaration=True
-          )
-
-          if os.path.getsize(output) == 0:
-              raise SystemExit("Combined guide.xml is empty.")
-
-          print(f"Total files: {len(files)}")
-          print(f"Guide size: {os.path.getsize(output)} bytes")
-
-      # 9. Configure GitHub Pages
       - name: Configure GitHub Pages
-        if: |
-          steps.batch.outputs.skip != 'true'
+        if: steps.batch.outputs.skip != 'true'
         uses: actions/configure-pages@v5
 
-      # 10. Upload Pages artifact
       - name: Upload Pages artifact
-        if: |
-          steps.batch.outputs.skip != 'true'
+        if: steps.batch.outputs.skip != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
-      # 11. Deploy updated guide
       - name: Deploy to GitHub Pages
         id: deploy
-        if: |
-          steps.batch.outputs.skip != 'true'
+        if: steps.batch.outputs.skip != 'true'
         uses: actions/deploy-pages@v4
 
-      # 12. Mark the cycle fully complete only after the final Pages deployment succeeds.
-      - name: Mark EPG cycle complete
-        if: steps.deploy.outcome == 'success' && steps.download.outputs.cycle_complete == 'true'
+      # Complete only when nothing is pending AND the deploy succeeded.
+      - name: Mark cycle complete
+        if: steps.deploy.outcome == 'success'
         shell: python
+        env:
+          MAX_ATTEMPTS: ${{ env.MAX_ATTEMPTS }}
         run: |
-          import json
+          import os, json
+          from datetime import datetime, timezone
           path = "epg-storage/work/progress.json"
           with open(path, encoding="utf-8") as f:
-              state = json.load(f)
-          state["complete"] = True
-          with open(path, "w", encoding="utf-8") as f:
-              json.dump(state, f, indent=2)
+              s = json.load(f)
+          maxa = int(os.environ["MAX_ATTEMPTS"])
+          done = set(s["done"])
+          pending = [x for x in s["sites"]
+                     if x not in done and s["attempts"].get(x, 0) < maxa]
+          if not pending:
+              s["complete"] = True
+              s["completed_at"] = datetime.now(timezone.utc).isoformat()
+              gave_up = [x for x in s["sites"] if x not in done]
+              print(f"Cycle complete. Done: {len(done)}; gave up on: {gave_up}")
+              with open(path, "w", encoding="utf-8") as f:
+                  json.dump(s, f, indent=2)
+          else:
+              print(f"{len(pending)} source(s) still pending.")
 
-      # 13. Save final completion state to the storage branch.
-      - name: Save final EPG state
-        if: steps.deploy.outcome == 'success' && steps.download.outputs.cycle_complete == 'true'
+      - name: Save state to storage branch
+        if: always()
         shell: bash
         run: |
-          set -e
+          [ -d epg-storage ] || exit 0
           cd epg-storage
           git config user.name "github-actions[bot]"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
-          git add work/progress.json
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- work
           if git diff --cached --quiet; then
-            echo "No final state changes to save."
+            echo "No state changes to save."
           else
-            git commit -m "Mark EPG source cycle complete"
-            git push origin HEAD:epg-data
+            git commit -q -m "Update EPG state"
+            git push -q origin HEAD:epg-data
           fi
