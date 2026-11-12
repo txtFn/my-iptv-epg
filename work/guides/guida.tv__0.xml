@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://share.google/qhHwXjkSbZPrPrDtg"/></channel>
+<channel id="Cielo.it@SD"><display-name>Cielo</display-name><icon src="https://i.imgur.com/tWUy3yx.png"/></channel>
+<channel id="Eurosport1.fr@Italy"><display-name>Eurosport Italia</display-name><icon src="https://i.imgur.com/olQJgm7.png"/></channel>
+<channel id="Italia1.it@SD"><display-name>ITALIA 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png"/></channel>
+<channel id="Italia2.it@SD"><display-name>ITALIA 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png"/></channel>
+<channel id="Rete4.it@SD"><display-name>RETE 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png"/></channel>
+<channel id="LA7.it@SD"><display-name>LA 7</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png"/></channel>
+<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TV8_logo.svg/500px-TV8_logo.svg.png"/></channel>
+<channel id="RaiNews24.it@SD"><display-name>RAI 24 News</display-name><icon src="https://i.imgur.com/n2u57y3.png"/></channel>
+<channel id="Rai2.it@SD"><display-name>RAI 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"/></channel>
+<channel id="Rai3.it@HD"><display-name>RAI 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"/></channel>
+<channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/></channel>
+<channel id="Rai5.it@SD"><display-name>Rai 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png"/></channel>
+<channel id="Rai1.it@SD"><display-name>RAI 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"/></channel>
+<channel id="7Gold.it@SD"><display-name>7 Gold</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg"/></channel>
+<channel id="AlmaTV.it@SD"><display-name>Alma</display-name><icon src="https://i.imgur.com/MfFOnJp.png"/></channel>
+<channel id="SkySportTennis.it@SD"><display-name>Sky Sport Tennis</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/960px-Sky_Sport_Tennis.svg.png"/></channel>
+<channel id="Boing.it@SD"><display-name>Boing</display-name><icon src="https://i.imgur.com/rabKj9i.png"/></channel>
+<channel id="CacciaePesca.it@SD"><display-name>Caccia</display-name><icon src="https://i.imgur.com/uZr0cXB.png"/></channel>
+<channel id="Cartoonito.it@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/6vYWCD0.png"/></channel>
+<channel id="Cine34.it@SD"><display-name>Cine34</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png"/></channel>
+<channel id="ClassCNBC.it@SD"><display-name>Class CNBC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Class_CNBC_2026.svg"/></channel>
+<channel id="CrimePlusInvestigation.it@SD"><display-name>Crime+Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/></channel>
+<channel id="DeAJunior.it@SD"><display-name>DEA JUNIOR</display-name><icon src="https://i.imgur.com/vBNBCNd.png"/></channel>
+<channel id="DeAKids.it@SD"><display-name>DeA Kids</display-name><icon src="https://i.imgur.com/ixnJAuq.png"/></channel>
+<channel id="DiscoveryChannel.it@SD"><display-name>Discovery Channel I</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/></channel>
+<channel id="Nove.it@SD"><display-name>Nove</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/></channel>
+<channel id="DMAX.it@SD"><display-name>DMAX Italia</display-name><icon src="https://i.imgur.com/uGd9fnn.png"/></channel>
+<channel id="DonnaTV.it@SD"><display-name>Donna TV</display-name><icon src="https://i.imgur.com/39cSNHs.png"/></channel>
+<channel id="Eurosport2.fr@Italy"><display-name>Eurosport 2 Italia</display-name><icon src="https://i.imgur.com/f56dHgR.png"/></channel>
+<channel id="FoodNetwork.it@SD"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png"/></channel>
+<channel id="Focus.it@SD"><display-name>Focus</display-name><icon src="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/960px-Focus_Logo.svg.png"/></channel>
+<channel id="GamberoRossoChannel.it@HD"><display-name>Sky Italian Gambero Rosso HD</display-name><icon src="https://i.imgur.com/x5cwb1q.png"/></channel>
+<channel id="Giallo.it@SD"><display-name>Giallo</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png"/></channel>
+<channel id="HGTV.it@SD"><display-name>HGTV IT</display-name><icon src="https://i.imgur.com/ejPii8T.png"/></channel>
+<channel id="History.it@SD"><display-name>History</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/></channel>
+<channel id="Frisbee.it@SD"><display-name>Frisbee</display-name><icon src="https://i.imgur.com/U1MF1vR.png"/></channel>
+<channel id="MTVMusic.it@SD"><display-name>MTV Music</display-name><icon src="https://i.imgur.com/Vyu5Mx4.png"/></channel>
+<channel id="InterTV.it@SD"><display-name>Inter TV</display-name><icon src="https://i.imgur.com/FUTqh2L.png"/></channel>
+<channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/></channel>
+<channel id="Super.it@SD"><display-name>Super!</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Super%21_logo_2015.svg"/></channel>
+<channel id="TV2000.it@SD"><display-name>TV 2000</display-name><icon src="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png"/></channel>
+<channel id="CartoonNetwork.it@SD"><display-name>Cartoon Network Italy</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/></channel>
+<channel id="ComedyCentral.it@SD"><display-name>Comedy Central</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/></channel>
+<channel id="Nickelodeon.it@SD"><display-name>Nickelodeon</display-name><icon src="https://i.imgur.com/E84jnP8.png"/></channel>
+<channel id="NickJr.it@SD"><display-name>Nick Jr.</display-name><icon src="https://i.imgur.com/6p3eFgf.png"/></channel>
+<channel id="K2.it@SD"><display-name>K2</display-name><icon src="https://i.imgur.com/T1E8rFF.png"/></channel>
+<channel id="La5.it@SD"><display-name>La 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png"/></channel>
+<channel id="LA7d.it@SD"><display-name>La7d</display-name><icon src="https://i.imgur.com/sM0A3GD.png"/></channel>
+<channel id="MediasetExtra.it@SD"><display-name>Mediaset Extra</display-name><icon src="https://i.imgur.com/G51Lvah.png"/></channel>
+<channel id="20.it@SD"><display-name>Mediaset 20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png"/></channel>
+<channel id="MilanTV.it@SD"><display-name>Milan TV</display-name><icon src="https://i.imgur.com/gAMQfUw.png"/></channel>
+<channel id="Boomerang.it@SD"><display-name>Sky Italian Boomerang</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"/></channel>
+<channel id="PescaeCaccia.it@SD"><display-name>Pesca</display-name><icon src="https://i.imgur.com/nW5dJBl.png"/></channel>
+<channel id="RaiGulp.it@SD"><display-name>Rai gulp</display-name><icon src="https://i.imgur.com/irAhPJM.png"/></channel>
+<channel id="RaiMovie.it@SD"><display-name>RAI Movie</display-name><icon src="https://i.imgur.com/0FjxXU9.png"/></channel>
+<channel id="RaiPremium.it@SD"><display-name>Rai Premium</display-name><icon src="https://i.imgur.com/40g5Urz.png"/></channel>
+<channel id="RaiSport.it@HD"><display-name>Rai Sport HD</display-name><icon src="https://i.imgur.com/6PEevOM.png"/></channel>
+<channel id="RadioNorbaTV.it@SD"><display-name>Radionorba TV</display-name><icon src="https://i.imgur.com/Tucoyzy.png"/></channel>
+<channel id="RaiScuola.it@SD"><display-name>Rai Scuola</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png"/></channel>
+<channel id="RaiStoria.it@SD"><display-name>RAI STORIA</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png"/></channel>
+<channel id="RealTime.it@SD"><display-name>Real Time</display-name><icon src="https://i.imgur.com/SPlk2Gx.png"/></channel>
+<channel id="RTL1025TV.it@SD"><display-name>RTL 102.5</display-name><icon src="https://i.imgur.com/75qUdR7.png"/></channel>
+<channel id="RaiYoyo.it@SD"><display-name>Rai YoYo</display-name><icon src="https://i.imgur.com/9gCxiDy.png"/></channel>
+<channel id="EuronewsItalian.fr@SD"><display-name>Euronews</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/></channel>
+<channel id="SkyTG24.it@SD"><display-name>Sky TG24</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sky_TG24_-_Logo_2021.svg/960px-Sky_TG24_-_Logo_2021.svg.png"/></channel>
+<channel id="SkyCinemaComedy.it@SD"><display-name>Sky Cinema Comedy</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/960px-Sky_Cinema_Comedy_-_Logo_2021.svg.png"/></channel>
+<channel id="SkyCinemaDue.it@SD"><display-name>Sky Cinema Due</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/960px-Sky_Cinema_Due_-_Logo_2021.svg.png"/></channel>
+<channel id="SkyCinemaCollection.it@SD"><display-name>Sky Cinema Collection</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/960px-Sky_Cinema_Collection_-_Logo_2021.svg.png"/></channel>
+<channel id="83756572/sky-arte-hdtv"><display-name>Sky Arte HDTV</display-name></channel>
+<channel id="SkyAtlantic.it@HD"><display-name>Sky Atlantic HDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg/960px-Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg.png"/></channel>
+<channel id="SkyCinemaAction.it@SD"><display-name>Sky Cinema Action</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png"/></channel>
+<channel id="SkyCinemaUno.it@SD"><display-name>Sky Cinema Uno</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/960px-Sky_Cinema_Uno_-_Logo_2021.svg.png"/></channel>
+<channel id="SkyCinemaDrama.it@SD"><display-name>Sky Cinema Drama</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sky_Cinema_Drama_-_Logo_2021.svg/960px-Sky_Cinema_Drama_-_Logo_2021.svg.png"/></channel>
+<channel id="SkyCinemaFamily.it@SD"><display-name>Sky Cinema Family</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/960px-Sky_Cinema_Family_-_Logo_2021.svg.png"/></channel>
+<channel id="SkySportFootball.it@SD"><display-name>Sky Sport Football</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/960px-Sky_Sport_Football_-_Logo_2020.svg.png"/></channel>
+<channel id="83757866/sky-sport-nba"><display-name>Sky Sport NBA</display-name></channel>
+<channel id="SkyCinemaRomance.it@SD"><display-name>Sky Cinema Romance</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/960px-Sky_Cinema_Romance_-_Logo_2021.svg.png"/></channel>
+<channel id="SkySport24.it@SD"><display-name>SKY SPORT 24</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/960px-Sky_Sport_24_-_Logo_2020.svg.png"/></channel>
+<channel id="SkyCinemaSuspense.it@SD"><display-name>Sky Cinema Suspense</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/960px-Sky_Cinema_Suspense_-_Logo_2021.svg.png"/></channel>
+<channel id="SkyUno.it@SD"><display-name>Sky Uno</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/960px-Sky_Uno_-_Logo_2021.svg.png"/></channel>
+<channel id="SanMarinoRTV.sm@SD"><display-name>Sky Italian San Marino RTV</display-name><icon src="https://i.imgur.com/ZJSWusT.png"/></channel>
+<channel id="SkySportMotoGP.it@SD"><display-name>Sky Moto GP</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/960px-Sky_Sport_MotoGP_-_Logo_2020.svg.png"/></channel>
+<channel id="Sportitalia.it@SD"><display-name>Sport Italia</display-name><icon src="https://i.imgur.com/0CJGGgd.png"/></channel>
+<channel id="SkySportF1.it@SD"><display-name>Sky Sport F1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png"/></channel>
+<channel id="SkySportUno.it@SD"><display-name>Sky Sport Uno</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/960px-Sky_Sport_Uno_-_Logo_2020.svg.png"/></channel>
+<channel id="SuperTennis.it@HD"><display-name>Super Tennis HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png"/></channel>
+<channel id="TopCalcio24.it@SD"><display-name>Top Calcio 24</display-name><icon src="https://i.imgur.com/qYPiXlB.png"/></channel>
+</tv>
