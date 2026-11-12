@@ -16,11 +16,12 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  BATCH_SIZE: "25"        # max sources considered per run (time budget is the real limit)
+  CHUNK_SIZE: "200"       # channels per download unit (big sites are split)
+  BATCH_SIZE: "300"       # max units considered per run (time budget is the real limit)
   BUDGET_MIN: "100"       # minutes the download loop may run
-  FIRST_TIMEOUT_MIN: "30" # per-source timeout, first attempt
-  RETRY_TIMEOUT_MIN: "60" # per-source timeout, retries
-  MAX_ATTEMPTS: "3"       # real failures allowed per source per cycle
+  FIRST_TIMEOUT_MIN: "20" # per-unit timeout, first attempt
+  RETRY_TIMEOUT_MIN: "40" # per-unit timeout, retries
+  MAX_ATTEMPTS: "3"       # real failures allowed per unit per cycle
   REFRESH_HOURS: "12"     # after a cycle completes, wait this long, then start a fresh one
   EPG_DAYS: "3"
   MAX_CONN: "3"
@@ -51,19 +52,53 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # Stateless selection: pending = frozen cycle list - done - exhausted.
-      # Sources with fewer failures go first, so every source gets a first
+      # Shared helper: splits a site's channel list into chunks.
+      - name: Write helper library
+        shell: bash
+        run: |
+          cat > /tmp/epglib.py <<'PYLIB'
+          import glob, math
+          import xml.etree.ElementTree as ET
+
+          def channel_elements(site):
+              els = []
+              for fn in sorted(glob.glob(f"sites/{site}/*.channels.xml")):
+                  try:
+                      root = ET.parse(fn).getroot()
+                  except ET.ParseError:
+                      continue
+                  els.extend(root.findall("channel"))
+              return els
+
+          def chunk_count(site, size):
+              return max(1, math.ceil(len(channel_elements(site)) / size))
+
+          def write_chunk(site, k, size, path):
+              els = channel_elements(site)[k * size:(k + 1) * size]
+              if not els:
+                  return False
+              root = ET.Element("channels")
+              root.extend(els)
+              ET.ElementTree(root).write(path, encoding="utf-8", xml_declaration=True)
+              return True
+          PYLIB
+
+      # Stateless selection: pending = frozen cycle units - done - exhausted.
+      # Units with fewer failures go first, so every unit gets a first
       # attempt before any retry.
-      - name: Select pending sources
+      - name: Select pending units
         id: batch
         shell: python
         run: |
-          import os, re, json, urllib.request
+          import os, re, sys, json, urllib.request
           from datetime import datetime, timezone, timedelta
+          sys.path.insert(0, "/tmp")
+          import epglib
 
           REFRESH = timedelta(hours=float(os.environ["REFRESH_HOURS"]))
           MAX_ATTEMPTS = int(os.environ["MAX_ATTEMPTS"])
           BATCH_SIZE = int(os.environ["BATCH_SIZE"])
+          CHUNK = int(os.environ["CHUNK_SIZE"])
           STATE = "epg-storage/work/progress.json"
           now = datetime.now(timezone.utc)
 
@@ -91,7 +126,7 @@ jobs:
               try:
                   with open(STATE, encoding="utf-8") as f:
                       state = json.load(f)
-                  if not isinstance(state.get("sites"), list):
+                  if not isinstance(state.get("units"), list):
                       state = None  # old format -> start a new cycle
               except (OSError, json.JSONDecodeError):
                   state = None
@@ -111,34 +146,38 @@ jobs:
               sites = fresh_sites()
               if not sites:
                   raise SystemExit("No active EPG sources found.")
+              units = []
+              for s in sites:
+                  n = epglib.chunk_count(s, CHUNK)
+                  units.extend(f"{s}@{k}" for k in range(n))
               state = {
                   "cycle_started": now.isoformat(),
-                  "sites": sites,
+                  "units": units,
                   "done": [],
                   "attempts": {},
                   "complete": False,
               }
-              print(f"New cycle started with {len(sites)} sources.")
+              print(f"New cycle: {len(sites)} sources split into {len(units)} units.")
               with open(STATE, "w", encoding="utf-8") as f:
                   json.dump(state, f, indent=2)
 
           done = set(state["done"])
           attempts = state["attempts"]
-          pending = [s for s in state["sites"]
-                     if s not in done and attempts.get(s, 0) < MAX_ATTEMPTS]
-          pending.sort(key=lambda s: attempts.get(s, 0))  # stable sort
+          pending = [u for u in state["units"]
+                     if u not in done and attempts.get(u, 0) < MAX_ATTEMPTS]
+          pending.sort(key=lambda u: attempts.get(u, 0))  # stable sort
           batch = pending[:BATCH_SIZE]
 
-          print(f"Sources: {len(state['sites'])} | done: {len(done)} | pending: {len(pending)}")
-          print(f"Batch: {batch}")
-          out(skip="false", sites=",".join(batch))
+          print(f"Units: {len(state['units'])} | done: {len(done)} | pending: {len(pending)}")
+          print(f"Next units: {batch[:10]}{' ...' if len(batch) > 10 else ''}")
+          out(skip="false", units=",".join(batch))
 
       - name: Download EPG batch
         id: download
         if: steps.batch.outputs.skip != 'true'
         shell: bash
         env:
-          SITES: ${{ steps.batch.outputs.sites }}
+          UNITS: ${{ steps.batch.outputs.units }}
         run: |
           # GitHub starts bash with -e; turn it off so one failed grab
           # is recorded and the loop moves on instead of killing the step.
@@ -148,7 +187,7 @@ jobs:
           STATE_FILE=epg-storage/work/progress.json
           FAILED_CSV=epg-storage/work/failed-sources.csv
           mkdir -p /tmp/grab epg-storage/work/guides
-          [ -f "$FAILED_CSV" ] || echo 'site,reason,attempted_utc' > "$FAILED_CSV"
+          [ -f "$FAILED_CSV" ] || echo 'unit,reason,attempted_utc' > "$FAILED_CSV"
 
           git -C epg-storage config user.name "github-actions[bot]"
           git -C epg-storage config user.email \
@@ -168,17 +207,17 @@ jobs:
           PYXML
           }
 
-          update_state() {  # $1=site  $2=done|fail
+          update_state() {  # $1=unit  $2=done|fail
             python - "$STATE_FILE" "$1" "$2" <<'PYSTATE'
           import json, sys
-          path, site, result = sys.argv[1:4]
+          path, unit, result = sys.argv[1:4]
           with open(path, encoding="utf-8") as f:
               s = json.load(f)
           if result == "done":
-              if site not in s["done"]:
-                  s["done"].append(site)
+              if unit not in s["done"]:
+                  s["done"].append(unit)
           else:
-              s["attempts"][site] = s["attempts"].get(site, 0) + 1
+              s["attempts"][unit] = s["attempts"].get(unit, 0) + 1
           with open(path, "w", encoding="utf-8") as f:
               json.dump(s, f, indent=2)
           PYSTATE
@@ -190,6 +229,16 @@ jobs:
           with open(sys.argv[1], encoding="utf-8") as f:
               print(json.load(f)["attempts"].get(sys.argv[2], 0))
           PYGET
+          }
+
+          make_chunk() {  # $1=site $2=k $3=outfile ; exit 0 if a chunk file was written
+            python - "$1" "$2" "$CHUNK_SIZE" "$3" <<'PYCHUNK'
+          import sys
+          sys.path.insert(0, "/tmp")
+          import epglib
+          site, k, size, path = sys.argv[1], int(sys.argv[2]), int(sys.argv[3]), sys.argv[4]
+          sys.exit(0 if epglib.write_chunk(site, k, size, path) else 1)
+          PYCHUNK
           }
 
           commit_push() {
@@ -211,78 +260,92 @@ jobs:
           else
             SITE_FLAG="--site"
           fi
+          HAS_CHANNELS=0
+          echo "$GRAB_HELP" | grep -q -- '--channels' && HAS_CHANNELS=1
           EXTRA=()
           echo "$GRAB_HELP" | grep -q -- '--days' && EXTRA+=("--days=$EPG_DAYS")
           echo "$GRAB_HELP" | grep -q -- '--maxConnections' && EXTRA+=("--maxConnections=$MAX_CONN")
-          echo "Site flag: $SITE_FLAG | extra flags: ${EXTRA[*]:-none}"
+          echo "Site flag: $SITE_FLAG | --channels supported: $HAS_CHANNELS | extra: ${EXTRA[*]:-none}"
 
-          IFS=',' read -ra SITE_LIST <<< "${SITES:-}"
+          IFS=',' read -ra UNIT_LIST <<< "${UNITS:-}"
           DEADLINE=$((SECONDS + BUDGET_MIN * 60))
           OK=0; FAIL=0
 
-          for site in "${SITE_LIST[@]}"; do
-            [ -z "$site" ] && continue
+          for unit in "${UNIT_LIST[@]}"; do
+            [ -z "$unit" ] && continue
+            site="${unit%@*}"
+            k="${unit##*@}"
             echo "================================"
-            echo "Source: $site"
+            echo "Unit: $unit (site $site, chunk $k)"
 
             REMAINING=$((DEADLINE - SECONDS))
             if [ "$REMAINING" -lt 120 ]; then
-              echo "Time budget used up; remaining sources wait for the next run."
+              echo "Time budget used up; remaining units wait for the next run."
               break
             fi
 
-            ATT=$(get_attempts "$site")
+            ATT=$(get_attempts "$unit")
             if [ "$ATT" -eq 0 ]; then
               T=$((FIRST_TIMEOUT_MIN * 60))
             else
               T=$((RETRY_TIMEOUT_MIN * 60))
             fi
 
-            # If the run's time budget (not the source) is what limits us,
+            # If the run's time budget (not the unit) is what limits us,
             # a timeout must not count as a failed attempt.
             CAPPED=0
             if [ "$((REMAINING - 30))" -lt "$T" ]; then
               T=$((REMAINING - 30))
               CAPPED=1
               if [ "$T" -lt 300 ]; then
-                echo "Not enough time left to give $site a fair try; next run."
+                echo "Not enough time left to give $unit a fair try; next run."
                 break
               fi
             fi
 
-            TMP="/tmp/grab/${site}.xml"
-            FILE="epg-storage/work/guides/${site}.xml"
-            rm -f "$TMP"
-            echo "Downloading $site (attempt $((ATT + 1)), limit ${T}s)"
+            TMP="/tmp/grab/${site}__${k}.xml"
+            CHUNK_FILE="/tmp/grab/${site}__${k}.channels.xml"
+            FILE="epg-storage/work/guides/${site}__${k}.xml"
+            rm -f "$TMP" "$CHUNK_FILE"
+
+            if [ "$HAS_CHANNELS" -eq 1 ] && make_chunk "$site" "$k" "$CHUNK_FILE"; then
+              SELECT_ARGS=("--channels=$CHUNK_FILE")
+            else
+              SELECT_ARGS=("$SITE_FLAG=$site")   # no channel list found: whole site
+            fi
+            echo "Downloading $unit (attempt $((ATT + 1)), limit ${T}s)"
 
             timeout --signal=TERM --kill-after=20s "${T}s" \
               npm run grab -- \
-                "$SITE_FLAG=$site" \
+                "${SELECT_ARGS[@]}" \
                 "${EXTRA[@]}" \
                 --output="$TMP"
             RC=$?
+            # timeout only stops npm; make sure the grabber itself is gone.
+            pkill -f "commands/epg/grab" 2>/dev/null || true
 
             if [ "$RC" -eq 0 ] && [ -s "$TMP" ] && is_valid_xml "$TMP"; then
-              # Replace the old guide only now, so a failed refresh keeps old data.
+              # Replace old data only now, so a failed refresh keeps old guides.
               cp "$TMP" "$FILE"
-              update_state "$site" done
-              commit_push "Save EPG source: ${site}" || echo "WARN: push failed for $site"
-              echo "SUCCESS: $site"
+              rm -f "epg-storage/work/guides/${site}.xml"   # legacy whole-site file
+              update_state "$unit" done
+              commit_push "Save EPG unit: ${unit}" || echo "WARN: push failed for $unit"
+              echo "SUCCESS: $unit"
               OK=$((OK + 1))
             elif [ "$RC" -eq 124 ] && [ "$CAPPED" -eq 1 ]; then
-              echo "Cut off by run budget (not counted as a failure): $site"
+              echo "Cut off by run budget (not counted as a failure): $unit"
               break
             else
               if [ "$RC" -eq 124 ]; then REASON="timeout"
               elif [ "$RC" -eq 0 ]; then REASON="invalid_or_empty_xml"
               else REASON="exit_code_${RC}"; fi
-              echo "FAILED ($REASON): $site"
-              update_state "$site" fail
-              record_failure "$site" "$REASON"
-              commit_push "Record EPG failure: ${site}" || echo "WARN: push failed"
+              echo "FAILED ($REASON): $unit"
+              update_state "$unit" fail
+              record_failure "$unit" "$REASON"
+              commit_push "Record EPG failure: ${unit}" || echo "WARN: push failed"
               FAIL=$((FAIL + 1))
             fi
-            rm -f "$TMP"
+            rm -f "$TMP" "$CHUNK_FILE"
           done
 
           echo "Run finished. Succeeded: $OK, failed: $FAIL"
@@ -358,8 +421,6 @@ jobs:
       - name: Mark cycle complete
         if: steps.deploy.outcome == 'success'
         shell: python
-        env:
-          MAX_ATTEMPTS: ${{ env.MAX_ATTEMPTS }}
         run: |
           import os, json
           from datetime import datetime, timezone
@@ -368,17 +429,17 @@ jobs:
               s = json.load(f)
           maxa = int(os.environ["MAX_ATTEMPTS"])
           done = set(s["done"])
-          pending = [x for x in s["sites"]
-                     if x not in done and s["attempts"].get(x, 0) < maxa]
+          pending = [u for u in s["units"]
+                     if u not in done and s["attempts"].get(u, 0) < maxa]
           if not pending:
               s["complete"] = True
               s["completed_at"] = datetime.now(timezone.utc).isoformat()
-              gave_up = [x for x in s["sites"] if x not in done]
+              gave_up = [u for u in s["units"] if u not in done]
               print(f"Cycle complete. Done: {len(done)}; gave up on: {gave_up}")
               with open(path, "w", encoding="utf-8") as f:
                   json.dump(s, f, indent=2)
           else:
-              print(f"{len(pending)} source(s) still pending.")
+              print(f"{len(pending)} unit(s) still pending.")
 
       - name: Save state to storage branch
         if: always()
