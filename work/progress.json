@@ -1109,6 +1109,8 @@
     "clarotvmais.com.br@0",
     "clickthecity.com@0"
   ],
-  "attempts": {},
+  "attempts": {
+    "content.astro.com.my@0": 1
+  },
   "complete": false
 }
