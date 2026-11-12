@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<channel id="1%2B1+International"><display-name>1+1 International</display-name></channel>
+<channel id="1%2B1+Maraton"><display-name>1+1 Maraton</display-name></channel>
+<channel id="1%2B1+Ukraina"><display-name>1+1 Ukraina</display-name></channel>
+<channel id="ChannelOne.ru@SD"><display-name>1TV</display-name><icon src="https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png"/></channel>
+<channel id="2x2"><display-name>2x2</display-name></channel>
+<channel id="3sat.de@SD"><display-name>3SAT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"/></channel>
+<channel id="4FunDance.pl@SD"><display-name>4Fun Dance</display-name><icon src="https://i.imgur.com/ZEWHe1B.png"/></channel>
+<channel id="4FunKids.pl@SD"><display-name>4Fun Kids</display-name><icon src="https://i.imgur.com/2JO5Y8c.png"/></channel>
+<channel id="4FunTV.pl@SD"><display-name>4Fun.TV</display-name><icon src="https://i.imgur.com/rI1wo2l.png"/></channel>
+<channel id="Channel5.ua@SD"><display-name>5 Kanal</display-name><icon src="https://i.imgur.com/a9JJXPk.png"/></channel>
+<channel id="7D7.ee@SD"><display-name>7D7TV</display-name><icon src="https://i.imgur.com/WrQI2EN.png"/></channel>
+<channel id="13tv"><display-name>13tv</display-name></channel>
+<channel id="13.tv"><display-name>13.tv</display-name></channel>
+<channel id="33"><display-name>33</display-name></channel>
+<channel id="33+kanal"><display-name>33 kanal</display-name></channel>
+<channel id="36.6+TV"><display-name>36.6 TV</display-name></channel>
+<channel id="324"><display-name>324</display-name></channel>
+<channel id="360TuneBox.nl@SD"><display-name>360TuneBox</display-name><icon src="https://i.imgur.com/1Fyezng.png"/></channel>
+<channel id="SlagerMuzika.cz@SD"><display-name>lgr Muzika</display-name><icon src="https://i.imgur.com/hKdXwrW.png"/></channel>
+<channel id="SlagerOriginal.cz@SD"><display-name>lgr Originl</display-name><icon src="https://i.imgur.com/0YjeWcq.png"/></channel>
+<channel id="%8Auriansky+spravodaj"><display-name>uriansky spravodaj</display-name></channel>
+<channel id="TukiTV.sk@SD"><display-name>uki</display-name><icon src="https://i.imgur.com/mqbYLdv.png"/></channel>
+<channel id="%C8Ro+%C8esk%E9+Bud%ECjovice"><display-name>Ro esk Budjovice</display-name></channel>
+<channel id="%C8Ro+Brno"><display-name>Ro Brno</display-name></channel>
+<channel id="%C8Ro+D-dur"><display-name>Ro D-dur</display-name></channel>
+<channel id="%C8Ro+Dvojka"><display-name>Ro Dvojka</display-name></channel>
+<channel id="%C8Ro+Hradec+Kr%E1lov%E9"><display-name>Ro Hradec Krlov</display-name></channel>
+<channel id="%C8Ro+Jazz"><display-name>Ro Jazz</display-name></channel>
+<channel id="%C8Ro+Karlovy+Vary"><display-name>Ro Karlovy Vary</display-name></channel>
+<channel id="%C8Ro+Liberec"><display-name>Ro Liberec</display-name></channel>
+<channel id="%C8Ro+Olomouc"><display-name>Ro Olomouc</display-name></channel>
+<channel id="%C8Ro+Ostrava"><display-name>Ro Ostrava</display-name></channel>
+<channel id="%C8Ro+Pardubice"><display-name>Ro Pardubice</display-name></channel>
+<channel id="%C8Ro+Plus"><display-name>Ro Plus</display-name></channel>
+<channel id="%C8Ro+Plze%F2"><display-name>Ro Plze</display-name></channel>
+<channel id="%C8Ro+Pohoda"><display-name>Ro Pohoda</display-name></channel>
+<channel id="%C8Ro+Prague+International"><display-name>Ro Prague International</display-name></channel>
+<channel id="%C8Ro+R%E1dio+Junior"><display-name>Ro Rdio Junior</display-name></channel>
+<channel id="%C8Ro+R%E1dio+Retro"><display-name>Ro Rdio Retro</display-name></channel>
+<channel id="%C8Ro+Radio%9Eurn%E1l"><display-name>Ro Radiournl</display-name></channel>
+<channel id="%C8Ro+Radio+Praha"><display-name>Ro Radio Praha</display-name></channel>
+<channel id="%C8Ro+Radio+Wave"><display-name>Ro Radio Wave</display-name></channel>
+<channel id="%C8Ro+Regina+DAB+Praha"><display-name>Ro Regina DAB Praha</display-name></channel>
+<channel id="%C8Ro+Region"><display-name>Ro Region</display-name></channel>
+<channel id="%C8Ro+Sever"><display-name>Ro Sever</display-name></channel>
+<channel id="%C8Ro+Vltava"><display-name>Ro Vltava</display-name></channel>
+<channel id="%C8Ro+Vyso%E8ina"><display-name>Ro Vysoina</display-name></channel>
+<channel id="%C8Ro+Zl%EDn"><display-name>Ro Zln</display-name></channel>
+<channel id="CT1.cz@SD"><display-name>T1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png"/></channel>
+<channel id="CT2.cz@SD"><display-name>T2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png"/></channel>
+<channel id="CTSport.cz@SD"><display-name>T4 Sport</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png"/></channel>
+<channel id="CT24.cz@SD"><display-name>T24</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png"/></channel>
+<channel id="CTDecko.cz@SD"><display-name>T :D</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png"/></channel>
+<channel id="CTart.cz@SD"><display-name>T art</display-name><icon src="https://i.imgur.com/aNghU1z.png"/></channel>
+<channel id="Ocko.cz@SD"><display-name>ko</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png"/></channel>
+<channel id="OckoBlack.cz@SD"><display-name>ko Black</display-name><icon src="https://i.imgur.com/5rw9tWy.png"/></channel>
+<channel id="OckoExpres.cz@SD"><display-name>ko Expres</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png"/></channel>
+<channel id="OckoStar.cz@SD"><display-name>ko Star</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png"/></channel>
+<channel id="A11"><display-name>A11</display-name></channel>
+<channel id="ABC+TV"><display-name>ABC TV</display-name></channel>
+<channel id="Adria"><display-name>Adria</display-name></channel>
+<channel id="Adult+Channel"><display-name>Adult Channel</display-name></channel>
+<channel id="AdventureTV.pl@SD"><display-name>Adventure TV (pl)</display-name><icon src="https://i.imgur.com/VQVr4Nk.png"/></channel>
+<channel id="AlJazeera.qa@English"><display-name>Al Jazeera</display-name><icon src="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="AlJazeeraBalkans.ba@SD"><display-name>Al Jazeera Balkans</display-name><icon src="https://i.imgur.com/vMzCr8O.png"/></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera (Arabic)</display-name><icon src="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="AMCEurope.uk@CzechRepublic"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/></channel>
+<channel id="AMC+%28pl%29"><display-name>AMC (pl)</display-name></channel>
+<channel id="AMC+Balkan"><display-name>AMC Balkan</display-name></channel>
+<channel id="Animal+Planet"><display-name>Animal Planet</display-name></channel>
+<channel id="AnimalPlanet.uk@SD"><display-name>AnimalPlanet UK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"/></channel>
+<channel id="AnixeHDSerie.de@SD"><display-name>ANIXE HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/960px-Anixe_HD.svg.png"/></channel>
+<channel id="Antena3"><display-name>Antena3</display-name></channel>
+<channel id="Antena+TV"><display-name>Antena TV</display-name></channel>
+<channel id="Arcadia"><display-name>Arcadia</display-name></channel>
+<channel id="One.de@SD"><display-name>ARD One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png"/></channel>
+<channel id="ARDalpha.de@SD"><display-name>ARD-alpha</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png"/></channel>
+<channel id="ArenaSport1.sk@SD"><display-name>Arena Sport 1</display-name><icon src="https://i.imgur.com/2qf67zW.png"/></channel>
+<channel id="ArenaSport2.sk@SD"><display-name>Arena Sport 2</display-name><icon src="https://i.imgur.com/Yq3Jf19.png"/></channel>
+<channel id="ArirangWorld.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/5Aoithj.png"/></channel>
+<channel id="ARTE"><display-name>ARTE</display-name></channel>
+<channel id="ARTE+%28fr.%29"><display-name>ARTE (fr.)</display-name></channel>
+<channel id="AstroTV"><display-name>AstroTV</display-name></channel>
+<channel id="At+the+Races"><display-name>At the Races</display-name></channel>
+<channel id="ATR"><display-name>ATR</display-name></channel>
+<channel id="ATV.hu@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/85sIvrX.png"/></channel>
+<channel id="ATV+%28de%29"><display-name>ATV (de)</display-name></channel>
+<channel id="ATV+Spirit"><display-name>ATV Spirit</display-name></channel>
+<channel id="Aurora+TV"><display-name>Aurora TV</display-name></channel>
+<channel id="automotorundsportchannel.de@SD"><display-name>Auto Motor Sport</display-name><icon src="https://i.imgur.com/o8wOvJ7.png"/></channel>
+<channel id="AXN"><display-name>AXN</display-name></channel>
+<channel id="AXNBlack.us@Bulgary"><display-name>AXN Black</display-name><icon src="https://i.imgur.com/Peo1QiZ.png"/></channel>
+<channel id="AXN+Digi+TV"><display-name>AXN Digi TV</display-name></channel>
+<channel id="AXN+HD"><display-name>AXN HD</display-name></channel>
+<channel id="AXN+Sat"><display-name>AXN Sat</display-name></channel>
+<channel id="AXNWhite.us@SD"><display-name>AXN White</display-name><icon src="https://i.imgur.com/47IKxmt.png"/></channel>
+<channel id="B1+Televizija"><display-name>B1 Televizija</display-name></channel>
+<channel id="BabesTV.us@SD"><display-name>Babes TV</display-name><icon src="https://i.imgur.com/XK19a9v.png"/></channel>
+<channel id="BabyTV.uk@UK"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/></channel>
+<channel id="BangU"><display-name>BangU</display-name></channel>
+<channel id="Banovina+TV"><display-name>Banovina TV</display-name></channel>
+<channel id="TVBarrandov.cz@SD"><display-name>Barrandov</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png"/></channel>
+<channel id="BarrandovKrimi.cz@SD"><display-name>Barrandov Krimi</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png"/></channel>
+<channel id="BBC+Brit"><display-name>BBC Brit</display-name></channel>
+<channel id="BBC+Czech"><display-name>BBC Czech</display-name></channel>
+<channel id="BBC+Earth"><display-name>BBC Earth</display-name></channel>
+<channel id="BBC+Earth+%28cz%29"><display-name>BBC Earth (cz)</display-name></channel>
+<channel id="BBC+First"><display-name>BBC First</display-name></channel>
+<channel id="BBC+First+%28pl%29"><display-name>BBC First (pl)</display-name></channel>
+<channel id="BBCFour.uk@UK"><display-name>BBC Four</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png"/></channel>
+<channel id="BBC+Lifestyle"><display-name>BBC Lifestyle</display-name></channel>
+<channel id="BBCOne.uk@London"><display-name>BBC One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"/></channel>
+<channel id="BBC+Radio"><display-name>BBC Radio</display-name></channel>
+<channel id="BBCTwo.uk@England"><display-name>BBC Two</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"/></channel>
+<channel id="BBCNews.uk@Europe"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="Biznes24.pl@SD"><display-name>Biznes24</display-name><icon src="https://i.imgur.com/0yoFsuq.png"/></channel>
+<channel id="BloombergTV.us@Europe"><display-name>Bloomberg</display-name><icon src="https://i.imgur.com/OuogLHx.png"/></channel>
+<channel id="BlueHustler.nl@SD"><display-name>Blue Hustler</display-name><icon src="https://i.imgur.com/G1YaX0Q.png"/></channel>
+<channel id="BNTV.ba@SD"><display-name>BN Televizija</display-name><icon src="https://i.imgur.com/DUBvfWb.png"/></channel>
+<channel id="Bober.ru@SD"><display-name>Bober</display-name><icon src="https://i.imgur.com/clWWhB8.png"/></channel>
+<channel id="Body+in+Balance"><display-name>Body in Balance</display-name></channel>
+<channel id="Body+in+Balance+%28sk%29"><display-name>Body in Balance (sk)</display-name></channel>
+<channel id="Boing+%28es%29"><display-name>Boing (es)</display-name></channel>
+<channel id="Bollywood"><display-name>Bollywood</display-name></channel>
+<channel id="BR"><display-name>BR</display-name></channel>
+<channel id="StingrayClassica.ca@SD"><display-name>Brava HDTV</display-name><icon src="https://i.imgur.com/nh1k5RC.png"/></channel>
+<channel id="Bravo%21+Kids"><display-name>Bravo! Kids</display-name></channel>
+<channel id="bravo%21+TV"><display-name>bravo! TV</display-name></channel>
+<channel id="BrazzersTVEurope.us@SD"><display-name>Brazzers TV Europe</display-name><icon src="https://i.imgur.com/95nP0Pb.png"/></channel>
+<channel id="BVN.nl@SD"><display-name>BVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png"/></channel>
+<channel id="StingrayCMusic.ca@SD"><display-name>C Music TV</display-name><icon src="https://i.imgur.com/3UppN5P.png"/></channel>
+<channel id="Canal%2B+Action"><display-name>Canal+ Action</display-name></channel>
+<channel id="CanalPlusSport1.cz@SD"><display-name>Canal+ Sport</display-name><icon src="https://i.imgur.com/Q3WjH1Q.png"/></channel>
+<channel id="Canal%2B+Sport+2"><display-name>Canal+ Sport 2</display-name></channel>
+<channel id="Canal%2B+Sport+3"><display-name>Canal+ Sport 3</display-name></channel>
+<channel id="Canal%2B+Sport+4"><display-name>Canal+ Sport 4</display-name></channel>
+<channel id="Canal%2B+Sport+5"><display-name>Canal+ Sport 5</display-name></channel>
+<channel id="Canal%2B+Sport+6"><display-name>Canal+ Sport 6</display-name></channel>
+<channel id="Canal%2B+Sport+7"><display-name>Canal+ Sport 7</display-name></channel>
+<channel id="Canal%2B+Sport+8"><display-name>Canal+ Sport 8</display-name></channel>
+<channel id="24Horas.es@SD"><display-name>Canal 24 Horas</display-name><icon src="https://i.ibb.co/21sXZ3GT/24h.png"/></channel>
+<channel id="Canale+5"><display-name>Canale 5</display-name></channel>
+<channel id="Carousel.ru@SD"><display-name>Carousel</display-name><icon src="https://i.imgur.com/4wmnx1W.png"/></channel>
+<channel id="Cars+%26+Stars+TV"><display-name>Cars &amp; Stars TV</display-name></channel>
+<channel id="CartoonNetworkCEE.uk@CzechRepublic"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/></channel>
+<channel id="Cartoon+Network%2BTCM+%28hu%29"><display-name>Cartoon Network+TCM (hu)</display-name></channel>
+<channel id="Cartoon+Network+%28en2%29"><display-name>Cartoon Network (en2)</display-name></channel>
+<channel id="Cartoon+Network+%28en%29"><display-name>Cartoon Network (en)</display-name></channel>
+<channel id="Cartoon+Network+%28hr%29"><display-name>Cartoon Network (hr)</display-name></channel>
+<channel id="CartoonNetworkCEE.uk@Poland"><display-name>Cartoon Network (pl)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/></channel>
+<channel id="Cartoonito"><display-name>Cartoonito</display-name></channel>
+<channel id="Cartoonito+%28hr%29"><display-name>Cartoonito (hr)</display-name></channel>
+<channel id="CBBC.uk@SD"><display-name>CBBC</display-name><icon src="https://i.imgur.com/tk8G4CU.png"/></channel>
+<channel id="CBS+Reality+%28pl%29"><display-name>CBS Reality (pl)</display-name></channel>
+<channel id="CCTV4Europe.cn@SD"><display-name>CCTV4 Europe</display-name><icon src="https://i.imgur.com/HGLFdfk.png"/></channel>
+<channel id="CCTV9.cn@SD"><display-name>CCTV9</display-name><icon src="https://i.imgur.com/3tivvMm.png"/></channel>
+<channel id="TVCentral.sk@SD"><display-name>CETV</display-name><icon src="https://i.imgur.com/LqGT8o9.png"/></channel>
+<channel id="CGTN+Arabic"><display-name>CGTN Arabic</display-name></channel>
+<channel id="CGTN+Documentary"><display-name>CGTN Documentary</display-name></channel>
+<channel id="CGTN+English"><display-name>CGTN English</display-name></channel>
+<channel id="CGTN+Espanol"><display-name>CGTN Espanol</display-name></channel>
+<channel id="CGTN+Francais"><display-name>CGTN Francais</display-name></channel>
+<channel id="CGTN+Russkij"><display-name>CGTN Russkij</display-name></channel>
+<channel id="Channel+4"><display-name>Channel 4</display-name></channel>
+<channel id="Channel5.uk@SD"><display-name>Channel 5</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png"/></channel>
+<channel id="Channel+final+9"><display-name>Channel final 9</display-name></channel>
+<channel id="Cielo"><display-name>Cielo</display-name></channel>
+<channel id="CinemaxCentralEurope.hu@HD"><display-name>Cinemax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png"/></channel>
+<channel id="Cinemax2CentralEurope.hu@HD"><display-name>Cinemax 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png"/></channel>
+<channel id="Cinemax+2+%28hr%29"><display-name>Cinemax 2 (hr)</display-name></channel>
+<channel id="Cinemax+%28hr%29"><display-name>Cinemax (hr)</display-name></channel>
+<channel id="CineStar+Comedy"><display-name>CineStar Comedy</display-name></channel>
+<channel id="CineStar+TV+1"><display-name>CineStar TV 1</display-name></channel>
+<channel id="CineStar+TV+2"><display-name>CineStar TV 2</display-name></channel>
+<channel id="CineStar+TV+Action+%26+Thriller"><display-name>CineStar TV Action &amp; Thriller</display-name></channel>
+<channel id="CineStar+TV+Fantasy"><display-name>CineStar TV Fantasy</display-name></channel>
+<channel id="Clan+TVE"><display-name>Clan TVE</display-name></channel>
+<channel id="Classic+FM"><display-name>Classic FM</display-name></channel>
+<channel id="Classic+Praha"><display-name>Classic Praha</display-name></channel>
+<channel id="ClubMTVEurope.uk@SD"><display-name>Club MTV</display-name><icon src="https://i.imgur.com/FD6eQI3.png"/></channel>
+<channel id="CMC+Televizija"><display-name>CMC Televizija</display-name></channel>
+<channel id="CNBC+Europe"><display-name>CNBC Europe</display-name></channel>
+<channel id="CNews"><display-name>CNews</display-name></channel>
+<channel id="CNLEurope.kz@SD"><display-name>CNL</display-name><icon src="https://i.imgur.com/u7jxarn.png"/></channel>
+<channel id="CNNInternational.us@MENA"><display-name>CNN International</display-name><icon src="https://i.imgur.com/dfxefQw.png"/></channel>
+<channel id="CNNPrimaNews.cz@SD"><display-name>CNN Prima News</display-name><icon src="https://i.imgur.com/elZyUjX.png"/></channel>
+<channel id="ComedyCentral.hu@SD"><display-name>Comedy Central (hu)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/></channel>
+<channel id="Comedy+Central+%28pl%29"><display-name>Comedy Central (pl)</display-name></channel>
+<channel id="CoolTV.hu@SD"><display-name>Cool TV</display-name><icon src="https://i.imgur.com/rXJtthd.png"/></channel>
+<channel id="Country+Radio"><display-name>Country Radio</display-name></channel>
+<channel id="CredoTV.ro@SD"><display-name>Credo</display-name><icon src="https://i.imgur.com/RD4TgcM.png"/></channel>
+<channel id="CrimePlusInvestigationCEE.uk@SD"><display-name>Crime and Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/></channel>
+<channel id="CrimePlusInvestigation.uk@SD"><display-name>Crime and Investigation UK</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png"/></channel>
+<channel id="Crotv"><display-name>Crotv</display-name></channel>
+<channel id="CSFilm.cz@SD"><display-name>CS Film</display-name><icon src="https://i.imgur.com/BAAuBB2.png"/></channel>
+<channel id="CSHistory.cz@SD"><display-name>CS History</display-name><icon src="https://i.imgur.com/rtYj21D.png"/></channel>
+<channel id="CSHorror.cz@SD"><display-name>CS Horror</display-name><icon src="https://i.imgur.com/PPulPtS.png"/></channel>
+<channel id="CSMystery.cz@SD"><display-name>CS Mystery</display-name><icon src="https://i.imgur.com/3cFbkUj.png"/></channel>
+<channel id="CTV+Dla+Ciebie"><display-name>CTV Dla Ciebie</display-name></channel>
+<channel id="Cuatro"><display-name>Cuatro</display-name></channel>
+</tv>
