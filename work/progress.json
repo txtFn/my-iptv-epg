@@ -1132,12 +1132,36 @@
     "dishtv.in@3",
     "distro.tv@0",
     "dna.fi@0",
-    "dsmart.com.tr@0"
+    "dsmart.com.tr@0",
+    "dtv8.net@0"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
     "dstv.com@0": 1,
     "dstv.com@1": 1
   },
-  "complete": false
+  "complete": false,
+  "skipped": [
+    "dstv.com@0",
+    "dstv.com@1",
+    "dstv.com@10",
+    "dstv.com@11",
+    "dstv.com@12",
+    "dstv.com@13",
+    "dstv.com@14",
+    "dstv.com@2",
+    "dstv.com@3",
+    "dstv.com@4",
+    "dstv.com@5",
+    "dstv.com@6",
+    "dstv.com@7",
+    "dstv.com@8",
+    "dstv.com@9"
+  ],
+  "skipped_sites": {
+    "dstv.com": {
+      "strikes": 2,
+      "done": 0
+    }
+  }
 }
