@@ -140,7 +140,10 @@ jobs:
         env:
           SITES: ${{ steps.batch.outputs.sites }}
         run: |
-          set -uo pipefail
+          # GitHub starts bash with -e; turn it off so one failed grab
+          # is recorded and the loop moves on instead of killing the step.
+          set -u -o pipefail
+          set +e
 
           STATE_FILE=epg-storage/work/progress.json
           FAILED_CSV=epg-storage/work/failed-sources.csv
@@ -201,6 +204,18 @@ jobs:
             printf '"%s","%s","%s"\n' "$1" "$2" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$FAILED_CSV"
           }
 
+          # Detect which flags this version of the grabber supports.
+          GRAB_HELP=$(npm run grab -- --help 2>&1 || true)
+          if echo "$GRAB_HELP" | grep -q -- '--sites'; then
+            SITE_FLAG="--sites"
+          else
+            SITE_FLAG="--site"
+          fi
+          EXTRA=()
+          echo "$GRAB_HELP" | grep -q -- '--days' && EXTRA+=("--days=$EPG_DAYS")
+          echo "$GRAB_HELP" | grep -q -- '--maxConnections' && EXTRA+=("--maxConnections=$MAX_CONN")
+          echo "Site flag: $SITE_FLAG | extra flags: ${EXTRA[*]:-none}"
+
           IFS=',' read -ra SITE_LIST <<< "${SITES:-}"
           DEADLINE=$((SECONDS + BUDGET_MIN * 60))
           OK=0; FAIL=0
@@ -242,9 +257,8 @@ jobs:
 
             timeout --signal=TERM --kill-after=20s "${T}s" \
               npm run grab -- \
-                --site="$site" \
-                --days="$EPG_DAYS" \
-                --maxConnections="$MAX_CONN" \
+                "$SITE_FLAG=$site" \
+                "${EXTRA[@]}" \
                 --output="$TMP"
             RC=$?
 
