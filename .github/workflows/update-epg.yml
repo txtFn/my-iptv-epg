@@ -138,6 +138,7 @@ jobs:
       - name: Download EPG batch
         id: download
         if: steps.batch.outputs.skip != 'true'
+        timeout-minutes: 45
         shell: bash
         env:
           SITES: ${{ steps.batch.outputs.sites }}
@@ -148,7 +149,7 @@ jobs:
           git -C epg-storage config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
-          mkdir -p epg-storage/work/guides
+          mkdir -p epg-storage/work/guides epg-storage/work/logs
           [ -f epg-storage/work/failures.json ] || echo '{}' > epg-storage/work/failures.json
           if [ ! -f epg-storage/work/failed-sources.csv ]; then
             echo 'site,attempts,last_attempt_utc,status,last_error' > epg-storage/work/failed-sources.csv
@@ -258,6 +259,11 @@ jobs:
             FILE="epg-storage/work/guides/${site}.xml"
             echo '================================'
             echo "Source: $site"
+            LOG="epg-storage/work/logs/${site//\//_}.log"
+            {
+              echo "===== $(date -u +%Y-%m-%dT%H:%M:%SZ) | $site ====="
+              echo "Starting source processing"
+            } | tee -a "$LOG"
 
             if [ -s "$FILE" ] && is_valid_xml "$FILE"; then
               echo "Already completed: $site"
@@ -285,11 +291,16 @@ jobs:
             rm -f "$FILE"
 
             echo "Downloading: $site (timeout: $((SOURCE_TIMEOUT / 60)) minutes)"
-            timeout --signal=TERM --kill-after=30s "${SOURCE_TIMEOUT}s" \
-              npm run grab -- \
+            echo "Command started at $(date -u +%Y-%m-%dT%H:%M:%SZ)" | tee -a "$LOG"
+
+            # tee preserves a live Actions log and a per-site diagnostic log.
+            # PIPESTATUS[0] captures timeout's status, not tee's status.
+            timeout --verbose --signal=TERM --kill-after=30s "${SOURCE_TIMEOUT}s" \
+              stdbuf -oL -eL npm run grab -- \
                 --sites="$site" \
-                --output="epg-storage/work/guides/{site}.xml"
-            RESULT=$?
+                --output="epg-storage/work/guides/{site}.xml" 2>&1 | tee -a "$LOG"
+            RESULT=${PIPESTATUS[0]}
+            echo "Command finished at $(date -u +%Y-%m-%dT%H:%M:%SZ) with exit code $RESULT" | tee -a "$LOG"
 
             if [ "$RESULT" -eq 0 ]; then
               if [ -s "$FILE" ] && is_valid_xml "$FILE"; then
@@ -308,6 +319,7 @@ jobs:
                 REASON="EPG grab exited with code $RESULT"
               fi
               echo "FAILED: $site - $REASON"
+              echo "$REASON" | tee -a "$LOG"
               record_failure "$site" "$REASON"
             fi
           done
@@ -344,6 +356,19 @@ jobs:
             echo 'Some sources are waiting for another retry.'
             echo 'batch_complete=false' >> "$GITHUB_OUTPUT"
           fi
+
+      # Always preserve per-source logs, including when a download fails.
+      - name: Upload EPG diagnostic logs
+        if: always() && steps.batch.outputs.skip != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-download-diagnostics-${{ github.run_id }}
+          path: |
+            epg-storage/work/logs/
+            epg-storage/work/failures.json
+            epg-storage/work/failed-sources.csv
+          if-no-files-found: warn
+          retention-days: 14
 
       # 8. Combine all completed EPG files
       - name: Combine all EPG files
