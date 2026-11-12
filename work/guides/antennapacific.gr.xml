@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261111">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
 <channel id="ANT1Pacific.gr@SD"><display-name>ANT1 PACIFIC</display-name><icon src="https://i.imgur.com/IssYNSL.png"/></channel>
-<programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
-<programme start="20261111060000 +0000" stop="20261111064500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title></programme>
-<programme start="20261111064500 +0000" stop="20261111073000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
-<programme start="20261111073000 +0000" stop="20261111100000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261111100000 +0000" stop="20261111105000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
-<programme start="20261111105000 +0000" stop="20261111130000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
-<programme start="20261111130000 +0000" stop="20261111164500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
-<programme start="20261111164500 +0000" stop="20261111174500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261111174500 +0000" stop="20261111184500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ</title></programme>
-<programme start="20261111184500 +0000" stop="20261111200000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΝΤΕΡΤΙ</title></programme>
-<programme start="20261111200000 +0000" stop="20261111203000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261111203000 +0000" stop="20261111213000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title></programme>
-<programme start="20261111213000 +0000" stop="20261111235000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261111235000 +0000" stop="20261112005000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261112005000 +0000" stop="20261112014500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
-<programme start="20261112014500 +0000" stop="20261112030000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
-<programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
 <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
 <programme start="20261112060000 +0000" stop="20261112064500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title></programme>
 <programme start="20261112064500 +0000" stop="20261112073000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
@@ -32,4 +15,37 @@
 <programme start="20261113005000 +0000" stop="20261113014500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
 <programme start="20261113014500 +0000" stop="20261113030000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
 <programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
+<programme start="20261113060000 +0000" stop="20261113064500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title></programme>
+<programme start="20261113064500 +0000" stop="20261113073000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
+<programme start="20261113073000 +0000" stop="20261113100000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261113100000 +0000" stop="20261113105000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
+<programme start="20261113105000 +0000" stop="20261113130000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261113130000 +0000" stop="20261113164500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
+<programme start="20261113164500 +0000" stop="20261113174500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261113174500 +0000" stop="20261113184500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ</title></programme>
+<programme start="20261113184500 +0000" stop="20261113200000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title></programme>
+<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261113203000 +0000" stop="20261113221500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ</title></programme>
+<programme start="20261113221500 +0000" stop="20261114005000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261114005000 +0000" stop="20261114014500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
+<programme start="20261114014500 +0000" stop="20261114030000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
+<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
+<programme start="20261114060000 +0000" stop="20261114064500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title></programme>
+<programme start="20261114064500 +0000" stop="20261114073000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
+<programme start="20261114073000 +0000" stop="20261114100000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261114100000 +0000" stop="20261114104500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΡΟΥΚ ΖΟΥΚ</title></programme>
+<programme start="20261114104500 +0000" stop="20261114114500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ</title></programme>
+<programme start="20261114114500 +0000" stop="20261114123000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ</title></programme>
+<programme start="20261114123000 +0000" stop="20261114131500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANTENNA PACIFIC TOP 10</title></programme>
+<programme start="20261114131500 +0000" stop="20261114153000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261114153000 +0000" stop="20261114165000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ SPECIAL</title></programme>
+<programme start="20261114165000 +0000" stop="20261114200000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">FOR YOU</title></programme>
+<programme start="20261114200000 +0000" stop="20261114203000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261114203000 +0000" stop="20261114223000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">THE 2NIGHT SHOW</title></programme>
+<programme start="20261114223000 +0000" stop="20261115003000 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΝΤΕΡΤΙ</title></programme>
+<programme start="20261115003000 +0000" stop="20261115014500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ΠΕΦΤΕΙ Η ΝΥΧΤΑ ΜΕ...ΡΥΘΜΟ</title></programme>
+<programme start="20261115014500 +0000" stop="20261115024500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
+<programme start="20261115024500 +0000" stop="20261115031500 +0000" channel="ANT1Pacific.gr@SD"><title lang="el">FOR YOU</title></programme>
 </tv>
