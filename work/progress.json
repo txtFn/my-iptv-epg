@@ -1374,7 +1374,8 @@
     "tv.post.lu@1",
     "tv.sfr.fr@1",
     "tv.trueid.net@1",
-    "tv24.co.uk@1"
+    "tv24.co.uk@1",
+    "tv24.se@1"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
@@ -1406,10 +1407,17 @@
     "dstv.com@6",
     "dstv.com@7",
     "dstv.com@8",
-    "dstv.com@9"
+    "dstv.com@9",
+    "programtv.onet.pl@0",
+    "programtv.onet.pl@1",
+    "programtv.onet.pl@2"
   ],
   "skipped_sites": {
     "dstv.com": {
+      "strikes": 2,
+      "done": 0
+    },
+    "programtv.onet.pl": {
       "strikes": 2,
       "done": 0
     }
