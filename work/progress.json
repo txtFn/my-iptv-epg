@@ -1403,7 +1403,8 @@
     "mts.rs@2",
     "mytelly.co.uk@2",
     "ontvtonight.com@2",
-    "plex.tv@2"
+    "plex.tv@2",
+    "pluto.tv@2"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
