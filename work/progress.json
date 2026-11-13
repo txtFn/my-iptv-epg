@@ -1536,7 +1536,8 @@
     "pluto.tv@12",
     "sat.tv@12",
     "streamingtvguides.com@12",
-    "tvpassport.com@12"
+    "tvpassport.com@12",
+    "epg.iptvx.one@13"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
