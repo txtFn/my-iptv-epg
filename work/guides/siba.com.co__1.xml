@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261113">
+<channel id="LasEstrellasLatinAmerica.mx@SD"><display-name>CANAL DE LAS ESTRELLAS</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/></channel>
+<channel id="LifetimeLatinAmerica.us@Panregional"><display-name>LIFETIME</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/></channel>
+<channel id="MTVLatinAmerica.us@Panregional"><display-name>MTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/></channel>
+<channel id="MultiPremier.mx@SD"><display-name>MULTIPREMIER</display-name><icon src="https://i.imgur.com/H3PzGZW.png"/></channel>
+<channel id="NationalGeographicLatinAmerica.us@Panregional"><display-name>NATIONAL GEOGRAPHIC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"/></channel>
+<channel id="NickelodeonLatinAmerica.us@Panregional"><display-name>NICKELODEON</display-name><icon src="https://i.imgur.com/E84jnP8.png"/></channel>
+<channel id="NickJrLatinAmerica.us@Panregional"><display-name>NICK JR</display-name><icon src="https://i.imgur.com/KT4tdQs.png"/></channel>
+<channel id="NickMusic.us@SD"><display-name>NICKMUSIC</display-name><icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/NickMusic_Logo_%282023%29.png/960px-NickMusic_Logo_%282023%29.png"/></channel>
+<channel id="NTN24.co@SD"><display-name>NTN 24</display-name><icon src="https://i.imgur.com/UoKmSAP.png"/></channel>
+<channel id="ParamountNetworkLatinAmerica.us@Panregional"><display-name>PARAMOUNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png"/></channel>
+<channel id="PasionesLatinAmerica.us@SD"><display-name>PASIONES</display-name><icon src="https://i.imgur.com/VGnbWjO.png"/></channel>
+<channel id="PenthouseTV.us@SD"><display-name>PENTHOUSE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Penthouse_TV.svg/960px-Penthouse_TV.svg.png"/></channel>
+<channel id="PlayboyTVLatinAmerica.us@SD"><display-name>PLAYBOY</display-name><icon src="https://i.imgur.com/B3DMUM9.png"/></channel>
+<channel id="RCNNovelas.co@SD"><display-name>RCN TELENOVELAS</display-name><icon src="https://i.imgur.com/9wxdWNQ.png"/></channel>
+<channel id="RedPlus.co@SD"><display-name>RED+</display-name><icon src="https://i.imgur.com/kuqkTMC.png"/></channel>
+<channel id="SenalColombia.co@SD"><display-name>SENAL COLOMBIA</display-name><icon src="https://i.imgur.com/Y9x16vl.png"/></channel>
+<channel id="Sextreme.br@SD"><display-name>SEXTREME</display-name><icon src="https://i.imgur.com/jWsW2Rd.png"/></channel>
+<channel id="SinLimites.co@SD"><display-name>SIN LíMITES</display-name><icon src="https://i.imgur.com/wrFfgzC.png"/></channel>
+<channel id="SonyChannelAndes.us@SD"><display-name>SONY</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"/></channel>
+<channel id="Space.ar@Alternate"><display-name>SPACE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/></channel>
+<channel id="StarChannel.co@SD"><display-name>STAR CHANNEL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/></channel>
+<channel id="StudioUniversalLatinAmerica.us@Chile"><display-name>STUDIO UNIVERSAL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/></channel>
+<channel id="TBSLatinAmerica.us@Panregional"><display-name>TNT NOVELAS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/960px-TBS_logo_2016.svg.png"/></channel>
+<channel id="TeleAmiga.co@SD"><display-name>TELEAMIGA</display-name><icon src="https://i.imgur.com/gBZFZNv.png"/></channel>
+<channel id="Teleantioquia.co@SD"><display-name>TELEANTIOQUIA</display-name><icon src="https://i.imgur.com/6WMV2Az.png"/></channel>
+<channel id="Telecafe.co@SD"><display-name>TELECAFE</display-name><icon src="https://i.imgur.com/28XmS1J.png"/></channel>
+<channel id="Telecaribe.co@SD"><display-name>TELECARIBE</display-name><icon src="https://i.imgur.com/E35cXHt.png"/></channel>
+<channel id="Teleislas.co@SD"><display-name>TELEISLAS CHANNEL</display-name><icon src="https://i.imgur.com/aKHGRyk.png"/></channel>
+<channel id="TelemundoInternacional.us@CentralAmerica"><display-name>TELEMUNDO</display-name><icon src="https://i.imgur.com/j2O4ndp.png"/></channel>
+<channel id="Telepacifico.co@SD"><display-name>TELEPACIFICO</display-name><icon src="https://i.imgur.com/39hy97J.png"/></channel>
+<channel id="TLCLatinAmerica.us@Panregional"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/></channel>
+<channel id="TlnovelasLatinAmerica.mx@SD"><display-name>TL NOVELAS</display-name><icon src="https://i.imgur.com/Rvm38Mu.png"/></channel>
+<channel id="TNTLatinAmerica.us@Chile"><display-name>TNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/></channel>
+<channel id="TNTSeriesLatinAmerica.us@Panregional"><display-name>TNT SERIES</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/></channel>
+<channel id="Trece.co@SD"><display-name>TRECE</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/></channel>
+<channel id="truTVLatinAmerica.us@SD"><display-name>ADULT SWIM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png"/></channel>
+<channel id="TVAgro.co@SD"><display-name>TV AGRO</display-name><icon src="https://i.imgur.com/9nzY7Ch.png"/></channel>
+<channel id="TVFamilia.ve@SD"><display-name>TV FAMILIA</display-name><icon src="https://i.imgur.com/A3bU5e7.png"/></channel>
+<channel id="UniversalTVLatinAmerica.us@Colombia"><display-name>UNIVERSAL CHANNEL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/></channel>
+<channel id="Venus.ar@SD"><display-name>VENUS</display-name><icon src="https://i.imgur.com/4LFXPMk.png"/></channel>
+<channel id="VePlus.ve@Panregional"><display-name>VE PLUS TV</display-name><icon src="https://i.imgur.com/uc3zqcP.png"/></channel>
+<channel id="WarnerChannel.us@Panregional"><display-name>WARNER CHANNEL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/></channel>
+<channel id="WinSports.co@SD"><display-name>WIN SPORTS</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/></channel>
+<channel id="Zoom.co@SD"><display-name>ZOOM TV</display-name><icon src="https://i.imgur.com/euy5zp6.png"/></channel>
+<programme start="20261112234000 +0000" stop="20261113003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Infinito Amor</title></programme>
+<programme start="20261113003000 +0000" stop="20261113012000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261113012000 +0000" stop="20261113021000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261113021000 +0000" stop="20261113030000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Muero Por Marilú</title></programme>
+<programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Muero Por Marilú</title></programme>
+<programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">En Punto Con Enrique Acevedo</title></programme>
+<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Laura Sin Censura</title></programme>
+<programme start="20261113060000 +0000" stop="20261113074000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi Corazón Es Tuyo</title></programme>
+<programme start="20261113074000 +0000" stop="20261113083000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261113083000 +0000" stop="20261113092000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261113092000 +0000" stop="20261113111000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261113111000 +0000" stop="20261113120000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Las Noticias</title></programme>
+<programme start="20261113130000 +0000" stop="20261113150000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Despierta</title></programme>
+<programme start="20261113150000 +0000" stop="20261113155000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261113155000 +0000" stop="20261113164000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Infinito Amor</title></programme>
+<programme start="20261113164000 +0000" stop="20261113173000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261113173000 +0000" stop="20261113182000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261113182000 +0000" stop="20261113191000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261113191000 +0000" stop="20261113200000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261113200000 +0000" stop="20261113220000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chavo</title></programme>
+<programme start="20261113220000 +0000" stop="20261113234000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi Corazón Es Tuyo</title></programme>
+<programme start="20261113234000 +0000" stop="20261114003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Infinito Amor</title></programme>
+<programme start="20261113234000 +0000" stop="20261114003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Infinito Amor</title></programme>
+<programme start="20261114003000 +0000" stop="20261114012000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261114012000 +0000" stop="20261114021000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261114021000 +0000" stop="20261114030000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title></programme>
+<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title></programme>
+<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">En Punto Con Enrique Acevedo</title></programme>
+<programme start="20261114050000 +0000" stop="20261114052500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Bola De Locos</title></programme>
+<programme start="20261114052500 +0000" stop="20261114055000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Por Confirmar</title></programme>
+<programme start="20261114055000 +0000" stop="20261114061500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Relatos Macabrones</title></programme>
+<programme start="20261114061500 +0000" stop="20261114080000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261114080000 +0000" stop="20261114120500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261114120500 +0000" stop="20261114135000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Me Ha Gustado Un Hombre</title></programme>
+<programme start="20261114135000 +0000" stop="20261114153500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Juicio De Los Hijos</title></programme>
+<programme start="20261114153500 +0000" stop="20261114171000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261114171000 +0000" stop="20261114185500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chapulín Colorado</title></programme>
+<programme start="20261114185500 +0000" stop="20261114201000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mita Y Mita</title></programme>
+<programme start="20261114201000 +0000" stop="20261114210500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Pantera</title></programme>
+<programme start="20261114210500 +0000" stop="20261114224500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261114224500 +0000" stop="20261115003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Juego De Voces</title></programme>
+<programme start="20261114224500 +0000" stop="20261115003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Juego De Voces</title></programme>
+<programme start="20261115003000 +0000" stop="20261115012000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Ellas Soy Yo</title></programme>
+<programme start="20261115012000 +0000" stop="20261115021000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261115021000 +0000" stop="20261115030000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi Querida Herencia</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261115050000 +0000" stop="20261115052500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Bola De Locos</title></programme>
+<programme start="20261115052500 +0000" stop="20261115055000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Por Confirmar</title></programme>
+<programme start="20261115055000 +0000" stop="20261115061500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Relatos Macabrones</title></programme>
+<programme start="20261115061500 +0000" stop="20261115080000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261115080000 +0000" stop="20261115120500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261115120500 +0000" stop="20261115135000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Si Fuéramos Novios</title></programme>
+<programme start="20261115135000 +0000" stop="20261115153000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Los Dos Carnales</title></programme>
+<programme start="20261115153000 +0000" stop="20261115171000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261115171000 +0000" stop="20261115185500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chavo</title></programme>
+<programme start="20261115185500 +0000" stop="20261115192000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tú Crees?</title></programme>
+<programme start="20261115192000 +0000" stop="20261115194500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Una Familia De Diez</title></programme>
+<programme start="20261115194500 +0000" stop="20261115201000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Más Vale Sola</title></programme>
+<programme start="20261115201000 +0000" stop="20261115210500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Pantera</title></programme>
+<programme start="20261115210500 +0000" stop="20261115224500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261115224500 +0000" stop="20261116003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Juego De Voces</title></programme>
+<programme start="20261112224000 +0000" stop="20261113002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Luz. Cámara. Navidad!</title></programme>
+<programme start="20261113002000 +0000" stop="20261113020000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Los Doce Árboles De Navidad</title></programme>
+<programme start="20261113020000 +0000" stop="20261113034000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Navidad Inesperada</title></programme>
+<programme start="20261113034000 +0000" stop="20261113052000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Un Reencuentro Navideño</title></programme>
+<programme start="20261113052000 +0000" stop="20261113070000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">El Vuelo Antes De Navidad</title></programme>
+<programme start="20261113070000 +0000" stop="20261113083000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Luz. Cámara. Navidad!</title></programme>
+<programme start="20261113083000 +0000" stop="20261113100000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Un Reencuentro Navideño</title></programme>
+<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Dulce Amor Para Navidad</title></programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261113140000 +0000" stop="20261113153000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Propósito De Navidad</title></programme>
+<programme start="20261113153000 +0000" stop="20261113170000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Luz. Cámara. Navidad!</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261113180000 +0000" stop="20261113193000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Los Doce Árboles De Navidad</title></programme>
+<programme start="20261113193000 +0000" stop="20261113210000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Navidad Inesperada</title></programme>
+<programme start="20261113210000 +0000" stop="20261113224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Papá Navidad</title></programme>
+<programme start="20261113224000 +0000" stop="20261114002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Acción Para Navidad</title></programme>
+<programme start="20261113224000 +0000" stop="20261114002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Acción Para Navidad</title></programme>
+<programme start="20261114002000 +0000" stop="20261114020000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Concurso De Navidad</title></programme>
+<programme start="20261114020000 +0000" stop="20261114034000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">La Estafa De Santa</title></programme>
+<programme start="20261114034000 +0000" stop="20261114052000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Temporada De Amor</title></programme>
+<programme start="20261114052000 +0000" stop="20261114070000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Buscando A La Señora Claus</title></programme>
+<programme start="20261114070000 +0000" stop="20261114083000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Concurso De Navidad</title></programme>
+<programme start="20261114083000 +0000" stop="20261114100000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Navidad Inesperada</title></programme>
+<programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261114140000 +0000" stop="20261114154000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">La Estafa De Santa</title></programme>
+<programme start="20261114154000 +0000" stop="20261114171000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Papá Navidad</title></programme>
+<programme start="20261114171000 +0000" stop="20261114180000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261114180000 +0000" stop="20261114193000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Acción Para Navidad</title></programme>
+<programme start="20261114193000 +0000" stop="20261114210000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Concurso De Navidad</title></programme>
+<programme start="20261114210000 +0000" stop="20261114224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Reservación Para Navidad</title></programme>
+<programme start="20261114224000 +0000" stop="20261115002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Hotel Navidad</title></programme>
+<programme start="20261114224000 +0000" stop="20261115002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Hotel Navidad</title></programme>
+<programme start="20261115002000 +0000" stop="20261115020000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Última Oportunidad En Navidad</title></programme>
+<programme start="20261115020000 +0000" stop="20261115034000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Navidad En El Lejano Oeste</title></programme>
+<programme start="20261115034000 +0000" stop="20261115052000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Sintonía Navideña</title></programme>
+<programme start="20261115052000 +0000" stop="20261115065500 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Acción Para Navidad</title></programme>
+<programme start="20261115065500 +0000" stop="20261115083000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Última Oportunidad En Navidad</title></programme>
+<programme start="20261115083000 +0000" stop="20261115100000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Navidad En El Lejano Oeste</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261115140000 +0000" stop="20261115153000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Reservación Para Navidad</title></programme>
+<programme start="20261115153000 +0000" stop="20261115170000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Hotel Navidad</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261115180000 +0000" stop="20261115193000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Última Oportunidad En Navidad</title></programme>
+<programme start="20261115193000 +0000" stop="20261115210000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Sintonía Navideña</title></programme>
+<programme start="20261115210000 +0000" stop="20261115224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">El Vuelo Antes De Navidad</title></programme>
+<programme start="20261115224000 +0000" stop="20261116002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Viñedo Navideño</title></programme>
+<programme start="20261112225500 +0000" stop="20261113011500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Un Camino De Fe</title></programme>
+<programme start="20261113011500 +0000" stop="20261113030000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Jack Y Jill, Pasos De Amor</title></programme>
+<programme start="20261113030000 +0000" stop="20261113044500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Mientras Somos Jóvenes</title></programme>
+<programme start="20261113044500 +0000" stop="20261113062500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Un Atraco Casi Perfecto</title></programme>
+<programme start="20261113062500 +0000" stop="20261113074500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Nuestros Días De Universidad</title></programme>
+<programme start="20261113074500 +0000" stop="20261113081500 +0000" channel="MultiPremier.mx@SD"><title lang="es">A Través De Mi Vida</title></programme>
+<programme start="20261113081500 +0000" stop="20261113084500 +0000" channel="MultiPremier.mx@SD"><title lang="es">A Través De Mi Vida</title></programme>
+<programme start="20261113084500 +0000" stop="20261113102500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Jack Y Jill, Pasos De Amor</title></programme>
+<programme start="20261113102500 +0000" stop="20261113120000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Amor En El Viñedo</title></programme>
+<programme start="20261113120000 +0000" stop="20261113133500 +0000" channel="MultiPremier.mx@SD"><title lang="es">El 4° Mosquetero</title></programme>
+<programme start="20261113133500 +0000" stop="20261113151500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Una Vida Casi Normal</title></programme>
+<programme start="20261113151500 +0000" stop="20261113165500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Avalancha De Amor</title></programme>
+<programme start="20261113165500 +0000" stop="20261113184500 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Milagro De Tyson</title></programme>
+<programme start="20261113184500 +0000" stop="20261113202000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El 4° Mosquetero</title></programme>
+<programme start="20261113202000 +0000" stop="20261113215500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Una Vida Casi Normal</title></programme>
+<programme start="20261113215500 +0000" stop="20261113233500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Avalancha De Amor</title></programme>
+<programme start="20261113233500 +0000" stop="20261114012500 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Milagro De Tyson</title></programme>
+<programme start="20261113233500 +0000" stop="20261114012500 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Milagro De Tyson</title></programme>
+<programme start="20261114012500 +0000" stop="20261114030000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El 4° Mosquetero</title></programme>
+<programme start="20261114030000 +0000" stop="20261114044500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Buenas Noches Y Buena Suerte</title></programme>
+<programme start="20261114044500 +0000" stop="20261114064000 +0000" channel="MultiPremier.mx@SD"><title lang="es">La Tribu De Palos Verdes</title></programme>
+<programme start="20261114064000 +0000" stop="20261114081000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Platónico</title></programme>
+<programme start="20261114081000 +0000" stop="20261114084000 +0000" channel="MultiPremier.mx@SD"><title lang="es">A Través De Mi Vida</title></programme>
+<programme start="20261114084000 +0000" stop="20261114102000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Avalancha De Amor</title></programme>
+<programme start="20261114102000 +0000" stop="20261114120000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Una Vida Casi Normal</title></programme>
+<programme start="20261114120000 +0000" stop="20261114133500 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Juramento Solemne</title></programme>
+<programme start="20261114133500 +0000" stop="20261114151000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Excluidos</title></programme>
+<programme start="20261114151000 +0000" stop="20261114170000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Camino A La Libertad</title></programme>
+<programme start="20261114170000 +0000" stop="20261114193000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Dos Corazones</title></programme>
+<programme start="20261114193000 +0000" stop="20261114210500 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Juramento Solemne</title></programme>
+<programme start="20261114210500 +0000" stop="20261114224000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Excluidos</title></programme>
+<programme start="20261114224000 +0000" stop="20261115003000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Camino A La Libertad</title></programme>
+<programme start="20261114224000 +0000" stop="20261115003000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Camino A La Libertad</title></programme>
+<programme start="20261115003000 +0000" stop="20261115030000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Dos Corazones</title></programme>
+<programme start="20261115030000 +0000" stop="20261115045000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Marjorie Prime</title></programme>
+<programme start="20261115045000 +0000" stop="20261115065000 +0000" channel="MultiPremier.mx@SD"><title lang="es">En La Playa De Chesil</title></programme>
+<programme start="20261115065000 +0000" stop="20261115082000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Las Reglas Están Hechas Para Romperse</title></programme>
+<programme start="20261115082000 +0000" stop="20261115085000 +0000" channel="MultiPremier.mx@SD"><title lang="es">A Través De Mi Vida</title></programme>
+<programme start="20261115085000 +0000" stop="20261115102500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Excluidos</title></programme>
+<programme start="20261115102500 +0000" stop="20261115120000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Juramento Solemne</title></programme>
+<programme start="20261115120000 +0000" stop="20261115140000 +0000" channel="MultiPremier.mx@SD"><title lang="es">La Conversación</title></programme>
+<programme start="20261115140000 +0000" stop="20261115160000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Un Acto De Esperanza</title></programme>
+<programme start="20261115160000 +0000" stop="20261115174500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Querida Zoe</title></programme>
+<programme start="20261115174500 +0000" stop="20261115193000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Gran Piano</title></programme>
+<programme start="20261115193000 +0000" stop="20261115213000 +0000" channel="MultiPremier.mx@SD"><title lang="es">La Conversación</title></programme>
+<programme start="20261115213000 +0000" stop="20261115233000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Un Acto De Esperanza</title></programme>
+<programme start="20261115233000 +0000" stop="20261116012000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Querida Zoe</title></programme>
+<programme start="20261112225900 +0000" stop="20261113000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261113000000 +0000" stop="20261113010100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Tucci En Italia</title></programme>
+<programme start="20261113010100 +0000" stop="20261113020100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261113020100 +0000" stop="20261113030200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Los Mejores Trenes De La Historia</title></programme>
+<programme start="20261113030200 +0000" stop="20261113040300 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261113040300 +0000" stop="20261113050300 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Salvajemente Famosos</title></programme>
+<programme start="20261113050300 +0000" stop="20261113054700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261113054700 +0000" stop="20261113063400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261113063400 +0000" stop="20261113071800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sólo Contra El Mundo</title></programme>
+<programme start="20261113071800 +0000" stop="20261113080300 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261113080300 +0000" stop="20261113084700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261113084700 +0000" stop="20261113093400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261113093400 +0000" stop="20261113100000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261113100000 +0000" stop="20261113104500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Tesoros Perdidos De Egipto</title></programme>
+<programme start="20261113104500 +0000" stop="20261113114800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261113114800 +0000" stop="20261113124900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261113124900 +0000" stop="20261113134900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261113134900 +0000" stop="20261113145000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261113145000 +0000" stop="20261113155200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261113155200 +0000" stop="20261113165200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Salvajemente Famosos El Desafìo</title></programme>
+<programme start="20261113165200 +0000" stop="20261113175200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sólo Contra El Mundo</title></programme>
+<programme start="20261113175200 +0000" stop="20261113185400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261113185400 +0000" stop="20261113195700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261113195700 +0000" stop="20261113205700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Perdidas Con Albert Lin</title></programme>
+<programme start="20261113205700 +0000" stop="20261113215900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Tesoros Perdidos De Egipto</title></programme>
+<programme start="20261113215900 +0000" stop="20261113225900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261113225900 +0000" stop="20261114000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261113225900 +0000" stop="20261114000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261114000000 +0000" stop="20261114010400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Salvajemente Famosos</title></programme>
+<programme start="20261114010400 +0000" stop="20261114020600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ascenso Por El Artico Con Alex Honnold</title></programme>
+<programme start="20261114020600 +0000" stop="20261114030700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Solo Contra El Mundo: Cruce De Los Andes</title></programme>
+<programme start="20261114030700 +0000" stop="20261114040800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261114040800 +0000" stop="20261114050200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Salvajemente Famosos</title></programme>
+<programme start="20261114050200 +0000" stop="20261114054600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261114054600 +0000" stop="20261114063300 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261114063300 +0000" stop="20261114071700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sólo Contra El Mundo</title></programme>
+<programme start="20261114071700 +0000" stop="20261114080200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261114080200 +0000" stop="20261114084600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261114084600 +0000" stop="20261114093300 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261114093300 +0000" stop="20261114100000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261114100000 +0000" stop="20261114103700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261114103700 +0000" stop="20261114113500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261114113500 +0000" stop="20261114123600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261114123600 +0000" stop="20261114133600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261114133600 +0000" stop="20261114143600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261114143600 +0000" stop="20261114153700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261114153700 +0000" stop="20261114163800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">El Salvaje Dr. Ole</title></programme>
+<programme start="20261114163800 +0000" stop="20261114173800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Dr. K: Animales Exóticos</title></programme>
+<programme start="20261114173800 +0000" stop="20261114183700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Dr Oakley: Yukon Vet</title></programme>
+<programme start="20261114183700 +0000" stop="20261114193700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Amistades Insolitas 5</title></programme>
+<programme start="20261114193700 +0000" stop="20261114203700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261114203700 +0000" stop="20261114213800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Tesoros Perdidos De Roma</title></programme>
+<programme start="20261114213800 +0000" stop="20261114223700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secretos De Cuerpos Antiguos</title></programme>
+<programme start="20261114223700 +0000" stop="20261115000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">El Ultimo Secreto De Cleopatra</title></programme>
+<programme start="20261114223700 +0000" stop="20261115000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">El Ultimo Secreto De Cleopatra</title></programme>
+<programme start="20261115000000 +0000" stop="20261115010100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Lobos De Cerca Con Bertie Gregory</title></programme>
+<programme start="20261115010100 +0000" stop="20261115020400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Reinas Del Mundo Animal</title></programme>
+<programme start="20261115020400 +0000" stop="20261115031000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secretos De Las Ballenas</title></programme>
+<programme start="20261115031000 +0000" stop="20261115041000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto Sao Paulo</title></programme>
+<programme start="20261115041000 +0000" stop="20261115051100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261115051100 +0000" stop="20261115055500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261115055500 +0000" stop="20261115064200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261115064200 +0000" stop="20261115072600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Solo Contra El Mundo: Hazen Audel</title></programme>
+<programme start="20261115072600 +0000" stop="20261115081100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261115081100 +0000" stop="20261115085500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261115085500 +0000" stop="20261115100000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261115100000 +0000" stop="20261115104800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261115104800 +0000" stop="20261115114800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261115114800 +0000" stop="20261115124900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261115124900 +0000" stop="20261115134900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261115134900 +0000" stop="20261115144900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Los Mejores Trenes De La Historia</title></programme>
+<programme start="20261115144900 +0000" stop="20261115155100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Parques Nacionales De Estados Unidos</title></programme>
+<programme start="20261115155100 +0000" stop="20261115165100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Restaurantes Del Fin Del Mundo</title></programme>
+<programme start="20261115165100 +0000" stop="20261115175300 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sabores Caseros Con Antoni Porowski</title></programme>
+<programme start="20261115175300 +0000" stop="20261115185700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Lo Mejor Del Mundo Con Antoni Porowski</title></programme>
+<programme start="20261115185700 +0000" stop="20261115204700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Jane: El Legado</title></programme>
+<programme start="20261115204700 +0000" stop="20261115225800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sally</title></programme>
+<programme start="20261115225800 +0000" stop="20261116000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">El Pan: Conexion Cultural</title></programme>
+</tv>
