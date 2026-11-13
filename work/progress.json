@@ -1479,7 +1479,8 @@
     "pluto.tv@6",
     "sat.tv@6",
     "sky.com@6",
-    "streamingtvguides.com@6"
+    "streamingtvguides.com@6",
+    "tvpassport.com@6"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
