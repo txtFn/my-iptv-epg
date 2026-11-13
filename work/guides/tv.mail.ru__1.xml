@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261113">
+<channel id="Kino24.ru@SD"><display-name>KINO24</display-name><icon src="https://i.imgur.com/QAdDARF.png"/></channel>
+<channel id="KinoJam1.ru@SD"><display-name>KinoJam 1</display-name><icon src="https://i.imgur.com/6HQFM4m.png"/></channel>
+<channel id="KinoJam2.ru@SD"><display-name>KinoJam 2</display-name><icon src="https://i.imgur.com/4oWsuJn.png"/></channel>
+<channel id="Kinokomedija.ru@SD"><display-name>Кинокомедия</display-name><icon src="https://i.imgur.com/dVjtth0.png"/></channel>
+<channel id="Kinoliving.ru@SD"><display-name>KINOLIVING</display-name><icon src="https://i.imgur.com/9XJcmBY.png"/></channel>
+<channel id="Kinoman.ru@SD"><display-name>Киноман</display-name><icon src="https://i.imgur.com/38yMv7L.png"/></channel>
+<channel id="Kinomix.ru@HD"><display-name>Киномикс HD</display-name><icon src="https://i.imgur.com/D4q2XUT.png"/></channel>
+<channel id="Kinomix.ru@SD"><display-name>Киномикс</display-name><icon src="https://i.imgur.com/D4q2XUT.png"/></channel>
+<channel id="Kinopokaz.ru@HD"><display-name>Кинопоказ HD</display-name><icon src="https://i.imgur.com/nNjMyAq.png"/></channel>
+<channel id="Kinopokaz.ru@SD"><display-name>Кинопоказ</display-name><icon src="https://i.imgur.com/nNjMyAq.png"/></channel>
+<channel id="Kinopremyera.ru@HD"><display-name>Кинопремьера HD</display-name><icon src="https://i.imgur.com/s0UYT8T.png"/></channel>
+<channel id="Kinopremyera.ru@SD"><display-name>Кинопремьера</display-name><icon src="https://i.imgur.com/s0UYT8T.png"/></channel>
+<channel id="Kinosemja.ru@SD"><display-name>Киносемья</display-name><icon src="https://i.imgur.com/4BF5VeK.png"/></channel>
+<channel id="Kinoseriya.ru@SD"><display-name>Киносерия</display-name><icon src="https://i.imgur.com/iao7zLZ.png"/></channel>
+<channel id="KinoSezon.ru@SD"><display-name>КиноСезон</display-name><icon src="https://i.imgur.com/pk8PMUh.png"/></channel>
+<channel id="Kinosvidanie.ru@SD"><display-name>Киносвидание</display-name><icon src="https://i.imgur.com/ZRaWqxj.png"/></channel>
+<channel id="KinoTV.ru@HD"><display-name>Кино ТВ HD</display-name><icon src="https://i.imgur.com/sMpamNO.png"/></channel>
+<channel id="KinoTV.ru@SD"><display-name>Кино ТВ</display-name><icon src="https://i.imgur.com/sMpamNO.png"/></channel>
+<channel id="KinoUHD.ru@SD"><display-name>Кино Ultra HD</display-name><icon src="https://i.imgur.com/kC4HixZ.png"/></channel>
+<channel id="Kinouzhas.ru@SD"><display-name>Киноужас</display-name><icon src="https://i.imgur.com/mAcAAQF.png"/></channel>
+<channel id="Kinozal1.ru@SD"><display-name>Кинозал 1</display-name><icon src="https://i.imgur.com/VWGCbga.png"/></channel>
+<channel id="Kinozal2.ru@SD"><display-name>Кинозал 2</display-name><icon src="https://i.imgur.com/6oowLCN.png"/></channel>
+<channel id="Kinozal3.ru@SD"><display-name>Кинозал 3</display-name><icon src="https://i.imgur.com/3tBCcJR.png"/></channel>
+<channel id="Kinozal4.ru@SD"><display-name>Кинозал 4</display-name><icon src="https://i.imgur.com/Jk9v9CK.png"/></channel>
+<channel id="Kinozal5.ru@SD"><display-name>Кинозал 5</display-name><icon src="https://i.imgur.com/OVmNvQi.png"/></channel>
+<channel id="Kinozal6.ru@SD"><display-name>Кинозал 6</display-name><icon src="https://i.imgur.com/S2P8HjF.png"/></channel>
+<channel id="Kinozal7.ru@SD"><display-name>Кинозал 7</display-name><icon src="https://i.imgur.com/ZXMYzu1.png"/></channel>
+<channel id="Kinozal8.ru@SD"><display-name>Кинозал 8</display-name><icon src="https://i.imgur.com/7F4haN4.png"/></channel>
+<channel id="Kinozal9.ru@SD"><display-name>Кинозал 9</display-name><icon src="https://i.imgur.com/yu7AImn.png"/></channel>
+<channel id="Kinozal10.ru@SD"><display-name>Кинозал 10</display-name><icon src="https://i.imgur.com/VckUlso.png"/></channel>
+<channel id="Kinozal11.ru@SD"><display-name>Кинозал 11</display-name><icon src="https://i.imgur.com/QkyJsTE.png"/></channel>
+<channel id="Kinozal12.ru@SD"><display-name>Кинозал 12</display-name><icon src="https://i.imgur.com/zBC29LR.png"/></channel>
+<channel id="Kluch.ru@SD"><display-name>Ключ</display-name><icon src="https://i.imgur.com/WA9TOPi.png"/></channel>
+<channel id="Komedia.ru@SD"><display-name>Комедия</display-name><icon src="https://i.imgur.com/VRC5juh.png"/></channel>
+<channel id="Komediynoe.ru@HD"><display-name>Комедийное HD</display-name><icon src="https://i.imgur.com/cEKe8XC.png"/></channel>
+<channel id="Konniymir.ru@HD"><display-name>Конный мир HD</display-name><icon src="https://i.imgur.com/X6otbK0.png"/></channel>
+<channel id="Konniymir.ru@SD"><display-name>Конный мир</display-name><icon src="https://i.imgur.com/X6otbK0.png"/></channel>
+<channel id="KrikTV.ru@SD"><display-name>Крик ТВ</display-name><icon src="https://i.imgur.com/rtuChZR.png"/></channel>
+<channel id="Ktoestkto.ru@SD"><display-name>Кто есть кто</display-name><icon src="https://i.imgur.com/PmD17UQ.png"/></channel>
+<channel id="KukhnyaTV.ru@SD"><display-name>Кухня ТВ</display-name></channel>
+<channel id="KVNTV.ru@SD"><display-name>КВН ТВ</display-name><icon src="https://i.imgur.com/Vw3LFLX.png"/></channel>
+<channel id="LaMinorTV.ru@SD"><display-name>Ля-минор. Мой музыкальный</display-name><icon src="https://i.imgur.com/RH6hTWG.png"/></channel>
+<channel id="LDPRTV.ru@SD"><display-name>ЛДПР ТВ</display-name><icon src="https://i.imgur.com/gCmCRfe.png"/></channel>
+<channel id="LeomaxPlus.ru@SD"><display-name>Домашний Магазин</display-name><icon src="https://i.imgur.com/yjBLJvy.png"/></channel>
+<channel id="Leva.ru@SD"><display-name>Лева ТВ</display-name><icon src="https://i.imgur.com/lQzgmpz.png"/></channel>
+<channel id="Life.ru@HD"><display-name>LifeNews HD</display-name><icon src="https://i.imgur.com/HrbmOKb.png"/></channel>
+<channel id="LuxeTV.lu@SD"><display-name>Luxe.TV</display-name><icon src="https://i.imgur.com/24ehonx.png"/></channel>
+<channel id="Luxury.ru@HD"><display-name>Luxury HD</display-name><icon src="https://i.imgur.com/nobZa5l.png"/></channel>
+<channel id="Luxury.ru@SD"><display-name>LUXURY</display-name><icon src="https://i.imgur.com/nobZa5l.png"/></channel>
+<channel id="Lyubimoe.ru@SD"><display-name>Любимое SD</display-name><icon src="https://i.imgur.com/qWK6WvG.png"/></channel>
+<channel id="LyubimoeTV.ru@SD"><display-name>Любимое.ТВ</display-name><icon src="https://i.imgur.com/JJv81ZP.png"/></channel>
+<channel id="M6.ch@HD"><display-name>M6 Suisse HD</display-name><icon src="https://i.imgur.com/7GVp3fW.png"/></channel>
+<channel id="Mama.ru@SD"><display-name>Мама</display-name><icon src="https://i.imgur.com/kmMIjjf.png"/></channel>
+<channel id="Match.ru@HD"><display-name>МАТЧ! HD</display-name><icon src="https://i.imgur.com/iKZvKyP.png"/></channel>
+<channel id="Match.ru@SD"><display-name>МАТЧ!</display-name><icon src="https://i.imgur.com/iKZvKyP.png"/></channel>
+<channel id="MatchArena.ru@HD"><display-name>МАТЧ! Арена HD</display-name><icon src="https://i.imgur.com/udTzwzu.png"/></channel>
+<channel id="MatchArena.ru@SD"><display-name>МАТЧ! Арена</display-name><icon src="https://i.imgur.com/udTzwzu.png"/></channel>
+<channel id="MatchBoets.ru@SD"><display-name>МАТЧ! Боец</display-name><icon src="https://i.imgur.com/DogOkA4.png"/></channel>
+<channel id="MatchFutbol1.ru@HD"><display-name>МАТЧ! Футбол 1 HD</display-name><icon src="https://i.imgur.com/XS2BB02.png"/></channel>
+<channel id="MatchFutbol1.ru@SD"><display-name>МАТЧ! Футбол 1</display-name><icon src="https://i.imgur.com/XS2BB02.png"/></channel>
+<channel id="MatchFutbol2.ru@HD"><display-name>МАТЧ! Футбол 2 HD</display-name><icon src="https://i.imgur.com/WhdGfSo.png"/></channel>
+<channel id="MatchFutbol2.ru@SD"><display-name>МАТЧ! Футбол 2</display-name><icon src="https://i.imgur.com/WhdGfSo.png"/></channel>
+<channel id="MatchFutbol3.ru@HD"><display-name>МАТЧ! Футбол 3 HD</display-name><icon src="https://i.imgur.com/P2ReH1u.png"/></channel>
+<channel id="MatchFutbol3.ru@SD"><display-name>МАТЧ! Футбол 3</display-name><icon src="https://i.imgur.com/P2ReH1u.png"/></channel>
+<channel id="MatchIgra.ru@HD"><display-name>Матч! Игра HD</display-name><icon src="https://i.imgur.com/5XWpF19.png"/></channel>
+<channel id="MatchIgra.ru@SD"><display-name>МАТЧ! Игра</display-name><icon src="https://i.imgur.com/5XWpF19.png"/></channel>
+<channel id="MatchPlaneta.ru@SD"><display-name>МАТЧ! Планета</display-name><icon src="https://i.imgur.com/vhyMb9D.png"/></channel>
+<channel id="MatchPremier.ru@HD"><display-name>МАТЧ! Премьер HD</display-name><icon src="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&amp;n=13"/></channel>
+<channel id="MatchPremier.ru@SD"><display-name>МАТЧ! Премьер</display-name><icon src="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&amp;n=13"/></channel>
+<channel id="MatchStrana.ru@SD"><display-name>МАТЧ! Страна</display-name><icon src="https://i.imgur.com/X02s2UE.png"/></channel>
+<channel id="MCMTop.ru@SD"><display-name>MCM TOP</display-name><icon src="https://i.imgur.com/EVtWQLd.png"/></channel>
+<channel id="Mezzo.fr@SD"><display-name>Mezzo</display-name><icon src="https://i.imgur.com/auNdGeW.png"/></channel>
+<channel id="MezzoLive.fr@SD"><display-name>Mezzo Live HD</display-name><icon src="https://i.imgur.com/H9ytKPN.png"/></channel>
+<channel id="Mir24.ru@HD"><display-name>МИР 24 HD</display-name><icon src="https://i.imgur.com/dj9c8Yd.png"/></channel>
+<channel id="Mir24.ru@SD"><display-name>МИР 24</display-name><icon src="https://i.imgur.com/dj9c8Yd.png"/></channel>
+<channel id="Mir.ru@SD"><display-name>МИР</display-name><icon src="https://i.imgur.com/AqWaJT8.png"/></channel>
+<channel id="MirBasketbola.ru@SD"><display-name>Мир Баскетбола</display-name><icon src="https://i.imgur.com/Tn6M609.png"/></channel>
+<channel id="MirSeriala.ru@SD"><display-name>Мир сериала</display-name><icon src="https://i.imgur.com/uzj7wVp.png"/></channel>
+<channel id="Miruvlecheniy.ru@SD"><display-name>Мир Увлечений</display-name><icon src="https://i.imgur.com/tWd8GWU.png"/></channel>
+<channel id="MMATVcom.ru@HD"><display-name>M1 Global HD</display-name><icon src="https://i.imgur.com/QhdxNsB.png"/></channel>
+<channel id="MMATVcom.ru@SD"><display-name>M1 GLOBAL</display-name><icon src="https://i.imgur.com/QhdxNsB.png"/></channel>
+<channel id="MosfilmGoldCollection.ru@SD"><display-name>Мосфильм. Золотая коллекция</display-name><icon src="https://i.imgur.com/95Y8jb6.png"/></channel>
+<channel id="Moskva24.ru@SD"><display-name>Москва-24</display-name><icon src="https://i.imgur.com/gXbUMVy.png"/></channel>
+<channel id="MoskvaDoveriye.ru@SD"><display-name>Москва. Доверие</display-name><icon src="https://i.imgur.com/QDqDQzt.png"/></channel>
+<channel id="MosObrTV.ru@SD"><display-name>Московский образовательный</display-name><icon src="https://i.imgur.com/t6PmOD5.png"/></channel>
+<channel id="MovieClassic.ru@SD"><display-name>Классика Кино</display-name><icon src="https://i.imgur.com/bMLz7xx.png"/></channel>
+<channel id="MoyaPlaneta.ru@SD"><display-name>Моя Планета</display-name><icon src="https://i.imgur.com/uIiAdBv.png"/></channel>
+<channel id="Moyastikhiya.ru@HD"><display-name>Моя стихия HD</display-name><icon src="https://i.imgur.com/Sl8c9eB.png"/></channel>
+<channel id="Moyastikhiya.ru@SD"><display-name>Моя стихия</display-name><icon src="https://i.imgur.com/Sl8c9eB.png"/></channel>
+<channel id="MTVGlobal.uk@SD"><display-name>MTV European</display-name><icon src="https://i.imgur.com/n2BoU7Q.png"/></channel>
+<channel id="Mult.ru@SD"><display-name>Мульт</display-name><icon src="https://i.imgur.com/xi351Fx.png"/></channel>
+<channel id="Multilandia.ru@SD"><display-name>Мультиландия</display-name><icon src="https://i.imgur.com/ccwijY0.png"/></channel>
+<channel id="Multimuzyka.ru@SD"><display-name>Мультимузыка</display-name><icon src="https://i.imgur.com/SYt6BZP.png"/></channel>
+<channel id="MusicBoxGold.ru@SD"><display-name>Music Box Gold</display-name><icon src="https://i.imgur.com/3arWh0k.png"/></channel>
+<channel id="Muzhskoekino.ru@HD"><display-name>Мужское кино HD</display-name><icon src="https://i.imgur.com/8RN3tQC.png"/></channel>
+<channel id="Muzhskoekino.ru@SD"><display-name>Мужское кино</display-name><icon src="https://i.imgur.com/8RN3tQC.png"/></channel>
+<channel id="Muzhskoy.ru@SD"><display-name>Мужской</display-name><icon src="https://i.imgur.com/xyztpBf.png"/></channel>
+<channel id="MuzTV.ru@SD"><display-name>МУЗ ТВ</display-name><icon src="https://i.imgur.com/BtqrHmz.png"/></channel>
+<channel id="MuzykaPervogo.ru@SD"><display-name>Музыка Первого</display-name><icon src="https://i.imgur.com/U0vKj3P.png"/></channel>
+<channel id="MyZenTV.fr@SD"><display-name>myZen.tv</display-name><icon src="https://i.imgur.com/fIi8o0C.png"/></channel>
+<channel id="Nano.ru@HD"><display-name>NANO HD</display-name><icon src="https://i.imgur.com/dYj3XDa.png"/></channel>
+<channel id="Nano.ru@SD"><display-name>Нано</display-name><icon src="https://i.imgur.com/dYj3XDa.png"/></channel>
+<channel id="NashaSibir.ru@4K"><display-name>Наша Сибирь 4К</display-name><icon src="https://i.imgur.com/uXOz2d9.png"/></channel>
+<channel id="NashaSibir.ru@HD"><display-name>Наша сибирь HD</display-name><icon src="https://i.imgur.com/uXOz2d9.png"/></channel>
+<channel id="NashaTema.ru@SD"><display-name>Наша Тема</display-name><icon src="https://i.imgur.com/67ZVDKW.png"/></channel>
+<channel id="Nashekrutoe.ru@SD"><display-name>Наше</display-name><icon src="https://i.imgur.com/EsdRlPM.png"/></channel>
+<channel id="NasheLubimoeKino.ru@SD"><display-name>Любимое кино</display-name><icon src="https://i.imgur.com/iKPfM5K.png"/></channel>
+<channel id="Nashemuzhskoe.ru@HD"><display-name>Наше мужское HD</display-name><icon src="https://i.imgur.com/QRWKpmb.png"/></channel>
+<channel id="Nashemuzhskoe.ru@SD"><display-name>Наше мужское</display-name><icon src="https://i.imgur.com/QRWKpmb.png"/></channel>
+<channel id="NasheNovoeKino.ru@SD"><display-name>Наше новое кино</display-name><icon src="https://i.imgur.com/IOxIsPj.png"/></channel>
+<channel id="NashKinopokaz.ru@HD"><display-name>Наш Кинопоказ HD</display-name><icon src="https://i.imgur.com/iwTMl8O.png"/></channel>
+<channel id="NashKinopokaz.ru@SD"><display-name>Наш Кинопоказ</display-name><icon src="https://i.imgur.com/iwTMl8O.png"/></channel>
+<channel id="NashKinoroman.ru@SD"><display-name>Душевное HD</display-name><icon src="https://i.imgur.com/ri22Rn1.png"/></channel>
+<channel id="Neizvestnayaplaneta.ru@SD"><display-name>Неизвестная Планета</display-name><icon src="https://i.imgur.com/SBF8WXi.png"/></channel>
+<channel id="NHKWorldJapan.jp@HD"><display-name>NHK World HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png"/></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png"/></channel>
+<channel id="Noise.ru@SD"><display-name>Noise</display-name><icon src="https://i.imgur.com/pyqpmZs.png"/></channel>
+<channel id="Nostalgia.ru@SD"><display-name>Ностальгия</display-name><icon src="https://i.imgur.com/YBdBc0J.png"/></channel>
+<channel id="NST.ru@SD"><display-name>Настоящее Страшное Телевидение</display-name><icon src="https://i.imgur.com/uv2yxa5.png"/></channel>
+<channel id="NTV.ru@HD"><display-name>НТВ HD</display-name><icon src="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png"/></channel>
+<channel id="NTV.ru@SD"><display-name>НТВ</display-name><icon src="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png"/></channel>
+<channel id="NTVHit.ru@SD"><display-name>НТВ Хит</display-name><icon src="https://i.imgur.com/FfKBvz5.png"/></channel>
+<channel id="NTVLaw.ru@SD"><display-name>НТВ Право</display-name><icon src="https://i.imgur.com/3ChnWGg.png"/></channel>
+<channel id="NTVSeries.ru@SD"><display-name>НТВ Сериал</display-name><icon src="https://i.imgur.com/QdVa8tl.png"/></channel>
+<channel id="NTVStyle.ru@SD"><display-name>НТВ Стиль</display-name><icon src="https://i.imgur.com/rX6K6qT.png"/></channel>
+<channel id="o2tv.ru@SD"><display-name>О2ТВ</display-name><icon src="https://i.imgur.com/CM6z7fA.png"/></channel>
+<channel id="O.ru@SD"><display-name>О!</display-name><icon src="https://i.imgur.com/pDc665V.png"/></channel>
+<channel id="OceanTV.ru@SD"><display-name>Ocean TV</display-name><icon src="https://i.imgur.com/zswzDZS.png"/></channel>
+<channel id="Ohotnikirybolov.ru@HD"><display-name>Охотник и Рыболов HD</display-name><icon src="https://i.imgur.com/Bj1jI7F.png"/></channel>
+<channel id="Okhotairybalka.ru@SD"><display-name>Охота и рыбалка</display-name><icon src="https://i.imgur.com/nZwBaeW.png"/></channel>
+<channel id="Oruzhie.ru@SD"><display-name>Оружие</display-name><icon src="https://i.imgur.com/lfJQJqa.png"/></channel>
+<channel id="Ostrosyuzhetnoye.ru@HD"><display-name>Остросюжетное HD</display-name><icon src="https://i.imgur.com/NwQ7GBy.png"/></channel>
+<channel id="Ostrosyuzhetnoye.ru@SD"><display-name>Остросюжетное SD</display-name><icon src="https://i.imgur.com/NwQ7GBy.png"/></channel>
+<channel id="Otkritiymir.ru@SD"><display-name>Открытый мир</display-name><icon src="https://i.imgur.com/leRGn6D.png"/></channel>
+<channel id="OTR.ru@SD"><display-name>ОТР</display-name><icon src="https://i.imgur.com/VaWlnjZ.png"/></channel>
+<channel id="OutdoorChannel.us@HD"><display-name>Outdoor HD</display-name><icon src="https://i.imgur.com/Kh4MWaY.png"/></channel>
+<channel id="PenthouseTV.us@SD"><display-name>Penthouse</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Penthouse_TV.svg/960px-Penthouse_TV.svg.png"/></channel>
+<channel id="PervyyKosmicheskiy.ru@HD"><display-name>Первый Космический HD</display-name><icon src="https://i.imgur.com/N1Ze5IE.png"/></channel>
+<channel id="Pervyyvegetarianskiy.ru@SD"><display-name>Первый вегетарианский</display-name><icon src="https://i.imgur.com/lvKlOkm.png"/></channel>
+<channel id="PesiKo.ru@SD"><display-name>Пес и Ко</display-name><icon src="https://i.imgur.com/LWABEiA.png"/></channel>
+<channel id="PlanB.ru@SD"><display-name>Plan_B</display-name><icon src="https://i.imgur.com/V1kDv8H.png"/></channel>
+<channel id="PlanetaHD.ru@SD"><display-name>Планета HD</display-name><icon src="https://i.imgur.com/MeYWJu8.png"/></channel>
+<channel id="PlayboyTVEurope.us@SD"><display-name>Playboy TV</display-name><icon src="https://i.imgur.com/5di4Nis.png"/></channel>
+<channel id="Pobeda.ru@SD"><display-name>Победа</display-name><icon src="https://i.imgur.com/4KiYSln.png"/></channel>
+<channel id="Poehali.ru@SD"><display-name>Поехали!</display-name><icon src="https://i.imgur.com/ZNCpbII.png"/></channel>
+<channel id="Premialnoe.ru@HD"><display-name>Премиальное HD</display-name><icon src="https://i.imgur.com/ck4aLBP.png"/></channel>
+<channel id="Premialnoe.ru@SD"><display-name>Премиальное SD</display-name><icon src="https://i.imgur.com/ck4aLBP.png"/></channel>
+<channel id="Priklyucheniya.ru@HD"><display-name>Приключения HD</display-name><icon src="https://i.imgur.com/qQ6pPPQ.png"/></channel>
+<channel id="PrivateSpice.fr@SD"><display-name>Private Spice</display-name><icon src="https://i.imgur.com/nP9dmhS.png"/></channel>
+<channel id="Pro100TV.ru@SD"><display-name>Pro100TV</display-name><icon src="https://i.imgur.com/YfQEflM.png"/></channel>
+<channel id="ProBusiness.ru@SD"><display-name>PRO Business</display-name><icon src="https://i.imgur.com/1u8KvTD.png"/></channel>
+<channel id="Prodvizhenie.ru@SD"><display-name>Продвижение</display-name><icon src="https://i.imgur.com/KlsnfG9.png"/></channel>
+<channel id="ProLyubov.ru@SD"><display-name>Про любовь</display-name><icon src="https://i.imgur.com/QpIGAT0.png"/></channel>
+<channel id="Prosveshchenie.ru@SD"><display-name>Просвещение</display-name><icon src="https://i.imgur.com/uppFhhq.png"/></channel>
+<channel id="Psikhologiya.ru@SD"><display-name>Психология 21</display-name><icon src="https://i.imgur.com/GsfedKS.png"/></channel>
+<channel id="Quadro.ru@SD"><display-name>Quadro</display-name><icon src="https://i.imgur.com/P4c53HA.png"/></channel>
+<channel id="RadostMoya.ru@SD"><display-name>Радость Моя</display-name><icon src="https://i.imgur.com/B5FA62o.png"/></channel>
+<channel id="Rai1.it@SD"><display-name>Rai 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"/></channel>
+<channel id="Ratnik.ru@SD"><display-name>Ратник</display-name><icon src="https://i.imgur.com/vhLQtSd.png"/></channel>
+<channel id="RBKTV.ru@SD"><display-name>РБК</display-name><icon src="https://i.imgur.com/CwhmJby.png"/></channel>
+<channel id="red.ru@HD"><display-name>.red HD</display-name><icon src="https://i.imgur.com/GET9Qut.png"/></channel>
+<channel id="red.ru@SD"><display-name>.red</display-name><icon src="https://i.imgur.com/GET9Qut.png"/></channel>
+<channel id="RedlightHD.nl@SD"><display-name>Redlight</display-name><icon src="https://i.imgur.com/g0QF5IG.png"/></channel>
+<channel id="RedLine.ru@SD"><display-name>Красная линия</display-name><icon src="https://i.imgur.com/TgZ8Uv1.png"/></channel>
+<channel id="RedLips.ru@SD"><display-name>Red Lips</display-name><icon src="https://i.imgur.com/NteJThd.png"/></channel>
+<channel id="RENTV.ru@HD"><display-name>РЕН ТВ HD</display-name><icon src="https://iks-online.net/storage/2018/07/REN-TV-HD.png"/></channel>
+<channel id="RENTV.ru@SD"><display-name>РЕН ТВ</display-name><icon src="https://iks-online.net/storage/2018/07/REN-TV-HD.png"/></channel>
+<channel id="Retro.ru@SD"><display-name>Ретро</display-name><icon src="https://i.imgur.com/p21co1w.png"/></channel>
+<channel id="RodnoeKino.ru@SD"><display-name>Родное кино</display-name><icon src="https://i.imgur.com/H70LxoZ.png"/></channel>
+<channel id="Romantichnoe.ru@HD"><display-name>Романтичное HD</display-name><icon src="https://i.imgur.com/ruacPMS.png"/></channel>
+<channel id="RT.ru@HD"><display-name>Russia Today HD</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="RT.ru@SD"><display-name>Russia Today</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="RTDocumentary.ru@Russian"><display-name>Russia Today Documentary</display-name><icon src="https://i.imgur.com/aeu5zIC.png"/></channel>
+<channel id="RTDocumentary.ru@RussianHD"><display-name>Russia Today Doc HD</display-name><icon src="https://i.imgur.com/aeu5zIC.png"/></channel>
+<channel id="RTGTV.ru@HD"><display-name>Russian Travel Guide HD</display-name><icon src="https://i.imgur.com/ZMKPAho.png"/></channel>
+<channel id="RTGTV.ru@SD"><display-name>Russian Travel Guide</display-name><icon src="https://i.imgur.com/ZMKPAho.png"/></channel>
+<channel id="RTViArchive.ru@SD"><display-name>RTVi Архив</display-name><icon src="https://i.imgur.com/Ux50nNS.png"/></channel>
+<channel id="Russia1.ru@HD"><display-name>Россия 1 HD</display-name><icon src="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png"/></channel>
+<channel id="Russia1.ru@SD"><display-name>Россия 1</display-name><icon src="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png"/></channel>
+<channel id="Russia24.ru@SD"><display-name>Россия 24</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png"/></channel>
+<channel id="RussiaK.ru@SD"><display-name>Культура</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png"/></channel>
+<channel id="RussianExtreme.ru@HD"><display-name>Русский Экстрим HD</display-name><icon src="https://i.imgur.com/hJK7mOW.png"/></channel>
+<channel id="RussianExtreme.ru@SD"><display-name>Русский Экстрим</display-name><icon src="https://i.imgur.com/hJK7mOW.png"/></channel>
+<channel id="RussianMusicBox.ru@HD"><display-name>RUSSIAN MUSICBOX HD</display-name><icon src="https://i.imgur.com/ZkJ3Rh9.png"/></channel>
+<channel id="RussianMusicBox.ru@SD"><display-name>RUSSIAN MUSICBOX</display-name><icon src="https://i.imgur.com/ZkJ3Rh9.png"/></channel>
+<channel id="Russiannight.ru@HD"><display-name>Русская ночь HD</display-name><icon src="https://i.imgur.com/Q6xebjQ.png"/></channel>
+<channel id="Russiannight.ru@SD"><display-name>Русская ночь</display-name><icon src="https://i.imgur.com/Q6xebjQ.png"/></channel>
+<channel id="RusskiyBestseller.ru@SD"><display-name>Русский бестселлер</display-name><icon src="https://i.imgur.com/w0ZE9QJ.png"/></channel>
+<channel id="RusskiyDetektiv.ru@SD"><display-name>Русский Детектив</display-name><icon src="https://i.imgur.com/H3qhN8S.png"/></channel>
+<channel id="RusskiyIllusion.ru@SD"><display-name>Русский Иллюзион</display-name><icon src="https://i.imgur.com/RlsqFN8.png"/></channel>
+<channel id="Russkiyroman.ru@HD"><display-name>Русский роман HD</display-name><icon src="https://i.imgur.com/cQN0P2B.png"/></channel>
+<channel id="Russkiyroman.ru@SD"><display-name>Русский роман</display-name><icon src="https://i.imgur.com/cQN0P2B.png"/></channel>
+<channel id="RUTV.ru@SD"><display-name>Ru.TV</display-name><icon src="https://rutv.by/wp-content/uploads/2020/09/logo.png"/></channel>
+<channel id="Rybolov.ru@SD"><display-name>Рыболов</display-name><icon src="https://i.imgur.com/wJMTcFS.png"/></channel>
+<channel id="Ryzhiy.ru@SD"><display-name>Рыжий</display-name><icon src="https://i.imgur.com/acrU2IE.png"/></channel>
+<channel id="RZDTV.ru@HD"><display-name>РЖД HD</display-name><icon src="https://i.imgur.com/lf1r9L6.png"/></channel>
+</tv>
