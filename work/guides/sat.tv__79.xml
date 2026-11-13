@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261113">
+<channel id="1#33#El Omda Al yom"><display-name>El Omda Al yom</display-name></channel>
+<channel id="1#33#El Omda Drama"><display-name>El Omda Drama</display-name></channel>
+<channel id="1#33#El Omda Hekayat Film"><display-name>El Omda Hekayat Film</display-name></channel>
+<channel id="1#33#Elasema welanas"><display-name>Elasema welanas</display-name></channel>
+<channel id="1#33#Elzaeem Cinema"><display-name>Elzaeem Cinema</display-name></channel>
+<channel id="1#33#Elzaeem Drama"><display-name>Elzaeem Drama</display-name></channel>
+<channel id="1#33#Emarat FM"><display-name>Emarat FM</display-name></channel>
+<channel id="1#33#Emarat HD"><display-name>Emarat HD</display-name></channel>
+<channel id="EnnaharTV.dz@SD"><display-name>Ennahar TV</display-name><icon src="https://i.imgur.com/C0TCA1s.png"/></channel>
+<channel id="1#33#ERI Radio 1"><display-name>ERI Radio 1</display-name></channel>
+<channel id="1#33#ERI Radio 2"><display-name>ERI Radio 2</display-name></channel>
+<channel id="1#33#ERI Radio 3"><display-name>ERI Radio 3</display-name></channel>
+<channel id="1#33#ERI Radio 4"><display-name>ERI Radio 4</display-name></channel>
+<channel id="1#33#Essalam TV"><display-name>Essalam TV</display-name></channel>
+<channel id="1#33#eTa - Demo CabSat"><display-name>eTa - Demo CabSat</display-name></channel>
+<channel id="1#33#European Radio"><display-name>European Radio</display-name></channel>
+<channel id="ExtraLive.eg@SD"><display-name>Extra live</display-name><icon src="https://i.imgur.com/Cv2O0Cj.png"/></channel>
+<channel id="1#33#Extra News HD"><display-name>Extra News HD</display-name></channel>
+<channel id="FalastiniTV.ps@SD"><display-name>Falastini TV</display-name><icon src="https://i.imgur.com/6B3Cims.png"/></channel>
+<channel id="1#33#falestinona TV"><display-name>falestinona TV</display-name></channel>
+<channel id="1#33#Febraury TV"><display-name>Febraury TV</display-name></channel>
+<channel id="1#33#Fox Movies"><display-name>Fox Movies</display-name></channel>
+<channel id="France24.fr@Arabic"><display-name>France 24 Arabic</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="France24.fr@English"><display-name>France 24 English</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="1#33#Free TV"><display-name>Free TV</display-name></channel>
+<channel id="1#33#French"><display-name>French</display-name></channel>
+<channel id="1#33#Fujairah FM"><display-name>Fujairah FM</display-name></channel>
+<channel id="1#33#Fujairah HD"><display-name>Fujairah HD</display-name></channel>
+<channel id="1#33#Gali Kurdistan HD"><display-name>Gali Kurdistan HD</display-name></channel>
+<channel id="1#33#Hala London HD"><display-name>Hala London HD</display-name></channel>
+<channel id="HalabTodayTV.sy@SD"><display-name>Halab Today TV</display-name><icon src="https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png"/></channel>
+<channel id="HaqTV.mz@SD"><display-name>Haq TV</display-name><icon src="https://i.imgur.com/rs1Xvkt.png"/></channel>
+<channel id="1#33#Hawa Baghdad"><display-name>Hawa Baghdad</display-name></channel>
+<channel id="1#33#Hayat FM"><display-name>Hayat FM</display-name></channel>
+<channel id="HebronSat.ps@SD"><display-name>Hebron Sat</display-name><icon src="https://i.imgur.com/EFfaVhL.png"/></channel>
+<channel id="1#33#HodHod TV"><display-name>HodHod TV</display-name></channel>
+<channel id="1#33#Hogan TV"><display-name>Hogan TV</display-name></channel>
+<channel id="1#33#Hola Qatar"><display-name>Hola Qatar</display-name></channel>
+<channel id="1#33#Holly Quran"><display-name>Holly Quran</display-name></channel>
+<channel id="1#33#Home TV"><display-name>Home TV</display-name></channel>
+<channel id="1#33#Houna alazm"><display-name>Houna alazm</display-name></channel>
+<channel id="1#33#Huda TV"><display-name>Huda TV</display-name></channel>
+<channel id="i24NEWSArabic.il@SD"><display-name>I24 News Arabic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png"/></channel>
+<channel id="1#33#I News HD"><display-name>I News HD</display-name></channel>
+<channel id="iFilmArabic.ir@SD"><display-name>iFilm Arabic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"/></channel>
+<channel id="1#33#Ifrikya FM"><display-name>Ifrikya FM</display-name></channel>
+<channel id="1#33#iKA TV"><display-name>iKA TV</display-name></channel>
+<channel id="1#33#Imam Ali Radio"><display-name>Imam Ali Radio</display-name></channel>
+<channel id="1#33#Imam Ali Shrine TV"><display-name>Imam Ali Shrine TV</display-name></channel>
+<channel id="ImamHusseinTV2.iq@SD"><display-name>Imam Hussein TV 2</display-name><icon src="https://i.imgur.com/IXVSPdJ.png"/></channel>
+<channel id="1#33#Iraq 24 HD"><display-name>Iraq 24 HD</display-name></channel>
+<channel id="1#33#Iraq Al Hadath"><display-name>Iraq Al Hadath</display-name></channel>
+<channel id="1#33#Iraq Edu 1"><display-name>Iraq Edu 1</display-name></channel>
+<channel id="1#33#Iraq Edu 2"><display-name>Iraq Edu 2</display-name></channel>
+<channel id="1#33#Iraq Edu 3"><display-name>Iraq Edu 3</display-name></channel>
+<channel id="1#33#Iraq Edu 4"><display-name>Iraq Edu 4</display-name></channel>
+<channel id="1#33#Iraq Edu 5"><display-name>Iraq Edu 5</display-name></channel>
+<channel id="1#33#Iraq Edu 6"><display-name>Iraq Edu 6</display-name></channel>
+<channel id="1#33#Iraq Edu 7"><display-name>Iraq Edu 7</display-name></channel>
+<channel id="IraqFuture.iq@SD"><display-name>Iraq Future TV</display-name><icon src="https://i.imgur.com/Z7woTe5.png"/></channel>
+<channel id="IraqNow.iq@SD"><display-name>Iraq Now</display-name><icon src="https://i.imgur.com/kSUsgkl.png"/></channel>
+<channel id="1#33#Iraqia Syriac"><display-name>Iraqia Syriac</display-name></channel>
+<channel id="1#33#Jannah TV"><display-name>Jannah TV</display-name></channel>
+<channel id="JeddahRadio.sa@SD"><display-name>Jedda Radio</display-name><icon src="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png"/></channel>
+<channel id="1#33#Jin TV HD"><display-name>Jin TV HD</display-name></channel>
+<channel id="1#33#Jordan Radio"><display-name>Jordan Radio</display-name></channel>
+<channel id="1#33#Jordan sama"><display-name>Jordan sama</display-name></channel>
+<channel id="1#33#Jordan Sport HD"><display-name>Jordan Sport HD</display-name></channel>
+<channel id="1#33#Jordan TV HD"><display-name>Jordan TV HD</display-name></channel>
+<channel id="1#33#Kadak"><display-name>Kadak</display-name></channel>
+<channel id="KaifaTV.jo@SD"><display-name>Kaifa TV</display-name><icon src="https://i.imgur.com/zGGeSQg.png"/></channel>
+<channel id="Karameesh.jo@SD"><display-name>Karameesh</display-name><icon src="https://i.imgur.com/Pld33CZ.png"/></channel>
+<channel id="1#33#Karbala TV HD"><display-name>Karbala TV HD</display-name></channel>
+<channel id="1#33#KBS World"><display-name>KBS World</display-name></channel>
+<channel id="KhartoumTV.sd@SD"><display-name>Khartoum TV</display-name><icon src="https://i.imgur.com/0TXj5mq.png"/></channel>
+<channel id="1#33#Khozama Radio"><display-name>Khozama Radio</display-name></channel>
+<channel id="1#33#Kidsy TV"><display-name>Kidsy TV</display-name></channel>
+<channel id="KirkukTV.iq@SD"><display-name>Kirkuk TV</display-name><icon src="https://i.imgur.com/SPslJS4.png"/></channel>
+<channel id="1#33#KNN HD"><display-name>KNN HD</display-name></channel>
+<channel id="KoogiTV.eg@SD"><display-name>Koogi TV</display-name><icon src="https://i.imgur.com/zojMTP9.png"/></channel>
+<channel id="KSASports1.sa@SD"><display-name>KSA sports 1</display-name><icon src="https://i.imgur.com/ONKNOAp.png"/></channel>
+<channel id="1#33#KSA sports 2 HD"><display-name>KSA sports 2 HD</display-name></channel>
+<channel id="1#33#KSA Sports 3 HD"><display-name>KSA Sports 3 HD</display-name></channel>
+<channel id="1#33#KSA Sports 4 HD"><display-name>KSA Sports 4 HD</display-name></channel>
+<channel id="1#33#KTO"><display-name>KTO</display-name></channel>
+<channel id="Kurdistan24.iq@SD"><display-name>Kurdistan 24</display-name><icon src="https://i.imgur.com/9QWs2ms.png"/></channel>
+<channel id="KurdistanTV.iq@SD"><display-name>Kurdistan TV</display-name><icon src="https://i.imgur.com/mjQptpc.png"/></channel>
+<channel id="1#33#KurdMax HD"><display-name>KurdMax HD</display-name></channel>
+<channel id="Kurdsat.iq@SD"><display-name>Kurdsat</display-name><icon src="https://i.imgur.com/UAbSwYA.png"/></channel>
+<channel id="1#33#Kurdsat News HD"><display-name>Kurdsat News HD</display-name></channel>
+<channel id="1#33#Kuwait Al Akhbar"><display-name>Kuwait Al Akhbar</display-name></channel>
+<channel id="1#33#Kuwait Classical"><display-name>Kuwait Classical</display-name></channel>
+<channel id="1#33#Kuwait Easy"><display-name>Kuwait Easy</display-name></channel>
+<channel id="1#33#Kuwait FM"><display-name>Kuwait FM</display-name></channel>
+<channel id="1#33#Kuwait Holy Quran"><display-name>Kuwait Holy Quran</display-name></channel>
+<channel id="1#33#Kuwait Radio 1"><display-name>Kuwait Radio 1</display-name></channel>
+<channel id="1#33#Kuwait Radio 2"><display-name>Kuwait Radio 2</display-name></channel>
+<channel id="1#33#Kuwait Shaabyia"><display-name>Kuwait Shaabyia</display-name></channel>
+<channel id="1#33#Kuwait Sport HD"><display-name>Kuwait Sport HD</display-name></channel>
+<channel id="1#33#Kuwait Super"><display-name>Kuwait Super</display-name></channel>
+<channel id="1#33#Kuwait TV 1 HD"><display-name>Kuwait TV 1 HD</display-name></channel>
+<channel id="1#33#Kuwait TV 2 HD"><display-name>Kuwait TV 2 HD</display-name></channel>
+<channel id="1#33#Kuwait TV Sport Plus HD"><display-name>Kuwait TV Sport Plus HD</display-name></channel>
+<channel id="1#33#Kuwaitawi TV"><display-name>Kuwaitawi TV</display-name></channel>
+<channel id="1#33#LBC"><display-name>LBC</display-name></channel>
+<channel id="1#33#Lebda TV"><display-name>Lebda TV</display-name></channel>
+<channel id="1#33#Libya Al Ahrar HD"><display-name>Libya Al Ahrar HD</display-name></channel>
+<channel id="1#33#Libya Al Hedaya"><display-name>Libya Al Hedaya</display-name></channel>
+<channel id="1#33#Libya Al Watania HD"><display-name>Libya Al Watania HD</display-name></channel>
+<channel id="1#33#Libya Alhadath HD"><display-name>Libya Alhadath HD</display-name></channel>
+<channel id="LibyaAlrasmiaChannel.ly@SD"><display-name>Libya Alrasmia Channel</display-name><icon src="https://i.imgur.com/a0a1UyA.png"/></channel>
+<channel id="1#33#Libya Alwathaiqia TV"><display-name>Libya Alwathaiqia TV</display-name></channel>
+<channel id="1#33#Libya Future TV HD"><display-name>Libya Future TV HD</display-name></channel>
+<channel id="1#33#Libya Ifta TV"><display-name>Libya Ifta TV</display-name></channel>
+<channel id="1#33#Libya Ly"><display-name>Libya Ly</display-name></channel>
+<channel id="LibyaSportTV.ly@SD"><display-name>Libya Sport</display-name></channel>
+<channel id="1#33#Libya Sport 2 HD"><display-name>Libya Sport 2 HD</display-name></channel>
+<channel id="1#33#Logos TV"><display-name>Logos TV</display-name></channel>
+<channel id="1#33#Loud FM"><display-name>Loud FM</display-name></channel>
+<channel id="1#33#LuaLua TV HD"><display-name>LuaLua TV HD</display-name></channel>
+<channel id="1#33#M24 TV"><display-name>M24 TV</display-name></channel>
+<channel id="1#33#M Classic"><display-name>M Classic</display-name></channel>
+<channel id="1#33#Madrasetna 1"><display-name>Madrasetna 1</display-name></channel>
+<channel id="1#33#Madrasetna 2"><display-name>Madrasetna 2</display-name></channel>
+<channel id="1#33#Madrasetna 3"><display-name>Madrasetna 3</display-name></channel>
+<channel id="1#33#Majid Kids TV HD"><display-name>Majid Kids TV HD</display-name></channel>
+<channel id="MakkahTV.sa@SD"><display-name>Makkah TV</display-name><icon src="https://i.ibb.co/r2k71w5N/download.png"/></channel>
+<channel id="ManuChat.iq@SD"><display-name>Manu Chat</display-name><icon src="https://i.imgur.com/voyoljW.png"/></channel>
+<channel id="1#33#Marina HD"><display-name>Marina HD</display-name></channel>
+<channel id="1#33#MarjaeyatTV 2 HD"><display-name>MarjaeyatTV 2 HD</display-name></channel>
+<channel id="1#33#Maspero FM &amp; Thakafy"><display-name>Maspero FM &amp; Thakafy</display-name></channel>
+<channel id="MasperoZaman.eg@SD"><display-name>Maspero Zaman</display-name><icon src="https://i.ibb.co/Tqr4q5wd/Maspero.png"/></channel>
+<channel id="1#33#Matrouh"><display-name>Matrouh</display-name></channel>
+<channel id="1#33#Mawal"><display-name>Mawal</display-name></channel>
+<channel id="Mazzika.eg@SD"><display-name>Mazzika</display-name><icon src="https://i.imgur.com/P7PUHIx.png"/></channel>
+<channel id="1#33#MBC 1"><display-name>MBC 1</display-name></channel>
+<channel id="1#33#MBC 2"><display-name>MBC 2</display-name></channel>
+<channel id="1#33#MBC 3"><display-name>MBC 3</display-name></channel>
+<channel id="1#33#MBC 4"><display-name>MBC 4</display-name></channel>
+<channel id="MBCAction.ae@SD"><display-name>MBC Action</display-name><icon src="https://i.imgur.com/OWZAghw.png"/></channel>
+<channel id="MBCBollywood.ae@SD"><display-name>MBC Bollywood</display-name><icon src="https://i.imgur.com/TTAGFHG.png"/></channel>
+<channel id="MBCDrama.ae@SD"><display-name>MBC Drama</display-name><icon src="https://i.imgur.com/g5PWnqp.png"/></channel>
+<channel id="MBCFM.ae@SD"><display-name>MBC FM</display-name><icon src="https://i.imgur.com/lF8UxvR.png"/></channel>
+<channel id="1#33#MBC Iraq HD"><display-name>MBC Iraq HD</display-name></channel>
+<channel id="1#33#MBC Masr 2 HD"><display-name>MBC Masr 2 HD</display-name></channel>
+<channel id="1#33#MBC Masr Drama"><display-name>MBC Masr Drama</display-name></channel>
+<channel id="1#33#MBC Masr HD"><display-name>MBC Masr HD</display-name></channel>
+<channel id="MedMuzik.tr@SD"><display-name>Med Muzîk</display-name><icon src="https://i.imgur.com/gtUFmCD.png"/></channel>
+<channel id="1#33#Medi1Radio Afrique"><display-name>Medi1Radio Afrique</display-name></channel>
+<channel id="1#33#Mega FM"><display-name>Mega FM</display-name></channel>
+<channel id="1#33#Mekameleen"><display-name>Mekameleen</display-name></channel>
+<channel id="1#33#Misr Al Zeraeey"><display-name>Misr Al Zeraeey</display-name></channel>
+<channel id="MisrAlBalad.eg@SD"><display-name>Misr AlBalad</display-name><icon src="https://i.imgur.com/dfKxdbt.png"/></channel>
+<channel id="1#33#Misr Quran Kareem"><display-name>Misr Quran Kareem</display-name></channel>
+<channel id="1#33#Mix"><display-name>Mix</display-name></channel>
+<channel id="MixBelAraby.eg@SD"><display-name>Mix bel Araby TV</display-name><icon src="https://i.imgur.com/KucgM9c.png"/></channel>
+<channel id="1#33#Mix One"><display-name>Mix One</display-name></channel>
+<channel id="1#33#Mowagahat-1"><display-name>Mowagahat-1</display-name></channel>
+<channel id="1#33#Mowagahat-2"><display-name>Mowagahat-2</display-name></channel>
+<channel id="1#33#Mowagahat-8"><display-name>Mowagahat-8</display-name></channel>
+<channel id="1#33#Mowajahat"><display-name>Mowajahat</display-name></channel>
+<channel id="1#33#MTA 3"><display-name>MTA 3</display-name></channel>
+<channel id="1#33#Musawa HD"><display-name>Musawa HD</display-name></channel>
+<channel id="1#33#Music Iraq"><display-name>Music Iraq</display-name></channel>
+<channel id="NabaaTV.lb@SD"><display-name>Nabaa TV</display-name><icon src="https://i.imgur.com/p8eRgSs.png"/></channel>
+<channel id="1#33#Nablus Radio"><display-name>Nablus Radio</display-name></channel>
+<channel id="1#33#Nagham FM"><display-name>Nagham FM</display-name></channel>
+<channel id="1#33#Nat Geo Abu Dhabi HD"><display-name>Nat Geo Abu Dhabi HD</display-name></channel>
+<channel id="1#33#Nedaa El Islam"><display-name>Nedaa El Islam</display-name></channel>
+<channel id="1#33#Neu TV"><display-name>Neu TV</display-name></channel>
+<channel id="1#33#New Libya"><display-name>New Libya</display-name></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK World Japan</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png"/></channel>
+<channel id="NileCinema.eg@SD"><display-name>Nile Cinema</display-name><icon src="https://i.imgur.com/SCpizej.png"/></channel>
+<channel id="NileComedy.eg@SD"><display-name>Nile Comedy</display-name><icon src="https://i.imgur.com/rcl3br8.png"/></channel>
+<channel id="NileCulture.eg@SD"><display-name>Nile Culture</display-name><icon src="https://i.imgur.com/fcIuSiX.png"/></channel>
+<channel id="NileDrama.eg@SD"><display-name>Nile Drama</display-name><icon src="https://i.imgur.com/FasJFMM.png"/></channel>
+<channel id="NileEducationChannel.eg@SD"><display-name>Nile Education</display-name><icon src="https://i.imgur.com/9yPW8oY.png"/></channel>
+<channel id="NileFamily.eg@SD"><display-name>Nile Family</display-name><icon src="https://i.imgur.com/zNBfxOc.png"/></channel>
+<channel id="1#33#Nile FM"><display-name>Nile FM</display-name></channel>
+<channel id="NileLife.eg@SD"><display-name>Nile Life</display-name><icon src="https://i.imgur.com/ou42bUh.png"/></channel>
+<channel id="NileNews.eg@SD"><display-name>Nile News</display-name><icon src="https://i.ibb.co/Kz0H3mLP/Nile-News.png"/></channel>
+<channel id="NileSport.eg@SD"><display-name>Nile Sport</display-name><icon src="https://i.imgur.com/ILlinUJ.png"/></channel>
+<channel id="1#33#Nile TV"><display-name>Nile TV</display-name></channel>
+<channel id="1#33#Nogoum FM"><display-name>Nogoum FM</display-name></channel>
+<channel id="NogoumFMTV.eg@SD"><display-name>Nogoum FM TV</display-name><icon src="https://i.imgur.com/krp3kgv.png"/></channel>
+<channel id="1#33#North Sinai"><display-name>North Sinai</display-name></channel>
+<channel id="NourAlKoddass.lb@SD"><display-name>Nour Koddass</display-name><icon src="https://i.imgur.com/dF4Mvts.png"/></channel>
+<channel id="NourMariam.lb@SD"><display-name>Nour Mariam TV</display-name><icon src="https://i.imgur.com/Ow5Lqh6.jpg"/></channel>
+<channel id="1#33#Noursat Al Chabab"><display-name>Noursat Al Chabab</display-name></channel>
+<channel id="1#33#Noursat kids"><display-name>Noursat kids</display-name></channel>
+<channel id="1#33#Noursat TV"><display-name>Noursat TV</display-name></channel>
+<channel id="1#33#NRT 2 HD"><display-name>NRT 2 HD</display-name></channel>
+<channel id="NRT4.iq@SD"><display-name>NRT 4</display-name></channel>
+<channel id="1#33#NRT HD"><display-name>NRT HD</display-name></channel>
+<channel id="1#33#OFM"><display-name>OFM</display-name></channel>
+<channel id="1#33#Oman Classic Radio"><display-name>Oman Classic Radio</display-name></channel>
+<channel id="1#33#Oman General Radio"><display-name>Oman General Radio</display-name></channel>
+<channel id="1#33#Oman HolyQuran Radio"><display-name>Oman HolyQuran Radio</display-name></channel>
+<channel id="1#33#Oman Shabab Radio"><display-name>Oman Shabab Radio</display-name></channel>
+<channel id="1#33#Oman TV Culture HD"><display-name>Oman TV Culture HD</display-name></channel>
+</tv>
