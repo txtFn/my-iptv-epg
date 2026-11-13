@@ -1426,7 +1426,8 @@
     "m.tv.sms.cz@3",
     "mi.tv@3",
     "ontvtonight.com@3",
-    "plex.tv@3"
+    "plex.tv@3",
+    "pluto.tv@3"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
