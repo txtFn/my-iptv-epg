@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261113">
+<channel id="KE1#CBS.Reality.ke"><display-name>CBS Reality</display-name></channel>
+<channel id="KE1#CCTV.Entertainment.–.Mandarin.Entertainment.Channel.ke"><display-name>CCTV Entertainment – Mandarin Entertainment Channel</display-name></channel>
+<channel id="KE1#CGTN.French.ke"><display-name>CGTN French</display-name></channel>
+<channel id="KE1#CGTN.News.ke"><display-name>CGTN News</display-name></channel>
+<channel id="KE1#CHANNEL.ONE.TV.ke"><display-name>CHANNEL ONE TV</display-name></channel>
+<channel id="KE1#Citizen.TV.ke"><display-name>Citizen TV</display-name></channel>
+<channel id="KE1#CNBC.Africa.ke"><display-name>CNBC Africa</display-name></channel>
+<channel id="KE1#CNN.International.ke"><display-name>CNN International</display-name></channel>
+<channel id="KE1#Comedy.Central.ke"><display-name>Comedy Central</display-name></channel>
+<channel id="KE1#Curiosity.Channel.ke"><display-name>Curiosity Channel</display-name></channel>
+<channel id="KE1#Day.Star.ke"><display-name>Day Star</display-name></channel>
+<channel id="KE1#Discovery.Channel.HD.ke"><display-name>Discovery Channel HD</display-name></channel>
+<channel id="KE1#Discovery.Family.HD.ke"><display-name>Discovery Family HD</display-name></channel>
+<channel id="KE1#Discovery.ID.ke"><display-name>Discovery ID</display-name></channel>
+<channel id="KE1#Disney.Channel.ke"><display-name>Disney Channel</display-name></channel>
+<channel id="KE1#Disney.Junior.ke"><display-name>Disney Junior</display-name></channel>
+<channel id="KE1#Dominion.TV.ke"><display-name>Dominion TV</display-name></channel>
+<channel id="KE1#Dove.TV.ke"><display-name>Dove TV</display-name></channel>
+<channel id="KE1#DreamWorks.ke"><display-name>DreamWorks</display-name></channel>
+<channel id="KE1#E!.Entertainment.ke"><display-name>E! Entertainment</display-name></channel>
+<channel id="KE1#ESPN.2.HD.ke"><display-name>ESPN 2 HD</display-name></channel>
+<channel id="KE1#ESPN.ke"><display-name>ESPN</display-name></channel>
+<channel id="KE1#Eternal.Word.Television.Network.ke"><display-name>Eternal Word Television Network</display-name></channel>
+<channel id="KE1#etv.News.ke"><display-name>etv News</display-name></channel>
+<channel id="KE1#EuroNews.French.ke"><display-name>EuroNews French</display-name></channel>
+<channel id="KE1#EuroNews.German.ke"><display-name>EuroNews German</display-name></channel>
+<channel id="KE1#EuroNews.ke"><display-name>EuroNews</display-name></channel>
+<channel id="KE1#FAITH.ke"><display-name>FAITH</display-name></channel>
+<channel id="KE1#Food.Network.ke"><display-name>Food Network</display-name></channel>
+<channel id="KE1#France.2.ke"><display-name>France 2</display-name></channel>
+<channel id="KE1#FRANCE.24.ke"><display-name>FRANCE 24</display-name></channel>
+<channel id="KE1#HIP.TV.ke"><display-name>HIP TV</display-name></channel>
+<channel id="KE1#History.ke"><display-name>History</display-name></channel>
+<channel id="KE1#Holiday.Channel.ke"><display-name>Holiday Channel</display-name></channel>
+<channel id="KE1#InfoSports+.ke"><display-name>InfoSports+</display-name></channel>
+<channel id="KE1#Inooro.TV.ke"><display-name>Inooro TV</display-name></channel>
+<channel id="KE1#ISLAM.CHANNEL.ke"><display-name>ISLAM CHANNEL</display-name></channel>
+<channel id="KE1#Jim.Jam.ke"><display-name>Jim Jam</display-name></channel>
+<channel id="KE1#Joy.News.ke"><display-name>Joy News</display-name></channel>
+<channel id="KE1#K24.ke"><display-name>K24</display-name></channel>
+<channel id="KE1#Kameme.TV.ke"><display-name>Kameme TV</display-name></channel>
+<channel id="KE1#KASS.TV.ke"><display-name>KASS TV</display-name></channel>
+<channel id="KE1#KBCTV.ke"><display-name>KBCTV</display-name></channel>
+<channel id="KE1#KIX.ke"><display-name>KIX</display-name></channel>
+<channel id="KE1#KTN.ke"><display-name>KTN</display-name></channel>
+<channel id="KE1#M-Net.ke"><display-name>M-Net</display-name></channel>
+<channel id="KE1#M-Net.Movies.1.East.HD.ke"><display-name>M-Net Movies 1 East HD</display-name></channel>
+<channel id="KE1#M-Net.Movies.2.ke"><display-name>M-Net Movies 2</display-name></channel>
+<channel id="KE1#M-Net.Movies.3.ke"><display-name>M-Net Movies 3</display-name></channel>
+<channel id="KE1#M-Net.Movies.4.ke"><display-name>M-Net Movies 4</display-name></channel>
+<channel id="KE1#Maisha.Magic.Bongo.ke"><display-name>Maisha Magic Bongo</display-name></channel>
+<channel id="KE1#Maisha.Magic.East.HD.ke"><display-name>Maisha Magic East HD</display-name></channel>
+<channel id="KE1#Maisha.Magic.Plus.HD.ke"><display-name>Maisha Magic Plus HD</display-name></channel>
+<channel id="KE1#Maisha.Magic.POA.ke"><display-name>Maisha Magic POA</display-name></channel>
+<channel id="KE1#Mambo.Moto.ke"><display-name>Mambo Moto</display-name></channel>
+<channel id="KE1#Mindset.ke"><display-name>Mindset</display-name></channel>
+<channel id="KE1#Moonbug.ke"><display-name>Moonbug</display-name></channel>
+<channel id="KE1#MovieRoom.Africa.ke"><display-name>MovieRoom Africa</display-name></channel>
+<channel id="KE1#MTV.base.ke"><display-name>MTV base</display-name></channel>
+<channel id="KE1#MTV.ke"><display-name>MTV</display-name></channel>
+<channel id="KE1#Nat.Geo.Wild.ke"><display-name>Nat Geo Wild</display-name></channel>
+<channel id="KE1#National.Geographic.ke"><display-name>National Geographic</display-name></channel>
+<channel id="KE1#NBS.ke"><display-name>NBS</display-name></channel>
+<channel id="KE1#NDTV.24x7.ke"><display-name>NDTV 24x7</display-name></channel>
+<channel id="KE1#News.Central.TV.ke"><display-name>News Central TV</display-name></channel>
+<channel id="KE1#Newzroom.Afrika.ke"><display-name>Newzroom Afrika</display-name></channel>
+<channel id="KE1#NHK.ke"><display-name>NHK</display-name></channel>
+<channel id="KE1#Nickelodeon.ke"><display-name>Nickelodeon</display-name></channel>
+<channel id="KE1#NickJr.ke"><display-name>NickJr</display-name></channel>
+<channel id="KE1#NickTOONS.ke"><display-name>NickTOONS</display-name></channel>
+<channel id="KE1#Novelas.TV.ke"><display-name>Novelas TV</display-name></channel>
+<channel id="KE1#NTV.ke"><display-name>NTV</display-name></channel>
+<channel id="KE1#NTVU.ke"><display-name>NTVU</display-name></channel>
+<channel id="KE1#Pearl.Magic.ke"><display-name>Pearl Magic</display-name></channel>
+<channel id="KE1#Piwi+.ke"><display-name>Piwi+</display-name></channel>
+<channel id="KE1#Planete.ke"><display-name>Planete</display-name></channel>
+<channel id="KE1#Plus.TV.Africa.ke"><display-name>Plus TV Africa</display-name></channel>
+<channel id="KE1#QWEST.TV.ke"><display-name>QWEST TV</display-name></channel>
+<channel id="KE1#RAI.International.ke"><display-name>RAI International</display-name></channel>
+<channel id="KE1#Ramogi.TV.ke"><display-name>Ramogi TV</display-name></channel>
+<channel id="KE1#Real.Time.ke"><display-name>Real Time</display-name></channel>
+<channel id="KE1#ROK.2.ke"><display-name>ROK 2</display-name></channel>
+<channel id="KE1#ROK.ke"><display-name>ROK</display-name></channel>
+<channel id="KE1#RTL.9.ke"><display-name>RTL 9</display-name></channel>
+<channel id="KE1#RTPi.(P).ke"><display-name>RTPi (P)</display-name></channel>
+<channel id="KE1#Rwanda.TV.ke"><display-name>Rwanda TV</display-name></channel>
+<channel id="KE1#SABC.News.ke"><display-name>SABC News</display-name></channel>
+<channel id="KE1#Safari.TV.ke"><display-name>Safari TV</display-name></channel>
+<channel id="KE1#SBN.ke"><display-name>SBN</display-name></channel>
+<channel id="KE1#SET.Asia.ke"><display-name>SET Asia</display-name></channel>
+<channel id="KE1#SET.Max.ke"><display-name>SET Max</display-name></channel>
+<channel id="KE1#Sky.News.ke"><display-name>Sky News</display-name></channel>
+<channel id="KE1#SMART.TV.ke"><display-name>SMART TV</display-name></channel>
+<channel id="KE1#Sound.City.ke"><display-name>Sound City</display-name></channel>
+<channel id="KE1#Spice.TV.ke"><display-name>Spice TV</display-name></channel>
+<channel id="KE1#SS.Action.ke"><display-name>SS Action</display-name></channel>
+<channel id="KE1#SS.Africa.2.ke"><display-name>SS Africa 2</display-name></channel>
+<channel id="KE1#SS.Africa.ke"><display-name>SS Africa</display-name></channel>
+<channel id="KE1#SS.Blitz.Africa.ke"><display-name>SS Blitz Africa</display-name></channel>
+<channel id="KE1#SS.Events.ke"><display-name>SS Events</display-name></channel>
+<channel id="KE1#SS.Football.ke"><display-name>SS Football</display-name></channel>
+<channel id="KE1#SS.Football.Plus.Africa.ke"><display-name>SS Football Plus Africa</display-name></channel>
+<channel id="KE1#SS.Grandstand.Africa.ke"><display-name>SS Grandstand Africa</display-name></channel>
+<channel id="KE1#SS.La.Liga.ke"><display-name>SS La Liga</display-name></channel>
+<channel id="KE1#SS.Maximo.1.(P).ke"><display-name>SS Maximo 1 (P)</display-name></channel>
+<channel id="KE1#SS.Maximo.2.(P).ke"><display-name>SS Maximo 2 (P)</display-name></channel>
+<channel id="KE1#SS.Motorsport.Africa.ke"><display-name>SS Motorsport Africa</display-name></channel>
+<channel id="KE1#SS.Premier.League.ke"><display-name>SS Premier League</display-name></channel>
+<channel id="KE1#SS.Tennis.Africa.ke"><display-name>SS Tennis Africa</display-name></channel>
+<channel id="KE1#SS.Variety.1.ke"><display-name>SS Variety 1</display-name></channel>
+<channel id="KE1#Star.Life.ke"><display-name>Star Life</display-name></channel>
+<channel id="KE1#Studio.Universal.HD.ke"><display-name>Studio Universal HD</display-name></channel>
+<channel id="KE1#TBC1.ke"><display-name>TBC1</display-name></channel>
+<channel id="KE1#TBN.ke"><display-name>TBN</display-name></channel>
+<channel id="KE1#Teen.Africa.TV.ke"><display-name>Teen Africa TV</display-name></channel>
+<channel id="KE1#TeleMundo.ke"><display-name>TeleMundo</display-name></channel>
+<channel id="KE1#Teletoon+.ke"><display-name>Teletoon+</display-name></channel>
+<channel id="KE1#Televista.ke"><display-name>Televista</display-name></channel>
+<channel id="KE1#TF1.ke"><display-name>TF1</display-name></channel>
+<channel id="KE1#The.Wedding.Channel.ke"><display-name>The Wedding Channel</display-name></channel>
+<channel id="KE1#TLC.HD.ke"><display-name>TLC HD</display-name></channel>
+<channel id="KE1#TLNovelas.ke"><display-name>TLNovelas</display-name></channel>
+<channel id="KE1#TNT.Africa.ke"><display-name>TNT Africa</display-name></channel>
+<channel id="KE1#Trace.Brasil.ke"><display-name>Trace Brasil</display-name></channel>
+<channel id="KE1#Trace.Gospel.ke"><display-name>Trace Gospel</display-name></channel>
+<channel id="KE1#Trace.Jama.ke"><display-name>Trace Jama</display-name></channel>
+<channel id="KE1#TRACE.Muzika.ke"><display-name>TRACE Muzika</display-name></channel>
+<channel id="KE1#TRACE.Mziki.ke"><display-name>TRACE Mziki</display-name></channel>
+<channel id="KE1#TRACE.Naija.ke"><display-name>TRACE Naija</display-name></channel>
+<channel id="KE1#Trybe.ke"><display-name>Trybe</display-name></channel>
+<channel id="KE1#TV5.Monde.Afrique.ke"><display-name>TV5 Monde Afrique</display-name></channel>
+<channel id="KE1#TV47.ke"><display-name>TV47</display-name></channel>
+<channel id="KE1#TV.Mundial.(P).ke"><display-name>TV Mundial (P)</display-name></channel>
+<channel id="KE1#Ugandan.Broadcasting.Corporation.ke"><display-name>Ugandan Broadcasting Corporation</display-name></channel>
+<channel id="KE1#Universal.TV.ke"><display-name>Universal TV</display-name></channel>
+<channel id="KE1#Wasafi.TV.ke"><display-name>Wasafi TV</display-name></channel>
+<channel id="KE1#Weru.TV.ke"><display-name>Weru TV</display-name></channel>
+<channel id="KE1#WildEarth.ke"><display-name>WildEarth</display-name></channel>
+<channel id="KE1#WWE.ke"><display-name>WWE</display-name></channel>
+<channel id="KE1#Y254.ke"><display-name>Y254</display-name></channel>
+<channel id="KE1#ZBC.TV.ke"><display-name>ZBC TV</display-name></channel>
+<channel id="KE1#Zee.World.ke"><display-name>Zee World</display-name></channel>
+<channel id="KE1#ZeeTV.ke"><display-name>ZeeTV</display-name></channel>
+<channel id="KR1#9colors.kr"><display-name>9colors</display-name></channel>
+<channel id="KR1#Airrang.UN.kr"><display-name>Airrang UN</display-name></channel>
+<channel id="KR1#Animal.Planet.kr"><display-name>Animal Planet</display-name></channel>
+<channel id="KR1#ARANG.ARANG.(Arirang.TV,.Korea.World.Network).kr"><display-name>ARANG ARANG (Arirang TV, Korea World Network)</display-name></channel>
+<channel id="KR1#Arirang.Korea.kr"><display-name>Arirang Korea</display-name></channel>
+<channel id="KR1#Arirang.Korean.TV.(ARANG).kr"><display-name>Arirang Korean TV (ARANG)</display-name></channel>
+<channel id="KR1#Arirang.Radio.kr"><display-name>Arirang Radio</display-name></channel>
+<channel id="KR1#Arirang.World.kr"><display-name>Arirang World</display-name></channel>
+<channel id="KR1#Asia.N.kr"><display-name>Asia N</display-name></channel>
+<channel id="KR1#ASIA.UHD.kr"><display-name>ASIA UHD</display-name></channel>
+<channel id="KR1#AsiaM.kr"><display-name>AsiaM</display-name></channel>
+<channel id="KR1#AXN.kr"><display-name>AXN</display-name></channel>
+<channel id="KR1#BBC.Earth.kr"><display-name>BBC Earth</display-name></channel>
+<channel id="KR1#BBC.News.kr"><display-name>BBC News</display-name></channel>
+<channel id="KR1#BBC.World.Service.kr"><display-name>BBC World Service</display-name></channel>
+<channel id="KR1#BBS.불교방송.kr"><display-name>BBS 불교방송</display-name></channel>
+<channel id="KR1#BilliardsTV.kr"><display-name>BilliardsTV</display-name></channel>
+<channel id="KR1#BTN불교TV.kr"><display-name>BTN불교TV</display-name></channel>
+<channel id="KR1#C.Music.TV.kr"><display-name>C Music TV</display-name></channel>
+<channel id="KR1#CBSTV.kr"><display-name>CBSTV</display-name></channel>
+<channel id="KR1#CCTV4.kr"><display-name>CCTV4</display-name></channel>
+<channel id="KR1#CGTN.kr"><display-name>CGTN</display-name></channel>
+<channel id="KR1#Ch.NOW.kr"><display-name>Ch.NOW</display-name></channel>
+<channel id="KR1#CH.U.kr"><display-name>CH.U</display-name></channel>
+<channel id="KR1#CINEF.kr"><display-name>CINEF</display-name></channel>
+<channel id="KR1#CJ.온스타일.kr"><display-name>CJ 온스타일</display-name></channel>
+<channel id="KR1#CJ.온스타일플러스.kr"><display-name>CJ 온스타일플러스</display-name></channel>
+<channel id="KR1#CMCTV.kr"><display-name>CMCTV</display-name></channel>
+<channel id="KR1#CNN.International.kr"><display-name>CNN International</display-name></channel>
+<channel id="KR1#CNTV.kr"><display-name>CNTV</display-name></channel>
+<channel id="KR1#CTS기독교TV.kr"><display-name>CTS기독교TV</display-name></channel>
+<channel id="KR1#Discovery.Science.kr"><display-name>Discovery Science</display-name></channel>
+<channel id="KR1#Dramax.kr"><display-name>Dramax</display-name></channel>
+<channel id="KR1#EBS.English.kr"><display-name>EBS English</display-name></channel>
+<channel id="KR1#EBS.kr"><display-name>EBS</display-name></channel>
+<channel id="KR1#EBS플러스1.kr"><display-name>EBS플러스1</display-name></channel>
+<channel id="KR1#EBS플러스2.kr"><display-name>EBS플러스2</display-name></channel>
+<channel id="KR1#Edge.TV.kr"><display-name>Edge TV</display-name></channel>
+<channel id="KR1#ENA.DRAMA.kr"><display-name>ENA DRAMA</display-name></channel>
+<channel id="KR1#ENA.kr"><display-name>ENA</display-name></channel>
+<channel id="KR1#ENA.PLAY.kr"><display-name>ENA PLAY</display-name></channel>
+<channel id="KR1#ENA.STORY.kr"><display-name>ENA STORY</display-name></channel>
+<channel id="KR1#Eurosport.kr"><display-name>Eurosport</display-name></channel>
+<channel id="KR1#E채널.kr"><display-name>E채널</display-name></channel>
+<channel id="KR1#FIGHT.SPORTS.kr"><display-name>FIGHT SPORTS</display-name></channel>
+<channel id="KR1#FISHING.TV.kr"><display-name>FISHING TV</display-name></channel>
+<channel id="KR1#Fox.news.kr"><display-name>Fox news</display-name></channel>
+<channel id="KR1#FTV.kr"><display-name>FTV</display-name></channel>
+<channel id="KR1#FUN.TV.kr"><display-name>FUN TV</display-name></channel>
+<channel id="KR1#Golf&amp;PBA.kr"><display-name>Golf&amp;amp;PBA</display-name></channel>
+<channel id="KR1#GOODTV.kr"><display-name>GOODTV</display-name></channel>
+<channel id="KR1#GS.MY.SHOP.kr"><display-name>GS MY SHOP</display-name></channel>
+<channel id="KR1#GS.SHOP.kr"><display-name>GS SHOP</display-name></channel>
+<channel id="KR1#GTV.kr"><display-name>GTV</display-name></channel>
+<channel id="KR1#HQ+.kr"><display-name>HQ+</display-name></channel>
+<channel id="KR1#I.net.kr"><display-name>I.net</display-name></channel>
+<channel id="KR1#IB.Sports.kr"><display-name>IB Sports</display-name></channel>
+<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">NEW DAY AT ARIRANG</title></programme>
+<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">NEWS GENERATION [L]</title></programme>
+<programme start="20261113020000 +0000" stop="20261113021500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113021500 +0000" stop="20261113023000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113023000 +0000" stop="20261113025000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-ARTS ARTISTS</title></programme>
+<programme start="20261113025000 +0000" stop="20261113030000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">HERITAGE WALKS WITH LITTLE FRIEND</title></programme>
+<programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG NEWS 12:00</title></programme>
+<programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PERFORMARTS RELOAD:NTOK</title></programme>
+<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE DIVE [L]</title></programme>
+<programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">NEWS GENERATION [R]</title></programme>
+<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113063000 +0000" stop="20261113065000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113065000 +0000" stop="20261113070000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">SMARTBIZ ACCELERATORS 2</title></programme>
+<programme start="20261113070000 +0000" stop="20261113072000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113072000 +0000" stop="20261113073000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">THE DAILY REPORT</title></programme>
+<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PRESS PERSPECTIVE [L]</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PERFORMARTS RELOAD:NTOK</title></programme>
+<programme start="20261113100000 +0000" stop="20261113101500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113101500 +0000" stop="20261113103000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">NEWSCENTER</title></programme>
+<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WITHIN THE FRAME [R]</title></programme>
+<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE DIVE [R]</title></programme>
+<programme start="20261113123000 +0000" stop="20261113125000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113125000 +0000" stop="20261113130000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">SMARTBIZ ACCELERATORS 2</title></programme>
+<programme start="20261113130000 +0000" stop="20261113132000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113132000 +0000" stop="20261113133000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PRESS PERSPECTIVE [R]</title></programme>
+<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title></programme>
+<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">NEWS GENERATION [R]</title></programme>
+<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261113160000 +0000" stop="20261113161500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113161500 +0000" stop="20261113163000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113163000 +0000" stop="20261113165000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113165000 +0000" stop="20261113170000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">HERITAGE WALKS WITH LITTLE FRIEND</title></programme>
+<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PERFORMARTS RELOAD:NTOK</title></programme>
+<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE DIVE [R]</title></programme>
+<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WITHIN THE FRAME [R]</title></programme>
+<programme start="20261113193000 +0000" stop="20261113195000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113195000 +0000" stop="20261113200000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">THE LIVING SEA OF JEJU</title></programme>
+<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PERFORMARTS RELOAD:NTOK</title></programme>
+<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114060000 +0000" stop="20261114063000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261114070000 +0000" stop="20261114073000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114080000 +0000" stop="20261114081500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261114081500 +0000" stop="20261114083000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114083000 +0000" stop="20261114084500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261114084500 +0000" stop="20261114090000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-STAGE</title></programme>
+<programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261114093000 +0000" stop="20261114103000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">GUGAK THE MUSIC OF KOREA</title></programme>
+<programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title></programme>
+<programme start="20261114130000 +0000" stop="20261114135000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261114135000 +0000" stop="20261114140000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">THE GRAND HERITAGE FOUR SEASONS</title></programme>
+<programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114143000 +0000" stop="20261114144500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114144500 +0000" stop="20261114150000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261114170000 +0000" stop="20261114171500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261114171500 +0000" stop="20261114173000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114173000 +0000" stop="20261114174500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261114174500 +0000" stop="20261114180000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-STAGE</title></programme>
+<programme start="20261114180000 +0000" stop="20261114183000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114183000 +0000" stop="20261114190000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title></programme>
+<programme start="20261114190000 +0000" stop="20261114193000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261114200000 +0000" stop="20261114205000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261114205000 +0000" stop="20261114210000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">THE GRAND HERITAGE FOUR SEASONS</title></programme>
+<programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261114213000 +0000" stop="20261114214500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114214500 +0000" stop="20261114220000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114220000 +0000" stop="20261114223000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261115010000 +0000" stop="20261115011500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261115011500 +0000" stop="20261115013000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261115013000 +0000" stop="20261115014500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261115014500 +0000" stop="20261115020000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-STAGE</title></programme>
+<programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">GUGAK THE MUSIC OF KOREA</title></programme>
+<programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115060000 +0000" stop="20261115065000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261115065000 +0000" stop="20261115070000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">THE GRAND HERITAGE FOUR SEASONS</title></programme>
+<programme start="20261115070000 +0000" stop="20261115071500 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261115071500 +0000" stop="20261115073000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">TALK ROOM</title></programme>
+<programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WITH SCIENCE, WE LIVE</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">GUGAK THE MUSIC OF KOREA</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">WITH SCIENCE, WE LIVE</title></programme>
+<programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261115180000 +0000" stop="20261115183000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">VIBE IN ACTION: K-INITIATIVE</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">TALK ROOM</title></programme>
+<programme start="20261115223000 +0000" stop="20261115225000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-ARTS ARTISTS</title></programme>
+<programme start="20261115225000 +0000" stop="20261115230000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">HERITAGE WALKS WITH LITTLE FRIEND</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115233000 +0000" stop="20261115235000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261115235000 +0000" stop="20261116000000 +0000" channel="KR1#Airrang.UN.kr"><title lang="ko">K-CHAT: TRAVEL IN KOREA</title></programme>
+<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">NEW DAY AT ARIRANG</title></programme>
+<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">NEWS GENERATION [L]</title></programme>
+<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">CULTURE CRUNCH [R]</title></programme>
+<programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG NEWS 12:00</title></programme>
+<programme start="20261113033000 +0000" stop="20261113035000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113035000 +0000" stop="20261113050000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SHOW K-POP [R]</title></programme>
+<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE DIVE [L]</title></programme>
+<programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">NEWS GENERATION [R]</title></programme>
+<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113063000 +0000" stop="20261113065000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113065000 +0000" stop="20261113070000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SMARTBIZ ACCELERATORS 2</title></programme>
+<programme start="20261113070000 +0000" stop="20261113072000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113072000 +0000" stop="20261113073000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE DAILY REPORT</title></programme>
+<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PRESS PERSPECTIVE [L]</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SIMPLY K-POP GATEWAY TO KOREA</title></programme>
+<programme start="20261113100000 +0000" stop="20261113101500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113101500 +0000" stop="20261113103000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">NEWSCENTER</title></programme>
+<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">WITHIN THE FRAME [R]</title></programme>
+<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE DIVE [R]</title></programme>
+<programme start="20261113123000 +0000" stop="20261113125000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113125000 +0000" stop="20261113130000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SMARTBIZ ACCELERATORS 2</title></programme>
+<programme start="20261113130000 +0000" stop="20261113132000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113132000 +0000" stop="20261113133000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PRESS PERSPECTIVE [R]</title></programme>
+<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title></programme>
+<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">NEWS GENERATION [R]</title></programme>
+<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">DISCOVER WORLD</title></programme>
+<programme start="20261113163000 +0000" stop="20261113165000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113165000 +0000" stop="20261113170000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">HERITAGE WALKS WITH LITTLE FRIEND</title></programme>
+<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE DIVE [R]</title></programme>
+<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">WITHIN THE FRAME [R]</title></programme>
+<programme start="20261113193000 +0000" stop="20261113195000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113195000 +0000" stop="20261113200000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE LIVING SEA OF JEJU</title></programme>
+<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SIMPLY K-POP GATEWAY TO KOREA</title></programme>
+<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114060000 +0000" stop="20261114071000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SHOW K-POP [R]</title></programme>
+<programme start="20261114071000 +0000" stop="20261114073000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114080000 +0000" stop="20261114081500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261114081500 +0000" stop="20261114083000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114083000 +0000" stop="20261114084500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261114084500 +0000" stop="20261114090000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-STAGE</title></programme>
+<programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261114093000 +0000" stop="20261114103000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SIMPLY K-POP 2026</title></programme>
+<programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261114130000 +0000" stop="20261114135000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261114135000 +0000" stop="20261114140000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114143000 +0000" stop="20261114144500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114144500 +0000" stop="20261114150000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261114170000 +0000" stop="20261114171500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261114171500 +0000" stop="20261114173000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114173000 +0000" stop="20261114174500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261114174500 +0000" stop="20261114180000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-STAGE</title></programme>
+<programme start="20261114180000 +0000" stop="20261114183000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114183000 +0000" stop="20261114190000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title></programme>
+<programme start="20261114190000 +0000" stop="20261114193000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261114200000 +0000" stop="20261114205000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261114205000 +0000" stop="20261114210000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261114213000 +0000" stop="20261114214500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114214500 +0000" stop="20261114220000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114220000 +0000" stop="20261114223000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115010000 +0000" stop="20261115011500 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261115011500 +0000" stop="20261115013000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261115013000 +0000" stop="20261115015000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261115015000 +0000" stop="20261115030000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SHOW K-POP [R]</title></programme>
+<programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115060000 +0000" stop="20261115065000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261115065000 +0000" stop="20261115070000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SIMPLY K-POP 2026</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">GUGAK THE MUSIC OF KOREA</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">SIMPLY K-POP 2026</title></programme>
+<programme start="20261115180000 +0000" stop="20261115183000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">TALK ROOM</title></programme>
+<programme start="20261115223000 +0000" stop="20261115225000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-ARTS ARTISTS</title></programme>
+<programme start="20261115225000 +0000" stop="20261115230000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">HERITAGE WALKS WITH LITTLE FRIEND</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115233000 +0000" stop="20261115235000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261115235000 +0000" stop="20261116000000 +0000" channel="KR1#Arirang.Korea.kr"><title lang="ko">K-CHAT: TRAVEL IN KOREA</title></programme>
+<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">NEW DAY AT ARIRANG</title></programme>
+<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">NEWS GENERATION [L]</title></programme>
+<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">CULTURE CRUNCH [R]</title></programme>
+<programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG NEWS 12:00</title></programme>
+<programme start="20261113033000 +0000" stop="20261113035000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113035000 +0000" stop="20261113050000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SHOW K-POP [R]</title></programme>
+<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE DIVE [L]</title></programme>
+<programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">NEWS GENERATION [R]</title></programme>
+<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113063000 +0000" stop="20261113065000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113065000 +0000" stop="20261113070000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SMARTBIZ ACCELERATORS 2</title></programme>
+<programme start="20261113070000 +0000" stop="20261113072000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113072000 +0000" stop="20261113073000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE DAILY REPORT</title></programme>
+<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">PRESS PERSPECTIVE [L]</title></programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SIMPLY K-POP GATEWAY TO KOREA</title></programme>
+<programme start="20261113100000 +0000" stop="20261113101500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113101500 +0000" stop="20261113103000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">NEWSCENTER</title></programme>
+<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">WITHIN THE FRAME [R]</title></programme>
+<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE DIVE [R]</title></programme>
+<programme start="20261113123000 +0000" stop="20261113125000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113125000 +0000" stop="20261113130000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SMARTBIZ ACCELERATORS 2</title></programme>
+<programme start="20261113130000 +0000" stop="20261113132000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-SPORTS BEYOND</title></programme>
+<programme start="20261113132000 +0000" stop="20261113133000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">PRESS PERSPECTIVE [R]</title></programme>
+<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title></programme>
+<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">NEWS GENERATION [R]</title></programme>
+<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-STAGE PAN</title></programme>
+<programme start="20261113163000 +0000" stop="20261113165000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">DRAWING DIARY</title></programme>
+<programme start="20261113165000 +0000" stop="20261113170000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE DIVE [R]</title></programme>
+<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">WITHIN THE FRAME [R]</title></programme>
+<programme start="20261113193000 +0000" stop="20261113195000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261113195000 +0000" stop="20261113200000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE LIVING SEA OF JEJU</title></programme>
+<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SIMPLY K-POP GATEWAY TO KOREA</title></programme>
+<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114060000 +0000" stop="20261114071000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SHOW K-POP [R]</title></programme>
+<programme start="20261114071000 +0000" stop="20261114073000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">EXPLORING KOREAN LITERATURE C</title></programme>
+<programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114080000 +0000" stop="20261114081500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261114081500 +0000" stop="20261114083000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114083000 +0000" stop="20261114084500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261114084500 +0000" stop="20261114090000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-STAGE</title></programme>
+<programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261114093000 +0000" stop="20261114103000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SIMPLY K-POP 2026</title></programme>
+<programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261114130000 +0000" stop="20261114135000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261114135000 +0000" stop="20261114140000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114143000 +0000" stop="20261114144500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114144500 +0000" stop="20261114150000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">REWIND IT: I&amp;apos;M LIVE</title></programme>
+<programme start="20261114163000 +0000" stop="20261114165000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE GRAND HERITAGE K-ASMR(20)</title></programme>
+<programme start="20261114165000 +0000" stop="20261114170000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261114170000 +0000" stop="20261114171500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261114171500 +0000" stop="20261114173000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114173000 +0000" stop="20261114174500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261114174500 +0000" stop="20261114180000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-STAGE</title></programme>
+<programme start="20261114180000 +0000" stop="20261114183000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114183000 +0000" stop="20261114190000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MYSTORY(THE GRAND HERITAGE:MYSTERY x HISTORY)</title></programme>
+<programme start="20261114190000 +0000" stop="20261114193000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SMARTBIZ ACCELERATORS</title></programme>
+<programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261114200000 +0000" stop="20261114205000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261114205000 +0000" stop="20261114210000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261114213000 +0000" stop="20261114214500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114214500 +0000" stop="20261114220000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261114220000 +0000" stop="20261114223000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115010000 +0000" stop="20261115011500 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261115011500 +0000" stop="20261115013000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-PEOPLE</title></programme>
+<programme start="20261115013000 +0000" stop="20261115015000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-MARKET</title></programme>
+<programme start="20261115015000 +0000" stop="20261115030000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SHOW K-POP [R]</title></programme>
+<programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115060000 +0000" stop="20261115065000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">PERFORMARTS RELOAD</title></programme>
+<programme start="20261115065000 +0000" stop="20261115070000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">FISHING IN THE MUSEUM</title></programme>
+<programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">DIPLOMAT&amp;apos;S ARCHIVE: HIDDEN STORIES</title></programme>
+<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">WEEKLY NEWS HIGHLIGHTS</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">TRIP IN KOREA</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">BEAUTY ON AND OFF</title></programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SIMPLY K-POP 2026</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">GUGAK THE MUSIC OF KOREA</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">COUNTRYSIDE ESCAPE</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">GUGAK THE MUSIC OF KOREA</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">SIMPLY K-POP 2026</title></programme>
+<programme start="20261115180000 +0000" stop="20261115183000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">THE MAKING OF K-POP</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">POCKET SOUNDTRACK</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">PREMIUM COLLECTION</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">ARIRANG SPECIAL</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">I&amp;apos;M LIVE</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">TALK ROOM</title></programme>
+<programme start="20261115223000 +0000" stop="20261115225000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-ARTS ARTISTS</title></programme>
+<programme start="20261115225000 +0000" stop="20261115230000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">HERITAGE WALKS WITH LITTLE FRIEND</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">MOO NO PLAN</title></programme>
+<programme start="20261115233000 +0000" stop="20261115235000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CULTURE MINUTES: K-NOW</title></programme>
+<programme start="20261115235000 +0000" stop="20261116000000 +0000" channel="KR1#Arirang.World.kr"><title lang="ko">K-CHAT: TRAVEL IN KOREA</title></programme>
+</tv>
