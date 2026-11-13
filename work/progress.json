@@ -1464,7 +1464,8 @@
     "plex.tv@5",
     "pluto.tv@5",
     "sat.tv@5",
-    "sky.com@5"
+    "sky.com@5",
+    "streamingtvguides.com@5"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
