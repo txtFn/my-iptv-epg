@@ -1924,7 +1924,8 @@
     "sat.tv@100",
     "epgshare01.online@101",
     "sat.tv@101",
-    "epgshare01.online@102"
+    "epgshare01.online@102",
+    "sat.tv@102"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
