@@ -1462,7 +1462,8 @@
     "mi.tv@5",
     "ontvtonight.com@5",
     "plex.tv@5",
-    "pluto.tv@5"
+    "pluto.tv@5",
+    "sat.tv@5"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
