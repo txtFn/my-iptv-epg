@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261114">
 <channel id="MiMovilTV.uy@SD"><display-name>Mi Móvil TV</display-name><icon src="https://i.imgur.com/5yJ7CY7.png"/></channel>
 <channel id="Canal12Melo.uy@SD"><display-name>Canal 12 Melo</display-name><icon src="https://i.imgur.com/xwLWoSC.png"/></channel>
 <channel id="Canal4Chuy.uy@SD"><display-name>Canal 4 Chuy</display-name><icon src="https://i.imgur.com/oLKMwgm.png"/></channel>
@@ -53,102 +53,6 @@
 <channel id="MIEM.uy@SD"><display-name>MIEM</display-name><icon src="https://i.imgur.com/4MEN4EI.png"/></channel>
 <channel id="2stzy"><display-name>Inti TV</display-name></channel>
 <channel id="22s13"><display-name>T5 SATELITAL</display-name></channel>
-<programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - EN CONTEXTO</title></programme>
-<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - CIENCIA Y TECNOLOGIA - EN 5 MINUTOS</title></programme>
-<programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="2s68w"><title lang="es">EL DEBATE</title></programme>
-<programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA</title></programme>
-<programme start="20261112060000 +0000" stop="20261112063000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - LOS OBSERVADORES</title></programme>
-<programme start="20261112063000 +0000" stop="20261112070000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES</title></programme>
-<programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL DEBATE</title></programme>
-<programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="2s68w"><title lang="es">EN FOCO</title></programme>
-<programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS - HISTORIA</title></programme>
-<programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LA ENTREVISTA - EN 5 MINUTOS</title></programme>
-<programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CIENCIA Y TECNOLOGIA - EL EXPRESO DE ORIENTE</title></programme>
-<programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES - EN FOCO</title></programme>
-<programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL DEBATE</title></programme>
-<programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="2s68w"><title lang="es">ELLAS HOY</title></programme>
-<programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MEDIO AMBIENTE - ASI ES ASIA</title></programme>
-<programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LA ENTREVISTA - EN 5 MINUTOS</title></programme>
-<programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS - EN FOCO</title></programme>
-<programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="2s68w"><title lang="es">NOTICIAS - BOLETO DE VUELTA</title></programme>
-<programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES - EN FOCO</title></programme>
-<programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MIGRANTES - LOS OBSERVADORES - EN FOCO</title></programme>
-<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CORRESPONSALES - CIENCIA Y TECNOLOGIA</title></programme>
-<programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LA ENTREVISTA - EN FOCO</title></programme>
-<programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA - EN FOCO</title></programme>
-<programme start="20261112153000 +0000" stop="20261112160000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CIENCIA Y TECNOLOGIA - CARRUSEL DE LAS ARTES</title></programme>
-<programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO</title></programme>
-<programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA</title></programme>
-<programme start="20261112180000 +0000" stop="20261112183000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MIGRANTES - EN FOCO</title></programme>
-<programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CORRESPONSALES</title></programme>
-<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REVISTA DE PRENSA</title></programme>
-<programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="2s68w"><title lang="es">EL DEBATE</title></programme>
-<programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="2s68w"><title lang="es">NOTICIAS - INVITADO DEL DIA</title></programme>
-<programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LA ENTREVISTA</title></programme>
-<programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO</title></programme>
-<programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CIENCIA Y TECNOLOGIA</title></programme>
-<programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA</title></programme>
-<programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ELLAS HOY</title></programme>
-<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - INVITADO DEL DIA</title></programme>
-<programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LA ENTREVISTA</title></programme>
-<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL EXPRESO DE ORIENTE</title></programme>
-<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CORRESPONSALES</title></programme>
-<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES</title></programme>
-<programme start="20261113023000 +0000" stop="20261113025900 +0000" channel="2s68w"><title lang="es">NOTICIAS - MEDIO AMBIENTE - EN FOCO</title></programme>
-<programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - EN CONTEXTO</title></programme>
-<programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - CULTURA - LOS OBSERVADORES</title></programme>
-<programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="2s68w"><title lang="es">EL DEBATE</title></programme>
-<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="2s68w"><title lang="es">NOTICIAS - VENTANA A EUROPA</title></programme>
-<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - ENLACE</title></programme>
-<programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS</title></programme>
-<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL DEBATE</title></programme>
-<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="2s68w"><title lang="es">EN FOCO</title></programme>
-<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LOS OBSERVADORES - CORRESPONSALES</title></programme>
-<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="2s68w"><title lang="es">NOTICIAS - BOLETO DE VUELTA</title></programme>
-<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CULTURA - VENTANA A EUROPA</title></programme>
-<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MIGRANTES - EN FOCO - EN 5 MINUTOS</title></programme>
-<programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="2s68w"><title lang="es">EL DEBATE - EL EXPRESO DE ORIENTE</title></programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CIENCIA Y TECNOLOGIA - AFRICA 7 DIAS</title></programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MEDIO AMBIENTE - ELLAS HOY</title></programme>
-<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CORRESPONSALES - ENLACE</title></programme>
-<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA - EN FOCO</title></programme>
-<programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS - EN FOCO</title></programme>
-<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS - CIENCIA Y TECNOLOGIA</title></programme>
-<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LA ENTREVISTA - HISTORIA</title></programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AFRICA 7 DIAS - EN 5 MINUTOS</title></programme>
-<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="2s68w"><title lang="es">NOTICIAS - VENTANA A EUROPA - EN FOCO</title></programme>
-<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CULTURA - CORRESPONSALES</title></programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO</title></programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="2s68w"><title lang="es">NOTICIAS - VENTANA A EUROPA</title></programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CIENCIA Y TECNOLOGIA - EN FOCO</title></programme>
-<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AFRICA 7 DIAS</title></programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REVISTA DE PRENSA</title></programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="2s68w"><title lang="es">EL DEBATE</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="2s68w"><title lang="es">NOTICIAS - INVITADO DEL DIA</title></programme>
-<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS</title></programme>
-<programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO</title></programme>
-<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
-<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CULTURA</title></programme>
-<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="2s68w"><title lang="es">NOTICIAS - VENTANA A EUROPA</title></programme>
-<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CORRESPONSALES</title></programme>
-<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - INVITADO DEL DIA</title></programme>
-<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ELLAS HOY</title></programme>
-<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA</title></programme>
-<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AFRICA 7 DIAS</title></programme>
-<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MIGRANTES - EN 5 MINUTOS</title></programme>
-<programme start="20261114023000 +0000" stop="20261114025900 +0000" channel="2s68w"><title lang="es">NOTICIAS - HISTORIA - EN FOCO</title></programme>
 <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - EN CONTEXTO</title></programme>
 <programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - DESINFORMANDO - ENLACE</title></programme>
 <programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
@@ -196,61 +100,99 @@
 <programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="2s68w"><title lang="es">NOTICIAS - VENTANA A EUROPA</title></programme>
 <programme start="20261115020000 +0000" stop="20261115023000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AFRICA 7 DIAS</title></programme>
 <programme start="20261115023000 +0000" stop="20261115025900 +0000" channel="2s68w"><title lang="es">NOTICIAS - LOS OBSERVADORES - ENLACE</title></programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="22s13"><title lang="es">Desde las Gateras</title></programme>
-<programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="22s13"><title lang="es">AMANECER RURAL</title></programme>
-<programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="22s13"><title lang="es">BUEN DIA NOTICIAS</title></programme>
-<programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="22s13"><title lang="es">BUEN DIA NOTICIAS</title></programme>
-<programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="22s13"><title lang="es">EL PATO TV</title></programme>
-<programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="22s13"><title lang="es">CHAMIGO TEAM</title></programme>
-<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="22s13"><title lang="es">MARIA DELIRIO</title></programme>
-<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="22s13"><title lang="es">MARIA DELIRIO</title></programme>
-<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="22s13"><title lang="es">MUNDO EMPRESA</title></programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="22s13"><title lang="es">PRONOSTICO RESERVADO</title></programme>
-<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="22s13"><title lang="es">RELATO DEL VIAJERO</title></programme>
-<programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="22s13"><title lang="es">PESCA VISION</title></programme>
-<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="22s13"><title lang="es">EL PLAN PERFECTO</title></programme>
-<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="22s13"><title lang="es">AMANECER RURAL</title></programme>
-<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="22s13"><title lang="es">BUEN DIA NOTICIAS</title></programme>
-<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="22s13"><title lang="es">BUEN DIA NOTICIAS</title></programme>
-<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="22s13"><title lang="es">SENTI ARGENTINA</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="22s13"><title lang="es">PARAISO NATURAL</title></programme>
-<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="22s13"><title lang="es">MARIA DELIRIO</title></programme>
-<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="22s13"><title lang="es">MARIA DELIRIO</title></programme>
-<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
-<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="22s13"><title lang="es">ANA PAULA TV</title></programme>
-<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="22s13"><title lang="es">ME GUSTA TV</title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
-<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="22s13"><title lang="es">PRONOSTICO RESERVADO</title></programme>
-<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="22s13"><title lang="es">A TODA COSTA</title></programme>
-<programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="22s13"><title lang="es">EL VIAJERO</title></programme>
+<programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - EN FOCO - CULTURA</title></programme>
+<programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ECONOMIA</title></programme>
+<programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="2s68w"><title lang="es">EL DEBATE</title></programme>
+<programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ECONOMIA - DESINFORMANDO</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="2s68w"><title lang="es">NOTICIAS - BOLETO DE VUELTA</title></programme>
+<programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - LOS OBSERVADORES</title></programme>
+<programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AQUI AMERICA</title></programme>
+<programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - EL DEBATE</title></programme>
+<programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="2s68w"><title lang="es">HISTORIA</title></programme>
+<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS - CULTURA</title></programme>
+<programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES - EN FOCO</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="2s68w"><title lang="es">NOTICIAS - BOLETO DE VUELTA</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ELLAS HOY - CULTURA</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL DEBATE</title></programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="2s68w"><title lang="es">AQUI AMERICA</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN 5 MINUTOS - CORRESPONSALES</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS - EN FOCO</title></programme>
+<programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DESINFORMANDO - EN PRIMERA PLANA</title></programme>
+<programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN PRIMERA PLANA - EN FOCO</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AFRICA 7 DIAS - ENLACE</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA - CIENCIA Y TECNOLOGIA</title></programme>
+<programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ELLAS HOY - EN FOCO</title></programme>
+<programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES - EN FOCO</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="2s68w"><title lang="es">NOTICIAS - BOLETO DE VUELTA</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL EXPRESO DE ORIENTE - EN 5 MINUTOS</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - EN PRIMERA PLANA</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN PRIMERA PLANA - CULTURA</title></programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MEDIO AMBIENTE - EN FOCO</title></programme>
+<programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS</title></programme>
+<programme start="20261115180000 +0000" stop="20261115183000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DESINFORMANDO - ECONOMIA</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL EXPRESO DE ORIENTE</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CIENCIA Y TECNOLOGIA</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="2s68w"><title lang="es">EL DEBATE</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - ENLACE</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AFRICA 7 DIAS</title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ASI ES ASIA</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CORRESPONSALES</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS</title></programme>
+<programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AQUI AMERICA</title></programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN PRIMERA PLANA</title></programme>
+<programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="2s68w"><title lang="es">NOTICIAS - LOS OBSERVADORES - EN FOCO</title></programme>
+<programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL EXPRESO DE ORIENTE</title></programme>
+<programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CULTURA - EN FOCO</title></programme>
+<programme start="20261116013000 +0000" stop="20261116020000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES</title></programme>
+<programme start="20261116020000 +0000" stop="20261116023000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS</title></programme>
+<programme start="20261116023000 +0000" stop="20261116025900 +0000" channel="2s68w"><title lang="es">NOTICIAS - MIGRANTES - EN 5 MINUTOS</title></programme>
+<programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - EN FOCO - CIENCIA Y TECNOLOGIA</title></programme>
+<programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="2s68w"><title lang="es">NOTICIAS - BOLETO DE VUELTA</title></programme>
+<programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DESINFORMANDO</title></programme>
+<programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="2s68w"><title lang="es">UNA SEMANA EN EL MUNDO</title></programme>
+<programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ECONOMIA - MEDIO AMBIENTE</title></programme>
+<programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS</title></programme>
+<programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DEPORTES - DESINFORMANDO</title></programme>
+<programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL EXPRESO DE ORIENTE</title></programme>
+<programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - UNA SEMANA EN EL MUNDO</title></programme>
+<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="2s68w"><title lang="es">MEDIO AMBIENTE</title></programme>
+<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN 5 MINUTOS - EN PRIMERA PLANA</title></programme>
+<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN PRIMERA PLANA - EN FOCO</title></programme>
+<programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS - EN FOCO</title></programme>
+<programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="2s68w"><title lang="es">NOTICIAS - VENTANA A EUROPA - EN FOCO</title></programme>
+<programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EL DEBATE</title></programme>
+<programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="2s68w"><title lang="es">ASI ES ASIA</title></programme>
+<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AQUI AMERICA - ENLACE</title></programme>
+<programme start="20261116113000 +0000" stop="20261116120000 +0000" channel="2s68w"><title lang="es">NOTICIAS - BOLETO DE VUELTA</title></programme>
+<programme start="20261116120000 +0000" stop="20261116123000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CIENCIA Y TECNOLOGIA - CARRUSEL DE LAS ARTES</title></programme>
+<programme start="20261116123000 +0000" stop="20261116130000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ENLACE - EN FOCO - LOS OBSERVADORES</title></programme>
+<programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CORRESPONSALES - DESINFORMANDO</title></programme>
+<programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ELLAS HOY - CULTURA</title></programme>
+<programme start="20261116140000 +0000" stop="20261116143000 +0000" channel="2s68w"><title lang="es">NOTICIAS - MEDIO AMBIENTE - EN PRIMERA PLANA</title></programme>
+<programme start="20261116143000 +0000" stop="20261116150000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN PRIMERA PLANA - EN FOCO</title></programme>
+<programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AQUI AMERICA - EN FOCO</title></programme>
+<programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DESINFORMANDO - ESCALA EN PARIS</title></programme>
+<programme start="20261116160000 +0000" stop="20261116163000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
+<programme start="20261116163000 +0000" stop="20261116170000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO</title></programme>
+<programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
+<programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AQUI AMERICA</title></programme>
+<programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN PRIMERA PLANA</title></programme>
+<programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REVISTA DE PRENSA</title></programme>
+<programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="2s68w"><title lang="es">EL DEBATE</title></programme>
+<programme start="20261116200000 +0000" stop="20261116203000 +0000" channel="2s68w"><title lang="es">NOTICIAS - INVITADO DEL DIA</title></programme>
+<programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="2s68w"><title lang="es">NOTICIAS - REPORTEROS</title></programme>
+<programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
+<programme start="20261116213000 +0000" stop="20261116220000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO</title></programme>
+<programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="2s68w"><title lang="es">NOTICIAS</title></programme>
+<programme start="20261116223000 +0000" stop="20261116230000 +0000" channel="2s68w"><title lang="es">NOTICIAS - DESINFORMANDO</title></programme>
+<programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="2s68w"><title lang="es">NOTICIAS - AQUI AMERICA</title></programme>
+<programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="2s68w"><title lang="es">NOTICIAS - ESCALA EN PARIS</title></programme>
+<programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - INVITADO DEL DIA</title></programme>
+<programme start="20261117003000 +0000" stop="20261117010000 +0000" channel="2s68w"><title lang="es">NOTICIAS - CARRUSEL DE LAS ARTES</title></programme>
+<programme start="20261117010000 +0000" stop="20261117013000 +0000" channel="2s68w"><title lang="es">NOTICIAS - VENTANA A EUROPA</title></programme>
+<programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN FOCO - LOS OBSERVADORES</title></programme>
+<programme start="20261117020000 +0000" stop="20261117025900 +0000" channel="2s68w"><title lang="es">NOTICIAS - EN PRIMERA PLANA</title></programme>
 <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
 <programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
 <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
@@ -287,41 +229,58 @@
 <programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="22s13"><title lang="es">MUSICALISIMO</title></programme>
 <programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
 <programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
-<programme start="20261112030000 +0000" stop="20261112070000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
-<programme start="20261112070000 +0000" stop="20261112110000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
-<programme start="20261112110000 +0000" stop="20261112150000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
-<programme start="20261112150000 +0000" stop="20261112190000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
-<programme start="20261112190000 +0000" stop="20261112230000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
-<programme start="20261112230000 +0000" stop="20261113025900 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
-<programme start="20261113030000 +0000" stop="20261113070000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
-<programme start="20261113070000 +0000" stop="20261113110000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
-<programme start="20261113110000 +0000" stop="20261113150000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
-<programme start="20261113150000 +0000" stop="20261113190000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
-<programme start="20261113190000 +0000" stop="20261113230000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
-<programme start="20261113230000 +0000" stop="20261114025900 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
+<programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="22s13"><title lang="es">TODO AL TOQUE</title></programme>
+<programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="22s13"><title lang="es">ENTRE MATES Y GUITARRAS</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="22s13"><title lang="es">LO NUESTRO</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="22s13"><title lang="es">AMIGOS DEL CAMPO</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="22s13"><title lang="es">PUNTO DE REFERENCIA</title></programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="22s13"><title lang="es">DESDE LA PATRIA CHICA</title></programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="22s13"><title lang="es">TRADICION Y CULTURA</title></programme>
+<programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="22s13"><title lang="es">SEMANARIO DE NOTICIAS</title></programme>
+<programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="22s13"><title lang="es">ENTRE AMIGOS</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="22s13"><title lang="es">PUNTO LITORAL</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="22s13"><title lang="es">EL PATO TV</title></programme>
+<programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="22s13"><title lang="es">VIVENCIAS</title></programme>
+<programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="22s13"><title lang="es">POR CIUDAD</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="22s13"><title lang="es">SENTI ARGENTINA</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="22s13"><title lang="es">CHAMAMECEROS SANGRE NUEVA</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="22s13"><title lang="es">DESDE LAS GATERAS</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="22s13"><title lang="es">LA BRUJULA</title></programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="22s13"><title lang="es">EL MUNDIAL DE LA JINETEADA</title></programme>
+<programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="22s13"><title lang="es">TURISMO ARGENTINA</title></programme>
+<programme start="20261115180000 +0000" stop="20261115183000 +0000" channel="22s13"><title lang="es">RELATO DEL VIAJERO</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="22s13"><title lang="es">EL VIAJERO</title></programme>
+<programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="22s13"><title lang="es">RAICES SALTEÑA</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="22s13"><title lang="es">ME GUSTA TV</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="22s13"><title lang="es">EL PLAN PERFECTO</title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="22s13"><title lang="es">INDUSTRIA TURISTICA</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="22s13"><title lang="es">PATAGONIA Y DESTINO</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="22s13"><title lang="es">PARAISO NATURAL</title></programme>
+<programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="22s13"><title lang="es">VIVA AL AIRE LIBRE</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="22s13"><title lang="es">ZONA SAFARI</title></programme>
+<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="22s13"><title lang="es">A TODA COSTA</title></programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
 <programme start="20261114030000 +0000" stop="20261114070000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
 <programme start="20261114070000 +0000" stop="20261114110000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
 <programme start="20261114110000 +0000" stop="20261114150000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
 <programme start="20261114150000 +0000" stop="20261114230000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
 <programme start="20261114230000 +0000" stop="20261115013000 +0000" channel="ANPITV.uy@SD"><title lang="es">Coctel Tv ESTRENO</title></programme>
 <programme start="20261115013000 +0000" stop="20261115025900 +0000" channel="ANPITV.uy@SD"><title lang="es">Coctel Tv (repetición)</title></programme>
-<programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="APlusV.uy@SD"><title lang="es">Agro+Valor</title></programme>
-<programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="APlusV.uy@SD"><title lang="es">Revista Agropecuaria</title></programme>
-<programme start="20261112110000 +0000" stop="20261112210000 +0000" channel="APlusV.uy@SD"><title lang="es">Mucha cosa buena</title></programme>
-<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="APlusV.uy@SD"><title lang="es">De pago en pago</title></programme>
-<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="APlusV.uy@SD"><title lang="es">Canciones con historia</title></programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="APlusV.uy@SD"><title lang="es">Entre mates y guitarras</title></programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="APlusV.uy@SD"><title lang="es">Junto al caballo</title></programme>
-<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="APlusV.uy@SD"><title lang="es">La canción nuestra sin fronteras</title></programme>
-<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="APlusV.uy@SD"><title lang="es">Tecnovial</title></programme>
-<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="APlusV.uy@SD"><title lang="es">Agro+Valor</title></programme>
-<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="APlusV.uy@SD"><title lang="es">Más Agro</title></programme>
-<programme start="20261113110000 +0000" stop="20261113210000 +0000" channel="APlusV.uy@SD"><title lang="es">Mucha cosa buena</title></programme>
-<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="APlusV.uy@SD"><title lang="es">La Recalada</title></programme>
-<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="APlusV.uy@SD"><title lang="es">Todo un paìs</title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="APlusV.uy@SD"><title lang="es">Junto al caballo</title></programme>
-<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="APlusV.uy@SD"><title lang="es">Viajando por el interior</title></programme>
-<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="APlusV.uy@SD"><title lang="es">Magazine Animal</title></programme>
+<programme start="20261115030000 +0000" stop="20261115120000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
+<programme start="20261115120000 +0000" stop="20261116025900 +0000" channel="ANPITV.uy@SD"><title lang="es">Coctel Tv (repetición)</title></programme>
+<programme start="20261116030000 +0000" stop="20261116070000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
+<programme start="20261116070000 +0000" stop="20261116110000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
+<programme start="20261116110000 +0000" stop="20261116150000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
+<programme start="20261116150000 +0000" stop="20261116190000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
+<programme start="20261116190000 +0000" stop="20261116230000 +0000" channel="ANPITV.uy@SD"><title lang="es">Variedades</title></programme>
+<programme start="20261116230000 +0000" stop="20261117025900 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
 <programme start="20261114093000 +0000" stop="20261114103000 +0000" channel="APlusV.uy@SD"><title lang="es">Inforagro</title></programme>
 <programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="APlusV.uy@SD"><title lang="es">Agro+Valor</title></programme>
 <programme start="20261114111000 +0000" stop="20261114120000 +0000" channel="APlusV.uy@SD"><title lang="es">Mundo Cooperativo</title></programme>
@@ -335,105 +294,70 @@
 <programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="APlusV.uy@SD"><title lang="es">Meta mate y polca</title></programme>
 <programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="APlusV.uy@SD"><title lang="es">Canciones con historia</title></programme>
 <programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="APlusV.uy@SD"><title lang="es">Viajando por el interior</title></programme>
-<programme start="20261112030000 +0000" stop="20261112050000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Central rep.</title></programme>
-<programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="Canal5.uy@SD"><title lang="es">5 Sentidos rep.</title></programme>
-<programme start="20261112060000 +0000" stop="20261112073000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5 rep.</title></programme>
-<programme start="20261112073000 +0000" stop="20261112090000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo rep.</title></programme>
-<programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="Canal5.uy@SD"><title lang="es">Mesa para trece</title></programme>
-<programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Primera Edición</title></programme>
-<programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="Canal5.uy@SD"><title lang="es">5 Sentidos</title></programme>
-<programme start="20261112120000 +0000" stop="20261112133000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5</title></programme>
-<programme start="20261112133000 +0000" stop="20261112150000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo</title></programme>
-<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Segunda Edición</title></programme>
-<programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="Canal5.uy@SD"><title lang="es">Buscadores</title></programme>
-<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Todo deporte</title></programme>
-<programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="Canal5.uy@SD"><title lang="es">El canal de la niñez</title></programme>
-<programme start="20261112200000 +0000" stop="20261112213000 +0000" channel="Canal5.uy@SD"><title lang="es">¿Cómo estamos hoy?</title></programme>
-<programme start="20261112213000 +0000" stop="20261112233000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Central</title></programme>
-<programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="Canal5.uy@SD"><title lang="es">EPA</title></programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="Canal5.uy@SD"><title lang="es">Ordenando el caos</title></programme>
-<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Enlaces</title></programme>
-<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="Canal5.uy@SD"><title lang="es">Quién es quién</title></programme>
-<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="Canal5.uy@SD"><title lang="es">Las voces del fútbol</title></programme>
-<programme start="20261113030000 +0000" stop="20261113050000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Central rep.</title></programme>
-<programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="Canal5.uy@SD"><title lang="es">5 Sentidos rep.</title></programme>
-<programme start="20261113060000 +0000" stop="20261113073000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5 rep.</title></programme>
-<programme start="20261113073000 +0000" stop="20261113090000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo rep.</title></programme>
-<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="Canal5.uy@SD"><title lang="es">Mesa para trece</title></programme>
-<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Primera Edición</title></programme>
-<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="Canal5.uy@SD"><title lang="es">5 Sentidos</title></programme>
-<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5</title></programme>
-<programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5</title></programme>
-<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo</title></programme>
-<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo</title></programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo</title></programme>
-<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Segunda Edición</title></programme>
-<programme start="20261113170000 +0000" stop="20261113190000 +0000" channel="Canal5.uy@SD"><title lang="es">Buscadores</title></programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Escápate!</title></programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="Canal5.uy@SD"><title lang="es">El canal de la niñez</title></programme>
-<programme start="20261113200000 +0000" stop="20261113213000 +0000" channel="Canal5.uy@SD"><title lang="es">¿Cómo estamos hoy?</title></programme>
-<programme start="20261113213000 +0000" stop="20261113233000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Central</title></programme>
-<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="Canal5.uy@SD"><title lang="es">EPA</title></programme>
-<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="Canal5.uy@SD"><title lang="es">Honores Policiales</title></programme>
-<programme start="20261114010000 +0000" stop="20261115020000 +0000" channel="Canal5.uy@SD"><title lang="es">Teletón</title></programme>
+<programme start="20261115093000 +0000" stop="20261115103000 +0000" channel="APlusV.uy@SD"><title lang="es">Inforagro</title></programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="APlusV.uy@SD"><title lang="es">Tecnovial</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="APlusV.uy@SD"><title lang="es">Mundo Cooperativo</title></programme>
+<programme start="20261115113000 +0000" stop="20261115123000 +0000" channel="APlusV.uy@SD"><title lang="es">Todo un paìs</title></programme>
+<programme start="20261115123000 +0000" stop="20261115133000 +0000" channel="APlusV.uy@SD"><title lang="es">Entre mates y guitarras</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="APlusV.uy@SD"><title lang="es">La canción nuestra sin fronteras</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="APlusV.uy@SD"><title lang="es">Magazine Animal</title></programme>
+<programme start="20261115150000 +0000" stop="20261115210000 +0000" channel="APlusV.uy@SD"><title lang="es">Mucha cosa buena</title></programme>
+<programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="APlusV.uy@SD"><title lang="es">De pago en pago</title></programme>
+<programme start="20261115220000 +0000" stop="20261115230000 +0000" channel="APlusV.uy@SD"><title lang="es">Viajando por el interior</title></programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="APlusV.uy@SD"><title lang="es">Todo un paìs</title></programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="APlusV.uy@SD"><title lang="es">Canciones con historia</title></programme>
+<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="APlusV.uy@SD"><title lang="es">Entre mates y guitarras</title></programme>
 <programme start="20261114010000 +0000" stop="20261115020000 +0000" channel="Canal5.uy@SD"><title lang="es">Teletón</title></programme>
 <programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="Canal5.uy@SD"><title lang="es">Palko TVE Park Sonoro - Vinil Dende</title></programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Repeticion Informativo</title></programme>
-<programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Biblia del Espectaculo</title></programme>
-<programme start="20261112060000 +0000" stop="20261112063000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Panorama Agropecuario</title></programme>
-<programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Nuestro Canto</title></programme>
-<programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Inagro</title></programme>
-<programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Nuestro Canto</title></programme>
-<programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Sin Fronteras</title></programme>
-<programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Desde Adentro</title></programme>
-<programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Nuestros Criollos</title></programme>
-<programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Enfoques</title></programme>
-<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Panorama Agropecuario</title></programme>
-<programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Tangos Ver y Escuchar</title></programme>
-<programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Repeticion Informativo</title></programme>
-<programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Puerto Pesca</title></programme>
-<programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">El Futuro y sus Designios</title></programme>
-<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Turismo Siglo 21</title></programme>
-<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Epic Exploracion</title></programme>
-<programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cocina Abierta</title></programme>
-<programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Montaña Magica</title></programme>
-<programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cosas de mi Pais</title></programme>
-<programme start="20261112213000 +0000" stop="20261112223000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Cinta de los Exitos</title></programme>
-<programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Sin Fronteras</title></programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Panorama Agropecuario</title></programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Informativo Central</title></programme>
-<programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Una Noche de Oldies</title></programme>
-<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Epic Exploracion</title></programme>
-<programme start="20261113023000 +0000" stop="20261113025900 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">EpicExploracion</title></programme>
-<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Repeticion Informativo</title></programme>
-<programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Tangos para ver y escuchar</title></programme>
-<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Voces de America</title></programme>
-<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Montaña Magica</title></programme>
-<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Sin Fronteras</title></programme>
-<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Una Noche de Oldies</title></programme>
-<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Twister</title></programme>
-<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Nuestros Criollos</title></programme>
-<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Puerto Pesca</title></programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Tangos para ver y escuchar</title></programme>
-<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Turismo Siglo 21</title></programme>
-<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Panorama Agropecuario</title></programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Montaña Magica</title></programme>
-<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Repeticion Informativo</title></programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Universo Estelar</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Destinos sin Fronteras</title></programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Voces de America</title></programme>
-<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Puerto Pesca</title></programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Globdocs</title></programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Enfoques</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Nuestros Criollos</title></programme>
-<programme start="20261113203000 +0000" stop="20261113213000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Turismo Siglo 21</title></programme>
-<programme start="20261113213000 +0000" stop="20261113223000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Alta Presion</title></programme>
-<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Agenda de Viajes</title></programme>
-<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Twister</title></programme>
-<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Nuestro Canto</title></programme>
-<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Informativo Central</title></programme>
-<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Impacto Music</title></programme>
-<programme start="20261114020000 +0000" stop="20261114025900 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cuarto Poder r</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="Canal5.uy@SD"><title lang="es">Bestiario</title></programme>
+<programme start="20261115043000 +0000" stop="20261115053000 +0000" channel="Canal5.uy@SD"><title lang="es">Los 7 pecados capitales</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="Canal5.uy@SD"><title lang="es">Materia prima</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="Canal5.uy@SD"><title lang="es">Arquetipas</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="Canal5.uy@SD"><title lang="es">Encuadre Iberoamericano T5</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="Canal5.uy@SD"><title lang="es">Uruguay por dentro</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias T10</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="Canal5.uy@SD"><title lang="es">Agroinforme</title></programme>
+<programme start="20261115110000 +0000" stop="20261115123000 +0000" channel="Canal5.uy@SD"><title lang="es">El Canal de la niñez</title></programme>
+<programme start="20261115123000 +0000" stop="20261115133000 +0000" channel="Canal5.uy@SD"><title lang="es">Baby deportivo</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="Canal5.uy@SD"><title lang="es">Conciencia vial rep.</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="Canal5.uy@SD"><title lang="es">Uruguay por dentro</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="Canal5.uy@SD"><title lang="es">Agroinforme</title></programme>
+<programme start="20261115160000 +0000" stop="20261115183000 +0000" channel="Canal5.uy@SD"><title lang="es">Dale que va!</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="Canal5.uy@SD"><title lang="es">Pueblando</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="Canal5.uy@SD"><title lang="es">Bestiario</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="Canal5.uy@SD"><title lang="es">La ciudad es mi letra</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="Canal5.uy@SD"><title lang="es">El mitote librero</title></programme>
+<programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="Canal5.uy@SD"><title lang="es">Exlibris: Conversaciones entre libros</title></programme>
+<programme start="20261115220000 +0000" stop="20261115230000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Domingo</title></programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="Canal5.uy@SD"><title lang="es">Uruforest 2026</title></programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias T10</title></programme>
+<programme start="20261116010000 +0000" stop="20261116030000 +0000" channel="Canal5.uy@SD"><title lang="es">La hora de los deportes</title></programme>
+<programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="Canal5.uy@SD"><title lang="es">Y tú, tú qué vas a hacer?</title></programme>
+<programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="Canal5.uy@SD"><title lang="es">Materia prima</title></programme>
+<programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="Canal5.uy@SD"><title lang="es">Pueblando</title></programme>
+<programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Cultura 21</title></programme>
+<programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Enlaces</title></programme>
+<programme start="20261116063000 +0000" stop="20261116073000 +0000" channel="Canal5.uy@SD"><title lang="es">Arquetipas</title></programme>
+<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="Canal5.uy@SD"><title lang="es">Bestiario</title></programme>
+<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="Canal5.uy@SD"><title lang="es">El monitor plástico</title></programme>
+<programme start="20261116083000 +0000" stop="20261116093000 +0000" channel="Canal5.uy@SD"><title lang="es">Exlibris: Conversaciones entre libros</title></programme>
+<programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. En forma</title></programme>
+<programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Primera Edición</title></programme>
+<programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="Canal5.uy@SD"><title lang="es">5 Sentidos</title></programme>
+<programme start="20261116120000 +0000" stop="20261116133000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5</title></programme>
+<programme start="20261116133000 +0000" stop="20261116150000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo</title></programme>
+<programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Segunda Edición</title></programme>
+<programme start="20261116170000 +0000" stop="20261116190000 +0000" channel="Canal5.uy@SD"><title lang="es">Buscadores</title></programme>
+<programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Cultura 21</title></programme>
+<programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="Canal5.uy@SD"><title lang="es">El canal de la niñez</title></programme>
+<programme start="20261116200000 +0000" stop="20261116213000 +0000" channel="Canal5.uy@SD"><title lang="es">¿Cómo estamos hoy?</title></programme>
+<programme start="20261116213000 +0000" stop="20261116233000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Central</title></programme>
+<programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="Canal5.uy@SD"><title lang="es">EPA</title></programme>
+<programme start="20261117000000 +0000" stop="20261117010000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias T10</title></programme>
+<programme start="20261117010000 +0000" stop="20261117013000 +0000" channel="Canal5.uy@SD"><title lang="es">Materia prima</title></programme>
+<programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="Canal5.uy@SD"><title lang="es">Días de aquellos</title></programme>
+<programme start="20261117020000 +0000" stop="20261117023000 +0000" channel="Canal5.uy@SD"><title lang="es">El Monitor plástico rep.</title></programme>
+<programme start="20261117023000 +0000" stop="20261117030000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Todo deporte</title></programme>
 <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Repeticion Informativo</title></programme>
 <programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Twister</title></programme>
 <programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Nuestro Canto</title></programme>
@@ -460,35 +384,69 @@
 <programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Una Noche de Oldies</title></programme>
 <programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cicerone</title></programme>
 <programme start="20261115020000 +0000" stop="20261115025900 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Especiales</title></programme>
+<programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Tele 8 Tropical</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Twister</title></programme>
+<programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cosas de mi Pais</title></programme>
+<programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Sin Fronteras</title></programme>
+<programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Globdocs</title></programme>
+<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Canto de Aquí Nomas</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Historias de Mar y Sierras</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Una Noche de Oldies</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Panorama Agropecuario</title></programme>
+<programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Destino Costa de Oro</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cosas de mi Pais</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Alta Presion</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Impacto Music</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Universo Estelar</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Destinos sin Fronteras</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Montaña Magica</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Alguien tiene que Decirlo</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cicerone</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Cinta de los Exitos</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">TeleRemate</title></programme>
+<programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Inagro</title></programme>
+<programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Canto de Aquí Nomas</title></programme>
+<programme start="20261115220000 +0000" stop="20261115230000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Al Angulo</title></programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Historias de Mar y Sierras</title></programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cosas de mi Pais</title></programme>
+<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Impacto Music</title></programme>
+<programme start="20261116020000 +0000" stop="20261116025900 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Especiales</title></programme>
+<programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Montaña Magica</title></programme>
+<programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Rotativa</title></programme>
+<programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Sin Fronteras</title></programme>
+<programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Rotativa</title></programme>
+<programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Panorama Agropecuario</title></programme>
+<programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Rotativa</title></programme>
+<programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Desde Adentro</title></programme>
+<programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Rotativa</title></programme>
+<programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cicerone</title></programme>
+<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Rotativa</title></programme>
+<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Enfoques</title></programme>
+<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Rotativa</title></programme>
+<programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Canto de Aquí Nomas</title></programme>
+<programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Historia de Mar y Sierras</title></programme>
+<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Cicerone</title></programme>
+<programme start="20261116120000 +0000" stop="20261116123000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Bloopers</title></programme>
+<programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Montaña Magica</title></programme>
+<programme start="20261116140000 +0000" stop="20261116143000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Canto de Aquí Nomas</title></programme>
+<programme start="20261116150000 +0000" stop="20261116160000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Cinta de los Exitos</title></programme>
+<programme start="20261116160000 +0000" stop="20261116170000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Repeticion Informativo</title></programme>
+<programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Pasado en Movimiento</title></programme>
+<programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Codice de los Imperios</title></programme>
+<programme start="20261116180000 +0000" stop="20261116183000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Globdocs</title></programme>
+<programme start="20261116183000 +0000" stop="20261116193000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">La Biblia del Espectaculo</title></programme>
+<programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Enfoques</title></programme>
+<programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Inagro</title></programme>
+<programme start="20261116210000 +0000" stop="20261116220000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Tele 8 Tropical</title></programme>
+<programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Voces de America</title></programme>
+<programme start="20261116223000 +0000" stop="20261116230000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Agenda de Viajes</title></programme>
+<programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">El Estadio</title></programme>
+<programme start="20261117000000 +0000" stop="20261117010000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Informativo Central</title></programme>
+<programme start="20261117010000 +0000" stop="20261117020000 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">Durazno 3D</title></programme>
+<programme start="20261117020000 +0000" stop="20261117025900 +0000" channel="Canal6Durazno.uy@SD"><title lang="es">El Estadio</title></programme>
 <programme start="20260318023000 +0000" stop="20270318033000 +0000" channel="Canal8Rivera.uy@SD"><title lang="es">Rivera Noticias</title></programme>
 <programme start="20260318023000 +0000" stop="20270318033000 +0000" channel="Canal8Rivera.uy@SD"><title lang="es">Rivera Noticias</title></programme>
 <programme start="20260318023000 +0000" stop="20270318033000 +0000" channel="Canal8Rivera.uy@SD"><title lang="es">Rivera Noticias</title></programme>
-<programme start="20261112030000 +0000" stop="20261112113000 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
-<programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Punto de Encuentro</title></programme>
-<programme start="20261112120000 +0000" stop="20261112150000 +0000" channel="Canal11TV.uy@SD"><title lang="es">A las 9 en Casa</title></programme>
-<programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Pura Sangre</title></programme>
-<programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Telenoticias 11</title></programme>
-<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Canto</title></programme>
-<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Errar es Humano</title></programme>
-<programme start="20261112190000 +0000" stop="20261112230000 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Telenoticias 11</title></programme>
-<programme start="20261113000000 +0000" stop="20261113025900 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
-<programme start="20261113030000 +0000" stop="20261113113000 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Punto de Encuentro</title></programme>
-<programme start="20261113120000 +0000" stop="20261113150000 +0000" channel="Canal11TV.uy@SD"><title lang="es">A las 9 en Casa</title></programme>
-<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Canto</title></programme>
-<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Telenoticias 11</title></programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Tango Bar</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Almacén Ramos</title></programme>
-<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Acelerando Motores</title></programme>
-<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Destino Costa</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="Canal11TV.uy@SD"><title lang="es">La canción Nuestra</title></programme>
-<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Nuestro Canto</title></programme>
-<programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Todo a Momo</title></programme>
-<programme start="20261113213000 +0000" stop="20261113230000 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Telenoticias 11</title></programme>
-<programme start="20261114000000 +0000" stop="20261114013000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Con Vos</title></programme>
-<programme start="20261114013000 +0000" stop="20261114025900 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
 <programme start="20261114030000 +0000" stop="20261114160000 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
 <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Desde La Costa</title></programme>
 <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Nuestro Canto</title></programme>
@@ -498,96 +456,17 @@
 <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Tango Bar</title></programme>
 <programme start="20261114233000 +0000" stop="20261115003000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Canto</title></programme>
 <programme start="20261115003000 +0000" stop="20261115025900 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
-<programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
-<programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Economía</title></programme>
-<programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
-<programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="DW.de@Espanol"><title lang="es">Todo deporte</title></programme>
-<programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261112060000 +0000" stop="20261112063000 +0000" channel="DW.de@Espanol"><title lang="es">Hecho en Alemania</title></programme>
-<programme start="20261112063000 +0000" stop="20261112070000 +0000" channel="DW.de@Espanol"><title lang="es">Primer plano</title></programme>
-<programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
-<programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
-<programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="DW.de@Espanol"><title lang="es">Economía</title></programme>
-<programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="DW.de@Espanol"><title lang="es">Fuerza Latina</title></programme>
-<programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
-<programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="DW.de@Espanol"><title lang="es">Economía</title></programme>
-<programme start="20261112103000 +0000" stop="20261112113000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="DW.de@Espanol"><title lang="es">Eco Latinoamérica</title></programme>
-<programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="DW.de@Espanol"><title lang="es">RPM</title></programme>
-<programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="DW.de@Espanol"><title lang="es">Visión futuro</title></programme>
-<programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="DW.de@Espanol"><title lang="es">Hecho en Alemania</title></programme>
-<programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
-<programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="DW.de@Espanol"><title lang="es">Fuerza Latina</title></programme>
-<programme start="20261112153000 +0000" stop="20261112160000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
-<programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
-<programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
-<programme start="20261112180000 +0000" stop="20261112183000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
-<programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="DW.de@Espanol"><title lang="es">¡Escápate!</title></programme>
-<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
-<programme start="20261112193000 +0000" stop="20261112210000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="DW.de@Espanol"><title lang="es">Hecho en Alemania</title></programme>
-<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
-<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="DW.de@Espanol"><title lang="es">¡Escápate!</title></programme>
-<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Economía</title></programme>
-<programme start="20261113023000 +0000" stop="20261113025900 +0000" channel="DW.de@Espanol"><title lang="es">Eco Latinoamérica</title></programme>
-<programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
-<programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Economía</title></programme>
-<programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="DW.de@Espanol"><title lang="es">Eco Latinoamérica</title></programme>
-<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
-<programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
-<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="DW.de@Espanol"><title lang="es">Fuerza Latina</title></programme>
-<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="DW.de@Espanol"><title lang="es">Economía</title></programme>
-<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
-<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="DW.de@Espanol"><title lang="es">RPM</title></programme>
-<programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="DW.de@Espanol"><title lang="es">Economía</title></programme>
-<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
-<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
-<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="DW.de@Espanol"><title lang="es">Fuerza Latina</title></programme>
-<programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="DW.de@Espanol"><title lang="es">¡Escápate!</title></programme>
-<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
-<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="DW.de@Espanol"><title lang="es">Fuerza Latina</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="DW.de@Espanol"><title lang="es">Hecho en Alemania</title></programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
-<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261113213000 +0000" stop="20261113230000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="DW.de@Espanol"><title lang="es">¡Escápate!</title></programme>
-<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="DW.de@Espanol"><title lang="es">Patrimonio Mundial</title></programme>
-<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
-<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
-<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="DW.de@Espanol"><title lang="es">¿Cómo te afecta?</title></programme>
-<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Economía</title></programme>
-<programme start="20261114023000 +0000" stop="20261114025900 +0000" channel="DW.de@Espanol"><title lang="es">Euromaxx</title></programme>
+<programme start="20261115030000 +0000" stop="20261115160000 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Destino Costa</title></programme>
+<programme start="20261115170000 +0000" stop="20261115183000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Con Vos</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Nuestro Canto</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="Canal11TV.uy@SD"><title lang="es">La canción Nuestra</title></programme>
+<programme start="20261115193000 +0000" stop="20261115203000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Canto</title></programme>
+<programme start="20261115203000 +0000" stop="20261115213000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Errar es Humano</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="Canal11TV.uy@SD"><title lang="es">Todo a Momo</title></programme>
+<programme start="20261115220000 +0000" stop="20261115230000 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
+<programme start="20261115230000 +0000" stop="20261116010000 +0000" channel="Canal11TV.uy@SD"><title lang="es">El Legado</title></programme>
+<programme start="20261116010000 +0000" stop="20261116025900 +0000" channel="Canal11TV.uy@SD"><title lang="es">TeleMúsica</title></programme>
 <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
 <programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
 <programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Economía</title></programme>
@@ -633,26 +512,98 @@
 <programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
 <programme start="20261115020000 +0000" stop="20261115023000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Economía</title></programme>
 <programme start="20261115023000 +0000" stop="20261115025900 +0000" channel="DW.de@Espanol"><title lang="es">¡Escápate!</title></programme>
-<programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
-<programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC REPORTE CLIMÁTICO</title></programme>
-<programme start="20261112120000 +0000" stop="20261112140000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CIUDAD VIVA - VIVO</title></programme>
-<programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="TVCiudad.uy@SD"><title lang="es">EN MOVIMIENTO</title></programme>
-<programme start="20261112171500 +0000" stop="20261112172300 +0000" channel="TVCiudad.uy@SD"><title lang="es">CEIBAL - EXPERIENCIAS</title><sub-title lang="es">Techno girls Rivera - 2024</sub-title></programme>
-<programme start="20261112172300 +0000" stop="20261112173000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CEIBAL - EXPERIENCIAS</title><sub-title lang="es">Ciudadanos Digital 2</sub-title></programme>
-<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LADO B - VIVO</title></programme>
-<programme start="20261113011500 +0000" stop="20261113013000 +0000" channel="TVCiudad.uy@SD"><title lang="es">RING RAJE</title><sub-title lang="es">Ep. 2 2001</sub-title></programme>
-<programme start="20261113050000 +0000" stop="20261113061500 +0000" channel="TVCiudad.uy@SD"><title lang="es">LA ALDEA (repetición)</title></programme>
-<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC SALUD</title></programme>
-<programme start="20261113120000 +0000" stop="20261113140000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CIUDAD VIVA - VIVO</title></programme>
-<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="TVCiudad.uy@SD"><title lang="es">EN MOVIMIENTO</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="TVCiudad.uy@SD"><title lang="es">APRENDICES</title><sub-title lang="es">Alejandro Maiche</sub-title></programme>
-<programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
-<programme start="20261113225000 +0000" stop="20261113230000 +0000" channel="TVCiudad.uy@SD"><title lang="es">METAHORÓSCOPO</title><sub-title lang="es">Ep. 15</sub-title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LADO B - VIVO</title></programme>
-<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="TVCiudad.uy@SD"><title lang="es">QUE NUNCA FALTE 2002</title><sub-title lang="es">Taco Larreta y China Zorrilla</sub-title></programme>
-<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LOS 7 PECADOS CAPITALES</title><sub-title lang="es">Ep. 1</sub-title></programme>
+<programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - DW Analiza</title></programme>
+<programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="DW.de@Espanol"><title lang="es">Euromaxx</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Economía</title></programme>
+<programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
+<programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="DW.de@Espanol"><title lang="es">Actualidad en Análisis</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="DW.de@Espanol"><title lang="es">Economía - Plaza Fráncfort</title></programme>
+<programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="DW.de@Espanol"><title lang="es">¡Escápate!</title></programme>
+<programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
+<programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="DW.de@Espanol"><title lang="es">RPM</title></programme>
+<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="DW.de@Espanol"><title lang="es">DW Analiza - El reportero</title></programme>
+<programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="DW.de@Espanol"><title lang="es">Economía - Plaza Fráncfort</title></programme>
+<programme start="20261115093000 +0000" stop="20261115110000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="DW.de@Espanol"><title lang="es">Euromaxx</title></programme>
+<programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="DW.de@Espanol"><title lang="es">Actualidad en Análisis - El reportero</title></programme>
+<programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="DW.de@Espanol"><title lang="es">¡Escápate!</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="DW.de@Espanol"><title lang="es">DW Analiza</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
+<programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="DW.de@Espanol"><title lang="es">¿Cómo te afecta?</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="DW.de@Espanol"><title lang="es">Todo deporte - DW Analiza</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="DW.de@Espanol"><title lang="es">Actualidad en Análisis</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="DW.de@Espanol"><title lang="es">Economía - Plaza Fráncfort</title></programme>
+<programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261115180000 +0000" stop="20261115183000 +0000" channel="DW.de@Espanol"><title lang="es">Todo deporte - El reportero</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="DW.de@Espanol"><title lang="es">Eco Latinoamérica</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="DW.de@Espanol"><title lang="es">¿Cómo te afecta?</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="DW.de@Espanol"><title lang="es">Euromaxx</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="DW.de@Espanol"><title lang="es">DW Analiza</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Plaza Fráncfort</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="DW.de@Espanol"><title lang="es">Eco Latinoamérica</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Actualidad en Análisis</title></programme>
+<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
+<programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="DW.de@Espanol"><title lang="es">Visión futuro</title></programme>
+<programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="DW.de@Espanol"><title lang="es">Euromaxx</title></programme>
+<programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Actualidad en Análisis</title></programme>
+<programme start="20261116013000 +0000" stop="20261116020000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116020000 +0000" stop="20261116023000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - DW Analiza</title></programme>
+<programme start="20261116023000 +0000" stop="20261116025900 +0000" channel="DW.de@Espanol"><title lang="es">Visión futuro</title></programme>
+<programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - Plaza Fráncfort</title></programme>
+<programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="DW.de@Espanol"><title lang="es">¿Cómo te afecta?</title></programme>
+<programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias - El reportero</title></programme>
+<programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
+<programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="DW.de@Espanol"><title lang="es">RPM</title></programme>
+<programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
+<programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="DW.de@Espanol"><title lang="es">Visión futuro</title></programme>
+<programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
+<programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
+<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="DW.de@Espanol"><title lang="es">¿Cómo te afecta?</title></programme>
+<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="DW.de@Espanol"><title lang="es">El reportero</title></programme>
+<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="DW.de@Espanol"><title lang="es">Hecho en Alemania</title></programme>
+<programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="DW.de@Espanol"><title lang="es">Fuerza Latina</title></programme>
+<programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="DW.de@Espanol"><title lang="es">Euromaxx</title></programme>
+<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="DW.de@Espanol"><title lang="es">El reportero - Plaza Fráncfort</title></programme>
+<programme start="20261116113000 +0000" stop="20261116120000 +0000" channel="DW.de@Espanol"><title lang="es">Enfoque Europa</title></programme>
+<programme start="20261116120000 +0000" stop="20261116123000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116123000 +0000" stop="20261116130000 +0000" channel="DW.de@Espanol"><title lang="es">Enlaces</title></programme>
+<programme start="20261116130000 +0000" stop="20261116140000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116140000 +0000" stop="20261116143000 +0000" channel="DW.de@Espanol"><title lang="es">Visión futuro</title></programme>
+<programme start="20261116143000 +0000" stop="20261116150000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
+<programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="DW.de@Espanol"><title lang="es">El reportero - Todo deporte</title></programme>
+<programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="DW.de@Espanol"><title lang="es">Euromaxx</title></programme>
+<programme start="20261116160000 +0000" stop="20261116163000 +0000" channel="DW.de@Espanol"><title lang="es">Aquí estoy</title></programme>
+<programme start="20261116163000 +0000" stop="20261116170000 +0000" channel="DW.de@Espanol"><title lang="es">Hecho en Alemania</title></programme>
+<programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="DW.de@Espanol"><title lang="es">Visión futuro</title></programme>
+<programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="DW.de@Espanol"><title lang="es">RPM</title></programme>
+<programme start="20261116180000 +0000" stop="20261116183000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
+<programme start="20261116183000 +0000" stop="20261116190000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
+<programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="DW.de@Espanol"><title lang="es">En forma</title></programme>
+<programme start="20261116200000 +0000" stop="20261116203000 +0000" channel="DW.de@Espanol"><title lang="es">Todo deporte</title></programme>
+<programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
+<programme start="20261116213000 +0000" stop="20261116220000 +0000" channel="DW.de@Espanol"><title lang="es">¿Cómo te afecta?</title></programme>
+<programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="DW.de@Espanol"><title lang="es">Economía</title></programme>
+<programme start="20261116223000 +0000" stop="20261116230000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="DW.de@Espanol"><title lang="es">El reportero</title></programme>
+<programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="DW.de@Espanol"><title lang="es">Economía</title></programme>
+<programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
+<programme start="20261117003000 +0000" stop="20261117013000 +0000" channel="DW.de@Espanol"><title lang="es">ZonaDocu</title></programme>
+<programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="DW.de@Espanol"><title lang="es">Global Es</title></programme>
+<programme start="20261117020000 +0000" stop="20261117023000 +0000" channel="DW.de@Espanol"><title lang="es">DW noticias</title></programme>
+<programme start="20261117023000 +0000" stop="20261117025900 +0000" channel="DW.de@Espanol"><title lang="es">Primer plano</title></programme>
 <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="TVCiudad.uy@SD"><title lang="es">QUE NUNCA FALTE 2002</title><sub-title lang="es">Taco Larreta y China Zorrilla</sub-title></programme>
 <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="TVCiudad.uy@SD"><title lang="es">OTRA PARTE DE LA HISTORIA</title><sub-title lang="es">Ep.1</sub-title></programme>
 <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PUEBLANDO</title><sub-title lang="es">Ep.10</sub-title></programme>
@@ -670,4 +621,35 @@
 <programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="TVCiudad.uy@SD"><title lang="es">INFO CAPITAL - ENTREVISTAS</title></programme>
 <programme start="20261115010000 +0000" stop="20261115022000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CINE ACCESIBLE</title><sub-title lang="es">Volver a la luz</sub-title></programme>
 <programme start="20261115022000 +0000" stop="20261115033000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LA ALDEA (repetición)</title></programme>
+<programme start="20261115022000 +0000" stop="20261115033000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LA ALDEA (repetición)</title></programme>
+<programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="TVCiudad.uy@SD"><title lang="es">SESIONES PEGASO</title><sub-title lang="es">Agus Mor</sub-title></programme>
+<programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="TVCiudad.uy@SD"><title lang="es">SESIONES PEGASO</title><sub-title lang="es">Balta</sub-title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="TVCiudad.uy@SD"><title lang="es">SESIONES PEGASO</title><sub-title lang="es">Eli Almic</sub-title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="TVCiudad.uy@SD"><title lang="es">QUÉ HACEN LOS QUE HICIERON?</title><sub-title lang="es">Ep.8</sub-title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="TVCiudad.uy@SD"><title lang="es">DIÁLOGO DE SABERES</title><sub-title lang="es">Temp. 2 Ep. 2</sub-title></programme>
+<programme start="20261115120000 +0000" stop="20261115140000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="TVCiudad.uy@SD"><title lang="es">EN MOVIMIENTO</title></programme>
+<programme start="20261115151500 +0000" stop="20261115152300 +0000" channel="TVCiudad.uy@SD"><title lang="es">CEIBAL - EXPERIENCIAS</title><sub-title lang="es">Techno girls Rivera - 2024</sub-title></programme>
+<programme start="20261115152300 +0000" stop="20261115153000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CEIBAL - EXPERIENCIAS</title><sub-title lang="es">Ciudadanos Digital 2</sub-title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="TVCiudad.uy@SD"><title lang="es">BOCA A BOCA</title><sub-title lang="es">Estrecho</sub-title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="TVCiudad.uy@SD"><title lang="es">MESA PARA TRECE</title><sub-title lang="es">Ep. 14</sub-title></programme>
+<programme start="20261115180000 +0000" stop="20261115183000 +0000" channel="TVCiudad.uy@SD"><title lang="es">RECONSTRUYENDO NUESTRO AMBIENTE</title><sub-title lang="es">Ep. 13</sub-title></programme>
+<programme start="20261115183000 +0000" stop="20261115193000 +0000" channel="TVCiudad.uy@SD"><title lang="es">ATLÁNTICO SUR</title><sub-title lang="es">Ep. 12</sub-title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC 2</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC SALUD</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="TVCiudad.uy@SD"><title lang="es">EL ARQUITECTO</title><sub-title lang="es">Ep. 18</sub-title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="TVCiudad.uy@SD"><title lang="es">APRENDICES</title><sub-title lang="es">Alejandro Maiche</sub-title></programme>
+<programme start="20261115220000 +0000" stop="20261115225000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LADO B - RESUMEN SEMANAL</title></programme>
+<programme start="20261115225000 +0000" stop="20261115230000 +0000" channel="TVCiudad.uy@SD"><title lang="es">METAHORÓSCOPO</title><sub-title lang="es">Ep. 15</sub-title></programme>
+<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LOS MUNDIALES DE MÉXICO</title><sub-title lang="es">Ep. 4</sub-title></programme>
+<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="TVCiudad.uy@SD"><title lang="es">MEMORIA TROPICAL</title><sub-title lang="es">Ep. 4 Ernesto Negrín y su conjunto Casino</sub-title></programme>
+<programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="TVCiudad.uy@SD"><title lang="es">QUE NUNCA FALTE 2002</title><sub-title lang="es">Taco Larreta y China Zorrilla</sub-title></programme>
+<programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
+<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC 1</title></programme>
+<programme start="20261116120000 +0000" stop="20261116140000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CIUDAD VIVA - VIVO</title></programme>
+<programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="TVCiudad.uy@SD"><title lang="es">EN MOVIMIENTO</title></programme>
+<programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="TVCiudad.uy@SD"><title lang="es">IDEAS CRUZADAS (repetición)</title></programme>
+<programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
+<programme start="20261116220000 +0000" stop="20261116230000 +0000" channel="TVCiudad.uy@SD"><title lang="es">MVD NOTICIAS EDICIÓN CENTRAL - VIVO</title></programme>
+<programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LADO B - VIVO</title></programme>
 </tv>
