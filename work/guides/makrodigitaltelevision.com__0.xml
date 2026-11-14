@@ -1,66 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261112">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261114">
 <channel id="MakroDigitalTelevision.ec@SD"><display-name>MakroDigital Television</display-name><icon src="https://makrodigitaltelevision.com/logo.jpg"/></channel>
-<programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
-<programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Migración Al Día</title></programme>
-<programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Parada Juvenil</title></programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
-<programme start="20261112040000 +0000" stop="20261112045900 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Historias Bíblicas</title></programme>
-<programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Historias Bíblicas</title></programme>
-<programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
-<programme start="20261112060000 +0000" stop="20261112074500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
-<programme start="20261112074500 +0000" stop="20261112080000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Videoteka Musical</title></programme>
-<programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
-<programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Excélsior</title></programme>
-<programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Explorando el Mundo</title></programme>
-<programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
-<programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Comunicación Cristiana</title></programme>
-<programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
-<programme start="20261112130000 +0000" stop="20261112133500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261112133500 +0000" stop="20261112140000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
-<programme start="20261112140000 +0000" stop="20261112154500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
-<programme start="20261112154500 +0000" stop="20261112163700 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
-<programme start="20261112163700 +0000" stop="20261112170000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">El Súper Libro</title></programme>
-<programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
-<programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Video Control Internacional</title></programme>
-<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Aquí y Allá</title></programme>
-<programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261112203000 +0000" stop="20261112211500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Giro Del Destino</title></programme>
-<programme start="20261112211500 +0000" stop="20261112230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
-<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vive Más</title></programme>
-<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Video Control Internacional</title></programme>
-<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
-<programme start="20261113040000 +0000" stop="20261113045900 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Historias Bíblicas</title></programme>
-<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Historias Bíblicas</title></programme>
-<programme start="20261113060000 +0000" stop="20261113074500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
-<programme start="20261113074500 +0000" stop="20261113080000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Videoteka Musical</title></programme>
-<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
-<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Veraz</title></programme>
-<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Comunicación Cristiana</title></programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
-<programme start="20261113130000 +0000" stop="20261113133500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261113133500 +0000" stop="20261113140000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
-<programme start="20261113140000 +0000" stop="20261113154500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
-<programme start="20261113154500 +0000" stop="20261113163700 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
-<programme start="20261113163700 +0000" stop="20261113170000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">El Súper Libro</title></programme>
-<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">inTEREview</title></programme>
-<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Almorzando con JG</title></programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261113203000 +0000" stop="20261113211500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Giro Del Destino</title></programme>
-<programme start="20261113211500 +0000" stop="20261113230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
 <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
 <programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
 <programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Trending News</title></programme>
@@ -86,4 +25,62 @@
 <programme start="20261114211500 +0000" stop="20261114230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
 <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Noticiero Mundo Cristiano</title></programme>
 <programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
+<programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Trending News</title></programme>
+<programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Aquí y Allá</title></programme>
+<programme start="20261115010000 +0000" stop="20261115030000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Cine en Familia</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Veraz</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Parada Juvenil</title></programme>
+<programme start="20261115043000 +0000" stop="20261115045900 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Quebakan</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
+<programme start="20261115050000 +0000" stop="20261115180000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Gino Freire Presenta</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Videoteka Musical</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Video Control Internacional</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Comunicación Cristiana</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
+<programme start="20261115110000 +0000" stop="20261115160000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Mundo Patín</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">El Súper Libro</title></programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Aquí y Allá</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Migración Al Día</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Almorzando con JG</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">inTEREview</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
+<programme start="20261115203000 +0000" stop="20261115211500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Giro Del Destino</title></programme>
+<programme start="20261115211500 +0000" stop="20261115230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Noticiero Mundo Cristiano</title></programme>
+<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
+<programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
+<programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vive Más</title></programme>
+<programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Más Allá de las Fronteras</title></programme>
+<programme start="20261116013000 +0000" stop="20261116020000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Aquí y Allá</title></programme>
+<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Otro Podcast</title></programme>
+<programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
+<programme start="20261116040000 +0000" stop="20261116045900 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Gino Freire Presenta</title></programme>
+<programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Historias Bíblicas</title></programme>
+<programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
+<programme start="20261116060000 +0000" stop="20261116074500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
+<programme start="20261116074500 +0000" stop="20261116080000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Videoteka Musical</title></programme>
+<programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
+<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Aquí y Allá</title></programme>
+<programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Quebakan</title></programme>
+<programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
+<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Comunicación Cristiana</title></programme>
+<programme start="20261116113000 +0000" stop="20261116120000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
+<programme start="20261116120000 +0000" stop="20261116130000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
+<programme start="20261116130000 +0000" stop="20261116133500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
+<programme start="20261116133500 +0000" stop="20261116140000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
+<programme start="20261116140000 +0000" stop="20261116154500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
+<programme start="20261116154500 +0000" stop="20261116163700 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
+<programme start="20261116163700 +0000" stop="20261116170000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">El Súper Libro</title></programme>
+<programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
+<programme start="20261116180000 +0000" stop="20261116170000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Veraz</title></programme>
+<programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
+<programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Noticiero Mundo Cristiano</title></programme>
+<programme start="20261116200000 +0000" stop="20261116203000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
+<programme start="20261116203000 +0000" stop="20261116211500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Giro Del Destino</title></programme>
+<programme start="20261116211500 +0000" stop="20261116230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
+<programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
 </tv>
