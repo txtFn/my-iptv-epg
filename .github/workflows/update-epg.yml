@@ -406,9 +406,7 @@ jobs:
 
           echo "Run finished. Succeeded: $OK, failed: $FAIL"
 
-      # Streams files, so memory stays flat even for very large guides.
-      # Channels are written first (deduplicated), then programmes.
-      - name: Combine all EPG files
+      - name: Combine and split EPG by country
         if: steps.batch.outputs.skip != 'true'
         shell: python
         run: |
@@ -416,47 +414,68 @@ jobs:
           import xml.etree.ElementTree as ET
 
           os.makedirs("public", exist_ok=True)
+          os.makedirs("/tmp/split", exist_ok=True)
           files = sorted(glob.glob("epg-storage/work/guides/*.xml"))
           if not files:
               raise SystemExit("No EPG files available.")
 
-          seen = set()
-          counts = {"channel": 0, "programme": 0}
-          bad = []
+          handles = {}
+          def h(cc, kind):
+              if (cc, kind) not in handles:
+                  handles[(cc, kind)] = open(f"/tmp/split/{cc}.{kind}", "wb")
+              return handles[(cc, kind)]
 
-          with open("public/guide.xml", "wb") as out:
-              out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-              for tag in ("channel", "programme"):
-                  for fn in files:
-                      try:
-                          for _, el in ET.iterparse(fn, events=("end",)):
-                              if el.tag not in ("channel", "programme"):
-                                  continue
-                              if el.tag == tag:
-                                  if tag == "channel":
-                                      cid = el.get("id")
-                                      if cid in seen:
-                                          el.clear()
-                                          continue
-                                      seen.add(cid)
-                                  out.write(ET.tostring(el, encoding="utf-8"))
-                                  out.write(b"\n")
-                                  counts[tag] += 1
-                              el.clear()
-                      except ET.ParseError as e:
-                          if fn not in bad:
-                              bad.append(fn)
-                          print(f"WARN: {fn}: {e}")
-              out.write(b"</tv>\n")
+          def country(cid):
+              if cid and "." in cid:
+                  suf = cid.rsplit(".", 1)[1].split("@")[0].lower()
+                  if suf.isalpha() and 2 <= len(suf) <= 3:
+                      return suf
+              return "other"
 
-          with open("public/guide.xml", "rb") as src, gzip.open("public/guide.xml.gz", "wb") as dst:
-              shutil.copyfileobj(src, dst)
+          seen, chan_cc = set(), {}
+          for fn in files:
+              try:
+                  for _, el in ET.iterparse(fn, events=("end",)):
+                      if el.tag == "channel":
+                          cid = el.get("id")
+                          if cid not in seen:
+                              seen.add(cid)
+                              cc = country(cid)
+                              chan_cc[cid] = cc
+                              h(cc, "ch").write(ET.tostring(el, encoding="utf-8") + b"\n")
+                          el.clear()
+                      elif el.tag == "programme":
+                          cid = el.get("channel")
+                          cc = chan_cc.get(cid) or country(cid)
+                          h(cc, "pr").write(ET.tostring(el, encoding="utf-8") + b"\n")
+                          el.clear()
+              except ET.ParseError as e:
+                  print(f"WARN: {fn}: {e}")
 
-          print(f"Files: {len(files)} (unreadable: {len(bad)})")
-          print(f"Channels: {counts['channel']} | Programmes: {counts['programme']}")
-          print(f"guide.xml: {os.path.getsize('public/guide.xml')} bytes")
-          if counts["programme"] == 0:
-              raise SystemExit("Combined guide has no programmes.")
+          for f in handles.values():
+              f.close()
+
+          rows = []
+          for cc in sorted({k[0] for k in handles}):
+              out_path = f"public/guide-{cc}.xml"
+              with open(out_path, "wb") as out:
+                  out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
+                  for kind in ("ch", "pr"):
+                      p = f"/tmp/split/{cc}.{kind}"
+                      if os.path.exists(p):
+                          with open(p, "rb") as src:
+                              shutil.copyfileobj(src, out)
+                  out.write(b"</tv>\n")
+              with open(out_path, "rb") as s, gzip.open(out_path + ".gz", "wb") as d:
+                  shutil.copyfileobj(s, d)
+              rows.append((cc, os.path.getsize(out_path + ".gz")))
+
+          with open("public/index.html", "w") as f:
+              f.write("<h1>EPG files</h1><ul>")
+              for cc, size in rows:
+                  f.write(f'<li><a href="guide-{cc}.xml.gz">guide-{cc}.xml.gz</a> ({size//1024} KB)</li>')
+              f.write("</ul>")
+          print(f"Created {len(rows)} country files")
 
       - name: Configure GitHub Pages
         if: steps.batch.outputs.skip != 'true'
