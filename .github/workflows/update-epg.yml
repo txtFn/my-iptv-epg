@@ -27,6 +27,7 @@ env:
   REFRESH_HOURS: "12"     # after a cycle completes, wait this long, then start a fresh one
   EPG_DAYS: "3"
   MAX_CONN: "3"
+  MAX_CH_PER_FILE: "1500" # channels per output file; bigger countries get split into parts
 
 jobs:
   build:
@@ -413,17 +414,21 @@ jobs:
           import os, glob, gzip, shutil
           import xml.etree.ElementTree as ET
 
+          MAX_CH = int(os.environ.get("MAX_CH_PER_FILE", "1500"))
+
           os.makedirs("public", exist_ok=True)
           os.makedirs("/tmp/split", exist_ok=True)
           files = sorted(glob.glob("epg-storage/work/guides/*.xml"))
           if not files:
               raise SystemExit("No EPG files available.")
 
+          # key = (country, part_index)
           handles = {}
-          def h(cc, kind):
-              if (cc, kind) not in handles:
-                  handles[(cc, kind)] = open(f"/tmp/split/{cc}.{kind}", "wb")
-              return handles[(cc, kind)]
+          def h(key, kind):
+              if (key, kind) not in handles:
+                  cc, part = key
+                  handles[(key, kind)] = open(f"/tmp/split/{cc}.{part}.{kind}", "wb")
+              return handles[(key, kind)]
 
           def country(cid):
               if cid and "." in cid:
@@ -432,7 +437,7 @@ jobs:
                       return suf
               return "other"
 
-          seen, chan_cc = set(), {}
+          seen, chan_key, count = set(), {}, {}
           for fn in files:
               try:
                   for _, el in ET.iterparse(fn, events=("end",)):
@@ -441,13 +446,16 @@ jobs:
                           if cid not in seen:
                               seen.add(cid)
                               cc = country(cid)
-                              chan_cc[cid] = cc
-                              h(cc, "ch").write(ET.tostring(el, encoding="utf-8") + b"\n")
+                              n = count.get(cc, 0)
+                              count[cc] = n + 1
+                              key = (cc, n // MAX_CH)      # new part every MAX_CH channels
+                              chan_key[cid] = key
+                              h(key, "ch").write(ET.tostring(el, encoding="utf-8") + b"\n")
                           el.clear()
                       elif el.tag == "programme":
                           cid = el.get("channel")
-                          cc = chan_cc.get(cid) or country(cid)
-                          h(cc, "pr").write(ET.tostring(el, encoding="utf-8") + b"\n")
+                          key = chan_key.get(cid) or (country(cid), 0)
+                          h(key, "pr").write(ET.tostring(el, encoding="utf-8") + b"\n")
                           el.clear()
               except ET.ParseError as e:
                   print(f"WARN: {fn}: {e}")
@@ -455,27 +463,36 @@ jobs:
           for f in handles.values():
               f.close()
 
+          # Group parts by country
+          parts_by_cc = {}
+          for (key, _kind) in handles:
+              parts_by_cc.setdefault(key[0], set()).add(key[1])
+
           rows = []
-          for cc in sorted({k[0] for k in handles}):
-              out_path = f"public/guide-{cc}.xml"
-              with open(out_path, "wb") as out:
-                  out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                  for kind in ("ch", "pr"):
-                      p = f"/tmp/split/{cc}.{kind}"
-                      if os.path.exists(p):
-                          with open(p, "rb") as src:
-                              shutil.copyfileobj(src, out)
-                  out.write(b"</tv>\n")
-              with open(out_path, "rb") as s, gzip.open(out_path + ".gz", "wb") as d:
-                  shutil.copyfileobj(s, d)
-              rows.append((cc, os.path.getsize(out_path + ".gz")))
+          for cc in sorted(parts_by_cc):
+              parts = sorted(parts_by_cc[cc])
+              for part in parts:
+                  # single part -> guide-ph.xml ; multiple -> guide-other1.xml, guide-other2.xml ...
+                  name = f"guide-{cc}" if len(parts) == 1 else f"guide-{cc}{part + 1}"
+                  out_path = f"public/{name}.xml"
+                  with open(out_path, "wb") as out:
+                      out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
+                      for kind in ("ch", "pr"):
+                          p = f"/tmp/split/{cc}.{part}.{kind}"
+                          if os.path.exists(p):
+                              with open(p, "rb") as src:
+                                  shutil.copyfileobj(src, out)
+                      out.write(b"</tv>\n")
+                  with open(out_path, "rb") as s, gzip.open(out_path + ".gz", "wb") as d:
+                      shutil.copyfileobj(s, d)
+                  rows.append((name, os.path.getsize(out_path + ".gz")))
 
           with open("public/index.html", "w") as f:
               f.write("<h1>EPG files</h1><ul>")
-              for cc, size in rows:
-                  f.write(f'<li><a href="guide-{cc}.xml.gz">guide-{cc}.xml.gz</a> ({size//1024} KB)</li>')
+              for name, size in rows:
+                  f.write(f'<li><a href="{name}.xml.gz">{name}.xml.gz</a> ({size//1024} KB)</li>')
               f.write("</ul>")
-          print(f"Created {len(rows)} country files")
+          print(f"Created {len(rows)} files")
 
       - name: Configure GitHub Pages
         if: steps.batch.outputs.skip != 'true'
