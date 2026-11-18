@@ -1977,7 +1977,8 @@
     "sat.tv@151",
     "content.astro.com.my@0",
     "horizon.tv@0",
-    "mncvision.id@0"
+    "mncvision.id@0",
+    "reportv.com.ar@0"
   ],
   "attempts": {
     "content.astro.com.my@0": 1,
@@ -2012,6 +2013,7 @@
     "dstv.com@7",
     "dstv.com@8",
     "dstv.com@9",
+    "port.hu@0",
     "programtv.onet.pl@0",
     "programtv.onet.pl@1",
     "programtv.onet.pl@2"
@@ -2022,6 +2024,10 @@
       "done": 0
     },
     "programtv.onet.pl": {
+      "strikes": 2,
+      "done": 0
+    },
+    "port.hu": {
       "strikes": 2,
       "done": 0
     }
