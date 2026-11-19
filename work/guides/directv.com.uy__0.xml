@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261114">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261119">
 <channel id="120#AME2"><display-name>América TV (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/120.png"/></channel>
 <channel id="121#CAN7"><display-name>La TV Pública (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/121.png"/></channel>
 <channel id="122#CAN9"><display-name>Canal 9 (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/122.png"/></channel>
@@ -199,4 +199,207 @@
 <channel id="1523#E!HD"><display-name>E! Entertainment HD</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/1222.png"/></channel>
 <channel id="1524#HBOHD"><display-name>HBO HD</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/524.png"/></channel>
 <channel id="1528#HBOSHD"><display-name>HBO Signature HD</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/528.png"/></channel>
+<programme start="20261120025600 +0000" stop="20261120032200 +0000" channel="220#ADSW"><title lang="es">Let&apos;s Go to the Cursed House</title></programme>
+<programme start="20261120032200 +0000" stop="20261120034700 +0000" channel="220#ADSW"><title lang="es">Los vindicadores: El regreso de Destructor de Mundos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120034700 +0000" stop="20261120041200 +0000" channel="220#ADSW"><title lang="es">The Whirly Dirly Conspiracy</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120041200 +0000" stop="20261120043500 +0000" channel="220#ADSW"><title lang="es">The Motley Flock Scatters</title></programme>
+<programme start="20261120043500 +0000" stop="20261120044900 +0000" channel="220#ADSW"><title lang="es">¿El jefe encuentra el amor?</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261120044900 +0000" stop="20261120050000 +0000" channel="220#ADSW"><title lang="es">El huevo</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261120050000 +0000" stop="20261120052300 +0000" channel="220#ADSW"><title lang="es">Bensonhurst</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261120052300 +0000" stop="20261120054500 +0000" channel="220#ADSW"><title lang="es">The Collywobbles</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261120054500 +0000" stop="20261120060900 +0000" channel="220#ADSW"><title lang="es">Whoever&apos;s Strongest Wins</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120060900 +0000" stop="20261120062000 +0000" channel="220#ADSW"><title lang="es">Never Forget</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120062000 +0000" stop="20261120063200 +0000" channel="220#ADSW"><title lang="es">Shall I Visit the Dinosaurs?</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120063200 +0000" stop="20261120065500 +0000" channel="220#ADSW"><title lang="es">Los vindicadores: El regreso de Destructor de Mundos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120065500 +0000" stop="20261120071700 +0000" channel="220#ADSW"><title lang="es">The Whirly Dirly Conspiracy</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120071700 +0000" stop="20261120074000 +0000" channel="220#ADSW"><title lang="es">Raid</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120074000 +0000" stop="20261120075100 +0000" channel="220#ADSW"><title lang="es">Pim se pone verde</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261120075100 +0000" stop="20261120080200 +0000" channel="220#ADSW"><title lang="es">Tonto Samuel</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261120080200 +0000" stop="20261120090000 +0000" channel="220#ADSW"><title lang="es">Bravest Warriors</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120090000 +0000" stop="20261120092200 +0000" channel="220#ADSW"><title lang="es">Seis en la profundidad</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120092200 +0000" stop="20261120094400 +0000" channel="220#ADSW"><title lang="es">Mask</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120094400 +0000" stop="20261120100500 +0000" channel="220#ADSW"><title lang="es">Summit</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120100500 +0000" stop="20261120102900 +0000" channel="220#ADSW"><title lang="es">Endgame</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120102900 +0000" stop="20261120105400 +0000" channel="220#ADSW"><title lang="es">Father and Son, the Broken Crest</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120105400 +0000" stop="20261120111900 +0000" channel="220#ADSW"><title lang="es">The Secrets of the Mangekyo Sharingan!</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120111900 +0000" stop="20261120114300 +0000" channel="220#ADSW"><title lang="es">For a Friend</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120114300 +0000" stop="20261120120700 +0000" channel="220#ADSW"><title lang="es">Reckoning</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120120700 +0000" stop="20261120123200 +0000" channel="220#ADSW"><title lang="es">Read My Lips</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120123200 +0000" stop="20261120125700 +0000" channel="220#ADSW"><title lang="es">Trials of the Demon</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120125700 +0000" stop="20261120132000 +0000" channel="220#ADSW"><title lang="es">The Enemy Below, Part 2</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120132000 +0000" stop="20261120134500 +0000" channel="220#ADSW"><title lang="es">I Just Can&apos;t Cope Without My Soap; War Without Tears</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120134500 +0000" stop="20261120141100 +0000" channel="220#ADSW"><title lang="es">Maximum</title></programme>
+<programme start="20261120141100 +0000" stop="20261120143700 +0000" channel="220#ADSW"><title lang="es">Majin Buu Transforms</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120143700 +0000" stop="20261120150400 +0000" channel="220#ADSW"><title lang="es">The Old Kai&apos;s Weapon</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120150400 +0000" stop="20261120153000 +0000" channel="220#ADSW"><title lang="es">Ready to Fuse?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120153000 +0000" stop="20261120155600 +0000" channel="220#ADSW"><title lang="es">Rhythm</title></programme>
+<programme start="20261120155600 +0000" stop="20261120162200 +0000" channel="220#ADSW"><title lang="es">Found</title></programme>
+<programme start="20261120162200 +0000" stop="20261120165000 +0000" channel="220#ADSW"><title lang="es">Flow</title></programme>
+<programme start="20261120165000 +0000" stop="20261120171500 +0000" channel="220#ADSW"><title lang="es">The Big Stage</title></programme>
+<programme start="20261120171500 +0000" stop="20261120174100 +0000" channel="220#ADSW"><title lang="es">Maximum</title></programme>
+<programme start="20261120174100 +0000" stop="20261120180500 +0000" channel="220#ADSW"><title lang="es">Majin Buu Transforms</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120180500 +0000" stop="20261120183200 +0000" channel="220#ADSW"><title lang="es">The Old Kai&apos;s Weapon</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120183200 +0000" stop="20261120185800 +0000" channel="220#ADSW"><title lang="es">Ready to Fuse?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120185800 +0000" stop="20261120192200 +0000" channel="220#ADSW"><title lang="es">A Better World</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120192200 +0000" stop="20261120194600 +0000" channel="220#ADSW"><title lang="es">Endgame</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120194600 +0000" stop="20261120200900 +0000" channel="220#ADSW"><title lang="es">Reckoning</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120200900 +0000" stop="20261120203500 +0000" channel="220#ADSW"><title lang="es">Rhythm</title></programme>
+<programme start="20261120203500 +0000" stop="20261120210100 +0000" channel="220#ADSW"><title lang="es">Found</title></programme>
+<programme start="20261120210100 +0000" stop="20261120212900 +0000" channel="220#ADSW"><title lang="es">Flow</title></programme>
+<programme start="20261120212900 +0000" stop="20261120215600 +0000" channel="220#ADSW"><title lang="es">The Big Stage</title></programme>
+<programme start="20261120215600 +0000" stop="20261120222000 +0000" channel="220#ADSW"><title lang="es">A Better World</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120222000 +0000" stop="20261120224400 +0000" channel="220#ADSW"><title lang="es">Endgame</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120224400 +0000" stop="20261120230800 +0000" channel="220#ADSW"><title lang="es">Trials of the Demon</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20261120230800 +0000" stop="20261120233500 +0000" channel="220#ADSW"><title lang="es">Maximum</title></programme>
+<programme start="20261120233500 +0000" stop="20261120235900 +0000" channel="220#ADSW"><title lang="es">Majin Buu Transforms</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120235900 +0000" stop="20261121002500 +0000" channel="220#ADSW"><title lang="es">The Old Kai&apos;s Weapon</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121002500 +0000" stop="20261121005200 +0000" channel="220#ADSW"><title lang="es">Ready to Fuse?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121005200 +0000" stop="20261121011700 +0000" channel="220#ADSW"><title lang="es">Tokyo No. 1 Colony, Part 5</title></programme>
+<programme start="20261121011700 +0000" stop="20261121014400 +0000" channel="220#ADSW"><title lang="es">A Fatal Vulnerability</title></programme>
+<programme start="20261121014400 +0000" stop="20261121021000 +0000" channel="220#ADSW"><title lang="es">Project Apple</title></programme>
+<programme start="20261121021000 +0000" stop="20261121023400 +0000" channel="220#ADSW"><title lang="es">It&apos;s Like a Game</title></programme>
+<programme start="20261121023400 +0000" stop="20261121025900 +0000" channel="220#ADSW"><title lang="es">Reducing Two to One</title></programme>
+<programme start="20261121025900 +0000" stop="20261121032600 +0000" channel="220#ADSW"><title lang="es">Y esta es la leyenda de la serpiente gigante</title></programme>
+<programme start="20261120021000 +0000" stop="20261120041500 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120041500 +0000" stop="20261120062000 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120062000 +0000" stop="20261120082500 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120082500 +0000" stop="20261120090000 +0000" channel="404#PPV"><title lang="es">DIRECTV</title><rating system="MPA"><value>G</value></rating></programme>
+<programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="404#PPV"><title lang="es">DIRECTV</title><rating system="MPA"><value>G</value></rating></programme>
+<programme start="20261120093000 +0000" stop="20261120113500 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120113500 +0000" stop="20261120134000 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120134000 +0000" stop="20261120154500 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120154500 +0000" stop="20261120175000 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120175000 +0000" stop="20261120195500 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120195500 +0000" stop="20261120220000 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120220000 +0000" stop="20261121000500 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261121000500 +0000" stop="20261121021000 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261121021000 +0000" stop="20261121041500 +0000" channel="404#PPV"><title lang="es">Hechizo de amor: La magia continúa</title></programme>
+<programme start="20261120025500 +0000" stop="20261120043000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120043000 +0000" stop="20261120060500 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120060500 +0000" stop="20261120074000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120074000 +0000" stop="20261120090000 +0000" channel="410#PPV"><title lang="es">DIRECTV</title><rating system="MPA"><value>G</value></rating></programme>
+<programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="410#PPV"><title lang="es">DIRECTV</title><rating system="MPA"><value>G</value></rating></programme>
+<programme start="20261120093000 +0000" stop="20261120110500 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120110500 +0000" stop="20261120124000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120124000 +0000" stop="20261120141500 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120141500 +0000" stop="20261120155000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120155000 +0000" stop="20261120172500 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120172500 +0000" stop="20261120190000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120190000 +0000" stop="20261120203500 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120203500 +0000" stop="20261120221000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120221000 +0000" stop="20261120234500 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120234500 +0000" stop="20261121012000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261121012000 +0000" stop="20261121025500 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261121025500 +0000" stop="20261121043000 +0000" channel="410#PPV"><title lang="es">Resident Evil: Noche Cero</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120030000 +0000" stop="20261120090000 +0000" channel="980#CNUR"><title lang="es">Resumen del Día</title></programme>
+<programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="980#CNUR"><title lang="es">60 minutos con Tinedo Guia</title></programme>
+<programme start="20261120100000 +0000" stop="20261120103000 +0000" channel="980#CNUR"><title lang="es">Noticias Unión Radio</title></programme>
+<programme start="20261120103000 +0000" stop="20261120120000 +0000" channel="980#CNUR"><title lang="es">A tiempo con Eduardo Rodríguez Giolilty, Sonsiré Luna Da Costa y Saul Noriega</title></programme>
+<programme start="20261120120000 +0000" stop="20261120140000 +0000" channel="980#CNUR"><title lang="es">En vivo con Adriana Núñez Rabascal y Lila Vanorio</title></programme>
+<programme start="20261120140000 +0000" stop="20261120160000 +0000" channel="980#CNUR"><title lang="es">Al instante con Esther Quiaro y Francisco Solorzano</title></programme>
+<programme start="20261120160000 +0000" stop="20261120180000 +0000" channel="980#CNUR"><title lang="es">Sin Duda Con Mary Pili Hernández</title></programme>
+<programme start="20261120180000 +0000" stop="20261120200000 +0000" channel="980#CNUR"><title lang="es">Áryeli Vera en live</title></programme>
+<programme start="20261120200000 +0000" stop="20261120220000 +0000" channel="980#CNUR"><title lang="es">Por Donde Vamos con Vanessa Davies</title></programme>
+<programme start="20261120220000 +0000" stop="20261120233000 +0000" channel="980#CNUR"><title lang="es">Vladimir Villegas</title></programme>
+<programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="980#CNUR"><title lang="es">La Entrevista Con Vladimir Villegas</title></programme>
+<programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="980#CNUR"><title lang="es">Noticias Unión Radio</title></programme>
+<programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="980#CNUR"><title lang="es">El infield</title></programme>
+<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="980#CNUR"><title lang="es">Anahí Arizmendi</title></programme>
+<programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="980#CNUR"><title lang="es">Noticias Unión Radio</title></programme>
+<programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="980#CNUR"><title lang="es">La Entrevista Con Vladimir Villegas</title></programme>
+<programme start="20261121030000 +0000" stop="20261121045900 +0000" channel="1528#HBOSHD"><title lang="es">Bessie</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121045900 +0000" stop="20261121070200 +0000" channel="1528#HBOSHD"><title lang="es">Prisionero para siempre</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121070200 +0000" stop="20261121090000 +0000" channel="1528#HBOSHD"><title lang="es">Gran foto, hermosa vida</title></programme>
+<programme start="20261121090000 +0000" stop="20261121110800 +0000" channel="1528#HBOSHD"><title lang="es">Mary Tyler Moore: La dama de la Tv</title></programme>
+<programme start="20261121110800 +0000" stop="20261121132300 +0000" channel="1528#HBOSHD"><title lang="es">Tony Hawk: Hasta que las ruedas aguanten</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121132300 +0000" stop="20261121154500 +0000" channel="1528#HBOSHD"><title lang="es">No conoces a Jack</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121154500 +0000" stop="20261121165400 +0000" channel="1528#HBOSHD"><title lang="es">Andale</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121165400 +0000" stop="20261121175600 +0000" channel="1528#HBOSHD"><title lang="es">America My Dream</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121175600 +0000" stop="20261121185800 +0000" channel="1528#HBOSHD"><title lang="es">The Ballad of Paladin</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121185800 +0000" stop="20261121200200 +0000" channel="1528#HBOSHD"><title lang="es">Kitty Likes to Dance</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121200200 +0000" stop="20261121210400 +0000" channel="1528#HBOSHD"><title lang="es">This Little Piggy</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121210400 +0000" stop="20261121220600 +0000" channel="1528#HBOSHD"><title lang="es">Stand Still and See</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121220600 +0000" stop="20261121232500 +0000" channel="1528#HBOSHD"><title lang="es">Rain or Shine</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261121232500 +0000" stop="20261122010000 +0000" channel="1528#HBOSHD"><title lang="es">In God We Trust</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20261120020300 +0000" stop="20261120040100 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Viva la Juventud</title></programme>
+<programme start="20261120040100 +0000" stop="20261120054600 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">El secuestro de Lola la trailera</title></programme>
+<programme start="20261120054600 +0000" stop="20261120072700 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Guerrero Negro</title></programme>
+<programme start="20261120072700 +0000" stop="20261120085800 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Desnúdate Marcela</title></programme>
+<programme start="20261120085800 +0000" stop="20261120102900 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Carroña</title></programme>
+<programme start="20261120102900 +0000" stop="20261120120000 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">El Metiche</title></programme>
+<programme start="20261120120000 +0000" stop="20261120133500 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Chabelo y Pepito detectives</title></programme>
+<programme start="20261120133500 +0000" stop="20261120151000 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Dos meseros majaderos</title></programme>
+<programme start="20261120151000 +0000" stop="20261120170200 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Santo enredo</title></programme>
+<programme start="20261120170200 +0000" stop="20261120185400 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Me gustan valentones</title></programme>
+<programme start="20261120185400 +0000" stop="20261120204100 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">La Valentina</title></programme>
+<programme start="20261120204100 +0000" stop="20261120223200 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Zapata en Chinameca</title></programme>
+<programme start="20261120223200 +0000" stop="20261121002500 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">La generala</title></programme>
+<programme start="20261121002500 +0000" stop="20261121021000 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">El Sargento Pérez</title></programme>
+<programme start="20261121021000 +0000" stop="20261121043100 +0000" channel="DePeliculaLatinAmerica.mx@SD"><title lang="es">Por mis pistolas</title></programme>
+<programme start="20261120010000 +0000" stop="20261120032800 +0000" channel="FXLatinAmerica.us@South"><title lang="es">El planeta de los simios</title></programme>
+<programme start="20261120032800 +0000" stop="20261120053300 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Crimen a contrarreloj</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120053300 +0000" stop="20261120073800 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Prueba de fuego</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120073800 +0000" stop="20261120082300 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Gotta Put Your Sole Into It</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120082300 +0000" stop="20261120090700 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Ya sacaron las garras</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120090700 +0000" stop="20261120100000 +0000" channel="FXLatinAmerica.us@South"><title lang="es">All&apos;s Fair in Love and War</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120100000 +0000" stop="20261120105200 +0000" channel="FXLatinAmerica.us@South"><title lang="es">All&apos;s Fair in Love and War</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120105200 +0000" stop="20261120115100 +0000" channel="FXLatinAmerica.us@South"><title lang="es">En la guerra y en el amor todo se vale</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261120115100 +0000" stop="20261120141900 +0000" channel="FXLatinAmerica.us@South"><title lang="es">El buen patrón</title></programme>
+<programme start="20261120141900 +0000" stop="20261120165600 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Señora Doubtfire, papá de por vida</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261120165600 +0000" stop="20261120190100 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Tras líneas enemigas</title></programme>
+<programme start="20261120190100 +0000" stop="20261120204700 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Los viajes de Gulliver</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261120204700 +0000" stop="20261120232600 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Need for Speed: La película</title></programme>
+<programme start="20261120232600 +0000" stop="20261121010000 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Enlace mortal</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261121010000 +0000" stop="20261121030100 +0000" channel="FXLatinAmerica.us@South"><title lang="es">Durmiendo con el enemigo</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120020000 +0000" stop="20261120034900 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Son como niños 2</title></programme>
+<programme start="20261120034900 +0000" stop="20261120054700 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Un crimen de pasión</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120054700 +0000" stop="20261120074300 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Marrowbone</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120074300 +0000" stop="20261120092400 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Desastre inminente</title></programme>
+<programme start="20261120092400 +0000" stop="20261120110200 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Policías corruptos</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120110200 +0000" stop="20261120124700 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">La línea</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120124700 +0000" stop="20261120141900 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Justa venganza</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120141900 +0000" stop="20261120155500 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Contrarreloj</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120155500 +0000" stop="20261120174400 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Píxeles</title></programme>
+<programme start="20261120174400 +0000" stop="20261120193200 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Son como niños</title></programme>
+<programme start="20261120193200 +0000" stop="20261120211800 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Son como niños 2</title></programme>
+<programme start="20261120211800 +0000" stop="20261120235400 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Hombre en llamas</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20261120235400 +0000" stop="20261121020000 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Baywatch: Guardianes de la bahía</title></programme>
+<programme start="20261121020000 +0000" stop="20261121040200 +0000" channel="GoldenEdge.mx@Panregional"><title lang="es">Terremoto: La falla de San Andrés</title></programme>
+<programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">En punto</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121050000 +0000" stop="20261121052500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Llegó Teo</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121052500 +0000" stop="20261121055000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Julia contra las redes</title></programme>
+<programme start="20261121055000 +0000" stop="20261121061500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">¿En dónde está el Cuico?</title></programme>
+<programme start="20261121061500 +0000" stop="20261121080000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer, casos de la vida real</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121080000 +0000" stop="20261121120500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan cerca de ti, nace el amor</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121120500 +0000" stop="20261121134000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Alas Doradas</title></programme>
+<programme start="20261121134000 +0000" stop="20261121153000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Fiebre de Amor</title></programme>
+<programme start="20261121153000 +0000" stop="20261121171000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como dice el dicho</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121171000 +0000" stop="20261121185500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chapulín Colorado</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121185500 +0000" stop="20261121201000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mita y mita</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121201000 +0000" stop="20261121210500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Monja</title></programme>
+<programme start="20261121210500 +0000" stop="20261121224500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La rosa de Guadalupe</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121224500 +0000" stop="20261122003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Juego de voces, de tal palo tal astilla</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20261121023500 +0000" stop="20261121032000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Peril of the Belles: Part 1</title></programme>
+<programme start="20261121032000 +0000" stop="20261121041000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Peril of the Belles: Part 2</title></programme>
+<programme start="20261121041000 +0000" stop="20261121045500 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Death of a Humbug: Part 1</title></programme>
+<programme start="20261121045500 +0000" stop="20261121054500 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Death of a Humbug: Part 2</title></programme>
+<programme start="20261121054500 +0000" stop="20261121063000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Guerra Fría</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121063000 +0000" stop="20261121072000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Guerra Fría</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121072000 +0000" stop="20261121080500 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">The Ides of December - Part 1</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121080500 +0000" stop="20261121085500 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Los Idus de Diciembre</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121085500 +0000" stop="20261121094000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">&apos;Twas the Fight Before Christmas - Part 1</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121094000 +0000" stop="20261121103000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">&apos;Twas the Fight Before Christmas - Part 2</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Hollywood on Set</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Hollywood on Set</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Hollywood on Set</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20261121120000 +0000" stop="20261121134000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Una Navidad para comenzar de nuevo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20261121134000 +0000" stop="20261121151500 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Una Navidad demoledora</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20261121151500 +0000" stop="20261121165000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Vacaciones navideñas</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20261121165000 +0000" stop="20261121182500 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Navidad en la posada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20261121182500 +0000" stop="20261121200000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Navidad nostálgica</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20261121200000 +0000" stop="20261121214000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Mrs. Miracle y la alegría de la Navidad</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20261121214000 +0000" stop="20261121232000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Misterio en Mistletoe Lane</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20261121232000 +0000" stop="20261122010000 +0000" channel="StudioUniversalLatinAmerica.us@South"><title lang="es">Christmas on Mistletoe Lake</title></programme>
 </tv>
