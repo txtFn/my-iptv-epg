@@ -1,50 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261114">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261119">
 <channel id="ANT1Satellite.gr@SD"><display-name>ANT1 SATELLITE</display-name><icon src="https://i.imgur.com/ayJ2ABV.png"/></channel>
-<programme start="20261114040000 +0000" stop="20261114044500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261114044500 +0000" stop="20261114060000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΡΟΥΚ ΖΟΥΚ</title></programme>
-<programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261114070000 +0000" stop="20261114094500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">FOR YOU</title></programme>
-<programme start="20261114094500 +0000" stop="20261114110000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261114110000 +0000" stop="20261114121000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ</title></programme>
-<programme start="20261114121000 +0000" stop="20261114130000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
-<programme start="20261114130000 +0000" stop="20261114134500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANTENNA SATELLITE TOP 10</title></programme>
-<programme start="20261114134500 +0000" stop="20261114160000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261114160000 +0000" stop="20261114164500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ</title></programme>
-<programme start="20261114164500 +0000" stop="20261114180000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261114190000 +0000" stop="20261114202000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">THE ROADSHOW</title></programme>
-<programme start="20261114202000 +0000" stop="20261114211500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</title></programme>
-<programme start="20261114211500 +0000" stop="20261114231500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">THE 2NIGHT SHOW</title></programme>
-<programme start="20261114231500 +0000" stop="20261115005000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title></programme>
-<programme start="20261115005000 +0000" stop="20261115012000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">FOR YOU</title></programme>
-<programme start="20261115040000 +0000" stop="20261115044500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261115044500 +0000" stop="20261115060000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΡΟΥΚ ΖΟΥΚ</title></programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261115070000 +0000" stop="20261115094500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">FOR YOU</title></programme>
-<programme start="20261115094500 +0000" stop="20261115110000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261115110000 +0000" stop="20261115121000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΝΤΕΡΤΙ</title></programme>
-<programme start="20261115121000 +0000" stop="20261115130000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
-<programme start="20261115130000 +0000" stop="20261115134500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">NON STOP MUSIC - GOLDEN EDITION</title></programme>
-<programme start="20261115134500 +0000" stop="20261115160000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261115160000 +0000" stop="20261115164500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ</title></programme>
-<programme start="20261115164500 +0000" stop="20261115180000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261115190000 +0000" stop="20261115210000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">BASKET LEAGUE: ΠΑΟ AKTOR - ΚΟΛΟΣΣΟΣ H HOTELS</title></programme>
-<programme start="20261115210000 +0000" stop="20261116005000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
-<programme start="20261116005000 +0000" stop="20261116012000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261116040000 +0000" stop="20261116044000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261116044000 +0000" stop="20261116073000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
-<programme start="20261116073000 +0000" stop="20261116094500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261116094500 +0000" stop="20261116110000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
-<programme start="20261116120000 +0000" stop="20261116140500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
-<programme start="20261116140500 +0000" stop="20261116145500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title></programme>
-<programme start="20261116145500 +0000" stop="20261116154500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
-<programme start="20261116154500 +0000" stop="20261116164500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261116164500 +0000" stop="20261116180000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261116190000 +0000" stop="20261116201500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title></programme>
-<programme start="20261116201500 +0000" stop="20261116213000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΝΤΕΡΤΙ</title></programme>
-<programme start="20261116213000 +0000" stop="20261117005000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
-<programme start="20261117005000 +0000" stop="20261117012000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261119040000 +0000" stop="20261119044000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261119044000 +0000" stop="20261119073000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
+<programme start="20261119073000 +0000" stop="20261119094500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261119094500 +0000" stop="20261119110000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261119140500 +0000" stop="20261119145500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title></programme>
+<programme start="20261119145500 +0000" stop="20261119154500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
+<programme start="20261119154500 +0000" stop="20261119164500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261119164500 +0000" stop="20261119180000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
+<programme start="20261119190000 +0000" stop="20261119201500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</title></programme>
+<programme start="20261119201500 +0000" stop="20261119210000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ</title></programme>
+<programme start="20261119210000 +0000" stop="20261120005000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
+<programme start="20261120005000 +0000" stop="20261120012000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261120040000 +0000" stop="20261120044000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261120044000 +0000" stop="20261120073000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
+<programme start="20261120073000 +0000" stop="20261120094500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261120094500 +0000" stop="20261120110000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
+<programme start="20261120120000 +0000" stop="20261120140500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261120140500 +0000" stop="20261120145500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title></programme>
+<programme start="20261120145500 +0000" stop="20261120154500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
+<programme start="20261120154500 +0000" stop="20261120164500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261120164500 +0000" stop="20261120180000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261120180000 +0000" stop="20261120190000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
+<programme start="20261120190000 +0000" stop="20261120203000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ Πρεμιέρα</title></programme>
+<programme start="20261120203000 +0000" stop="20261120211500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANTENNA SATELLITE TOP 10</title></programme>
+<programme start="20261120211500 +0000" stop="20261120231500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">THE 2NIGHT SHOW</title></programme>
+<programme start="20261120231500 +0000" stop="20261121005000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΝΤΕΡΤΙ</title></programme>
+<programme start="20261121005000 +0000" stop="20261121012000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">FOR YOU</title></programme>
+<programme start="20261121040000 +0000" stop="20261121044500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261121044500 +0000" stop="20261121060000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΡΟΥΚ ΖΟΥΚ</title></programme>
+<programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
+<programme start="20261121070000 +0000" stop="20261121091500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">FOR YOU</title></programme>
+<programme start="20261121091500 +0000" stop="20261121103000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ</title></programme>
+<programme start="20261121103000 +0000" stop="20261121123000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">SUPER LEAGUE: ΚΑΛΑΜΑΤΑ - ΑΕΚ</title></programme>
+<programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΜΠΡΟΥΣΚΟ</title></programme>
+<programme start="20261121130000 +0000" stop="20261121134500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANTENNA SATELLITE TOP 10</title></programme>
+<programme start="20261121134500 +0000" stop="20261121160000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261121160000 +0000" stop="20261121164500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ</title></programme>
+<programme start="20261121164500 +0000" stop="20261121180000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
+<programme start="20261121190000 +0000" stop="20261121211500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">BASKET LEAGUE: ΠΑΝΑΘΗΝΑΪΚΟΣ AKTOR - ΜΑΡΟΥΣΙ</title></programme>
+<programme start="20261121211500 +0000" stop="20261121231500 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">THE 2NIGHT SHOW</title></programme>
+<programme start="20261121231500 +0000" stop="20261122005000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title></programme>
+<programme start="20261122005000 +0000" stop="20261122012000 +0000" channel="ANT1Satellite.gr@SD"><title lang="el">FOR YOU</title></programme>
 </tv>
