@@ -1,54 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261114">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261119">
 <channel id="DTV8.gy@SD"><display-name>DTV-8</display-name><icon src="https://i.imgur.com/A5r0aZA.png"/></channel>
-<programme start="20261114135500 +0000" stop="20261114140000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign On</title></programme>
-<programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="DTV8.gy@SD"><title lang="en">Pokemon</title></programme>
-<programme start="20261114143000 +0000" stop="20261114154200 +0000" channel="DTV8.gy@SD"><title lang="en">Star Wars The Clone Wars</title></programme>
-<programme start="20261114154200 +0000" stop="20261114180000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Harry Potter and the Prisoner of Azkaban</title></programme>
-<programme start="20261114180000 +0000" stop="20261114203700 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Harry Potter and the Goblet of Fire</title></programme>
-<programme start="20261114203700 +0000" stop="20261114220000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Wish</title></programme>
-<programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="DTV8.gy@SD"><title lang="en">World News</title></programme>
-<programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="DTV8.gy@SD"><title lang="en">Greeting and Announcements</title></programme>
-<programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="DTV8.gy@SD"><title lang="en">Death Announcements</title></programme>
-<programme start="20261115000000 +0000" stop="20261115010500 +0000" channel="DTV8.gy@SD"><title lang="en">Mistletoe Murders</title></programme>
-<programme start="20261115010500 +0000" stop="20261115033000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Awarapan 2 –</title></programme>
-<programme start="20261115033000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign Off</title></programme>
-<programme start="20261115132500 +0000" stop="20261115133000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign On</title></programme>
-<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="DTV8.gy@SD"><title lang="en">Sunday Mass</title></programme>
-<programme start="20261115140000 +0000" stop="20261115145200 +0000" channel="DTV8.gy@SD"><title lang="en">Pokemon</title></programme>
-<programme start="20261115145200 +0000" stop="20261115160000 +0000" channel="DTV8.gy@SD"><title lang="en">Star Wars The Clone Wars</title></programme>
-<programme start="20261115160000 +0000" stop="20261115174200 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: The Tiger Rising</title></programme>
-<programme start="20261115174200 +0000" stop="20261115190000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Falling for Vermont</title></programme>
-<programme start="20261115190000 +0000" stop="20261115202400 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Falling for You</title></programme>
-<programme start="20261115202400 +0000" stop="20261115220000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Art of Falling in Love</title></programme>
-<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="DTV8.gy@SD"><title lang="en">World News</title></programme>
-<programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="DTV8.gy@SD"><title lang="en">Getting to Know Your Bible</title></programme>
-<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="DTV8.gy@SD"><title lang="en">Greetings and Announcements</title></programme>
-<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="DTV8.gy@SD"><title lang="en">Death Announcements</title></programme>
-<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="DTV8.gy@SD"><title lang="en">AFV</title></programme>
-<programme start="20261116010000 +0000" stop="20261116014500 +0000" channel="DTV8.gy@SD"><title lang="en">All Creatures Great and Small</title></programme>
-<programme start="20261116014500 +0000" stop="20261116023000 +0000" channel="DTV8.gy@SD"><title lang="en">Fire Country: Church and State –</title></programme>
-<programme start="20261116023000 +0000" stop="20261116151400 +0000" channel="DTV8.gy@SD"><title lang="en">Sheriff Country: Close to the Chest –</title></programme>
-<programme start="20261116125500 +0000" stop="20261116130000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign On</title></programme>
-<programme start="20261116130000 +0000" stop="20261116140000 +0000" channel="DTV8.gy@SD"><title lang="en">Morning News</title></programme>
-<programme start="20261116140000 +0000" stop="20261116163000 +0000" channel="DTV8.gy@SD"><title lang="en">Hindi Movie</title></programme>
-<programme start="20261116151400 +0000" stop="20261117040000 +0000" channel="DTV8.gy@SD"><title lang="en">NCIS: New York: True Love –</title></programme>
-<programme start="20261116163000 +0000" stop="20261116170000 +0000" channel="DTV8.gy@SD"><title lang="en">The View</title></programme>
-<programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="DTV8.gy@SD"><title lang="en">News</title></programme>
-<programme start="20261116173000 +0000" stop="20261116183000 +0000" channel="DTV8.gy@SD"><title lang="en">The Young and the Restless</title></programme>
-<programme start="20261116183000 +0000" stop="20261116190000 +0000" channel="DTV8.gy@SD"><title lang="en">The Bold and the Beautiful</title></programme>
-<programme start="20261116190000 +0000" stop="20261116200000 +0000" channel="DTV8.gy@SD"><title lang="en">Beyond the Gates</title></programme>
-<programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="DTV8.gy@SD"><title lang="en">Let’s Make a Deal</title></programme>
-<programme start="20261116210000 +0000" stop="20261116220000 +0000" channel="DTV8.gy@SD"><title lang="en">Early Edition:</title></programme>
-<programme start="20261116220000 +0000" stop="20261116230000 +0000" channel="DTV8.gy@SD"><title lang="en">World News</title></programme>
-<programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="DTV8.gy@SD"><title lang="en">Greetings and Announcements</title></programme>
-<programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="DTV8.gy@SD"><title lang="en">Death Announcements</title></programme>
-<programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="DTV8.gy@SD"><title lang="en">Jeopardy</title></programme>
-<programme start="20261117003000 +0000" stop="20261117010000 +0000" channel="DTV8.gy@SD"><title lang="en">Wheel of Fortune</title></programme>
-<programme start="20261117010000 +0000" stop="20261117014500 +0000" channel="DTV8.gy@SD"><title lang="en">Tracker: Blind Spot –</title></programme>
-<programme start="20261117014500 +0000" stop="20261117023500 +0000" channel="DTV8.gy@SD"><title lang="en">Maigret: The Yellow Dog – Part One –</title></programme>
-<programme start="20261117023500 +0000" stop="20261117032500 +0000" channel="DTV8.gy@SD"><title lang="en">Agatha Christie’s Tommy &amp; Tuppence:</title></programme>
-<programme start="20261117032500 +0000" stop="20261117035500 +0000" channel="DTV8.gy@SD"><title lang="en">Sign Off</title></programme>
-<programme start="20261117040000 +0000" stop="20261117043000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign Off</title></programme>
+<programme start="20261119125500 +0000" stop="20261119130000 +0000" channel="DTV8.gy@SD"/>
+<programme start="20261119130000 +0000" stop="20261119140000 +0000" channel="DTV8.gy@SD"><title lang="en">Morning News</title></programme>
+<programme start="20261119140000 +0000" stop="20261119150000 +0000" channel="DTV8.gy@SD"><title lang="en">Live with Kelly and Mark</title></programme>
+<programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="DTV8.gy@SD"/>
+<programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="DTV8.gy@SD"><title lang="en">The View</title></programme>
+<programme start="20261119170000 +0000" stop="20261119173000 +0000" channel="DTV8.gy@SD"><title lang="en">News</title></programme>
+<programme start="20261119173000 +0000" stop="20261119183000 +0000" channel="DTV8.gy@SD"><title lang="en">The Young and the Restless</title></programme>
+<programme start="20261119183000 +0000" stop="20261119190000 +0000" channel="DTV8.gy@SD"><title lang="en">The Bold and the Beautiful</title></programme>
+<programme start="20261119190000 +0000" stop="20261119200000 +0000" channel="DTV8.gy@SD"><title lang="en">Beyond the Gates</title></programme>
+<programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="DTV8.gy@SD"><title lang="en">Let’s Make a Deal</title></programme>
+<programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="DTV8.gy@SD"><title lang="en">Early Edition:</title></programme>
+<programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="DTV8.gy@SD"/>
+<programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="DTV8.gy@SD"><title lang="en">Greetings and Announcements</title></programme>
+<programme start="20261119233000 +0000" stop="20261120000000 +0000" channel="DTV8.gy@SD"><title lang="en">Death Announcements</title></programme>
+<programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="DTV8.gy@SD"><title lang="en">Jeopardy</title></programme>
+<programme start="20261120003000 +0000" stop="20261120010000 +0000" channel="DTV8.gy@SD"><title lang="en">Wheel of Fortune</title></programme>
+<programme start="20261120010000 +0000" stop="20261120020500 +0000" channel="DTV8.gy@SD"><title lang="en">The Amazing Race</title></programme>
+<programme start="20261120020500 +0000" stop="20261120025500 +0000" channel="DTV8.gy@SD"><title lang="en">Young Sherlock:</title></programme>
+<programme start="20261120025500 +0000" stop="20261120040000 +0000" channel="DTV8.gy@SD"><title lang="en">Robin Hood:</title></programme>
+<programme start="20261120040000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign Off</title></programme>
+<programme start="20261120125500 +0000" stop="20261120130000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign On</title></programme>
+<programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="DTV8.gy@SD"><title lang="en">Morning News</title></programme>
+<programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="DTV8.gy@SD"><title lang="en">Live with Kelly and Mark</title></programme>
+<programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="DTV8.gy@SD"><title lang="en">The Good Stuff</title></programme>
+<programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="DTV8.gy@SD"><title lang="en">The View</title></programme>
+<programme start="20261120170000 +0000" stop="20261120173000 +0000" channel="DTV8.gy@SD"><title lang="en">News</title></programme>
+<programme start="20261120173000 +0000" stop="20261120183000 +0000" channel="DTV8.gy@SD"><title lang="en">The Young and the Restless</title></programme>
+<programme start="20261120183000 +0000" stop="20261120190000 +0000" channel="DTV8.gy@SD"><title lang="en">The Bold and the Beautiful</title></programme>
+<programme start="20261120190000 +0000" stop="20261120200000 +0000" channel="DTV8.gy@SD"><title lang="en">Beyond the Gates</title></programme>
+<programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="DTV8.gy@SD"><title lang="en">Let’s Make a Deal</title></programme>
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="DTV8.gy@SD"><title lang="en">Early Edition:</title></programme>
+<programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="DTV8.gy@SD"><title lang="en">World News</title></programme>
+<programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="DTV8.gy@SD"><title lang="en">Greetings and Announcements</title></programme>
+<programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="DTV8.gy@SD"><title lang="en">Death Announcements</title></programme>
+<programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="DTV8.gy@SD"><title lang="en">Jeopardy</title></programme>
+<programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="DTV8.gy@SD"><title lang="en">Wheel of Fortune</title></programme>
+<programme start="20261121010000 +0000" stop="20261121023000 +0000" channel="DTV8.gy@SD"><title lang="en">Law &amp; Order Toronto: Criminal Intent:</title></programme>
+<programme start="20261121023000 +0000" stop="20261121040000 +0000" channel="DTV8.gy@SD"><title lang="en">Cupertino:</title></programme>
+<programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign Off</title></programme>
+<programme start="20261121135500 +0000" stop="20261121140000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign On</title></programme>
+<programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="DTV8.gy@SD"><title lang="en">Pokemon</title></programme>
+<programme start="20261121143000 +0000" stop="20261121154200 +0000" channel="DTV8.gy@SD"><title lang="en">Star Wars The Clone Wars</title></programme>
+<programme start="20261121154200 +0000" stop="20261121180000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Harry Potter and the Order of the Phoenix</title></programme>
+<programme start="20261121180000 +0000" stop="20261121203700 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Harry Potter and the Half Blood Prince</title></programme>
+<programme start="20261121203700 +0000" stop="20261121220000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Miracle in Lane 2</title></programme>
+<programme start="20261121220000 +0000" stop="20261121230000 +0000" channel="DTV8.gy@SD"><title lang="en">World News</title></programme>
+<programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="DTV8.gy@SD"><title lang="en">Greeting and Announcements</title></programme>
+<programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="DTV8.gy@SD"><title lang="en">Death Announcements</title></programme>
+<programme start="20261122000000 +0000" stop="20261122010500 +0000" channel="DTV8.gy@SD"><title lang="en">Mistletoe Murders</title></programme>
+<programme start="20261122010500 +0000" stop="20261122033000 +0000" channel="DTV8.gy@SD"><title lang="en">Movie: Bawaal –</title></programme>
+<programme start="20261122033000 +0000" channel="DTV8.gy@SD"><title lang="en">Sign Off</title></programme>
+<programme channel="DTV8.gy@SD"/>
+<programme channel="DTV8.gy@SD"/>
+<programme channel="DTV8.gy@SD"/>
 <programme channel="DTV8.gy@SD"/>
 <programme channel="DTV8.gy@SD"/>
 <programme channel="DTV8.gy@SD"/>
