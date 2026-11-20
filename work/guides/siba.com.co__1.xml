@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261115">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261120">
 <channel id="LasEstrellasLatinAmerica.mx@SD"><display-name>CANAL DE LAS ESTRELLAS</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/></channel>
 <channel id="LifetimeLatinAmerica.us@Panregional"><display-name>LIFETIME</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/></channel>
 <channel id="MTVLatinAmerica.us@Panregional"><display-name>MTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/></channel>
@@ -43,4 +43,1064 @@
 <channel id="WarnerChannel.us@Panregional"><display-name>WARNER CHANNEL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/></channel>
 <channel id="WinSports.co@SD"><display-name>WIN SPORTS</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/></channel>
 <channel id="Zoom.co@SD"><display-name>ZOOM TV</display-name><icon src="https://i.imgur.com/euy5zp6.png"/></channel>
+<programme start="20261120200000 +0000" stop="20261120220000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chavo</title></programme>
+<programme start="20261120220000 +0000" stop="20261120234000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi Corazón Es Tuyo</title></programme>
+<programme start="20261120234000 +0000" stop="20261121003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Infinito Amor</title></programme>
+<programme start="20261121003000 +0000" stop="20261121012000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261121012000 +0000" stop="20261121021000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261121021000 +0000" stop="20261121030000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title></programme>
+<programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title></programme>
+<programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">En Punto Con Enrique Acevedo</title></programme>
+<programme start="20261121050000 +0000" stop="20261121052500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Bola De Locos</title></programme>
+<programme start="20261121052500 +0000" stop="20261121055000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Por Confirmar</title></programme>
+<programme start="20261121055000 +0000" stop="20261121061500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Relatos Macabrones</title></programme>
+<programme start="20261121061500 +0000" stop="20261121080000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261121080000 +0000" stop="20261121120500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261121120500 +0000" stop="20261121134500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Cine Familiar I</title></programme>
+<programme start="20261121134500 +0000" stop="20261121153000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Cine Familiar II</title></programme>
+<programme start="20261121153000 +0000" stop="20261121171000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261121171000 +0000" stop="20261121185500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chapulín Colorado</title></programme>
+<programme start="20261121185500 +0000" stop="20261121201000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mita Y Mita</title></programme>
+<programme start="20261121201000 +0000" stop="20261121210500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Pantera</title></programme>
+<programme start="20261121210500 +0000" stop="20261121224500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261121210500 +0000" stop="20261121224500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261121224500 +0000" stop="20261122003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Juego De Voces</title></programme>
+<programme start="20261122003000 +0000" stop="20261122012000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Ellas Soy Yo</title></programme>
+<programme start="20261122012000 +0000" stop="20261122021000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261122021000 +0000" stop="20261122030000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi Querida Herencia</title></programme>
+<programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261122050000 +0000" stop="20261122052500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Bola De Locos</title></programme>
+<programme start="20261122052500 +0000" stop="20261122055000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Por Confirmar</title></programme>
+<programme start="20261122055000 +0000" stop="20261122061500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Relatos Macabrones</title></programme>
+<programme start="20261122061500 +0000" stop="20261122080000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261122080000 +0000" stop="20261122120500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261122120500 +0000" stop="20261122134500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Película Especial I</title></programme>
+<programme start="20261122134500 +0000" stop="20261122153000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Película Especial II</title></programme>
+<programme start="20261122153000 +0000" stop="20261122171000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261122171000 +0000" stop="20261122185500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chavo</title></programme>
+<programme start="20261122185500 +0000" stop="20261122192000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tú Crees?</title></programme>
+<programme start="20261122192000 +0000" stop="20261122194500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Una Familia De Diez</title></programme>
+<programme start="20261122194500 +0000" stop="20261122201000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Más Vale Sola</title></programme>
+<programme start="20261122201000 +0000" stop="20261122210500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Pantera</title></programme>
+<programme start="20261122210500 +0000" stop="20261122224500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261122210500 +0000" stop="20261122224500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261122224500 +0000" stop="20261123003000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Juego De Voces</title></programme>
+<programme start="20261123003000 +0000" stop="20261123012000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Ellas Soy Yo</title></programme>
+<programme start="20261123012000 +0000" stop="20261123021000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261123021000 +0000" stop="20261123030000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261123030000 +0000" stop="20261123040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi Querida Herencia</title></programme>
+<programme start="20261123040000 +0000" stop="20261123050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261123050000 +0000" stop="20261123060000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Laura Sin Censura</title></programme>
+<programme start="20261123060000 +0000" stop="20261123074000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi Corazón Es Tuyo</title></programme>
+<programme start="20261123074000 +0000" stop="20261123083000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261123083000 +0000" stop="20261123092000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261123092000 +0000" stop="20261123111000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer Casos De La Vida Real</title></programme>
+<programme start="20261123111000 +0000" stop="20261123120000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Las Noticias</title></programme>
+<programme start="20261123130000 +0000" stop="20261123150000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Despierta</title></programme>
+<programme start="20261123150000 +0000" stop="20261123155000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261123155000 +0000" stop="20261123164000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Infinito Amor</title></programme>
+<programme start="20261123164000 +0000" stop="20261123173000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20261123173000 +0000" stop="20261123182000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Tan Cerca De Ti, Nace El Amor</title></programme>
+<programme start="20261123182000 +0000" stop="20261123191000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Guardián De Mi Vida</title></programme>
+<programme start="20261123191000 +0000" stop="20261123200000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como Dice El Dicho</title></programme>
+<programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chavo</title></programme>
+<programme start="20261120211000 +0000" stop="20261120224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Hotel Navidad</title></programme>
+<programme start="20261120224000 +0000" stop="20261121002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Navidad En El Lejano Oeste</title></programme>
+<programme start="20261121002000 +0000" stop="20261121020000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Propósito De Navidad</title></programme>
+<programme start="20261121020000 +0000" stop="20261121034000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Luz. Cámara. Navidad!</title></programme>
+<programme start="20261121034000 +0000" stop="20261121052000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">El Regalo De Navidad</title></programme>
+<programme start="20261121052000 +0000" stop="20261121065500 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Temporada De Amor</title></programme>
+<programme start="20261121065500 +0000" stop="20261121083000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Luz. Cámara. Navidad!</title></programme>
+<programme start="20261121083000 +0000" stop="20261121100000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Navidad En El Lejano Oeste</title></programme>
+<programme start="20261121100000 +0000" stop="20261121110000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261121140000 +0000" stop="20261121153000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">El Regalo De Navidad</title></programme>
+<programme start="20261121153000 +0000" stop="20261121170000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Hotel Navidad</title></programme>
+<programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261121180000 +0000" stop="20261121193000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Luz. Cámara. Navidad!</title></programme>
+<programme start="20261121193000 +0000" stop="20261121210000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Navidad En El Lejano Oeste</title></programme>
+<programme start="20261121210000 +0000" stop="20261121224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Reservación Para Navidad</title></programme>
+<programme start="20261121210000 +0000" stop="20261121224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Reservación Para Navidad</title></programme>
+<programme start="20261121224000 +0000" stop="20261122002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">La Estafa De Santa</title></programme>
+<programme start="20261122002000 +0000" stop="20261122020000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Un Príncipe Para La Navidad</title></programme>
+<programme start="20261122020000 +0000" stop="20261122034000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Navidad Europea</title></programme>
+<programme start="20261122034000 +0000" stop="20261122052000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Acción Para Navidad</title></programme>
+<programme start="20261122052000 +0000" stop="20261122065500 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Navidad Inesperada</title></programme>
+<programme start="20261122065500 +0000" stop="20261122082500 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Un Príncipe Para La Navidad</title></programme>
+<programme start="20261122082500 +0000" stop="20261122100000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Navidad Europea</title></programme>
+<programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261122140000 +0000" stop="20261122153000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Reservación Para Navidad</title></programme>
+<programme start="20261122153000 +0000" stop="20261122170000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">La Estafa De Santa</title></programme>
+<programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Dulce Amor Para Navidad</title></programme>
+<programme start="20261122180000 +0000" stop="20261122193000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Un Príncipe Para La Navidad</title></programme>
+<programme start="20261122193000 +0000" stop="20261122210000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Los Doce Árboles De Navidad</title></programme>
+<programme start="20261122210000 +0000" stop="20261122224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Real Navidad Corgi</title></programme>
+<programme start="20261122210000 +0000" stop="20261122224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Real Navidad Corgi</title></programme>
+<programme start="20261122224000 +0000" stop="20261123002000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Navidad En El Lejano Oeste</title></programme>
+<programme start="20261123002000 +0000" stop="20261123020000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Navidad Europea</title></programme>
+<programme start="20261123020000 +0000" stop="20261123034000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">El Tintineo Del Amor</title></programme>
+<programme start="20261123034000 +0000" stop="20261123052000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Cuatro Navidades Y Un Amor</title></programme>
+<programme start="20261123052000 +0000" stop="20261123065500 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Papá Navidad</title></programme>
+<programme start="20261123065500 +0000" stop="20261123083000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Real Navidad Corgi</title></programme>
+<programme start="20261123083000 +0000" stop="20261123100000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">El Tintineo Del Amor</title></programme>
+<programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261123110000 +0000" stop="20261123120000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Dulce Amor Para Navidad</title></programme>
+<programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Infomerciales</title></programme>
+<programme start="20261123140000 +0000" stop="20261123153000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Una Real Navidad Corgi</title></programme>
+<programme start="20261123153000 +0000" stop="20261123170000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Navidad En El Lejano Oeste</title></programme>
+<programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Amor En Navidad</title></programme>
+<programme start="20261123180000 +0000" stop="20261123193000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Hotel Navidad</title></programme>
+<programme start="20261123193000 +0000" stop="20261123211000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Temporada De Amor</title></programme>
+<programme start="20261123211000 +0000" stop="20261123224000 +0000" channel="LifetimeLatinAmerica.us@Panregional"><title lang="es">Un Reencuentro Navideño</title></programme>
+<programme start="20261120193500 +0000" stop="20261120212500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Yo Soy Zlatan</title></programme>
+<programme start="20261120212500 +0000" stop="20261120231000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Amor Y Muerte En Venecia</title></programme>
+<programme start="20261120231000 +0000" stop="20261121012500 +0000" channel="MultiPremier.mx@SD"><title lang="es">La Lucha De Un Guerrero</title></programme>
+<programme start="20261121012500 +0000" stop="20261121030000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Doble Identidad</title></programme>
+<programme start="20261121030000 +0000" stop="20261121045000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Cariño, Cuánto Te Odio</title></programme>
+<programme start="20261121045000 +0000" stop="20261121064500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Cómo Satisfacer A Una Mujer</title></programme>
+<programme start="20261121064500 +0000" stop="20261121080500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Nuestros Días De Universidad</title></programme>
+<programme start="20261121080500 +0000" stop="20261121101500 +0000" channel="MultiPremier.mx@SD"><title lang="es">La Lucha De Un Guerrero</title></programme>
+<programme start="20261121101500 +0000" stop="20261121120000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Yo Soy Zlatan</title></programme>
+<programme start="20261121120000 +0000" stop="20261121141500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Sin Culpa</title></programme>
+<programme start="20261121141500 +0000" stop="20261121160500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Mi Vecino Adolf</title></programme>
+<programme start="20261121160500 +0000" stop="20261121175000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Genio Diabólico</title></programme>
+<programme start="20261121175000 +0000" stop="20261121193000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Avalancha De Amor</title></programme>
+<programme start="20261121193000 +0000" stop="20261121215000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Sin Culpa</title></programme>
+<programme start="20261121193000 +0000" stop="20261121215000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Sin Culpa</title></programme>
+<programme start="20261121215000 +0000" stop="20261121233500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Mi Vecino Adolf</title></programme>
+<programme start="20261121233500 +0000" stop="20261122012000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El Genio Diabólico</title></programme>
+<programme start="20261122012000 +0000" stop="20261122030000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Avalancha De Amor</title></programme>
+<programme start="20261122030000 +0000" stop="20261122051500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Amigos Por Siempre</title></programme>
+<programme start="20261122051500 +0000" stop="20261122072000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Virginia</title></programme>
+<programme start="20261122072000 +0000" stop="20261122083500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Magia Sexual</title></programme>
+<programme start="20261122083500 +0000" stop="20261122101000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Avalancha De Amor</title></programme>
+<programme start="20261122101000 +0000" stop="20261122120000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Mi Vecino Adolf</title></programme>
+<programme start="20261122120000 +0000" stop="20261122134000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El 4° Mosquetero</title></programme>
+<programme start="20261122134000 +0000" stop="20261122151000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Kraken En El Cielo</title></programme>
+<programme start="20261122151000 +0000" stop="20261122165000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Juego Perfecto</title></programme>
+<programme start="20261122165000 +0000" stop="20261122184000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Vivir Entre Fuegos</title></programme>
+<programme start="20261122184000 +0000" stop="20261122202000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El 4° Mosquetero</title></programme>
+<programme start="20261122202000 +0000" stop="20261122214500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Kraken En El Cielo</title></programme>
+<programme start="20261122202000 +0000" stop="20261122214500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Kraken En El Cielo</title></programme>
+<programme start="20261122214500 +0000" stop="20261122233000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Juego Perfecto</title></programme>
+<programme start="20261122233000 +0000" stop="20261123012000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Vivir Entre Fuegos</title></programme>
+<programme start="20261123012000 +0000" stop="20261123030000 +0000" channel="MultiPremier.mx@SD"><title lang="es">El 4° Mosquetero</title></programme>
+<programme start="20261123030000 +0000" stop="20261123051000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Judy</title></programme>
+<programme start="20261123051000 +0000" stop="20261123072000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Judy</title></programme>
+<programme start="20261123072000 +0000" stop="20261123083500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Lee Mis Labios</title></programme>
+<programme start="20261123083500 +0000" stop="20261123101000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Juego Perfecto</title></programme>
+<programme start="20261123101000 +0000" stop="20261123120000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Vivir Entre Fuegos</title></programme>
+<programme start="20261123120000 +0000" stop="20261123134000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Excluidos</title></programme>
+<programme start="20261123134000 +0000" stop="20261123155500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Un Camino De Fe</title></programme>
+<programme start="20261123155500 +0000" stop="20261123174500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Camino A La Libertad</title></programme>
+<programme start="20261123174500 +0000" stop="20261123193000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Yo Soy Zlatan</title></programme>
+<programme start="20261123193000 +0000" stop="20261123211000 +0000" channel="MultiPremier.mx@SD"><title lang="es">Excluidos</title></programme>
+<programme start="20261123211000 +0000" stop="20261123232500 +0000" channel="MultiPremier.mx@SD"><title lang="es">Un Camino De Fe</title></programme>
+<programme start="20261120205600 +0000" stop="20261120215800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Tesoros Perdidos De Egipto</title></programme>
+<programme start="20261120215800 +0000" stop="20261120225800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto: Madrid</title></programme>
+<programme start="20261120225800 +0000" stop="20261120235900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261120235900 +0000" stop="20261121010100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Lobos De Cerca Con Bertie Gregory</title></programme>
+<programme start="20261121010100 +0000" stop="20261121020400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Salvajemente Famosos</title></programme>
+<programme start="20261121020400 +0000" stop="20261121030600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Solo Contra El Mundo: Cruce De Los Andes</title></programme>
+<programme start="20261121030600 +0000" stop="20261121040600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261121040600 +0000" stop="20261121050600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Salvajemente Famosos El Desafìo</title></programme>
+<programme start="20261121050600 +0000" stop="20261121055000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261121055000 +0000" stop="20261121063700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261121063700 +0000" stop="20261121072100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sólo Contra El Mundo</title></programme>
+<programme start="20261121072100 +0000" stop="20261121080500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261121080500 +0000" stop="20261121084900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261121084900 +0000" stop="20261121093600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261121093600 +0000" stop="20261121100000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261121100000 +0000" stop="20261121103600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261121103600 +0000" stop="20261121113900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261121113900 +0000" stop="20261121124000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261121124000 +0000" stop="20261121134000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261121134000 +0000" stop="20261121144100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261121144100 +0000" stop="20261121154100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos</title></programme>
+<programme start="20261121154100 +0000" stop="20261121163900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Expedicion</title></programme>
+<programme start="20261121163900 +0000" stop="20261121173700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Dr. K: Animales Exóticos</title></programme>
+<programme start="20261121173700 +0000" stop="20261121183800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Yukon Vet</title></programme>
+<programme start="20261121183800 +0000" stop="20261121193700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Amistades Insolitas 5</title></programme>
+<programme start="20261121193700 +0000" stop="20261121203800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261121203800 +0000" stop="20261121213800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Coliseo: Ascenso Y Caida</title></programme>
+<programme start="20261121203800 +0000" stop="20261121213800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Coliseo: Ascenso Y Caida</title></programme>
+<programme start="20261121213800 +0000" stop="20261121223700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secretos De Cuerpos Antiguos</title></programme>
+<programme start="20261121223700 +0000" stop="20261122000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">El Ultimo Secreto De Cleopatra</title></programme>
+<programme start="20261122000000 +0000" stop="20261122005700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Expedicion</title></programme>
+<programme start="20261122005700 +0000" stop="20261122015900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Animales Viajeros</title></programme>
+<programme start="20261122015900 +0000" stop="20261122025400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secretos De Los Pulpos</title></programme>
+<programme start="20261122025400 +0000" stop="20261122035500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto Sao Paulo</title></programme>
+<programme start="20261122035500 +0000" stop="20261122045600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261122045600 +0000" stop="20261122054000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261122054000 +0000" stop="20261122062700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261122062700 +0000" stop="20261122071100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sólo Contra El Mundo</title></programme>
+<programme start="20261122071100 +0000" stop="20261122075500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261122075500 +0000" stop="20261122083800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261122083800 +0000" stop="20261122092500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261122092500 +0000" stop="20261122100000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261122100000 +0000" stop="20261122105900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Tesoros Perdidos De Egipto</title></programme>
+<programme start="20261122105900 +0000" stop="20261122115400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261122115400 +0000" stop="20261122125500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261122125500 +0000" stop="20261122135500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261122135500 +0000" stop="20261122145500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos - Aventuras Extremas</title></programme>
+<programme start="20261122145500 +0000" stop="20261122155600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Los Mejores Trenes De La Historia</title></programme>
+<programme start="20261122155600 +0000" stop="20261122165700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Parques Nacionales De Estados Unidos</title></programme>
+<programme start="20261122165700 +0000" stop="20261122175800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Restaurantes Del Fin Del Mundo</title></programme>
+<programme start="20261122175800 +0000" stop="20261122185900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sabores Caseros Con Antoni Porowski</title></programme>
+<programme start="20261122185900 +0000" stop="20261122200400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Lo Mejor Del Mundo Con Antoni Porowski</title></programme>
+<programme start="20261122200400 +0000" stop="20261122210700 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secretos Perdidos De Chichén Itzá</title></programme>
+<programme start="20261122210700 +0000" stop="20261122225900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Blink</title></programme>
+<programme start="20261122210700 +0000" stop="20261122225900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Blink</title></programme>
+<programme start="20261122225900 +0000" stop="20261123000000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">El Pan: Conexion Cultural</title></programme>
+<programme start="20261123000000 +0000" stop="20261123005800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">David Blaine: La Magia De Lo Inesperado</title></programme>
+<programme start="20261123005800 +0000" stop="20261123021500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Photographer</title></programme>
+<programme start="20261123021500 +0000" stop="20261123031400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Animales Viajeros</title></programme>
+<programme start="20261123031400 +0000" stop="20261123041500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261123041500 +0000" stop="20261123051500 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto: Madrid</title></programme>
+<programme start="20261123051500 +0000" stop="20261123055900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261123055900 +0000" stop="20261123064600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261123064600 +0000" stop="20261123073000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sólo Contra El Mundo</title></programme>
+<programme start="20261123073000 +0000" stop="20261123081400 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261123081400 +0000" stop="20261123085900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261123085900 +0000" stop="20261123100000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261123100000 +0000" stop="20261123104600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Hacia Lo Desconocido</title></programme>
+<programme start="20261123104600 +0000" stop="20261123114900 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261123114900 +0000" stop="20261123125000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261123125000 +0000" stop="20261123135000 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261123135000 +0000" stop="20261123145100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Alerta Aeropuerto</title></programme>
+<programme start="20261123145100 +0000" stop="20261123155200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Gordon Ramsay: Sabores Extremos - Aventuras Extremas</title></programme>
+<programme start="20261123155200 +0000" stop="20261123165100 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Salvajemente Famosos</title></programme>
+<programme start="20261123165100 +0000" stop="20261123175200 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Sólo Contra El Mundo</title></programme>
+<programme start="20261123175200 +0000" stop="20261123185300 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Mayday: Catástrofes Aéreas</title></programme>
+<programme start="20261123185300 +0000" stop="20261123195600 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Secreto En Los Océanos</title></programme>
+<programme start="20261123195600 +0000" stop="20261123205800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Ciudades Encontradas Con Albert Lin</title></programme>
+<programme start="20261123205800 +0000" stop="20261123215800 +0000" channel="NationalGeographicLatinAmerica.us@Panregional"><title lang="es">Tesoros Perdidos De Egipto</title></programme>
+<programme start="20261120210000 +0000" stop="20261120230000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde</title></programme>
+<programme start="20261120230000 +0000" stop="20261121000000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo Usa</title></programme>
+<programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="NTN24.co@SD"><title lang="es">El Punto Clave De La Noticia</title></programme>
+<programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261121040000 +0000" stop="20261121050000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261121060000 +0000" stop="20261121080000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde Viernes</title></programme>
+<programme start="20261121080000 +0000" stop="20261121090000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo Usa</title></programme>
+<programme start="20261121100000 +0000" stop="20261121110000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="NTN24.co@SD"><title lang="es">Mujeres De Ataque</title></programme>
+<programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="NTN24.co@SD"><title lang="es">Click Verde</title></programme>
+<programme start="20261121140000 +0000" stop="20261121150000 +0000" channel="NTN24.co@SD"><title lang="es">Exclusivas Ntn24</title></programme>
+<programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="NTN24.co@SD"><title lang="es">Lo Mejor De Efecto Naím</title></programme>
+<programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="NTN24.co@SD"><title lang="es">Click Verde</title></programme>
+<programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261121180000 +0000" stop="20261121200000 +0000" channel="NTN24.co@SD"><title lang="es">Club De Prensa</title></programme>
+<programme start="20261121200000 +0000" stop="20261121210000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo Usa</title></programme>
+<programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde Fds</title></programme>
+<programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde Fds</title></programme>
+<programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="NTN24.co@SD"><title lang="es">Mesa De Periodistas</title></programme>
+<programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="NTN24.co@SD"><title lang="es">Razón De Estado</title></programme>
+<programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="NTN24.co@SD"><title lang="es">Nuestra Tele Deportes</title></programme>
+<programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261122030000 +0000" stop="20261122033000 +0000" channel="NTN24.co@SD"><title lang="es">Lo Mejor De Efecto Naím</title></programme>
+<programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="NTN24.co@SD"><title lang="es">Click Verde</title></programme>
+<programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="NTN24.co@SD"><title lang="es">Nuestra Tele Deportes</title></programme>
+<programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="NTN24.co@SD"><title lang="es">Exclusivas Ntn24</title></programme>
+<programme start="20261122060000 +0000" stop="20261122080000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde Sábado</title></programme>
+<programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="NTN24.co@SD"><title lang="es">Exclusivas Ntn24</title></programme>
+<programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo Usa</title></programme>
+<programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="NTN24.co@SD"><title lang="es">Nuestra Tele Deportes</title></programme>
+<programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde</title></programme>
+<programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="NTN24.co@SD"><title lang="es">Entrevista Tomás Mosciatti</title></programme>
+<programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="NTN24.co@SD"><title lang="es">Click Verde</title></programme>
+<programme start="20261122150000 +0000" stop="20261122160000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde</title></programme>
+<programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261122180000 +0000" stop="20261122200000 +0000" channel="NTN24.co@SD"><title lang="es">Club De Prensa</title></programme>
+<programme start="20261122200000 +0000" stop="20261122210000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo Usa</title></programme>
+<programme start="20261122210000 +0000" stop="20261122230000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde Fds</title></programme>
+<programme start="20261122210000 +0000" stop="20261122230000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde Fds</title></programme>
+<programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="NTN24.co@SD"><title lang="es">Mesa De Periodistas</title></programme>
+<programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="NTN24.co@SD"><title lang="es">Razón De Estado</title></programme>
+<programme start="20261123000000 +0000" stop="20261123010000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="NTN24.co@SD"><title lang="es">Nuestra Tele Deportes</title></programme>
+<programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="NTN24.co@SD"><title lang="es">Cómo Están? Los Protagonistas</title></programme>
+<programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="NTN24.co@SD"><title lang="es">El Punto Clave De La Noticia</title></programme>
+<programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="NTN24.co@SD"><title lang="es">Entrevista Tomás Mosciatti</title></programme>
+<programme start="20261123043000 +0000" stop="20261123060000 +0000" channel="NTN24.co@SD"><title lang="es">Lo Mejor De Efecto Naím</title></programme>
+<programme start="20261123060000 +0000" stop="20261123063000 +0000" channel="NTN24.co@SD"><title lang="es">Final Concurso Nacional De Oratoria</title></programme>
+<programme start="20261123063000 +0000" stop="20261123083000 +0000" channel="NTN24.co@SD"><title lang="es">Nacional Oratoria Panamá 2026</title></programme>
+<programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="NTN24.co@SD"><title lang="es">Click Verde</title></programme>
+<programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="NTN24.co@SD"><title lang="es">Exclusivas Ntn24</title></programme>
+<programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="NTN24.co@SD"><title lang="es">La Noche</title></programme>
+<programme start="20261123110000 +0000" stop="20261123120000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo Usa</title></programme>
+<programme start="20261123120000 +0000" stop="20261123123000 +0000" channel="NTN24.co@SD"><title lang="es">Razón De Estado</title></programme>
+<programme start="20261123123000 +0000" stop="20261123130000 +0000" channel="NTN24.co@SD"><title lang="es">Mesa De Periodistas</title></programme>
+<programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="NTN24.co@SD"><title lang="es">Exclusivas Ntn24</title></programme>
+<programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="NTN24.co@SD"><title lang="es">Cómo Están? Los Protagonistas</title></programme>
+<programme start="20261123143000 +0000" stop="20261123150000 +0000" channel="NTN24.co@SD"><title lang="es">El Punto Clave De La Noticia</title></programme>
+<programme start="20261123150000 +0000" stop="20261123170000 +0000" channel="NTN24.co@SD"><title lang="es">La Mañana</title></programme>
+<programme start="20261123170000 +0000" stop="20261123190000 +0000" channel="NTN24.co@SD"><title lang="es">El Informativo</title></programme>
+<programme start="20261123190000 +0000" stop="20261123210000 +0000" channel="NTN24.co@SD"><title lang="es">Club De Prensa</title></programme>
+<programme start="20261123210000 +0000" stop="20261123230000 +0000" channel="NTN24.co@SD"><title lang="es">La Tarde</title></programme>
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261120230000 +0000" stop="20261121000000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121040000 +0000" stop="20261121050000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261121070000 +0000" stop="20261121080000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261121080000 +0000" stop="20261121090000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261121100000 +0000" stop="20261121110000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261121140000 +0000" stop="20261121150000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121190000 +0000" stop="20261121200000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261121200000 +0000" stop="20261121210000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261121210000 +0000" stop="20261121220000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261121210000 +0000" stop="20261121220000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261121220000 +0000" stop="20261121230000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261121230000 +0000" stop="20261122000000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122070000 +0000" stop="20261122080000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261122150000 +0000" stop="20261122160000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">En Contacto Con El Dr.charles Stanley</title></programme>
+<programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261122180000 +0000" stop="20261122190000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261122190000 +0000" stop="20261122200000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261122200000 +0000" stop="20261122210000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122220000 +0000" stop="20261122230000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261122230000 +0000" stop="20261123000000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261123000000 +0000" stop="20261123010000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261123030000 +0000" stop="20261123040000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261123040000 +0000" stop="20261123050000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261123050000 +0000" stop="20261123060000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261123060000 +0000" stop="20261123070000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261123070000 +0000" stop="20261123080000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261123080000 +0000" stop="20261123090000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261123110000 +0000" stop="20261123120000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261123140000 +0000" stop="20261123150000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261123160000 +0000" stop="20261123170000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Rosa Diamante</title></programme>
+<programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Corona De Lagrimas</title></programme>
+<programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Bahar</title></programme>
+<programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">La Chica Del Momento</title></programme>
+<programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Tres Hermanas</title></programme>
+<programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="PasionesLatinAmerica.us@SD"><title lang="es">Mi Adorado Encuentro</title></programme>
+<programme start="20261120202100 +0000" stop="20261120220200 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120220200 +0000" stop="20261120233900 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120233900 +0000" stop="20261121010200 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121010200 +0000" stop="20261121025500 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121025500 +0000" stop="20261121042700 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121042700 +0000" stop="20261121060700 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121060700 +0000" stop="20261121074800 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121074800 +0000" stop="20261121090000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121090000 +0000" stop="20261121103600 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121103600 +0000" stop="20261121121400 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121121400 +0000" stop="20261121135600 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121135600 +0000" stop="20261121154000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121154000 +0000" stop="20261121171000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121171000 +0000" stop="20261121184600 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121184600 +0000" stop="20261121201700 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121201700 +0000" stop="20261121214600 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121201700 +0000" stop="20261121214600 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121214600 +0000" stop="20261121232700 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121232700 +0000" stop="20261122011300 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122011300 +0000" stop="20261122025800 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122025800 +0000" stop="20261122044500 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122044500 +0000" stop="20261122063000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122063000 +0000" stop="20261122080400 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122080400 +0000" stop="20261122090000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122090000 +0000" stop="20261122103700 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122103700 +0000" stop="20261122121900 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122121900 +0000" stop="20261122141200 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122141200 +0000" stop="20261122154600 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122154600 +0000" stop="20261122171500 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122171500 +0000" stop="20261122185200 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122185200 +0000" stop="20261122202900 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122202900 +0000" stop="20261122221000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122202900 +0000" stop="20261122221000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122221000 +0000" stop="20261122234500 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122234500 +0000" stop="20261123010300 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123010300 +0000" stop="20261123030600 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123030600 +0000" stop="20261123043800 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123043800 +0000" stop="20261123061400 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123061400 +0000" stop="20261123075400 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123075400 +0000" stop="20261123090000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123090000 +0000" stop="20261123103400 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123103400 +0000" stop="20261123121700 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123121700 +0000" stop="20261123135400 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123135400 +0000" stop="20261123153200 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123153200 +0000" stop="20261123172000 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123172000 +0000" stop="20261123190300 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123190300 +0000" stop="20261123204400 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123204400 +0000" stop="20261123222500 +0000" channel="PenthouseTV.us@SD"><title lang="es">Penthouse (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120210600 +0000" stop="20261120213000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120213000 +0000" stop="20261120215400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120215400 +0000" stop="20261120233600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120233600 +0000" stop="20261121000000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121000000 +0000" stop="20261121002400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121002400 +0000" stop="20261121004800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121004800 +0000" stop="20261121011200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121011200 +0000" stop="20261121013600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121013600 +0000" stop="20261121020000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121020000 +0000" stop="20261121022400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121022400 +0000" stop="20261121024800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121024800 +0000" stop="20261121041800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121041800 +0000" stop="20261121044200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121044200 +0000" stop="20261121050600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121050600 +0000" stop="20261121053000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121053000 +0000" stop="20261121055400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121055400 +0000" stop="20261121061800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121061800 +0000" stop="20261121064200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121064200 +0000" stop="20261121070600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121070600 +0000" stop="20261121073000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121073000 +0000" stop="20261121090000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121090000 +0000" stop="20261121103000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121103000 +0000" stop="20261121105400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121105400 +0000" stop="20261121111700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121111700 +0000" stop="20261121113800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121113800 +0000" stop="20261121120200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121120200 +0000" stop="20261121122600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121122600 +0000" stop="20261121125000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121125000 +0000" stop="20261121142000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121142000 +0000" stop="20261121155000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121155000 +0000" stop="20261121161600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121161600 +0000" stop="20261121164100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121164100 +0000" stop="20261121170400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121170400 +0000" stop="20261121172700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121172700 +0000" stop="20261121175100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121175100 +0000" stop="20261121181700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121181700 +0000" stop="20261121184100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121184100 +0000" stop="20261121190200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121190200 +0000" stop="20261121192600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121192600 +0000" stop="20261121195000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121195000 +0000" stop="20261121201400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121201400 +0000" stop="20261121203800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121203800 +0000" stop="20261121210300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121210300 +0000" stop="20261121212600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121210300 +0000" stop="20261121212600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121212600 +0000" stop="20261121225600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121225600 +0000" stop="20261121232000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121232000 +0000" stop="20261121234400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121234400 +0000" stop="20261122000800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122000800 +0000" stop="20261122003200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122003200 +0000" stop="20261122005800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122005800 +0000" stop="20261122022800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122022800 +0000" stop="20261122025100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122025100 +0000" stop="20261122031700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122031700 +0000" stop="20261122034100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122034100 +0000" stop="20261122040400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122040400 +0000" stop="20261122042800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122042800 +0000" stop="20261122045300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122045300 +0000" stop="20261122051600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122051600 +0000" stop="20261122064600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122064600 +0000" stop="20261122073200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122073200 +0000" stop="20261122082200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122082200 +0000" stop="20261122090000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122090000 +0000" stop="20261122103000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122103000 +0000" stop="20261122105600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122105600 +0000" stop="20261122112200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122112200 +0000" stop="20261122114800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122114800 +0000" stop="20261122121200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122121200 +0000" stop="20261122123700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122123700 +0000" stop="20261122130000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122130000 +0000" stop="20261122143000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122143000 +0000" stop="20261122160000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122160000 +0000" stop="20261122162400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122162400 +0000" stop="20261122164800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122164800 +0000" stop="20261122171200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122171200 +0000" stop="20261122173600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122173600 +0000" stop="20261122175900 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122175900 +0000" stop="20261122182300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122182300 +0000" stop="20261122184900 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122184900 +0000" stop="20261122191500 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122191500 +0000" stop="20261122193700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122193700 +0000" stop="20261122200100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122200100 +0000" stop="20261122202500 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122202500 +0000" stop="20261122204800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122204800 +0000" stop="20261122211300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122211300 +0000" stop="20261122213700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122211300 +0000" stop="20261122213700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122213700 +0000" stop="20261122230700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122230700 +0000" stop="20261122233100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122233100 +0000" stop="20261122235500 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122235500 +0000" stop="20261123001900 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123001900 +0000" stop="20261123004300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123004300 +0000" stop="20261123010700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123010700 +0000" stop="20261123013100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123013100 +0000" stop="20261123015500 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123015500 +0000" stop="20261123021900 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123021900 +0000" stop="20261123024300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123024300 +0000" stop="20261123030700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123030700 +0000" stop="20261123043700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123043700 +0000" stop="20261123050300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123050300 +0000" stop="20261123052700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123052700 +0000" stop="20261123055100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123055100 +0000" stop="20261123061500 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123061500 +0000" stop="20261123064000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123064000 +0000" stop="20261123070300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123070300 +0000" stop="20261123072700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123072700 +0000" stop="20261123090000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123090000 +0000" stop="20261123103000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123103000 +0000" stop="20261123111800 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123111800 +0000" stop="20261123114200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123114200 +0000" stop="20261123120700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123120700 +0000" stop="20261123123200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123123200 +0000" stop="20261123125600 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123125600 +0000" stop="20261123132000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123132000 +0000" stop="20261123145000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123145000 +0000" stop="20261123162000 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123162000 +0000" stop="20261123164400 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123164400 +0000" stop="20261123170900 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123170900 +0000" stop="20261123173100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123173100 +0000" stop="20261123175300 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123175300 +0000" stop="20261123181700 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123181700 +0000" stop="20261123184100 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123184100 +0000" stop="20261123192900 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123192900 +0000" stop="20261123195500 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123195500 +0000" stop="20261123201900 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123201900 +0000" stop="20261123204200 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123204200 +0000" stop="20261123212500 +0000" channel="PlayboyTVLatinAmerica.us@SD"><title lang="es">Playboy (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Lala´s Spa</title></programme>
+<programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Así Es La Vida</title></programme>
+<programme start="20261120230000 +0000" stop="20261121000000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Las Santísimas</title></programme>
+<programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="RCNNovelas.co@SD"><title lang="es">El Joe</title></programme>
+<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Francisco El Matemático</title></programme>
+<programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Chepe Fortuna</title></programme>
+<programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Lala´s Spa</title></programme>
+<programme start="20261121040000 +0000" stop="20261121050000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Así Es La Vida</title></programme>
+<programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Las Santísimas</title></programme>
+<programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="RCNNovelas.co@SD"><title lang="es">El Joe</title></programme>
+<programme start="20261121070000 +0000" stop="20261121080000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Francisco El Matemático</title></programme>
+<programme start="20261121080000 +0000" stop="20261121130000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Chepe Fortuna</title></programme>
+<programme start="20261121130000 +0000" stop="20261121180000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Lala´s Spa</title></programme>
+<programme start="20261121180000 +0000" stop="20261121230000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Las Santísimas</title></programme>
+<programme start="20261121180000 +0000" stop="20261121230000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Las Santísimas</title></programme>
+<programme start="20261121230000 +0000" stop="20261122040000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Francisco El Matemático</title></programme>
+<programme start="20261122040000 +0000" stop="20261122090000 +0000" channel="RCNNovelas.co@SD"><title lang="es">El Joe</title></programme>
+<programme start="20261122090000 +0000" stop="20261122130000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Las Santísimas</title></programme>
+<programme start="20261122130000 +0000" stop="20261122180000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Francisco El Matemático</title></programme>
+<programme start="20261122180000 +0000" stop="20261122230000 +0000" channel="RCNNovelas.co@SD"><title lang="es">El Joe</title></programme>
+<programme start="20261122180000 +0000" stop="20261122230000 +0000" channel="RCNNovelas.co@SD"><title lang="es">El Joe</title></programme>
+<programme start="20261122230000 +0000" stop="20261123040000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Lala´s Spa</title></programme>
+<programme start="20261123040000 +0000" stop="20261123050000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Así Es La Vida</title></programme>
+<programme start="20261123050000 +0000" stop="20261123090000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Así Es La Vida</title></programme>
+<programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Lala´s Spa</title></programme>
+<programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Así Es La Vida</title></programme>
+<programme start="20261123110000 +0000" stop="20261123120000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Las Santísimas</title></programme>
+<programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="RCNNovelas.co@SD"><title lang="es">El Joe</title></programme>
+<programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Francisco El Matemático</title></programme>
+<programme start="20261123140000 +0000" stop="20261123150000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Chepe Fortuna</title></programme>
+<programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Lala´s Spa</title></programme>
+<programme start="20261123160000 +0000" stop="20261123170000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Así Es La Vida</title></programme>
+<programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Las Santísimas</title></programme>
+<programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="RCNNovelas.co@SD"><title lang="es">El Joe</title></programme>
+<programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Francisco El Matemático</title></programme>
+<programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Chepe Fortuna</title></programme>
+<programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="RCNNovelas.co@SD"><title lang="es">Lala´s Spa</title></programme>
+<programme start="20261120200000 +0000" stop="20261120220000 +0000" channel="RedPlus.co@SD"><title lang="es">Magazine Un Cafe Claro</title></programme>
+<programme start="20261120220000 +0000" stop="20261120234500 +0000" channel="RedPlus.co@SD"><title lang="es">TARDE PERO LLEGO</title></programme>
+<programme start="20261120234500 +0000" stop="20261121000000 +0000" channel="RedPlus.co@SD"><title lang="es">AVANCES RED+ NOTICIAS INTERNACIONAL</title></programme>
+<programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="RedPlus.co@SD"><title lang="es">Red+Noticias 19:00</title></programme>
+<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="RedPlus.co@SD"><title lang="es">15 Minutos Tv</title></programme>
+<programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="RedPlus.co@SD"><title lang="es">Red+noticias 21:00</title></programme>
+<programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="RedPlus.co@SD"><title lang="es">Serie Claro Video - Promesas De Campana</title></programme>
+<programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="RedPlus.co@SD"><title lang="es">Podcast Te Lo Dice Cuervo</title></programme>
+<programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="RedPlus.co@SD"><title lang="es">Contenido Red+</title></programme>
+<programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="RedPlus.co@SD"><title lang="es">Extraordinario</title></programme>
+<programme start="20261121060000 +0000" stop="20261121110000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="RedPlus.co@SD"><title lang="es">Canticuentos</title></programme>
+<programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="RedPlus.co@SD"><title lang="es">En Vivo - Madrugon GranSan</title></programme>
+<programme start="20261121140000 +0000" stop="20261121160000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="RedPlus.co@SD"><title lang="es">Escapate DW</title></programme>
+<programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="RedPlus.co@SD"><title lang="es">+Kotikas</title></programme>
+<programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="RedPlus.co@SD"><title lang="es">Extraordinario</title></programme>
+<programme start="20261121190000 +0000" stop="20261121210000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="RedPlus.co@SD"><title lang="es">Enlaces</title></programme>
+<programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="RedPlus.co@SD"><title lang="es">Enlaces</title></programme>
+<programme start="20261121213000 +0000" stop="20261121220000 +0000" channel="RedPlus.co@SD"><title lang="es">Saber Estar Bien</title></programme>
+<programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="RedPlus.co@SD"><title lang="es">Escapate DW</title></programme>
+<programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="RedPlus.co@SD"><title lang="es">Informativo Insignia</title></programme>
+<programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="RedPlus.co@SD"><title lang="es">EUROMAX</title></programme>
+<programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="RedPlus.co@SD"><title lang="es">Podcast Te Lo Dice Cuervo</title></programme>
+<programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="RedPlus.co@SD"><title lang="es">Extraordinario</title></programme>
+<programme start="20261122010000 +0000" stop="20261122013000 +0000" channel="RedPlus.co@SD"><title lang="es">Especiales Red+</title></programme>
+<programme start="20261122013000 +0000" stop="20261122020000 +0000" channel="RedPlus.co@SD"><title lang="es">Enlaces</title></programme>
+<programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="RedPlus.co@SD"><title lang="es">Serie Claro Video - El Torito Cap1</title></programme>
+<programme start="20261122023000 +0000" stop="20261122033000 +0000" channel="RedPlus.co@SD"><title lang="es">Serie Claro Video - Rubirosa Cap1</title></programme>
+<programme start="20261122033000 +0000" stop="20261122043000 +0000" channel="RedPlus.co@SD"><title lang="es">+Kotikas</title></programme>
+<programme start="20261122043000 +0000" stop="20261122050000 +0000" channel="RedPlus.co@SD"><title lang="es">Saber Estar Bien</title></programme>
+<programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="RedPlus.co@SD"><title lang="es">Extraordinario</title></programme>
+<programme start="20261122060000 +0000" stop="20261122110000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="RedPlus.co@SD"><title lang="es">Misa Dominical</title></programme>
+<programme start="20261122120000 +0000" stop="20261122160000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="RedPlus.co@SD"><title lang="es">Canticuentos</title></programme>
+<programme start="20261122170000 +0000" stop="20261122173000 +0000" channel="RedPlus.co@SD"><title lang="es">La Banda De Andy</title></programme>
+<programme start="20261122173000 +0000" stop="20261122180000 +0000" channel="RedPlus.co@SD"><title lang="es">Guardianes Salvavidas</title></programme>
+<programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="RedPlus.co@SD"><title lang="es">Saber Estar Bien</title></programme>
+<programme start="20261122183000 +0000" stop="20261122210000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="RedPlus.co@SD"><title lang="es">Enlaces</title></programme>
+<programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="RedPlus.co@SD"><title lang="es">Enlaces</title></programme>
+<programme start="20261122213000 +0000" stop="20261122220000 +0000" channel="RedPlus.co@SD"><title lang="es">Afidro 70 Años</title></programme>
+<programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="RedPlus.co@SD"><title lang="es">Cultura 21</title></programme>
+<programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="RedPlus.co@SD"><title lang="es">En Tenis Con Paula Garcia</title></programme>
+<programme start="20261122230000 +0000" stop="20261123000000 +0000" channel="RedPlus.co@SD"><title lang="es">+Kotikas</title></programme>
+<programme start="20261123000000 +0000" stop="20261123010000 +0000" channel="RedPlus.co@SD"><title lang="es">Extraordinario</title></programme>
+<programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="RedPlus.co@SD"><title lang="es">15 Minutos Tv</title></programme>
+<programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="RedPlus.co@SD"><title lang="es">GENERACION ULTRAVIOLETA</title></programme>
+<programme start="20261123023000 +0000" stop="20261123030000 +0000" channel="RedPlus.co@SD"><title lang="es">Serie Claro Video - CLARAMENTE T1 CAP 1</title></programme>
+<programme start="20261123030000 +0000" stop="20261123040000 +0000" channel="RedPlus.co@SD"><title lang="es">Serie Claro Video - LA NEGOCIADORA T1 CAP 1</title></programme>
+<programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="RedPlus.co@SD"><title lang="es">Podcast Te Lo Dice Cuervo</title></programme>
+<programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="RedPlus.co@SD"><title lang="es">Contenido Red+</title></programme>
+<programme start="20261123050000 +0000" stop="20261123100000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261123100000 +0000" stop="20261123150000 +0000" channel="RedPlus.co@SD"><title lang="es">ALIANZA RED+ LA FM</title></programme>
+<programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261123160000 +0000" stop="20261123170000 +0000" channel="RedPlus.co@SD"><title lang="es">Red+Conecta</title></programme>
+<programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="RedPlus.co@SD"><title lang="es">Red+noticias 12:00</title></programme>
+<programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="RedPlus.co@SD"><title lang="es">El Pulso Del Fútbol</title></programme>
+<programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="RedPlus.co@SD"><title lang="es">Espacio Publicitario</title></programme>
+<programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="RedPlus.co@SD"><title lang="es">Magazine Un Cafe Claro</title></programme>
+<programme start="20261120210500 +0000" stop="20261120213000 +0000" channel="SenalColombia.co@SD"><title lang="es">Gravedad 1</title></programme>
+<programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="SenalColombia.co@SD"><title lang="es">Puerto Papel</title></programme>
+<programme start="20261120220000 +0000" stop="20261120220500 +0000" channel="SenalColombia.co@SD"><title lang="es">Avancel Informativo</title></programme>
+<programme start="20261120220500 +0000" stop="20261120223000 +0000" channel="SenalColombia.co@SD"><title lang="es">Patrulla Médica</title></programme>
+<programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="SenalColombia.co@SD"><title lang="es">Patrulla Médica</title></programme>
+<programme start="20261120230000 +0000" stop="20261120230500 +0000" channel="SenalColombia.co@SD"><title lang="es">Avancel Informativo</title></programme>
+<programme start="20261120230500 +0000" stop="20261121000000 +0000" channel="SenalColombia.co@SD"><title lang="es">Los Tuta</title></programme>
+<programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="SenalColombia.co@SD"><title lang="es">Rtvc Ahora</title></programme>
+<programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="SenalColombia.co@SD"><title lang="es">Nación Rebelde</title></programme>
+<programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="SenalColombia.co@SD"><title lang="es">Las Gestas Del Tiempo</title></programme>
+<programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="SenalColombia.co@SD"><title lang="es">Estudio 5</title></programme>
+<programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="SenalColombia.co@SD"><title lang="es">La Colombiana Sound System</title></programme>
+<programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="SenalColombia.co@SD"><title lang="es">Desconectados</title></programme>
+<programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261121040000 +0000" stop="20261121050000 +0000" channel="SenalColombia.co@SD"><title lang="es">Revivamos Nuestra Historia</title></programme>
+<programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="SenalColombia.co@SD"><title lang="es">Somos Héroes Al Rescate Animal</title></programme>
+<programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="SenalColombia.co@SD"><title lang="es">Somos Héroes Al Rescate Animal</title></programme>
+<programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="SenalColombia.co@SD"><title lang="es">Aislados</title></programme>
+<programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="SenalColombia.co@SD"><title lang="es">Patrulla Médica</title></programme>
+<programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="SenalColombia.co@SD"><title lang="es">Patrulla Médica</title></programme>
+<programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="SenalColombia.co@SD"><title lang="es">Expedición Cóndor De Los Andes</title></programme>
+<programme start="20261121080000 +0000" stop="20261121090000 +0000" channel="SenalColombia.co@SD"><title lang="es">Expedición Cóndor De Los Andes</title></programme>
+<programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="SenalColombia.co@SD"><title lang="es">wayuu Gente De Arena</title></programme>
+<programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="SenalColombia.co@SD"><title lang="es">wayuu Gente De Arena</title></programme>
+<programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="SenalColombia.co@SD"><title lang="es">Akumaja</title></programme>
+<programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dachi Drua</title></programme>
+<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="SenalColombia.co@SD"><title lang="es">Colombia Desde Adentro</title></programme>
+<programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="SenalColombia.co@SD"><title lang="es">Colombia Desde Adentro</title></programme>
+<programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="SenalColombia.co@SD"><title lang="es">Lolalá Vamos A Cantar</title></programme>
+<programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="SenalColombia.co@SD"><title lang="es">Cuentitos Mágicos</title></programme>
+<programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="SenalColombia.co@SD"><title lang="es">La Gran Pregunta</title></programme>
+<programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="SenalColombia.co@SD"><title lang="es">Tomás, Alba Y Edison</title></programme>
+<programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="SenalColombia.co@SD"><title lang="es">Espantijos</title></programme>
+<programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="SenalColombia.co@SD"><title lang="es">Pipo Mi Amigo Imaginario</title></programme>
+<programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="SenalColombia.co@SD"><title lang="es">Frailejón Ernesto Pérez</title></programme>
+<programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dino Exploradores</title></programme>
+<programme start="20261121160000 +0000" stop="20261121160500 +0000" channel="SenalColombia.co@SD"><title lang="es">Don Quijote De La Láctea</title></programme>
+<programme start="20261121160500 +0000" stop="20261121163000 +0000" channel="SenalColombia.co@SD"><title lang="es">Cuatro Reinos</title></programme>
+<programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="SenalColombia.co@SD"><title lang="es">Alex De Todas Formas</title></programme>
+<programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="SenalColombia.co@SD"><title lang="es">Todo Lo Que Vemos</title></programme>
+<programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="SenalColombia.co@SD"><title lang="es">Renacer</title></programme>
+<programme start="20261121190000 +0000" stop="20261121200000 +0000" channel="SenalColombia.co@SD"><title lang="es">Extramuros</title></programme>
+<programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="SenalColombia.co@SD"><title lang="es">Señal Literaria</title></programme>
+<programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="SenalColombia.co@SD"><title lang="es">En Clave</title></programme>
+<programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="SenalColombia.co@SD"><title lang="es">Festival Cervantino</title></programme>
+<programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="SenalColombia.co@SD"><title lang="es">Festival Cervantino</title></programme>
+<programme start="20261121230000 +0000" stop="20261122000000 +0000" channel="SenalColombia.co@SD"><title lang="es">Coronel En Su Laberinto</title></programme>
+<programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="SenalColombia.co@SD"><title lang="es">Mi Día De Fiesta</title></programme>
+<programme start="20261122003000 +0000" stop="20261122010000 +0000" channel="SenalColombia.co@SD"><title lang="es">Denominación De Origen</title></programme>
+<programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="SenalColombia.co@SD"><title lang="es">El Espejo Amor Al Cine</title></programme>
+<programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="SenalColombia.co@SD"><title lang="es">Tesoros Olvidados</title></programme>
+<programme start="20261122023000 +0000" stop="20261122043000 +0000" channel="SenalColombia.co@SD"><title lang="es">Versión En Vivo</title></programme>
+<programme start="20261122043000 +0000" stop="20261122053000 +0000" channel="SenalColombia.co@SD"><title lang="es">Revivamos Nuestra Historia</title></programme>
+<programme start="20261122053000 +0000" stop="20261122060000 +0000" channel="SenalColombia.co@SD"><title lang="es">La Tonga</title></programme>
+<programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="SenalColombia.co@SD"><title lang="es">Denominación De Origen</title></programme>
+<programme start="20261122073000 +0000" stop="20261122100000 +0000" channel="SenalColombia.co@SD"><title lang="es">Extramuros</title></programme>
+<programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="SenalColombia.co@SD"><title lang="es">Akumaja</title></programme>
+<programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dachi Drua</title></programme>
+<programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="SenalColombia.co@SD"><title lang="es">Colombia Desde Adentro</title></programme>
+<programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="SenalColombia.co@SD"><title lang="es">Colombia Desde Adentro</title></programme>
+<programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="SenalColombia.co@SD"><title lang="es">Lolalá Vamos A Cantar</title></programme>
+<programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="SenalColombia.co@SD"><title lang="es">Cuentitos Mágicos</title></programme>
+<programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="SenalColombia.co@SD"><title lang="es">La Gran Pregunta</title></programme>
+<programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="SenalColombia.co@SD"><title lang="es">Tomás, Alba Y Edison</title></programme>
+<programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="SenalColombia.co@SD"><title lang="es">Espantijos</title></programme>
+<programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="SenalColombia.co@SD"><title lang="es">Pipo Mi Amigo Imaginario</title></programme>
+<programme start="20261122150000 +0000" stop="20261122153000 +0000" channel="SenalColombia.co@SD"><title lang="es">Frailejón Ernesto Pérez</title></programme>
+<programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dino Exploradores</title></programme>
+<programme start="20261122160000 +0000" stop="20261122160500 +0000" channel="SenalColombia.co@SD"><title lang="es">Don Quijote De La Láctea</title></programme>
+<programme start="20261122160500 +0000" stop="20261122163000 +0000" channel="SenalColombia.co@SD"><title lang="es">Cuatro Reinos</title></programme>
+<programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="SenalColombia.co@SD"><title lang="es">Alex De Todas Formas</title></programme>
+<programme start="20261122170000 +0000" stop="20261122173000 +0000" channel="SenalColombia.co@SD"><title lang="es">Qué Inventa?</title></programme>
+<programme start="20261122173000 +0000" stop="20261122180000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="SenalColombia.co@SD"><title lang="es">Onda Pacífico</title></programme>
+<programme start="20261122190000 +0000" stop="20261122200000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261122200000 +0000" stop="20261122210000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261122210000 +0000" stop="20261122223000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261122210000 +0000" stop="20261122223000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261122230000 +0000" stop="20261123000000 +0000" channel="SenalColombia.co@SD"><title lang="es">Coronel En Su Laberinto</title></programme>
+<programme start="20261123000000 +0000" stop="20261123003000 +0000" channel="SenalColombia.co@SD"><title lang="es">Mi Día De Fiesta</title></programme>
+<programme start="20261123003000 +0000" stop="20261123010000 +0000" channel="SenalColombia.co@SD"><title lang="es">Denominación De Origen</title></programme>
+<programme start="20261123010000 +0000" stop="20261123013000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261123013000 +0000" stop="20261123020000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="SenalColombia.co@SD"><title lang="es">Tesoros Olvidados</title></programme>
+<programme start="20261123023000 +0000" stop="20261123043000 +0000" channel="SenalColombia.co@SD"><title lang="es">Festival Cervantino</title></programme>
+<programme start="20261123043000 +0000" stop="20261123053000 +0000" channel="SenalColombia.co@SD"><title lang="es">Revivamos Nuestra Historia</title></programme>
+<programme start="20261123053000 +0000" stop="20261123060000 +0000" channel="SenalColombia.co@SD"><title lang="es">La Tonga</title></programme>
+<programme start="20261123060000 +0000" stop="20261123063000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261123063000 +0000" stop="20261123070000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261123070000 +0000" stop="20261123073000 +0000" channel="SenalColombia.co@SD"><title lang="es">Denominación De Origen</title></programme>
+<programme start="20261123073000 +0000" stop="20261123080000 +0000" channel="SenalColombia.co@SD"><title lang="es">Qué Inventa?</title></programme>
+<programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SenalColombia.co@SD"><title lang="es">Onda Pacífico</title></programme>
+<programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="SenalColombia.co@SD"><title lang="es">Akumaja</title></programme>
+<programme start="20261123103000 +0000" stop="20261123110000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dachi Drua</title></programme>
+<programme start="20261123110000 +0000" stop="20261123113000 +0000" channel="SenalColombia.co@SD"><title lang="es">Colombia Desde Adentro</title></programme>
+<programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="SenalColombia.co@SD"><title lang="es">Colombia Desde Adentro</title></programme>
+<programme start="20261123120000 +0000" stop="20261123123000 +0000" channel="SenalColombia.co@SD"><title lang="es">Lolalá Vamos A Cantar</title></programme>
+<programme start="20261123123000 +0000" stop="20261123130000 +0000" channel="SenalColombia.co@SD"><title lang="es">Cuentitos Mágicos</title></programme>
+<programme start="20261123130000 +0000" stop="20261123133000 +0000" channel="SenalColombia.co@SD"><title lang="es">La Gran Pregunta</title></programme>
+<programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="SenalColombia.co@SD"><title lang="es">Tomás, Alba Y Edison</title></programme>
+<programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="SenalColombia.co@SD"><title lang="es">Espantijos</title></programme>
+<programme start="20261123143000 +0000" stop="20261123150000 +0000" channel="SenalColombia.co@SD"><title lang="es">Pipo Mi Amigo Imaginario</title></programme>
+<programme start="20261123150000 +0000" stop="20261123153000 +0000" channel="SenalColombia.co@SD"><title lang="es">Frailejón Ernesto Pérez</title></programme>
+<programme start="20261123153000 +0000" stop="20261123160000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dino Exploradores</title></programme>
+<programme start="20261123160000 +0000" stop="20261123160500 +0000" channel="SenalColombia.co@SD"><title lang="es">Don Quijote De La Láctea</title></programme>
+<programme start="20261123160500 +0000" stop="20261123163000 +0000" channel="SenalColombia.co@SD"><title lang="es">Cuatro Reinos</title></programme>
+<programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="SenalColombia.co@SD"><title lang="es">Alex De Todas Formas</title></programme>
+<programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="SenalColombia.co@SD"><title lang="es">Qué Inventa?</title></programme>
+<programme start="20261123173000 +0000" stop="20261123180000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="SenalColombia.co@SD"><title lang="es">Dejémonos De Vainas</title></programme>
+<programme start="20261123183000 +0000" stop="20261123203000 +0000" channel="SenalColombia.co@SD"><title lang="es">Festival Cervantino</title></programme>
+<programme start="20261123203000 +0000" stop="20261123210000 +0000" channel="SenalColombia.co@SD"><title lang="es">Arte Popular, El Arte De La Gentebat 2026</title></programme>
+<programme start="20261123210000 +0000" stop="20261123213000 +0000" channel="SenalColombia.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20261120203000 +0000" stop="20261120220000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120220000 +0000" stop="20261120233000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120233000 +0000" stop="20261121010000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121020000 +0000" stop="20261121033000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121033000 +0000" stop="20261121050300 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121050300 +0000" stop="20261121063000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121063000 +0000" stop="20261121075900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121075900 +0000" stop="20261121090000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121090000 +0000" stop="20261121103000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121103000 +0000" stop="20261121120000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121120000 +0000" stop="20261121133000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121133000 +0000" stop="20261121150000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121150000 +0000" stop="20261121162900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121162900 +0000" stop="20261121175900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121175900 +0000" stop="20261121193000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121200000 +0000" stop="20261121203100 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121203100 +0000" stop="20261121220000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121203100 +0000" stop="20261121220000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121220000 +0000" stop="20261121230000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261121230000 +0000" stop="20261122002900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122002900 +0000" stop="20261122015400 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122015400 +0000" stop="20261122031900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122031900 +0000" stop="20261122044800 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122044800 +0000" stop="20261122061700 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122061700 +0000" stop="20261122074600 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122074600 +0000" stop="20261122085100 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122085100 +0000" stop="20261122090000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122090000 +0000" stop="20261122103000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122103000 +0000" stop="20261122120000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122120000 +0000" stop="20261122133000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122133000 +0000" stop="20261122150000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122150000 +0000" stop="20261122162900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122162900 +0000" stop="20261122175900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122175900 +0000" stop="20261122192900 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122192900 +0000" stop="20261122200000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122200000 +0000" stop="20261122203000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122203000 +0000" stop="20261122220000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122203000 +0000" stop="20261122220000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122220000 +0000" stop="20261122233000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261122233000 +0000" stop="20261123005500 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123005500 +0000" stop="20261123022400 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123022400 +0000" stop="20261123025400 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123025400 +0000" stop="20261123042300 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123042300 +0000" stop="20261123055300 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123055300 +0000" stop="20261123072200 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123072200 +0000" stop="20261123085100 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123085100 +0000" stop="20261123090000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123090000 +0000" stop="20261123103000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123103000 +0000" stop="20261123120000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123120000 +0000" stop="20261123132800 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123132800 +0000" stop="20261123145800 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123145800 +0000" stop="20261123163000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123163000 +0000" stop="20261123180000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123180000 +0000" stop="20261123193000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123193000 +0000" stop="20261123200000 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123200000 +0000" stop="20261123203100 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261123203100 +0000" stop="20261123220100 +0000" channel="Sextreme.br@SD"><title lang="es">Sextreme (Adquiere 5 Canales Adultos por 30.900 mes,llama YA)</title></programme>
+<programme start="20261120200000 +0000" stop="20261120230000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Anglo</title></programme>
+<programme start="20261120230000 +0000" stop="20261121010000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica K Pop</title></programme>
+<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Rock</title></programme>
+<programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="SinLimites.co@SD"><title lang="es">Te Lo Dice Cuervo</title></programme>
+<programme start="20261121023000 +0000" stop="20261121050000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Anglo</title></programme>
+<programme start="20261121050000 +0000" stop="20261121160000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Sin Limites</title></programme>
+<programme start="20261121160000 +0000" stop="20261121210000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Rock</title></programme>
+<programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica K Pop</title></programme>
+<programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica K Pop</title></programme>
+<programme start="20261121230000 +0000" stop="20261122010000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Anglo</title></programme>
+<programme start="20261122010000 +0000" stop="20261122030000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Sin Limites</title></programme>
+<programme start="20261122030000 +0000" stop="20261122050000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Rock</title></programme>
+<programme start="20261122050000 +0000" stop="20261122160000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Sin Limites</title></programme>
+<programme start="20261122160000 +0000" stop="20261122210000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Rock</title></programme>
+<programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica K Pop</title></programme>
+<programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica K Pop</title></programme>
+<programme start="20261122220000 +0000" stop="20261122230000 +0000" channel="SinLimites.co@SD"><title lang="es">Microfonos</title></programme>
+<programme start="20261122230000 +0000" stop="20261123010000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Anglo</title></programme>
+<programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Sin Limites</title></programme>
+<programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="SinLimites.co@SD"><title lang="es">Te Lo Dice Cuervo</title></programme>
+<programme start="20261123030000 +0000" stop="20261123050000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Rock</title></programme>
+<programme start="20261123050000 +0000" stop="20261123120000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Rock</title></programme>
+<programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Anglo</title></programme>
+<programme start="20261123140000 +0000" stop="20261123170000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica K Pop</title></programme>
+<programme start="20261123170000 +0000" stop="20261123200000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Sin Limites</title></programme>
+<programme start="20261123200000 +0000" stop="20261123230000 +0000" channel="SinLimites.co@SD"><title lang="es">Claro Musica Anglo</title></programme>
+<programme start="20261120211000 +0000" stop="20261120232500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Bad Boys Para Siempre</title></programme>
+<programme start="20261120232500 +0000" stop="20261121010500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Destino Final 2</title></programme>
+<programme start="20261121010500 +0000" stop="20261121025500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Arrástrame Al Infierno</title></programme>
+<programme start="20261121025500 +0000" stop="20261121045500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">El Justiciero: Capítulo Final</title></programme>
+<programme start="20261121045500 +0000" stop="20261121064500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Arrástrame Al Infierno</title></programme>
+<programme start="20261121064500 +0000" stop="20261121071500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">My Wife And Kids</title></programme>
+<programme start="20261121071500 +0000" stop="20261121074500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">My Wife And Kids</title></programme>
+<programme start="20261121074500 +0000" stop="20261121081500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">My Wife And Kids</title></programme>
+<programme start="20261121081500 +0000" stop="20261121084500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Vecinos</title></programme>
+<programme start="20261121084500 +0000" stop="20261121091500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Vecinos</title></programme>
+<programme start="20261121091500 +0000" stop="20261121100500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Grey´s Anatomy</title></programme>
+<programme start="20261121100500 +0000" stop="20261121110000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Good Doctor</title></programme>
+<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261121140000 +0000" stop="20261121150000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261121150000 +0000" stop="20261121153500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Nanny</title></programme>
+<programme start="20261121153500 +0000" stop="20261121172500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Matilda (1996)</title></programme>
+<programme start="20261121172500 +0000" stop="20261121195500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Los Juegos Del Hambre: Sinsajo (El Final)</title></programme>
+<programme start="20261121195500 +0000" stop="20261121215500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">M3Gan</title></programme>
+<programme start="20261121195500 +0000" stop="20261121215500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">M3Gan</title></programme>
+<programme start="20261121215500 +0000" stop="20261122003000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">El Justiciero</title></programme>
+<programme start="20261122003000 +0000" stop="20261122030000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Los Siete Magníficos</title></programme>
+<programme start="20261122030000 +0000" stop="20261122052000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">El Contador</title></programme>
+<programme start="20261122052000 +0000" stop="20261122072000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">M3Gan</title></programme>
+<programme start="20261122072000 +0000" stop="20261122075000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261122075000 +0000" stop="20261122082000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261122082000 +0000" stop="20261122091500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261122091500 +0000" stop="20261122101000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261122101000 +0000" stop="20261122110000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Good Doctor</title></programme>
+<programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261122150000 +0000" stop="20261122173000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Los Juegos Del Hambre: Sinsajo (El Final)</title></programme>
+<programme start="20261122173000 +0000" stop="20261122202400 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Sin Tiempo Para Morir</title></programme>
+<programme start="20261122202400 +0000" stop="20261122223500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Jumanji: El Siguiente Nivel</title></programme>
+<programme start="20261122202400 +0000" stop="20261122223500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Jumanji: El Siguiente Nivel</title></programme>
+<programme start="20261122223500 +0000" stop="20261123005500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">El Contador</title></programme>
+<programme start="20261123005500 +0000" stop="20261123025500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">El Justiciero: Capítulo Final</title></programme>
+<programme start="20261123025500 +0000" stop="20261123052500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Los Siete Magníficos</title></programme>
+<programme start="20261123052500 +0000" stop="20261123071500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">No Respires 2</title></programme>
+<programme start="20261123071500 +0000" stop="20261123074500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261123074500 +0000" stop="20261123081500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Designing Women</title></programme>
+<programme start="20261123081500 +0000" stop="20261123091500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261123091500 +0000" stop="20261123101000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261123101000 +0000" stop="20261123110000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Good Doctor</title></programme>
+<programme start="20261123110000 +0000" stop="20261123120000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Good Doctor</title></programme>
+<programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Town Doctor</title></programme>
+<programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261123140000 +0000" stop="20261123145500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Betty´s Call</title></programme>
+<programme start="20261123145500 +0000" stop="20261123152500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Nanny</title></programme>
+<programme start="20261123152500 +0000" stop="20261123155500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Nanny</title></programme>
+<programme start="20261123155500 +0000" stop="20261123162500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">The Nanny</title></programme>
+<programme start="20261123162500 +0000" stop="20261123165500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Vecinos</title></programme>
+<programme start="20261123165500 +0000" stop="20261123172500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Vecinos</title></programme>
+<programme start="20261123172500 +0000" stop="20261123175500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Vecinos</title></programme>
+<programme start="20261123175500 +0000" stop="20261123182500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">My Wife And Kids</title></programme>
+<programme start="20261123182500 +0000" stop="20261123185500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">My Wife And Kids</title></programme>
+<programme start="20261123185500 +0000" stop="20261123205000 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Pixeles</title></programme>
+<programme start="20261123205000 +0000" stop="20261123230500 +0000" channel="SonyChannelAndes.us@SD"><title lang="es">Dioses De Egipto</title></programme>
+<programme start="20261120183600 +0000" stop="20261120212100 +0000" channel="Space.ar@Alternate"><title lang="es">Flash</title></programme>
+<programme start="20261120212100 +0000" stop="20261120231000 +0000" channel="Space.ar@Alternate"><title lang="es">Rambo</title></programme>
+<programme start="20261120231000 +0000" stop="20261121010100 +0000" channel="Space.ar@Alternate"><title lang="es">Rambo II</title></programme>
+<programme start="20261121010100 +0000" stop="20261121030000 +0000" channel="Space.ar@Alternate"><title lang="es">Rambo III</title></programme>
+<programme start="20261121030000 +0000" stop="20261121045400 +0000" channel="Space.ar@Alternate"><title lang="es">La Monja</title></programme>
+<programme start="20261121045400 +0000" stop="20261121065400 +0000" channel="Space.ar@Alternate"><title lang="es">La Monja 2</title></programme>
+<programme start="20261121065400 +0000" stop="20261121084000 +0000" channel="Space.ar@Alternate"><title lang="es">La Momia</title></programme>
+<programme start="20261121084000 +0000" stop="20261121101900 +0000" channel="Space.ar@Alternate"><title lang="es">La Huérfana: El Origen</title></programme>
+<programme start="20261121101900 +0000" stop="20261121113300 +0000" channel="Space.ar@Alternate"><title lang="es">Hollywood One On One</title></programme>
+<programme start="20261121113300 +0000" stop="20261121135300 +0000" channel="Space.ar@Alternate"><title lang="es">Matrix Revoluciones</title></programme>
+<programme start="20261121135300 +0000" stop="20261121162100 +0000" channel="Space.ar@Alternate"><title lang="es">Titanes Del Pacífico</title></programme>
+<programme start="20261121162100 +0000" stop="20261121182400 +0000" channel="Space.ar@Alternate"><title lang="es">La Leyenda De Tarzan</title></programme>
+<programme start="20261121182400 +0000" stop="20261121201300 +0000" channel="Space.ar@Alternate"><title lang="es">Rambo</title></programme>
+<programme start="20261121201300 +0000" stop="20261121220400 +0000" channel="Space.ar@Alternate"><title lang="es">Rambo II</title></programme>
+<programme start="20261121201300 +0000" stop="20261121220400 +0000" channel="Space.ar@Alternate"><title lang="es">Rambo II</title></programme>
+<programme start="20261121220400 +0000" stop="20261122000000 +0000" channel="Space.ar@Alternate"><title lang="es">Rambo III</title></programme>
+<programme start="20261122000000 +0000" stop="20261122030000 +0000" channel="Space.ar@Alternate"><title lang="es">Furiosa: De La Saga Mad Max</title></programme>
+<programme start="20261122030000 +0000" stop="20261122050500 +0000" channel="Space.ar@Alternate"><title lang="es">Mortal Kombat</title></programme>
+<programme start="20261122050500 +0000" stop="20261122070000 +0000" channel="Space.ar@Alternate"><title lang="es">La Momia</title></programme>
+<programme start="20261122070000 +0000" stop="20261122085100 +0000" channel="Space.ar@Alternate"><title lang="es">La Monja 2</title></programme>
+<programme start="20261122085100 +0000" stop="20261122113200 +0000" channel="Space.ar@Alternate"><title lang="es">En Brazos De Un Asesino</title></programme>
+<programme start="20261122113200 +0000" stop="20261122135600 +0000" channel="Space.ar@Alternate"><title lang="es">Titanes Del Pacífico</title></programme>
+<programme start="20261122135600 +0000" stop="20261122154300 +0000" channel="Space.ar@Alternate"><title lang="es">Furia De Titanes 2</title></programme>
+<programme start="20261122154300 +0000" stop="20261122175800 +0000" channel="Space.ar@Alternate"><title lang="es">Spider-man: Un Nuevo Universo</title></programme>
+<programme start="20261122175800 +0000" stop="20261122200300 +0000" channel="Space.ar@Alternate"><title lang="es">Arma Mortal</title></programme>
+<programme start="20261122200300 +0000" stop="20261122221700 +0000" channel="Space.ar@Alternate"><title lang="es">Arma Mortal 2</title></programme>
+<programme start="20261122200300 +0000" stop="20261122221700 +0000" channel="Space.ar@Alternate"><title lang="es">Arma Mortal 2</title></programme>
+<programme start="20261122221700 +0000" stop="20261123003100 +0000" channel="Space.ar@Alternate"><title lang="es">Arma Mortal 3</title></programme>
+<programme start="20261123003100 +0000" stop="20261123030000 +0000" channel="Space.ar@Alternate"><title lang="es">Arma Mortal 4</title></programme>
+<programme start="20261123030000 +0000" stop="20261123060000 +0000" channel="Space.ar@Alternate"><title lang="es">Furiosa: De La Saga Mad Max</title></programme>
+<programme start="20261123060000 +0000" stop="20261123075100 +0000" channel="Space.ar@Alternate"><title lang="es">Mortal Kombat</title></programme>
+<programme start="20261123075100 +0000" stop="20261123100400 +0000" channel="Space.ar@Alternate"><title lang="es">En Brazos De Un Asesino</title></programme>
+<programme start="20261123100400 +0000" stop="20261123110000 +0000" channel="Space.ar@Alternate"><title lang="es">Acechados Por El Mal</title></programme>
+<programme start="20261123110000 +0000" stop="20261123122200 +0000" channel="Space.ar@Alternate"><title lang="es">Twist</title></programme>
+<programme start="20261123122200 +0000" stop="20261123142300 +0000" channel="Space.ar@Alternate"><title lang="es">Una Pareja Dispareja</title></programme>
+<programme start="20261123142300 +0000" stop="20261123162900 +0000" channel="Space.ar@Alternate"><title lang="es">Spider-man: Un Nuevo Universo</title></programme>
+<programme start="20261123162900 +0000" stop="20261123181200 +0000" channel="Space.ar@Alternate"><title lang="es">Furia De Titanes 2</title></programme>
+<programme start="20261123181200 +0000" stop="20261123203200 +0000" channel="Space.ar@Alternate"><title lang="es">Batman: The Animated Series</title></programme>
+<programme start="20261123203200 +0000" stop="20261123223300 +0000" channel="Space.ar@Alternate"><title lang="es">Arma Mortal</title></programme>
+<programme start="20261120200100 +0000" stop="20261120224900 +0000" channel="StarChannel.co@SD"><title lang="es">El Planeta De Los Simios: Confrontación</title></programme>
+<programme start="20261120224900 +0000" stop="20261121015500 +0000" channel="StarChannel.co@SD"><title lang="es">Contra/cara</title></programme>
+<programme start="20261121015500 +0000" stop="20261121022800 +0000" channel="StarChannel.co@SD"><title lang="es">Los Simpsons</title></programme>
+<programme start="20261121022800 +0000" stop="20261121025900 +0000" channel="StarChannel.co@SD"><title lang="es">Los Simpsons</title></programme>
+<programme start="20261121025900 +0000" stop="20261121050600 +0000" channel="StarChannel.co@SD"><title lang="es">Call Of The Wild, The</title></programme>
+<programme start="20261121050600 +0000" stop="20261121075700 +0000" channel="StarChannel.co@SD"><title lang="es">King´s Man: El Origen</title></programme>
+<programme start="20261121075700 +0000" stop="20261121093500 +0000" channel="StarChannel.co@SD"><title lang="es">Melinda Y Melinda</title></programme>
+<programme start="20261121093500 +0000" stop="20261121095600 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261121095600 +0000" stop="20261121101800 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261121101800 +0000" stop="20261121120000 +0000" channel="StarChannel.co@SD"><title lang="es">Sin Rodeos</title></programme>
+<programme start="20261121120000 +0000" stop="20261121122500 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261121122500 +0000" stop="20261121144100 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261121144100 +0000" stop="20261121173200 +0000" channel="StarChannel.co@SD"><title lang="es">La Sociedad De Los Poetas Muertos</title></programme>
+<programme start="20261121173200 +0000" stop="20261121193800 +0000" channel="StarChannel.co@SD"><title lang="es">Alocada Obsesión</title></programme>
+<programme start="20261121193800 +0000" stop="20261121214700 +0000" channel="StarChannel.co@SD"><title lang="es">Falsa Influencer</title></programme>
+<programme start="20261121193800 +0000" stop="20261121214700 +0000" channel="StarChannel.co@SD"><title lang="es">Falsa Influencer</title></programme>
+<programme start="20261121214700 +0000" stop="20261122003400 +0000" channel="StarChannel.co@SD"><title lang="es">El Planeta De Los Simios: Confrontación</title></programme>
+<programme start="20261122003400 +0000" stop="20261122030000 +0000" channel="StarChannel.co@SD"><title lang="es">Swiped</title></programme>
+<programme start="20261122030000 +0000" stop="20261122050600 +0000" channel="StarChannel.co@SD"><title lang="es">Mira Como Corren</title></programme>
+<programme start="20261122050600 +0000" stop="20261122081300 +0000" channel="StarChannel.co@SD"><title lang="es">Operación Red Sparrow</title></programme>
+<programme start="20261122081300 +0000" stop="20261122095600 +0000" channel="StarChannel.co@SD"><title lang="es">La Entrega</title></programme>
+<programme start="20261122095600 +0000" stop="20261122101900 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261122101900 +0000" stop="20261122104000 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261122104000 +0000" stop="20261122120000 +0000" channel="StarChannel.co@SD"><title lang="es">Henry Y Klauss: Maestros De La Magia</title></programme>
+<programme start="20261122120000 +0000" stop="20261122122700 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261122122700 +0000" stop="20261122133400 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261122133400 +0000" stop="20261122160000 +0000" channel="StarChannel.co@SD"><title lang="es">Alta Fidelidad</title></programme>
+<programme start="20261122160000 +0000" stop="20261122182300 +0000" channel="StarChannel.co@SD"><title lang="es">High Strung: Free Dance</title></programme>
+<programme start="20261122182300 +0000" stop="20261122205600 +0000" channel="StarChannel.co@SD"><title lang="es">Brigada A: Los Magníficos</title></programme>
+<programme start="20261122205600 +0000" stop="20261122234600 +0000" channel="StarChannel.co@SD"><title lang="es">Maze Runner: Prueba De Fuego</title></programme>
+<programme start="20261122205600 +0000" stop="20261122234600 +0000" channel="StarChannel.co@SD"><title lang="es">Maze Runner: Prueba De Fuego</title></programme>
+<programme start="20261122234600 +0000" stop="20261123015500 +0000" channel="StarChannel.co@SD"><title lang="es">Amigos De Las Vacaciones</title></programme>
+<programme start="20261123015500 +0000" stop="20261123022800 +0000" channel="StarChannel.co@SD"><title lang="es">Los Simpsons</title></programme>
+<programme start="20261123022800 +0000" stop="20261123030000 +0000" channel="StarChannel.co@SD"><title lang="es">Los Simpsons</title></programme>
+<programme start="20261123030000 +0000" stop="20261123050600 +0000" channel="StarChannel.co@SD"><title lang="es">Homo Argentum</title></programme>
+<programme start="20261123050600 +0000" stop="20261123075900 +0000" channel="StarChannel.co@SD"><title lang="es">Enemigo Publico</title></programme>
+<programme start="20261123075900 +0000" stop="20261123102700 +0000" channel="StarChannel.co@SD"><title lang="es">Amor Sin Barreras</title></programme>
+<programme start="20261123102700 +0000" stop="20261123104800 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261123104800 +0000" stop="20261123120000 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs</title></programme>
+<programme start="20261123120000 +0000" stop="20261123122500 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs 2001</title></programme>
+<programme start="20261123122500 +0000" stop="20261123133000 +0000" channel="StarChannel.co@SD"><title lang="es">Scrubs</title></programme>
+<programme start="20261123133000 +0000" stop="20261123161200 +0000" channel="StarChannel.co@SD"><title lang="es">Terremoto 8.5</title></programme>
+<programme start="20261123161200 +0000" stop="20261123183900 +0000" channel="StarChannel.co@SD"><title lang="es">Splash</title></programme>
+<programme start="20261123183900 +0000" stop="20261123212300 +0000" channel="StarChannel.co@SD"><title lang="es">Violacion De Domicilio</title></programme>
+<programme start="20261120201000 +0000" stop="20261120214000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En El Plaza</title></programme>
+<programme start="20261120214000 +0000" stop="20261120232000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Un Príncipe Para Navidad</title></programme>
+<programme start="20261120232000 +0000" stop="20261121010000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En Viena</title></programme>
+<programme start="20261121010000 +0000" stop="20261121014500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121014500 +0000" stop="20261121023500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121023500 +0000" stop="20261121032000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121032000 +0000" stop="20261121041000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121041000 +0000" stop="20261121045500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121045500 +0000" stop="20261121054500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121054500 +0000" stop="20261121063000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121063000 +0000" stop="20261121072000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121072000 +0000" stop="20261121080500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121080500 +0000" stop="20261121085500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121085500 +0000" stop="20261121094000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121094000 +0000" stop="20261121103000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mistletoe Murders</title></programme>
+<programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Hollywood On Set</title></programme>
+<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Hollywood On Set</title></programme>
+<programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Hollywood On Set</title></programme>
+<programme start="20261121120000 +0000" stop="20261121134000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Una Navidad Para Comenzar De Nuevo</title></programme>
+<programme start="20261121134000 +0000" stop="20261121151500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Una Navidad Demoledora</title></programme>
+<programme start="20261121151500 +0000" stop="20261121165000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Vacaciones Navideñas</title></programme>
+<programme start="20261121165000 +0000" stop="20261121182500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En La Posada</title></programme>
+<programme start="20261121182500 +0000" stop="20261121200000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad Nostálgica</title></programme>
+<programme start="20261121200000 +0000" stop="20261121214000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mrs. Miracle Y La Alegría De La Navidad</title></programme>
+<programme start="20261121200000 +0000" stop="20261121214000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Mrs. Miracle Y La Alegría De La Navidad</title></programme>
+<programme start="20261121214000 +0000" stop="20261121232000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Misterio En Mistletoe Lane</title></programme>
+<programme start="20261121232000 +0000" stop="20261122010000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En El Lago</title></programme>
+<programme start="20261122010000 +0000" stop="20261122023500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">El Faro De Navidad</title></programme>
+<programme start="20261122023500 +0000" stop="20261122041500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En Aspen</title></programme>
+<programme start="20261122041500 +0000" stop="20261122055500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">La Estrella De Navidad</title></programme>
+<programme start="20261122055500 +0000" stop="20261122073000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En Evergreen</title></programme>
+<programme start="20261122073000 +0000" stop="20261122090000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Una Navidad En Biltmore</title></programme>
+<programme start="20261122090000 +0000" stop="20261122103000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Concierto De Navidad</title></programme>
+<programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Hollywood On Set</title></programme>
+<programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Hollywood On Set</title></programme>
+<programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Hollywood On Set</title></programme>
+<programme start="20261122120000 +0000" stop="20261122134500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">El Tren Navideño De Las Sorpresas</title></programme>
+<programme start="20261122134500 +0000" stop="20261122152500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Un Inesperado Cuento De Navidad</title></programme>
+<programme start="20261122152500 +0000" stop="20261122165500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En Graceland: En Casa Para Las Fiestas</title></programme>
+<programme start="20261122165500 +0000" stop="20261122183500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Navidad En El Grand Ole Opry</title></programme>
+<programme start="20261122183500 +0000" stop="20261122201500 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Una Navidad Atemporal</title></programme>
+<programme start="20261122201500 +0000" stop="20261122215000 +0000" channel="StudioUniversalLatinAmerica.us@Chile"><title lang="es">Intercambio Navideño</title></programme>
 </tv>
