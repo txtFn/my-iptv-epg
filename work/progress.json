@@ -1989,7 +1989,7 @@
     "port.hu@0": 2,
     "programtv.onet.pl@0": 1,
     "reportv.com.ar@0": 1,
-    "siba.com.co@0": 1,
+    "siba.com.co@0": 2,
     "turksatkablo.com.tr@0": 1,
     "dstv.com@1": 1,
     "programtv.onet.pl@1": 1,
@@ -2012,6 +2012,7 @@
     "dstv.com@7",
     "dstv.com@8",
     "dstv.com@9",
+    "port.hu@0",
     "programtv.onet.pl@0",
     "programtv.onet.pl@1",
     "programtv.onet.pl@2"
@@ -2022,6 +2023,10 @@
       "done": 0
     },
     "programtv.onet.pl": {
+      "strikes": 2,
+      "done": 0
+    },
+    "port.hu": {
       "strikes": 2,
       "done": 0
     }
