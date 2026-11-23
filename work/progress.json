@@ -1994,7 +1994,7 @@
     "turksatkablo.com.tr@0": 1,
     "dstv.com@1": 1,
     "programtv.onet.pl@1": 1,
-    "nzxmltv.com@2": 2
+    "nzxmltv.com@2": 3
   },
   "complete": false,
   "skipped": [
@@ -2016,7 +2016,9 @@
     "port.hu@0",
     "programtv.onet.pl@0",
     "programtv.onet.pl@1",
-    "programtv.onet.pl@2"
+    "programtv.onet.pl@2",
+    "siba.com.co@0",
+    "siba.com.co@1"
   ],
   "skipped_sites": {
     "dstv.com": {
@@ -2030,6 +2032,10 @@
     "port.hu": {
       "strikes": 2,
       "done": 0
+    },
+    "siba.com.co": {
+      "strikes": 3,
+      "done": 1
     }
   }
 }
