@@ -1008,6 +1008,8 @@
     "abc.net.au@0",
     "airtelxstream.in@0"
   ],
-  "attempts": {},
+  "attempts": {
+    "alexastream.kanal8.mk@0": 1
+  },
   "complete": false
 }
