@@ -1,46 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261119">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261125">
 <channel id="ANT1Europe.gr@SD"><display-name>ANT1 Europe</display-name><icon src="https://i.imgur.com/DTfwJGM.png"/></channel>
-<programme start="20261119040000 +0000" stop="20261119075000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
-<programme start="20261119075000 +0000" stop="20261119110000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261119120000 +0000" stop="20261119143000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
-<programme start="20261119143000 +0000" stop="20261119153000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
-<programme start="20261119153000 +0000" stop="20261119164500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261119164500 +0000" stop="20261119180000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS-ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
-<programme start="20261119180000 +0000" stop="20261119193000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261119193000 +0000" stop="20261119220000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title></programme>
-<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ</title></programme>
-<programme start="20261120000000 +0000" stop="20261120010000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
-<programme start="20261120010000 +0000" stop="20261120013000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261120040000 +0000" stop="20261120075000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
-<programme start="20261120075000 +0000" stop="20261120110000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261120120000 +0000" stop="20261120143000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
-<programme start="20261120143000 +0000" stop="20261120153000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
-<programme start="20261120153000 +0000" stop="20261120164500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261120164500 +0000" stop="20261120180000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS-ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
-<programme start="20261120180000 +0000" stop="20261120190000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261120190000 +0000" stop="20261120220000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">EXTREME MAKEOVER HOME EDITION</title></programme>
-<programme start="20261120220000 +0000" stop="20261121000000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title></programme>
-<programme start="20261121000000 +0000" stop="20261121004500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
-<programme start="20261121004500 +0000" stop="20261121013000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20261121040000 +0000" stop="20261121060000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
-<programme start="20261121060000 +0000" stop="20261121064500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">5 X 5</title></programme>
-<programme start="20261121064500 +0000" stop="20261121075000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ</title></programme>
-<programme start="20261121075000 +0000" stop="20261121110000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">FOR YOU</title></programme>
-<programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
-<programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ ΚΥΠΡΟΥ</title></programme>
-<programme start="20261121130000 +0000" stop="20261121134500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANTENNA EUROPE TOP 10</title></programme>
-<programme start="20261121134500 +0000" stop="20261121151500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title></programme>
-<programme start="20261121151500 +0000" stop="20261121160000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
-<programme start="20261121160000 +0000" stop="20261121164500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ</title></programme>
-<programme start="20261121164500 +0000" stop="20261121180000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS-ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
-<programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
-<programme start="20261121190000 +0000" stop="20261121203000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">THE ROADSHOW</title></programme>
-<programme start="20261121203000 +0000" stop="20261121223000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title></programme>
-<programme start="20261121223000 +0000" stop="20261121231500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ</title></programme>
-<programme start="20261121231500 +0000" stop="20261122003000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΟΙ ΣΥΜΜΑΘΗΤΕΣ</title></programme>
-<programme start="20261122003000 +0000" stop="20261122011500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">5 X 5</title></programme>
-<programme start="20261122011500 +0000" stop="20261122014500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">FOR YOU</title></programme>
+<programme start="20261125040000 +0000" stop="20261125075000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
+<programme start="20261125075000 +0000" stop="20261125110000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261125120000 +0000" stop="20261125143000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261125143000 +0000" stop="20261125153000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
+<programme start="20261125153000 +0000" stop="20261125164500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261125164500 +0000" stop="20261125180000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS-ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
+<programme start="20261125180000 +0000" stop="20261125190000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
+<programme start="20261125190000 +0000" stop="20261125203000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title></programme>
+<programme start="20261125203000 +0000" stop="20261125220000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΝΤΕΡΤΙ</title></programme>
+<programme start="20261125220000 +0000" stop="20261126003000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ</title></programme>
+<programme start="20261126003000 +0000" stop="20261126011500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
+<programme start="20261126011500 +0000" stop="20261126014500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261126040000 +0000" stop="20261126075000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
+<programme start="20261126075000 +0000" stop="20261126110000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261126120000 +0000" stop="20261126143000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261126143000 +0000" stop="20261126154500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261126154500 +0000" stop="20261126170000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS-ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
+<programme start="20261126170000 +0000" stop="20261126200000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΝΤΕΡΤΙ</title></programme>
+<programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title></programme>
+<programme start="20261126220000 +0000" stop="20261127000000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title></programme>
+<programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
+<programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261127040000 +0000" stop="20261127075000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
+<programme start="20261127075000 +0000" stop="20261127110000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS</title></programme>
+<programme start="20261127120000 +0000" stop="20261127143000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title></programme>
+<programme start="20261127143000 +0000" stop="20261127153000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
+<programme start="20261127153000 +0000" stop="20261127164500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title></programme>
+<programme start="20261127164500 +0000" stop="20261127180000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ANT1 NEWS-ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title></programme>
+<programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
+<programme start="20261127190000 +0000" stop="20261127220000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">EXTREME MAKEOVER HOME EDITION</title></programme>
+<programme start="20261127220000 +0000" stop="20261128000000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title></programme>
+<programme start="20261128000000 +0000" stop="20261128004500 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title></programme>
+<programme start="20261128004500 +0000" stop="20261128013000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ</title></programme>
+<programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="ANT1Europe.gr@SD"><title lang="el">ΤΟ ΠΡΩΙΝΟ</title></programme>
 </tv>
