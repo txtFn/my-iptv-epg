@@ -1996,7 +1996,7 @@
     "programtv.onet.pl@1": 1,
     "nzxmltv.com@2": 3
   },
-  "complete": false,
+  "complete": true,
   "skipped": [
     "dstv.com@0",
     "dstv.com@1",
@@ -2037,5 +2037,6 @@
       "strikes": 3,
       "done": 1
     }
-  }
+  },
+  "completed_at": "2026-11-25T02:32:02.129440+00:00"
 }
