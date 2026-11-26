@@ -1,340 +1,341 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261119">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261126">
 <channel id="76"><display-name>HOY 國際財經台</display-name></channel>
 <channel id="HOYTV.hk@SD"><display-name>HOY TV</display-name><icon src="https://i.imgur.com/NfVZPTT.png"/></channel>
 <channel id="78"><display-name>HOY 資訊台</display-name></channel>
-<programme start="20261119000000 +0000" stop="20261119003000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
-<programme start="20261119003000 +0000" stop="20261119023000 +0000" channel="76"><title lang="zh">澳洲女子職業足球聯賽-布里斯班獅吼 對 墨爾本勝利</title></programme>
-<programme start="20261119023000 +0000" stop="20261119043000 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃精英聯賽-艾薩德 對 吉達艾阿里</title></programme>
-<programme start="20261119043000 +0000" stop="20261119063000 +0000" channel="76"><title lang="zh">愛知‧名古屋亞運男子足球賽決賽-南韓 對 日本</title></programme>
-<programme start="20261119063000 +0000" stop="20261119070000 +0000" channel="76"><title lang="zh">A-League 女足最精彩</title></programme>
-<programme start="20261119070000 +0000" stop="20261119082500 +0000" channel="76"><title lang="zh">亞運排球男將</title></programme>
-<programme start="20261119082500 +0000" stop="20261119103000 +0000" channel="76"><title lang="zh">澳洲冠軍聯賽-FC獅子 對 臥龍崗狼隊[直播]</title></programme>
-<programme start="20261119103000 +0000" stop="20261119110000 +0000" channel="76"><title lang="zh">第46屆黃金海岸馬拉松精華</title></programme>
-<programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119120000 +0000" stop="20261119121500 +0000" channel="76"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261119121500 +0000" stop="20261119123000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119123000 +0000" stop="20261119124000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119124000 +0000" stop="20261119144500 +0000" channel="76"><title lang="zh">阿聯酋職業足球聯賽-艾華斯爾 對 哈塔會[直播]</title></programme>
-<programme start="20261119144500 +0000" stop="20261119150000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119150000 +0000" stop="20261119152000 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119152000 +0000" stop="20261119172500 +0000" channel="76"><title lang="zh">阿聯酋職業足球聯賽-艾阿恩 對 艾迪哈夫拉[直播]</title></programme>
-<programme start="20261119172500 +0000" stop="20261119180000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119190000 +0000" stop="20261119200000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="76"><title lang="zh">瑞典超級足球聯賽-加爾斯 對 AIK蘇納</title></programme>
-<programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
-<programme start="20261120003000 +0000" stop="20261120021500 +0000" channel="76"><title lang="zh">世界欖球國家盃-加拿大 對 中國香港</title></programme>
-<programme start="20261120021500 +0000" stop="20261120023000 +0000" channel="76"><title lang="zh">Sports Life</title></programme>
-<programme start="20261120023000 +0000" stop="20261120043000 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃精英聯賽-紐卡素噴射機 對 上海海港</title></programme>
-<programme start="20261120043000 +0000" stop="20261120050000 +0000" channel="76"><title lang="zh">香港單車節精華</title></programme>
-<programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="76"><title lang="zh">南美球會盃雜誌</title></programme>
-<programme start="20261120053000 +0000" stop="20261120054000 +0000" channel="76"><title lang="zh">Aichi-Nagoya 2026 Asian Games Golden Moment</title></programme>
-<programme start="20261120054000 +0000" stop="20261120054500 +0000" channel="76"><title lang="zh">Aichi-Nagoya 2026 Asian Games Golden Moment</title></programme>
-<programme start="20261120054500 +0000" stop="20261120075000 +0000" channel="76"><title lang="zh">澳洲女子職業足球聯賽-西悉尼流浪者 對 威靈頓鳳凰[直播]</title></programme>
-<programme start="20261120075000 +0000" stop="20261120080000 +0000" channel="76"><title lang="zh">Sports Life</title></programme>
-<programme start="20261120080000 +0000" stop="20261120082500 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
-<programme start="20261120082500 +0000" stop="20261120103000 +0000" channel="76"><title lang="zh">澳洲冠軍聯賽-悉尼聯 對 薩瑟蘭鯊魚[直播]</title></programme>
-<programme start="20261120103000 +0000" stop="20261120110000 +0000" channel="76"><title lang="zh">南美球會盃雜誌</title></programme>
-<programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="76"><title lang="zh">時間旅行者的銀河指南</title></programme>
-<programme start="20261120120000 +0000" stop="20261120121500 +0000" channel="76"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261120121500 +0000" stop="20261120123000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261120123000 +0000" stop="20261120124000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261120124000 +0000" stop="20261120144500 +0000" channel="76"><title lang="zh">阿聯酋職業足球聯賽-卡爾巴FC 對 FC沙迦[直播]</title></programme>
-<programme start="20261120144500 +0000" stop="20261120150000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261120150000 +0000" stop="20261120152000 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120152000 +0000" stop="20261120172500 +0000" channel="76"><title lang="zh">阿聯酋職業足球聯賽-杜拜艾阿里 對 阿吉曼會[直播]</title></programme>
-<programme start="20261120172500 +0000" stop="20261120193000 +0000" channel="76"><title lang="zh">沙特職業足球聯賽-吉達艾阿里 對 艾納斯[直播]</title></programme>
-<programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20261120220000 +0000" stop="20261120225500 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
-<programme start="20261120225500 +0000" stop="20261121010000 +0000" channel="76"><title lang="zh">阿根廷甲組足球聯賽次階段附加賽十六強-沙士菲 對 貝格拉諾[直播]</title></programme>
-<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="76"><title lang="zh">亞洲勒芒系列賽</title></programme>
-<programme start="20261121020000 +0000" stop="20261121035500 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃精英聯賽-柏雷素爾 對 大田市民</title></programme>
-<programme start="20261121035500 +0000" stop="20261121055500 +0000" channel="76"><title lang="zh">澳洲冠軍聯賽-奧克萊加農炮 對 比斯活特城[直播]</title></programme>
-<programme start="20261121055500 +0000" stop="20261121080000 +0000" channel="76"><title lang="zh">澳洲女子職業足球聯賽-FC悉尼 對 坎培拉聯[直播]</title></programme>
-<programme start="20261121080000 +0000" stop="20261121085500 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
-<programme start="20261121085500 +0000" stop="20261121105500 +0000" channel="76"><title lang="zh">世界欖球國家盃-中國香港 對 湯加[直播]</title></programme>
-<programme start="20261121105500 +0000" stop="20261121130000 +0000" channel="76"><title lang="zh">泰國甲組足球聯賽-帕塔尼 對 素可泰[直播]</title></programme>
-<programme start="20261121130000 +0000" stop="20261121131500 +0000" channel="76"><title lang="zh">Sports Life</title></programme>
-<programme start="20261121131500 +0000" stop="20261121133000 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="76"><title lang="zh">In Good Shape</title></programme>
-<programme start="20261121140000 +0000" stop="20261121150000 +0000" channel="76"><title lang="zh">在黑蜂之地</title></programme>
-<programme start="20261121150000 +0000" stop="20261121151500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121151500 +0000" stop="20261121153000 +0000" channel="76"><title lang="zh">Green Touch</title></programme>
-<programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="76"><title lang="zh">歐洲大觀</title></programme>
-<programme start="20261121160000 +0000" stop="20261121162500 +0000" channel="76"><title lang="zh">Green Touch</title></programme>
-<programme start="20261121162500 +0000" stop="20261121183000 +0000" channel="76"><title lang="zh">瑞典超級足球聯賽- 加爾斯 對 華斯特拉斯[直播]</title></programme>
-<programme start="20261121183000 +0000" stop="20261121193000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
-<programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="76"><title lang="zh">南美球會盃雜誌</title></programme>
-<programme start="20261121200000 +0000" stop="20261121220000 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃精英聯賽-艾薩德 對 吉達艾阿里</title></programme>
-<programme start="20261121220000 +0000" stop="20261121222500 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
-<programme start="20261121222500 +0000" stop="20261122004500 +0000" channel="76"><title lang="zh">南美球會盃決賽-明尼路 對 小保加[直播]</title></programme>
-<programme start="20261119000000 +0000" stop="20261119003000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
-<programme start="20261119003000 +0000" stop="20261119010000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
-<programme start="20261119010000 +0000" stop="20261119013000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
-<programme start="20261119013000 +0000" stop="20261119020000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261119020000 +0000" stop="20261119024000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
-<programme start="20261119024000 +0000" stop="20261119024500 +0000" channel="78"><title lang="zh">都大創未來</title></programme>
-<programme start="20261119024500 +0000" stop="20261119033000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
-<programme start="20261119033000 +0000" stop="20261119040000 +0000" channel="78"><title lang="zh">家國天下</title></programme>
-<programme start="20261119040000 +0000" stop="20261119042500 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261119042500 +0000" stop="20261119043000 +0000" channel="78"><title lang="zh">賽馬會智啟潛能學習計劃呈獻 : 「殊」不簡單</title></programme>
-<programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
-<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261119053000 +0000" stop="20261119060000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="78"><title lang="zh">財經HOY視野[直播]</title><desc lang="zh">結合「企業宏觀、科技微觀、個人理財、環球實戰」的現代財經節目。於港股交易時段，加強與觀眾互動，加插「多渠道即時問股價」環節，嘉賓主持即時分析回應，亦會總結亞洲市況、前瞻歐美股市重點，超前部署投資分析。</desc></programme>
-<programme start="20261119080000 +0000" stop="20261119083000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
-<programme start="20261119083000 +0000" stop="20261119090000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261119090000 +0000" stop="20261119093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119093000 +0000" stop="20261119100000 +0000" channel="78"><title lang="zh">股市直播室</title></programme>
-<programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="78"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261119110000 +0000" stop="20261119112000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261119112000 +0000" stop="20261119113000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市[直播]</title></programme>
-<programme start="20261119113000 +0000" stop="20261119115000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261119115000 +0000" stop="20261119120000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市</title></programme>
-<programme start="20261119120000 +0000" stop="20261119122500 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20261119122500 +0000" stop="20261119123000 +0000" channel="78"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261119123000 +0000" stop="20261119130000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
-<programme start="20261119130000 +0000" stop="20261119140000 +0000" channel="78"><title lang="zh">九點1小時新聞[直播]</title></programme>
-<programme start="20261119140000 +0000" stop="20261119143000 +0000" channel="78"><title lang="zh">國際最前線[直播]</title></programme>
-<programme start="20261119143000 +0000" stop="20261119150000 +0000" channel="78"><title lang="zh">國際最前線</title></programme>
-<programme start="20261119150000 +0000" stop="20261119153000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261119153000 +0000" stop="20261119160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119163000 +0000" stop="20261119170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119170000 +0000" stop="20261119173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119173000 +0000" stop="20261119180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119180000 +0000" stop="20261119183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119183000 +0000" stop="20261119190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119193000 +0000" stop="20261119200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119200000 +0000" stop="20261119203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119203000 +0000" stop="20261119210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119210000 +0000" stop="20261119213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119213000 +0000" stop="20261119220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119220000 +0000" stop="20261119223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261119223000 +0000" stop="20261119230000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="78"><title lang="zh">Cable早晨 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261119233000 +0000" stop="20261120000000 +0000" channel="78"><title lang="zh">Cable早晨 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
-<programme start="20261120003000 +0000" stop="20261120010000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
-<programme start="20261120010000 +0000" stop="20261120020000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
-<programme start="20261120020000 +0000" stop="20261120024000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
-<programme start="20261120024000 +0000" stop="20261120024500 +0000" channel="78"><title lang="zh">都大創未來</title></programme>
-<programme start="20261120024500 +0000" stop="20261120033000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
-<programme start="20261120033000 +0000" stop="20261120040000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
-<programme start="20261120040000 +0000" stop="20261120043000 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261120043000 +0000" stop="20261120045500 +0000" channel="78"><title lang="zh">家國天下</title></programme>
-<programme start="20261120045500 +0000" stop="20261120050000 +0000" channel="78"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20261120060000 +0000" stop="20261120080000 +0000" channel="78"><title lang="zh">財經HOY視野[直播]</title><desc lang="zh">結合「企業宏觀、科技微觀、個人理財、環球實戰」的現代財經節目。於港股交易時段，加強與觀眾互動，加插「多渠道即時問股價」環節，嘉賓主持即時分析回應，亦會總結亞洲市況、前瞻歐美股市重點，超前部署投資分析。</desc></programme>
-<programme start="20261120080000 +0000" stop="20261120083000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
-<programme start="20261120083000 +0000" stop="20261120090000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120093000 +0000" stop="20261120100000 +0000" channel="78"><title lang="zh">股市直播室</title></programme>
-<programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="78"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261120110000 +0000" stop="20261120112000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261120112000 +0000" stop="20261120113000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市[直播]</title></programme>
-<programme start="20261120113000 +0000" stop="20261120115000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261120115000 +0000" stop="20261120120000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市</title></programme>
-<programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
-<programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="78"><title lang="zh">九點1小時新聞[直播]</title></programme>
-<programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="78"><title lang="zh">國際最前線[直播]</title></programme>
-<programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="78"><title lang="zh">國際最前線</title></programme>
-<programme start="20261120150000 +0000" stop="20261120153000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120163000 +0000" stop="20261120170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120170000 +0000" stop="20261120173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120173000 +0000" stop="20261120180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120180000 +0000" stop="20261120183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120183000 +0000" stop="20261120190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120200000 +0000" stop="20261120203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120210000 +0000" stop="20261120213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="78"><title lang="zh">家國天下</title></programme>
-<programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="78"><title lang="zh">有理有得傾</title><desc lang="zh">香港特別行政區走過26年，經歷跌宕起伏，2019年社會運動再緊接全球肆虐新冠肺炎，無論經濟、民心都可算墮入低谷，各界都思考良策如何令香港尋回八、九十年代經濟起飛的動力，有線新聞籌備新論政節目《有理有得傾》，請來各界重量級嘉賓，用30分鐘時間討論當前重</desc></programme>
-<programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261121043000 +0000" stop="20261121045500 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261121045500 +0000" stop="20261121050000 +0000" channel="78"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="78"><title lang="zh">有理有得傾</title><desc lang="zh">香港特別行政區走過26年，經歷跌宕起伏，2019年社會運動再緊接全球肆虐新冠肺炎，無論經濟、民心都可算墮入低谷，各界都思考良策如何令香港尋回八、九十年代經濟起飛的動力，有線新聞籌備新論政節目《有理有得傾》，請來各界重量級嘉賓，用30分鐘時間討論當前重</desc></programme>
-<programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
-<programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 講樓 ‧港巿</title></programme>
-<programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="78"><title lang="zh">五平方Squarefoot優質樓盤專區特約 : 樓盤傳真</title></programme>
-<programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
-<programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121190000 +0000" stop="20261121193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121213000 +0000" stop="20261121220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="78"><title lang="zh">有理有得傾</title><desc lang="zh">香港特別行政區走過26年，經歷跌宕起伏，2019年社會運動再緊接全球肆虐新冠肺炎，無論經濟、民心都可算墮入低谷，各界都思考良策如何令香港尋回八、九十年代經濟起飛的動力，有線新聞籌備新論政節目《有理有得傾》，請來各界重量級嘉賓，用30分鐘時間討論當前重</desc></programme>
-<programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261119000000 +0000" stop="20261119003000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨[直播]</title></programme>
-<programme start="20261119003000 +0000" stop="20261119010000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨</title></programme>
-<programme start="20261119010000 +0000" stop="20261119013000 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
-<programme start="20261119013000 +0000" stop="20261119020000 +0000" channel="HOYTV.hk@SD"><title lang="zh">韓國邊忽好</title><desc lang="zh">韓國教育聞名天下，今集，詩詠由拜訪韓國家庭開始，深入了解韓國學習風氣！深入補習聖地 - 大峙洞，入便利店視察民情，到Coin K房感受學生美妙「歌喉」，走入Study Café見識韓國考生溫習實況。進入所有莘莘學子夢寐以求，被譽為S.K.Y.之一的延</desc></programme>
-<programme start="20261119020000 +0000" stop="20261119023000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY始做運動</title></programme>
-<programme start="20261119023000 +0000" stop="20261119030000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">何珮瑜回顧成為𡃁模的心路歷程，如何轉戰成為實力派演員，與劉青雲梁朝偉等人合作感受。她又提到翁子光如何啟發自己電影之路，成為伴侶最後又分開背後的真相。</desc></programme>
-<programme start="20261119030000 +0000" stop="20261119040000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第12集</sub-title></programme>
-<programme start="20261119040000 +0000" stop="20261119043000 +0000" channel="HOYTV.hk@SD"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261119043000 +0000" stop="20261119045500 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第15集</sub-title><desc lang="zh">第 15 集：匿名投訴信一封匿名投訴信直達高層，整個團隊面臨「炒魷」危機！為了飯碗，李寶安深入調查，驚覺身邊最信任的兄弟竟然最可疑！與此同時，火爆送貨員「送貨勤」突然帶着禮物殺上門，背後竟另有目的！一封投訴信足以讓保安部內訌，送貨勤還無意中火上加油！</desc></programme>
-<programme start="20261119045500 +0000" stop="20261119050000 +0000" channel="HOYTV.hk@SD"><title lang="zh">都大創未來</title></programme>
-<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
-<programme start="20261119053000 +0000" stop="20261119055500 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP3｜放題大作戰點心、海鮮、和牛，款款都想吃怎麼辦？從即叫即蒸點心放題，到酒店自助餐的冰鎮龍蝦、即劏藍鰭吞拿魚及松葉蟹釜飯，再到和牛放題品味細膩油花與肉香，各家招牌有何過人之處？跟隨主播逐一試味品嚐！</desc></programme>
-<programme start="20261119055500 +0000" stop="20261119060000 +0000" channel="HOYTV.hk@SD"><title lang="zh">賽馬會智啟潛能學習計劃呈獻 : 「殊」不簡單</title></programme>
-<programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="HOYTV.hk@SD"><title lang="zh">健康關注組</title><desc lang="zh">家中有糖尿病長者，除了要監測血糖，還要注意他們的視力變化！糖尿病患者如果視力變差，會因此出現跌倒情況，風險會飆升幾倍，甚至引致致命性的髖骨骨折！究竟怎樣防範這個連鎖危機？有沒有防跌和護眼雙重攻略？</desc></programme>
-<programme start="20261119063000 +0000" stop="20261119080000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
-<programme start="20261119080000 +0000" stop="20261119083000 +0000" channel="HOYTV.hk@SD"><title lang="zh">美斯的奧奇島</title></programme>
-<programme start="20261119083000 +0000" stop="20261119090000 +0000" channel="HOYTV.hk@SD"><title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title></programme>
-<programme start="20261119090000 +0000" stop="20261119093000 +0000" channel="HOYTV.hk@SD"><title lang="zh">友夫日記</title></programme>
-<programme start="20261119093000 +0000" stop="20261119100000 +0000" channel="HOYTV.hk@SD"><title lang="zh">凱特與米米兔</title></programme>
-<programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="HOYTV.hk@SD"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261119110000 +0000" stop="20261119112000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261119112000 +0000" stop="20261119113000 +0000" channel="HOYTV.hk@SD"><title lang="zh">28Hse 搵樓App 特約 : 每日樓市[直播]</title></programme>
-<programme start="20261119113000 +0000" stop="20261119120000 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第15集</sub-title><desc lang="zh">第 15 集：匿名投訴信一封匿名投訴信直達高層，整個團隊面臨「炒魷」危機！為了飯碗，李寶安深入調查，驚覺身邊最信任的兄弟竟然最可疑！與此同時，火爆送貨員「送貨勤」突然帶着禮物殺上門，背後竟另有目的！一封投訴信足以讓保安部內訌，送貨勤還無意中火上加油！</desc></programme>
-<programme start="20261119120000 +0000" stop="20261119123000 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第16集</sub-title><desc lang="zh">第 16 集：困𨋢記（上）一向唯命是從的馬求存趕在女友生日前夕硬闖大廈，卻與三名保安一同被困電梯。得知其女友正是全棟最難搞的投訴女王後，三位保安決定開辦「真男人速成班」，傳授馭女心經助他重振夫綱。</desc></programme>
-<programme start="20261119123000 +0000" stop="20261119130000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
-<programme start="20261119130000 +0000" stop="20261119133000 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP4｜微醮清單奶茶、栗子都能變雞尾酒？到世一酒店酒吧品嚐香港主題酒款，分享生活與品味。另外想知道釀酒師如何運用麥芽與啤酒花，調酒師又怎樣平衡茶味與酒香？不如親自到釀酒廠及特色酒吧試飲一下，發掘味覺驚喜。</desc></programme>
-<programme start="20261119133000 +0000" stop="20261119140000 +0000" channel="HOYTV.hk@SD"><title lang="zh">健康關注組</title><desc lang="zh">都市人工作壓力大，每晚在床上輾轉反側不能入睡？失眠除了關乎心理因素，生理亦會互相影響形成惡性循環，長期失眠不止損害精神健康，還會默默損害身體嘅五臟六腑！今集有催眠治療師和中醫師，由身心兩方面著手，講解一下怎樣消除壓力、調理臟腑！</desc></programme>
-<programme start="20261119140000 +0000" stop="20261119143000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">陸詩韻分享參選港姐之路，重提捲入汶萊富豪包養風波，以及被大馬富商男友所累，欠下300多萬巨債，靠家人支持度過難關。</desc></programme>
-<programme start="20261119143000 +0000" stop="20261119153000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第13集</sub-title></programme>
-<programme start="20261119153000 +0000" stop="20261119154500 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂[PG]</title></programme>
-<programme start="20261119154500 +0000" stop="20261119163000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Better Together</title></programme>
-<programme start="20261119163000 +0000" stop="20261119180000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
-<programme start="20261119180000 +0000" stop="20261119183000 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
-<programme start="20261119183000 +0000" stop="20261119190000 +0000" channel="HOYTV.hk@SD"><title lang="zh">韓國邊忽好</title><desc lang="zh">韓國教育聞名天下，今集，詩詠由拜訪韓國家庭開始，深入了解韓國學習風氣！深入補習聖地 - 大峙洞，入便利店視察民情，到Coin K房感受學生美妙「歌喉」，走入Study Café見識韓國考生溫習實況。進入所有莘莘學子夢寐以求，被譽為S.K.Y.之一的延</desc></programme>
-<programme start="20261119190000 +0000" stop="20261119220000 +0000" channel="HOYTV.hk@SD"><title lang="zh">魚樂無限</title></programme>
-<programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="HOYTV.hk@SD"><title lang="zh">與鳳行[PG]</title><sub-title lang="zh">第35集</sub-title></programme>
-<programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY始做運動</title></programme>
-<programme start="20261119233000 +0000" stop="20261119235500 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261119235500 +0000" stop="20261120000000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨[直播]</title></programme>
-<programme start="20261120003000 +0000" stop="20261120010000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨</title></programme>
-<programme start="20261120010000 +0000" stop="20261120013000 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
-<programme start="20261120013000 +0000" stop="20261120015500 +0000" channel="HOYTV.hk@SD"><title lang="zh">女行團</title><desc lang="zh">邱晴離開富國島繼續乘坐越捷航空vietjet去胡志明市玩，由遊客最熟悉的濱城市場開始朝聖兼買手信，到金行兌換越南幣後到附近一間超多人推介的法包小店食「燒牛肉法包」，再走過隔離姊妹店試新式越南風味。食飽後，邱晴嘗試男士最愛的「越式洗頭」，獲越南迪麗熱巴</desc></programme>
-<programme start="20261120015500 +0000" stop="20261120020000 +0000" channel="HOYTV.hk@SD"><title lang="zh">都大創未來</title></programme>
-<programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY始做運動</title></programme>
-<programme start="20261120023000 +0000" stop="20261120030000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">陸詩韻分享參選港姐之路，重提捲入汶萊富豪包養風波，以及被大馬富商男友所累，欠下300多萬巨債，靠家人支持度過難關。</desc></programme>
-<programme start="20261120030000 +0000" stop="20261120040000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第13集</sub-title></programme>
-<programme start="20261120040000 +0000" stop="20261120043000 +0000" channel="HOYTV.hk@SD"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261120043000 +0000" stop="20261120045500 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第16集</sub-title><desc lang="zh">第 16 集：困𨋢記（上）一向唯命是從的馬求存趕在女友生日前夕硬闖大廈，卻與三名保安一同被困電梯。得知其女友正是全棟最難搞的投訴女王後，三位保安決定開辦「真男人速成班」，傳授馭女心經助他重振夫綱。</desc></programme>
-<programme start="20261120045500 +0000" stop="20261120050000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
-<programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP4｜微醮清單奶茶、栗子都能變雞尾酒？到世一酒店酒吧品嚐香港主題酒款，分享生活與品味。另外想知道釀酒師如何運用麥芽與啤酒花，調酒師又怎樣平衡茶味與酒香？不如親自到釀酒廠及特色酒吧試飲一下，發掘味覺驚喜。</desc></programme>
-<programme start="20261120060000 +0000" stop="20261120063000 +0000" channel="HOYTV.hk@SD"><title lang="zh">健康關注組</title><desc lang="zh">都市人工作壓力大，每晚在床上輾轉反側不能入睡？失眠除了關乎心理因素，生理亦會互相影響形成惡性循環，長期失眠不止損害精神健康，還會默默損害身體嘅五臟六腑！今集有催眠治療師和中醫師，由身心兩方面著手，講解一下怎樣消除壓力、調理臟腑！</desc></programme>
-<programme start="20261120063000 +0000" stop="20261120080000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
-<programme start="20261120080000 +0000" stop="20261120083000 +0000" channel="HOYTV.hk@SD"><title lang="zh">美斯的奧奇島</title></programme>
-<programme start="20261120083000 +0000" stop="20261120090000 +0000" channel="HOYTV.hk@SD"><title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title></programme>
-<programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="HOYTV.hk@SD"><title lang="zh">友夫日記</title></programme>
-<programme start="20261120093000 +0000" stop="20261120100000 +0000" channel="HOYTV.hk@SD"><title lang="zh">凱特與米米兔</title></programme>
-<programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="HOYTV.hk@SD"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺</title></programme>
-<programme start="20261120110000 +0000" stop="20261120112000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261120112000 +0000" stop="20261120113000 +0000" channel="HOYTV.hk@SD"><title lang="zh">28Hse 搵樓App 特約 : 每日樓市[直播]</title></programme>
-<programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第16集</sub-title><desc lang="zh">第 16 集：困𨋢記（上）一向唯命是從的馬求存趕在女友生日前夕硬闖大廈，卻與三名保安一同被困電梯。得知其女友正是全棟最難搞的投訴女王後，三位保安決定開辦「真男人速成班」，傳授馭女心經助他重振夫綱。</desc></programme>
-<programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 臨海峯答問大會</title></programme>
-<programme start="20261120123000 +0000" stop="20261120125500 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
-<programme start="20261120125500 +0000" stop="20261120130000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP5｜深圳旅團原來深圳福田不只有大型商場！先走訪文創園區探索古怪有趣的主題博物館、原創精品店，又發掘隱世小店品嚐自家製雪糕，接著從炭火飄香的海鮮大餐，到舒展筋骨的按摩體驗，跟着兩位主播，體驗北上全方位放鬆的心水路線。</desc></programme>
-<programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="HOYTV.hk@SD"><title lang="zh">健康關注組</title><desc lang="zh">小朋友進食時候，會突然出疹、肚痛或者呼吸唔暢順，可能是對食物過敏，過敏反應嚴重可以致命！但是否一世都要盲目戒口？怎樣透過測試找出元兇？若果可以把握黃金期，透過專業『脫敏治療』，有機會幫小朋友重拾番正常飲食！</desc></programme>
-<programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">王書麒透露工作時兩度面癱的經歷。許秋怡分享工作時一邊為壽宴唱歌，一邊處理至親身後事的靈魂交戰，以及出埠登台時曾遇過種種不愉快經歷，甚至被資方聲言會出動槍械對待。</desc></programme>
-<programme start="20261120143000 +0000" stop="20261120153000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第14集</sub-title></programme>
-<programme start="20261120153000 +0000" stop="20261120154500 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂[PG]</title></programme>
-<programme start="20261120154500 +0000" stop="20261120164500 +0000" channel="HOYTV.hk@SD"><title lang="zh">晚安晚安</title></programme>
-<programme start="20261120164500 +0000" stop="20261120181500 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
-<programme start="20261120181500 +0000" stop="20261120184500 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
-<programme start="20261120184500 +0000" stop="20261120190000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂[PG]</title></programme>
-<programme start="20261120190000 +0000" stop="20261120220000 +0000" channel="HOYTV.hk@SD"><title lang="zh">魚樂無限</title></programme>
-<programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="HOYTV.hk@SD"><title lang="zh">道地生豆乳特約 : 健康原因講多D</title></programme>
-<programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
-<programme start="20261120233000 +0000" stop="20261120235500 +0000" channel="HOYTV.hk@SD"><title lang="zh">深宵菜館</title></programme>
-<programme start="20261120235500 +0000" stop="20261121000000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="HOYTV.hk@SD"><title lang="zh">領廚爭霸戰</title><desc lang="zh">《領廚爭霸戰》12位準廚神順利誕生，到底他們甚麼來頭？各人又有甚麼家傳秘技助他們獲得準廚神的席位？年紀最輕的參賽者Cherry 6歲開始下廚，回到母校探望老師，老師們都大讚她的廚藝！參賽者Shirley即席分享其中一個她最拿手的手殘食譜「炸子雞」，大</desc></programme>
-<programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="HOYTV.hk@SD"><title lang="zh">邊走邊煮滋味行</title><desc lang="zh">節目一開始，林莎哼著「甜蜜蜜~你笑得多甜蜜~」要大家找台灣甜蜜蜜食材啦！Arthur和林莎來到屏東高樹，台灣最大的鳳梨產地，深入鳳梨園，原來鳳梨樹是長這樣！他們還造訪了有如游牧人的蜂場，為了蜜蜂，老闆橫跨半個台灣找蜜源，面對數十萬隻的蜜蜂，兩人採蜂蜜</desc></programme>
-<programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一人店長</title></programme>
-<programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="HOYTV.hk@SD"><title lang="zh">因乜事周圍遊</title></programme>
-<programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="HOYTV.hk@SD"><title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title><desc lang="zh">喺京都府京丹後市，有一間外表豪華，古色古香嘅大宅，就係平野家，同時亦係一間醬油廠，樓齡已經有一百二十四年，地下呢層都好D，一樓融融爛爛，原來已經有成四十年以上，幾乎冇人踏足過呢度，工匠決定花盡心思，誓要拯救呢間老字號。</desc></programme>
-<programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="HOYTV.hk@SD"><title lang="zh">愛知‧名古屋亞運回顧</title></programme>
-<programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="HOYTV.hk@SD"><title lang="zh">女神同行</title><desc lang="zh">林莎老家大寮是個大都是工廠和農田的地方，所以一開始跟阿倫、康師傅約的地方是經常會去散步的自行車道碰面，林莎爸也出現和大家聊天，還推銷誰娶到林莎真的好福氣，讓阿倫和康師傅心想不是在跟他們說吧。本來以為大寮很偏僻沒什麼地方可以去，想不到隱密的巷子裡竟然有</desc></programme>
-<programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="HOYTV.hk@SD"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261121043000 +0000" stop="20261121045500 +0000" channel="HOYTV.hk@SD"><title lang="zh">深宵菜館</title></programme>
-<programme start="20261121045500 +0000" stop="20261121050000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
-<programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
-<programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="HOYTV.hk@SD"><title lang="zh">食材大變身</title></programme>
-<programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="HOYTV.hk@SD"><title lang="zh">領廚爭霸戰</title><desc lang="zh">《領廚爭霸戰》12位準廚神順利誕生，到底他們甚麼來頭？各人又有甚麼家傳秘技助他們獲得準廚神的席位？年紀最輕的參賽者Cherry 6歲開始下廚，回到母校探望老師，老師們都大讚她的廚藝！參賽者Shirley即席分享其中一個她最拿手的手殘食譜「炸子雞」，大</desc></programme>
-<programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="HOYTV.hk@SD"><title lang="zh">邊走邊煮滋味行</title><desc lang="zh">節目一開始，林莎哼著「甜蜜蜜~你笑得多甜蜜~」要大家找台灣甜蜜蜜食材啦！Arthur和林莎來到屏東高樹，台灣最大的鳳梨產地，深入鳳梨園，原來鳳梨樹是長這樣！他們還造訪了有如游牧人的蜂場，為了蜜蜂，老闆橫跨半個台灣找蜜源，面對數十萬隻的蜜蜂，兩人採蜂蜜</desc></programme>
-<programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="HOYTV.hk@SD"><title lang="zh">嘻哈馬場[PG]</title></programme>
-<programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一人店長</title></programme>
-<programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="HOYTV.hk@SD"><title lang="zh">美斯的奧奇島</title></programme>
-<programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="HOYTV.hk@SD"><title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title></programme>
-<programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="HOYTV.hk@SD"><title lang="zh">友夫日記</title></programme>
-<programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="HOYTV.hk@SD"><title lang="zh">凱特與米米兔</title></programme>
-<programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
-<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
-<programme start="20261121113000 +0000" stop="20261121115500 +0000" channel="HOYTV.hk@SD"><title lang="zh">也好吃</title></programme>
-<programme start="20261121115500 +0000" stop="20261121120000 +0000" channel="HOYTV.hk@SD"><title lang="zh">拆解6號密碼</title></programme>
-<programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="HOYTV.hk@SD"><title lang="zh">西卡防水，放心！特約 : 安居樂業</title></programme>
-<programme start="20261121123000 +0000" stop="20261121132500 +0000" channel="HOYTV.hk@SD"><title lang="zh">道地蜂蜜綠茶特約 : 山旮旯睇樓團</title></programme>
-<programme start="20261121132500 +0000" stop="20261121133000 +0000" channel="HOYTV.hk@SD"><title lang="zh">賽馬會智啟潛能學習計劃呈獻 : 「殊」不簡單</title></programme>
-<programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="HOYTV.hk@SD"><title lang="zh">運動關注組</title></programme>
-<programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="HOYTV.hk@SD"><title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 金牌食相</title></programme>
-<programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="HOYTV.hk@SD"><title lang="zh">神秘水世界</title></programme>
-<programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂一周[PG]</title></programme>
-<programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="HOYTV.hk@SD"><title lang="zh">愛知‧名古屋亞運回顧</title></programme>
-<programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一人店長</title></programme>
-<programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="HOYTV.hk@SD"><title lang="zh">因乜事周圍遊</title></programme>
-<programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="HOYTV.hk@SD"><title lang="zh">領廚爭霸戰</title><desc lang="zh">《領廚爭霸戰》12位準廚神順利誕生，到底他們甚麼來頭？各人又有甚麼家傳秘技助他們獲得準廚神的席位？年紀最輕的參賽者Cherry 6歲開始下廚，回到母校探望老師，老師們都大讚她的廚藝！參賽者Shirley即席分享其中一個她最拿手的手殘食譜「炸子雞」，大</desc></programme>
-<programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="HOYTV.hk@SD"><title lang="zh">邊走邊煮滋味行</title><desc lang="zh">節目一開始，林莎哼著「甜蜜蜜~你笑得多甜蜜~」要大家找台灣甜蜜蜜食材啦！Arthur和林莎來到屏東高樹，台灣最大的鳳梨產地，深入鳳梨園，原來鳳梨樹是長這樣！他們還造訪了有如游牧人的蜂場，為了蜜蜂，老闆橫跨半個台灣找蜜源，面對數十萬隻的蜜蜂，兩人採蜂蜜</desc></programme>
-<programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="HOYTV.hk@SD"><title lang="zh">食材大變身</title></programme>
-<programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
-<programme start="20261121190000 +0000" stop="20261121220000 +0000" channel="HOYTV.hk@SD"><title lang="zh">魚樂無限</title></programme>
-<programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="HOYTV.hk@SD"><title lang="zh">日旅大比拼</title></programme>
-<programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="HOYTV.hk@SD"><title lang="zh">馬田煮場</title><desc lang="zh">繼上一輯「馬田港原味」之後，超人氣飲食界網紅馬田再度出擊，為大家帶來非一般的飲食節目。今次馬田決定回歸餐桌，由每一道尋常菜式開始，發掘出它們的極致美味方程式。令大家從中領略每道菜式，只要用心掌握箇中竅門，家常菜都一樣可以出得廳堂，成為令人讚不絕口的佳</desc></programme>
-<programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
-<programme start="20261121233000 +0000" stop="20261121235500 +0000" channel="HOYTV.hk@SD"><title lang="zh">來頓燒烤</title></programme>
-<programme start="20261121235500 +0000" stop="20261122000000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
+<programme start="20261126023000 +0000" stop="20261126043000 +0000" channel="76"><title lang="zh">世界欖球國家盃-中國香港 對 湯加</title></programme>
+<programme start="20261126043000 +0000" stop="20261126045500 +0000" channel="76"><title lang="zh">A-League 女足最精彩</title></programme>
+<programme start="20261126045500 +0000" stop="20261126070000 +0000" channel="76"><title lang="zh">亞洲盃男子籃球資格賽預賽-斐濟 對 中國香港[直播]</title></programme>
+<programme start="20261126070000 +0000" stop="20261126083000 +0000" channel="76"><title lang="zh">亞運排球男將</title></programme>
+<programme start="20261126083000 +0000" stop="20261126095500 +0000" channel="76"><title lang="zh">亞運排球女將</title></programme>
+<programme start="20261126095500 +0000" stop="20261126120000 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃二級聯賽-FC江原 對 傑志[直播]</title></programme>
+<programme start="20261126120000 +0000" stop="20261126121000 +0000" channel="76"><title lang="zh">Green Touch</title></programme>
+<programme start="20261126121000 +0000" stop="20261126130000 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃二級聯賽-大埔 對 阿德萊德聯[直播]</title></programme>
+<programme start="20261126130000 +0000" stop="20261126131500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126131500 +0000" stop="20261126142000 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃二級聯賽-大埔 對 阿德萊德聯[直播]</title></programme>
+<programme start="20261126142000 +0000" stop="20261126151000 +0000" channel="76"><title lang="zh">沙特職業足球聯賽-艾法德 對 艾利雅德[直播]</title></programme>
+<programme start="20261126151000 +0000" stop="20261126152500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126152500 +0000" stop="20261126163000 +0000" channel="76"><title lang="zh">沙特職業足球聯賽-艾法德 對 艾利雅德[直播]</title></programme>
+<programme start="20261126163000 +0000" stop="20261126180000 +0000" channel="76"><title lang="zh">FIBA世界盃男子籃球亞洲區資格賽-沙特阿拉伯 對 中國[轉播]</title></programme>
+<programme start="20261126180000 +0000" stop="20261126190000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261126220000 +0000" stop="20261127000000 +0000" channel="76"><title lang="zh">瑞典超級足球聯賽-卡爾馬 對 天狼星</title></programme>
+<programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
+<programme start="20261127003000 +0000" stop="20261127021500 +0000" channel="76"><title lang="zh">女子欖球國際賽 2026-中國香港 對 湯加</title></programme>
+<programme start="20261127021500 +0000" stop="20261127023000 +0000" channel="76"><title lang="zh">Sports Life</title></programme>
+<programme start="20261127023000 +0000" stop="20261127043000 +0000" channel="76"><title lang="zh">澳洲女子職業足球聯賽-中岸水手 對 珀斯光輝</title></programme>
+<programme start="20261127043000 +0000" stop="20261127063000 +0000" channel="76"><title lang="zh">亞洲聯賽冠軍盃精英聯賽-鹿島鹿角 對 浦項制鐵</title></programme>
+<programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="76"><title lang="zh">阿聯酋職業足球聯賽雜誌</title></programme>
+<programme start="20261127070000 +0000" stop="20261127082500 +0000" channel="76"><title lang="zh">亞運排球男將</title></programme>
+<programme start="20261127082500 +0000" stop="20261127103000 +0000" channel="76"><title lang="zh">澳洲冠軍聯賽半準決賽-布羅德梅多魔術 對 FC獅子[直播]</title></programme>
+<programme start="20261127103000 +0000" stop="20261127105500 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
+<programme start="20261127105500 +0000" stop="20261127130000 +0000" channel="76"><title lang="zh">亞洲盃男子籃球資格賽預賽-中國香港 對 蒙古[直播]</title></programme>
+<programme start="20261127130000 +0000" stop="20261127131500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127131500 +0000" stop="20261127133000 +0000" channel="76"><title lang="zh">Sports Life</title></programme>
+<programme start="20261127133000 +0000" stop="20261127134500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127134500 +0000" stop="20261127141500 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127141500 +0000" stop="20261127162000 +0000" channel="76"><title lang="zh">沙特職業足球聯賽-艾卡迪沙 對 艾費哈[直播]</title></programme>
+<programme start="20261127162000 +0000" stop="20261127170000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127190000 +0000" stop="20261127200000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127210000 +0000" stop="20261127220000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20261127220000 +0000" stop="20261127230500 +0000" channel="76"><title lang="zh">2026 FIM 世界越野摩托錦標賽</title></programme>
+<programme start="20261127230500 +0000" stop="20261128011500 +0000" channel="76"><title lang="zh">FIBA世界盃男子籃球美洲區資格賽-巴西 對 美國[直播]</title></programme>
+<programme start="20261128011500 +0000" stop="20261128013000 +0000" channel="76"><title lang="zh">Sports Life</title></programme>
+<programme start="20261128013000 +0000" stop="20261128023000 +0000" channel="76"><title lang="zh">亞洲勒芒系列賽</title></programme>
+<programme start="20261128023000 +0000" stop="20261128030000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
+<programme start="20261128030000 +0000" stop="20261128035500 +0000" channel="76"><title lang="zh">2026 FIM 世界越野摩托錦標賽</title></programme>
+<programme start="20261128035500 +0000" stop="20261128060000 +0000" channel="76"><title lang="zh">澳洲冠軍聯賽半準決賽-普雷斯頓雄獅 對 西部 APIA FC[直播]</title></programme>
+<programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
+<programme start="20261128063000 +0000" stop="20261128073000 +0000" channel="76"><title lang="zh">亞洲勒芒系列賽</title></programme>
+<programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="76"><title lang="zh">南美自由盃雜誌</title></programme>
+<programme start="20261128080000 +0000" stop="20261128082500 +0000" channel="76"><title lang="zh">第46屆黃金海岸馬拉松精華</title></programme>
+<programme start="20261128082500 +0000" stop="20261128103000 +0000" channel="76"><title lang="zh">澳洲冠軍聯賽半準決賽-比斯活特城 對 悉尼聯[直播]</title></programme>
+<programme start="20261128103000 +0000" stop="20261128105500 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
+<programme start="20261128105500 +0000" stop="20261128130000 +0000" channel="76"><title lang="zh">泰國甲組足球聯賽-帕塔尼 對 清萊聯[直播]</title></programme>
+<programme start="20261128130000 +0000" stop="20261128131500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128131500 +0000" stop="20261128133000 +0000" channel="76"><title lang="zh">Green Touch</title></programme>
+<programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="76"><title lang="zh">歐洲大觀</title></programme>
+<programme start="20261128140000 +0000" stop="20261128150000 +0000" channel="76"><title lang="zh">時間旅行者的銀河指南</title></programme>
+<programme start="20261128150000 +0000" stop="20261128151500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128151500 +0000" stop="20261128153000 +0000" channel="76"><title lang="zh">Green Touch</title></programme>
+<programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="76"><title lang="zh">Made In Germany</title></programme>
+<programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="76"><title lang="zh">In Good Shape</title></programme>
+<programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="76"><title lang="zh">A-League 女足最精彩</title></programme>
+<programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="76"><title lang="zh">世界欖球國家盃-中國香港 對 湯加</title></programme>
+<programme start="20261128190000 +0000" stop="20261128195500 +0000" channel="76"><title lang="zh">2026 FIM 世界越野摩托錦標賽</title></programme>
+<programme start="20261128195500 +0000" stop="20261128221500 +0000" channel="76"><title lang="zh">南美自由盃決賽-彭美拉斯 對 學生隊[直播]</title></programme>
+<programme start="20261128221500 +0000" stop="20261128223000 +0000" channel="76"><title lang="zh">FIBA 女籃定格 - 費比芝(德國)</title></programme>
+<programme start="20261128223000 +0000" stop="20261128230000 +0000" channel="76"><title lang="zh">第46屆黃金海岸馬拉松精華</title></programme>
+<programme start="20261128230000 +0000" stop="20261129000000 +0000" channel="76"><title lang="zh">大眾參與 2026</title></programme>
+<programme start="20261126000000 +0000" stop="20261126003000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
+<programme start="20261126003000 +0000" stop="20261126010000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
+<programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
+<programme start="20261126020000 +0000" stop="20261126024000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
+<programme start="20261126024000 +0000" stop="20261126024500 +0000" channel="78"><title lang="zh">都大創未來</title></programme>
+<programme start="20261126024500 +0000" stop="20261126033000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
+<programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="78"><title lang="zh">家國天下</title></programme>
+<programme start="20261126040000 +0000" stop="20261126042500 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261126042500 +0000" stop="20261126043000 +0000" channel="78"><title lang="zh">賽馬會智啟潛能學習計劃呈獻 : 「殊」不簡單</title></programme>
+<programme start="20261126043000 +0000" stop="20261126050000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
+<programme start="20261126050000 +0000" stop="20261126053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20261126060000 +0000" stop="20261126080000 +0000" channel="78"><title lang="zh">財經HOY視野[直播]</title><desc lang="zh">結合「企業宏觀、科技微觀、個人理財、環球實戰」的現代財經節目。於港股交易時段，加強與觀眾互動，加插「多渠道即時問股價」環節，嘉賓主持即時分析回應，亦會總結亞洲市況、前瞻歐美股市重點，超前部署投資分析。</desc></programme>
+<programme start="20261126080000 +0000" stop="20261126083000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
+<programme start="20261126083000 +0000" stop="20261126090000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261126090000 +0000" stop="20261126093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126093000 +0000" stop="20261126100000 +0000" channel="78"><title lang="zh">股市直播室</title></programme>
+<programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="78"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261126110000 +0000" stop="20261126112000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261126112000 +0000" stop="20261126113000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市[直播]</title></programme>
+<programme start="20261126113000 +0000" stop="20261126115000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261126115000 +0000" stop="20261126120000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市</title></programme>
+<programme start="20261126120000 +0000" stop="20261126122500 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20261126122500 +0000" stop="20261126123000 +0000" channel="78"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
+<programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="78"><title lang="zh">九點1小時新聞[直播]</title></programme>
+<programme start="20261126140000 +0000" stop="20261126143000 +0000" channel="78"><title lang="zh">國際最前線[直播]</title></programme>
+<programme start="20261126143000 +0000" stop="20261126150000 +0000" channel="78"><title lang="zh">國際最前線</title></programme>
+<programme start="20261126150000 +0000" stop="20261126153000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261126153000 +0000" stop="20261126160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261126160000 +0000" stop="20261126163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126163000 +0000" stop="20261126170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126170000 +0000" stop="20261126173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126173000 +0000" stop="20261126180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126180000 +0000" stop="20261126183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126183000 +0000" stop="20261126190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126190000 +0000" stop="20261126193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126203000 +0000" stop="20261126210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="78"><title lang="zh">Cable早晨 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="78"><title lang="zh">Cable早晨 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
+<programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
+<programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
+<programme start="20261127020000 +0000" stop="20261127024000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
+<programme start="20261127024000 +0000" stop="20261127024500 +0000" channel="78"><title lang="zh">都大創未來</title></programme>
+<programme start="20261127024500 +0000" stop="20261127033000 +0000" channel="78"><title lang="zh">時事HOY角度[直播]</title><desc lang="zh">綜合時事資訊節目，以時事及焦點新聞為主軸，延伸至健康、週末消閒、本地故事及實用生活資訊。邀請專家、學者為觀眾帶來客觀、深度與廣度兼備的觀點，讓觀眾在短時間內掌握新聞重點，對複雜議題建立清晰、全面及理性的理解。</desc></programme>
+<programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
+<programme start="20261127040000 +0000" stop="20261127043000 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261127043000 +0000" stop="20261127045500 +0000" channel="78"><title lang="zh">家國天下</title></programme>
+<programme start="20261127045500 +0000" stop="20261127050000 +0000" channel="78"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261127050000 +0000" stop="20261127053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261127053000 +0000" stop="20261127060000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20261127060000 +0000" stop="20261127080000 +0000" channel="78"><title lang="zh">財經HOY視野[直播]</title><desc lang="zh">結合「企業宏觀、科技微觀、個人理財、環球實戰」的現代財經節目。於港股交易時段，加強與觀眾互動，加插「多渠道即時問股價」環節，嘉賓主持即時分析回應，亦會總結亞洲市況、前瞻歐美股市重點，超前部署投資分析。</desc></programme>
+<programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
+<programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="78"><title lang="zh">股市直播室</title></programme>
+<programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="78"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261127110000 +0000" stop="20261127112000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261127112000 +0000" stop="20261127113000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市[直播]</title></programme>
+<programme start="20261127113000 +0000" stop="20261127115000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261127115000 +0000" stop="20261127120000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 每日樓市</title></programme>
+<programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
+<programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="78"><title lang="zh">九點1小時新聞[直播]</title></programme>
+<programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="78"><title lang="zh">國際最前線[直播]</title></programme>
+<programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="78"><title lang="zh">國際最前線</title></programme>
+<programme start="20261127150000 +0000" stop="20261127153000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127180000 +0000" stop="20261127183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127183000 +0000" stop="20261127190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127190000 +0000" stop="20261127193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127200000 +0000" stop="20261127203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127203000 +0000" stop="20261127210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127213000 +0000" stop="20261127220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127220000 +0000" stop="20261127223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261128000000 +0000" stop="20261128003000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261128003000 +0000" stop="20261128010000 +0000" channel="78"><title lang="zh">家國天下</title></programme>
+<programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128020000 +0000" stop="20261128023000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261128023000 +0000" stop="20261128030000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="78"><title lang="zh">有理有得傾</title><desc lang="zh">香港特別行政區走過26年，經歷跌宕起伏，2019年社會運動再緊接全球肆虐新冠肺炎，無論經濟、民心都可算墮入低谷，各界都思考良策如何令香港尋回八、九十年代經濟起飛的動力，有線新聞籌備新論政節目《有理有得傾》，請來各界重量級嘉賓，用30分鐘時間討論當前重</desc></programme>
+<programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261128043000 +0000" stop="20261128045500 +0000" channel="78"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261128045500 +0000" stop="20261128050000 +0000" channel="78"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="78"><title lang="zh">有理有得傾</title><desc lang="zh">香港特別行政區走過26年，經歷跌宕起伏，2019年社會運動再緊接全球肆虐新冠肺炎，無論經濟、民心都可算墮入低谷，各界都思考良策如何令香港尋回八、九十年代經濟起飛的動力，有線新聞籌備新論政節目《有理有得傾》，請來各界重量級嘉賓，用30分鐘時間討論當前重</desc></programme>
+<programme start="20261128100000 +0000" stop="20261128103000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261128103000 +0000" stop="20261128110000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261128113000 +0000" stop="20261128120000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261128120000 +0000" stop="20261128123000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
+<programme start="20261128123000 +0000" stop="20261128130000 +0000" channel="78"><title lang="zh">28Hse搵樓App特約 : 講樓 ‧港巿</title></programme>
+<programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="78"><title lang="zh">五平方Squarefoot優質樓盤專區特約 : 樓盤傳真</title></programme>
+<programme start="20261128140000 +0000" stop="20261128143000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
+<programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128213000 +0000" stop="20261128220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128220000 +0000" stop="20261128223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20261128223000 +0000" stop="20261128230000 +0000" channel="78"><title lang="zh">有理有得傾</title><desc lang="zh">香港特別行政區走過26年，經歷跌宕起伏，2019年社會運動再緊接全球肆虐新冠肺炎，無論經濟、民心都可算墮入低谷，各界都思考良策如何令香港尋回八、九十年代經濟起飛的動力，有線新聞籌備新論政節目《有理有得傾》，請來各界重量級嘉賓，用30分鐘時間討論當前重</desc></programme>
+<programme start="20261128230000 +0000" stop="20261128233000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261128233000 +0000" stop="20261129000000 +0000" channel="78"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261126000000 +0000" stop="20261126003000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨[直播]</title></programme>
+<programme start="20261126003000 +0000" stop="20261126010000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨</title></programme>
+<programme start="20261126010000 +0000" stop="20261126013000 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
+<programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="HOYTV.hk@SD"><title lang="zh">非一般婚禮</title></programme>
+<programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY始做運動</title></programme>
+<programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">朱潔儀分享由選港姐到大台拍攝節目的經歷，由藝人到有自己繪畫作品的心路歷程，在節目中她更暗指90年港姐自己更應該是冠軍。</desc></programme>
+<programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第17集</sub-title></programme>
+<programme start="20261126040000 +0000" stop="20261126043000 +0000" channel="HOYTV.hk@SD"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261126043000 +0000" stop="20261126045500 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第19集</sub-title><desc lang="zh">第 19 集：長江大師睇風水（下）為避開辦公室禁令，長江大師喬裝成「得閑修女」潛入保安室，暗中以菊花與魚缸為畢好彩擺下求愛風水陣。不料冤家路窄，李寶安突然殺回，為免身份敗露，大師手忙腳亂地見招拆招。就在騙局將被揭穿之際，一宗意外的中獎快遞竟突然送到，</desc></programme>
+<programme start="20261126045500 +0000" stop="20261126050000 +0000" channel="HOYTV.hk@SD"><title lang="zh">都大創未來</title></programme>
+<programme start="20261126050000 +0000" stop="20261126053000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
+<programme start="20261126053000 +0000" stop="20261126055500 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP8｜甜蜜擔當一份甜品，既能勾起熟悉回憶，也能帶來新鮮感！酒店甜點將茶餐廳元素重新演繹，連續四年獲米芝蓮指南推介的糖水店帶來經典滋味，水果芭菲則以精緻層次成為打卡焦點。再親手挑戰和菓子製作，看小巧作品如何兼顧造型與味道。</desc></programme>
+<programme start="20261126055500 +0000" stop="20261126060000 +0000" channel="HOYTV.hk@SD"><title lang="zh">賽馬會智啟潛能學習計劃呈獻 : 「殊」不簡單</title></programme>
+<programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="HOYTV.hk@SD"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">很多人因為小便不能忍，所以害去旅行、坐長途車，令到社交生活大受影響！這不單止令患者尷尬，更可能是一種症狀『膀胱過度活躍症』作怪！以為年紀大才會出現的膀胱過度活躍，其實年輕人士都有可能患上，而且是可以醫治的！</desc></programme>
+<programme start="20261126063000 +0000" stop="20261126080000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
+<programme start="20261126080000 +0000" stop="20261126083000 +0000" channel="HOYTV.hk@SD"><title lang="zh">美斯的奧奇島</title></programme>
+<programme start="20261126083000 +0000" stop="20261126090000 +0000" channel="HOYTV.hk@SD"><title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title></programme>
+<programme start="20261126090000 +0000" stop="20261126093000 +0000" channel="HOYTV.hk@SD"><title lang="zh">友夫日記</title></programme>
+<programme start="20261126093000 +0000" stop="20261126100000 +0000" channel="HOYTV.hk@SD"><title lang="zh">嵐美與阿寶</title></programme>
+<programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="HOYTV.hk@SD"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261126110000 +0000" stop="20261126112000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261126112000 +0000" stop="20261126113000 +0000" channel="HOYTV.hk@SD"><title lang="zh">28Hse 搵樓App 特約 : 每日樓市[直播]</title></programme>
+<programme start="20261126113000 +0000" stop="20261126120000 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第19集</sub-title><desc lang="zh">第 19 集：長江大師睇風水（下）為避開辦公室禁令，長江大師喬裝成「得閑修女」潛入保安室，暗中以菊花與魚缸為畢好彩擺下求愛風水陣。不料冤家路窄，李寶安突然殺回，為免身份敗露，大師手忙腳亂地見招拆招。就在騙局將被揭穿之際，一宗意外的中獎快遞竟突然送到，</desc></programme>
+<programme start="20261126120000 +0000" stop="20261126122500 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第20集</sub-title><desc lang="zh">第 20集：黑仔王撞正生理期今天的阿彩披頭散髮、面色發青，脾氣暴躁得人人避之則吉，連一向最愛的羅宋湯都不理不睬，邱副推測阿彩已意外得知自己不過試用期，偏偏此時李寶安收到線報，Tammy姐今日要來臨海峯突擊QC，李寶安急派邱副和羅宋湯通知阿彩，結果二人</desc></programme>
+<programme start="20261126122500 +0000" stop="20261126123000 +0000" channel="HOYTV.hk@SD"><title lang="zh">拆解6號密碼</title></programme>
+<programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
+<programme start="20261126130000 +0000" stop="20261126133000 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP9｜動物交友會今集帶大家展開超療癒動物之旅！先到主題公園近距離接觸海獅、海豹與狐獴動物明星；再到人氣貓咪咖啡店施展「吸貓」大法，徹底放鬆身心；最後探訪室內互動動物體驗館，零距離親親各類小動物，收穫滿滿情緒價值！</desc></programme>
+<programme start="20261126133000 +0000" stop="20261126140000 +0000" channel="HOYTV.hk@SD"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">經期不準時、狂生暗瘡、體毛變多，未必單純是荷爾蒙失調，可能是患上「多內分泌代謝卵巢綜合症」！病情不止影響生育，更可能增加糖尿病、心血管病風險，甚至影響下一代健康！</desc></programme>
+<programme start="20261126140000 +0000" stop="20261126143000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">林芊妤重提入友台經歷，因桃色事件而最後離巢，曾被舊男友毆打，但最後仍與現任丈夫結婚生子修成正果，並成功開創瑜珈事業成為商界女強人。</desc></programme>
+<programme start="20261126143000 +0000" stop="20261126153000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第18集</sub-title></programme>
+<programme start="20261126153000 +0000" stop="20261126154500 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂[PG]</title></programme>
+<programme start="20261126154500 +0000" stop="20261126170000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Better Together</title></programme>
+<programme start="20261126170000 +0000" stop="20261126183000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
+<programme start="20261126183000 +0000" stop="20261126190000 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
+<programme start="20261126190000 +0000" stop="20261126220000 +0000" channel="HOYTV.hk@SD"><title lang="zh">魚樂無限</title></programme>
+<programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="HOYTV.hk@SD"><title lang="zh">長相思 第一季[PG]</title><sub-title lang="zh">第3集</sub-title></programme>
+<programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY始做運動</title></programme>
+<programme start="20261126233000 +0000" stop="20261126235500 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261126235500 +0000" stop="20261127000000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨[直播]</title></programme>
+<programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="HOYTV.hk@SD"><title lang="zh">Cable早晨</title></programme>
+<programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
+<programme start="20261127013000 +0000" stop="20261127015500 +0000" channel="HOYTV.hk@SD"><title lang="zh">女行團</title><desc lang="zh">邱晴在胡志明市中心找到一間天台泳池，盡覽最美鬧市風景，再到宮崎駿Feel城堡餐廳吃馳名薑烤煎鴨二食。一條潮流商業街滿足邱晴購物慾，變身越南辣妹到一間特式餐廳，平平無奇一餐到晚上9點立即令食客陷入瘋狂。Pho是越南名物，一間連續3年米芝蓮街坊店，一碗C</desc></programme>
+<programme start="20261127015500 +0000" stop="20261127020000 +0000" channel="HOYTV.hk@SD"><title lang="zh">都大創未來</title></programme>
+<programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY始做運動</title></programme>
+<programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">林芊妤重提入友台經歷，因桃色事件而最後離巢，曾被舊男友毆打，但最後仍與現任丈夫結婚生子修成正果，並成功開創瑜珈事業成為商界女強人。</desc></programme>
+<programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第18集</sub-title></programme>
+<programme start="20261127040000 +0000" stop="20261127043000 +0000" channel="HOYTV.hk@SD"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261127043000 +0000" stop="20261127045500 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第20集</sub-title><desc lang="zh">第 20集：黑仔王撞正生理期今天的阿彩披頭散髮、面色發青，脾氣暴躁得人人避之則吉，連一向最愛的羅宋湯都不理不睬，邱副推測阿彩已意外得知自己不過試用期，偏偏此時李寶安收到線報，Tammy姐今日要來臨海峯突擊QC，李寶安急派邱副和羅宋湯通知阿彩，結果二人</desc></programme>
+<programme start="20261127045500 +0000" stop="20261127050000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261127050000 +0000" stop="20261127053000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
+<programme start="20261127053000 +0000" stop="20261127060000 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP9｜動物交友會今集帶大家展開超療癒動物之旅！先到主題公園近距離接觸海獅、海豹與狐獴動物明星；再到人氣貓咪咖啡店施展「吸貓」大法，徹底放鬆身心；最後探訪室內互動動物體驗館，零距離親親各類小動物，收穫滿滿情緒價值！</desc></programme>
+<programme start="20261127060000 +0000" stop="20261127063000 +0000" channel="HOYTV.hk@SD"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">經期不準時、狂生暗瘡、體毛變多，未必單純是荷爾蒙失調，可能是患上「多內分泌代謝卵巢綜合症」！病情不止影響生育，更可能增加糖尿病、心血管病風險，甚至影響下一代健康！</desc></programme>
+<programme start="20261127063000 +0000" stop="20261127080000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
+<programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="HOYTV.hk@SD"><title lang="zh">美斯的奧奇島</title></programme>
+<programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="HOYTV.hk@SD"><title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title></programme>
+<programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="HOYTV.hk@SD"><title lang="zh">友夫日記</title></programme>
+<programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="HOYTV.hk@SD"><title lang="zh">嵐美與阿寶</title></programme>
+<programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="HOYTV.hk@SD"><title lang="zh">六點1小時新聞 及 周大福人壽特約：天氣全視覺</title></programme>
+<programme start="20261127110000 +0000" stop="20261127112000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261127112000 +0000" stop="20261127113000 +0000" channel="HOYTV.hk@SD"><title lang="zh">28Hse 搵樓App 特約 : 每日樓市[直播]</title></programme>
+<programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 你的保安 李寶安</title><sub-title lang="zh">第20集</sub-title><desc lang="zh">第 20集：黑仔王撞正生理期今天的阿彩披頭散髮、面色發青，脾氣暴躁得人人避之則吉，連一向最愛的羅宋湯都不理不睬，邱副推測阿彩已意外得知自己不過試用期，偏偏此時李寶安收到線報，Tammy姐今日要來臨海峯突擊QC，李寶安急派邱副和羅宋湯通知阿彩，結果二人</desc></programme>
+<programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="HOYTV.hk@SD"><title lang="zh">X Wallet 呈獻 : 臨海峯答問大會</title></programme>
+<programme start="20261127123000 +0000" stop="20261127125500 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
+<programme start="20261127125500 +0000" stop="20261127130000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="HOYTV.hk@SD"><title lang="zh">主播旅團</title><desc lang="zh">EP10｜聖誕限定最後展開聖誕限定之旅！投入主題樂園的奇妙飄雪世界，感受浪漫聖誕氣氛；另率先報名聖誕花環工作坊，親手製作節日裝飾；最後漫遊香港隱藏版「小歐洲」愉景灣，悠閒漫步異國風情手工市集，享受最chill的冬日假期！</desc></programme>
+<programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="HOYTV.hk@SD"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">經常便秘、排便太用力，是誘發痔瘡嘅大敵！生痔瘡並非男士專利，都可以發生女性身上，至於女性懷孕期間，子宮壓迫，或者工作經常坐少運動，都會容易誘發痔瘡，如果處理不當，就會令痔瘡流血情況加劇！</desc></programme>
+<programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="HOYTV.hk@SD"><title lang="zh">九運會客室 2[PG]</title><desc lang="zh">伍詠薇憶述窮苦童年的辛酸，執麵包充飢的經歷。頭段13日的婚姻換來自己受千夫所指，出街就像戰俘，猶如赤裸般被路人指罵。第二段婚姻亦曾經歷風波，但最後依然重新振作。</desc></programme>
+<programme start="20261127143000 +0000" stop="20261127153000 +0000" channel="HOYTV.hk@SD"><title lang="zh">亞洲劇場 : 鬼怪 - 孤單又燦爛的神[PG]</title><sub-title lang="zh">第19集</sub-title></programme>
+<programme start="20261127153000 +0000" stop="20261127154500 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂[PG]</title></programme>
+<programme start="20261127154500 +0000" stop="20261127164500 +0000" channel="HOYTV.hk@SD"><title lang="zh">晚安晚安</title></programme>
+<programme start="20261127164500 +0000" stop="20261127181500 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY 枱啦[PG]</title></programme>
+<programme start="20261127181500 +0000" stop="20261127184500 +0000" channel="HOYTV.hk@SD"><title lang="zh">開飯啦</title></programme>
+<programme start="20261127184500 +0000" stop="20261127190000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂[PG]</title></programme>
+<programme start="20261127190000 +0000" stop="20261127220000 +0000" channel="HOYTV.hk@SD"><title lang="zh">魚樂無限</title></programme>
+<programme start="20261127220000 +0000" stop="20261127230000 +0000" channel="HOYTV.hk@SD"><title lang="zh">道地生豆乳特約 : 健康原因講多D</title></programme>
+<programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
+<programme start="20261127233000 +0000" stop="20261127235500 +0000" channel="HOYTV.hk@SD"><title lang="zh">來頓燒烤</title></programme>
+<programme start="20261127235500 +0000" stop="20261128000000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261128000000 +0000" stop="20261128003000 +0000" channel="HOYTV.hk@SD"><title lang="zh">領廚爭霸戰</title><desc lang="zh">《領廚爭霸戰》第一場初賽開戰，參賽者Beryl和文采分別做出「媽媽的味道」！兩位參賽者先到南昌薈街市購買新鮮食材，再馬上回到廚房煮出參賽菜式。收到比賽題目後，Beryl毫不猶豫做出兒子最愛的味道。至於前主播張文采則向媽媽取取經，看看媽媽有沒有甚麼小貼</desc></programme>
+<programme start="20261128003000 +0000" stop="20261128010000 +0000" channel="HOYTV.hk@SD"><title lang="zh">邊走邊煮滋味行</title><desc lang="zh">這一集中我們要找「用創意推廣家鄉味」的好食材！Arthur和林莎探索了高雄的手工麻油工藝，以及屏東高樹的檳榔心芋頭。他們親手參與百年麻油的製作過程，感受古法榨油的精華，而老闆又是怎麼在百年傳統中做出創新？接著來到屏東，檳榔心芋頭的田地裡，他們學習如何</desc></programme>
+<programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="HOYTV.hk@SD"><title lang="zh">半世紀老店</title></programme>
+<programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="HOYTV.hk@SD"><title lang="zh">因乜事周圍遊</title></programme>
+<programme start="20261128020000 +0000" stop="20261128030000 +0000" channel="HOYTV.hk@SD"><title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title><desc lang="zh">今集繼續改造平野家嘅百年醬油廠，開始由底部進行加固，臨時支柱亦都安裝咗金屬零件加以固定。凹凸不平又破爛嘅地板，已經改造得非常穩固，工匠仲用左好多特別嘅設計，成間屋最後會變成點？醬油廠第四代傳人，願望係咪會成真？</desc></programme>
+<programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="HOYTV.hk@SD"><title lang="zh">愛知‧名古屋亞運回顧</title></programme>
+<programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="HOYTV.hk@SD"><title lang="zh">女神同行</title><desc lang="zh">大寮真是個令人充滿驚喜的地方，巷子裡隱藏著仙人掌主題cafe, 工廠旁邊竟然出現一間有南法風情的咖啡店。接著三人跑去打保齡球，想不到康師傅每局都strike, 讓林莎和阿倫說康師傅根本是裝不會，其實留一手吧接著三人跑去做汗蒸沐放鬆，康師傅卻很擔心跟林</desc></programme>
+<programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="HOYTV.hk@SD"><title lang="zh">午間新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261128043000 +0000" stop="20261128045500 +0000" channel="HOYTV.hk@SD"><title lang="zh">來頓燒烤</title></programme>
+<programme start="20261128045500 +0000" stop="20261128050000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
+<programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="HOYTV.hk@SD"><title lang="zh">一線搜查</title></programme>
+<programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="HOYTV.hk@SD"><title lang="zh">食材大變身</title></programme>
+<programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="HOYTV.hk@SD"><title lang="zh">領廚爭霸戰</title><desc lang="zh">《領廚爭霸戰》第一場初賽開戰，參賽者Beryl和文采分別做出「媽媽的味道」！兩位參賽者先到南昌薈街市購買新鮮食材，再馬上回到廚房煮出參賽菜式。收到比賽題目後，Beryl毫不猶豫做出兒子最愛的味道。至於前主播張文采則向媽媽取取經，看看媽媽有沒有甚麼小貼</desc></programme>
+<programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="HOYTV.hk@SD"><title lang="zh">邊走邊煮滋味行</title><desc lang="zh">這一集中我們要找「用創意推廣家鄉味」的好食材！Arthur和林莎探索了高雄的手工麻油工藝，以及屏東高樹的檳榔心芋頭。他們親手參與百年麻油的製作過程，感受古法榨油的精華，而老闆又是怎麼在百年傳統中做出創新？接著來到屏東，檳榔心芋頭的田地裡，他們學習如何</desc></programme>
+<programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="HOYTV.hk@SD"><title lang="zh">嘻哈馬場[PG]</title></programme>
+<programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="HOYTV.hk@SD"><title lang="zh">半世紀老店</title></programme>
+<programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="HOYTV.hk@SD"><title lang="zh">美斯的奧奇島</title></programme>
+<programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="HOYTV.hk@SD"><title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title></programme>
+<programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="HOYTV.hk@SD"><title lang="zh">友夫日記</title></programme>
+<programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="HOYTV.hk@SD"><title lang="zh">嵐美與阿寶</title></programme>
+<programme start="20261128100000 +0000" stop="20261128103000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261128103000 +0000" stop="20261128110000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
+<programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="HOYTV.hk@SD"><title lang="zh">有線新聞 及 周大福人壽特約：天氣全視覺[直播]</title></programme>
+<programme start="20261128113000 +0000" stop="20261128115500 +0000" channel="HOYTV.hk@SD"><title lang="zh">也好吃</title></programme>
+<programme start="20261128115500 +0000" stop="20261128120000 +0000" channel="HOYTV.hk@SD"><title lang="zh">拆解6號密碼</title></programme>
+<programme start="20261128120000 +0000" stop="20261128122500 +0000" channel="HOYTV.hk@SD"><title lang="zh">西卡防水，放心！特約 : 安居樂業</title><desc lang="zh">今集帶大家參觀一大一小兩個單位。設計師Jason因應一家四口的新需要，重新規劃一個三房間隔單位，當中更融入戶主喜愛的深色型格風，裝修、家具及電器亦統一以黑、白為主調。另一邊廂，設計師Donald則以簡約風為一個約二百多呎的單位增加空間感，設計上刻意減</desc></programme>
+<programme start="20261128122500 +0000" stop="20261128123000 +0000" channel="HOYTV.hk@SD"><title lang="zh">香港保險業聯會呈獻 : Action! 人生保障全就位</title></programme>
+<programme start="20261128123000 +0000" stop="20261128132500 +0000" channel="HOYTV.hk@SD"><title lang="zh">道地蜂蜜綠茶特約 : 山旮旯睇樓團</title></programme>
+<programme start="20261128132500 +0000" stop="20261128133000 +0000" channel="HOYTV.hk@SD"><title lang="zh">賽馬會智啟潛能學習計劃呈獻 : 「殊」不簡單</title></programme>
+<programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="HOYTV.hk@SD"><title lang="zh">運動關注組</title><desc lang="zh">香港人喜歡行山，不過大家就經常遇到一個問題，就是上山容易下山難。原來上山跟下山，對膝關節的壓力可以差很遠！那一個姿勢最傷膝？下山有甚麼技巧可以減輕負擔？今日一齊關注：「行山用錯力，隨時傷膝」</desc></programme>
+<programme start="20261128140000 +0000" stop="20261128143000 +0000" channel="HOYTV.hk@SD"><title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 金牌食相</title></programme>
+<programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="HOYTV.hk@SD"><title lang="zh">神秘水世界</title></programme>
+<programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="HOYTV.hk@SD"><title lang="zh">HOY娛樂一周[PG]</title></programme>
+<programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="HOYTV.hk@SD"><title lang="zh">愛知‧名古屋亞運回顧</title></programme>
+<programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="HOYTV.hk@SD"><title lang="zh">來頓燒烤</title></programme>
+<programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="HOYTV.hk@SD"><title lang="zh">因乜事周圍遊</title></programme>
+<programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="HOYTV.hk@SD"><title lang="zh">領廚爭霸戰</title><desc lang="zh">《領廚爭霸戰》第一場初賽開戰，參賽者Beryl和文采分別做出「媽媽的味道」！兩位參賽者先到南昌薈街市購買新鮮食材，再馬上回到廚房煮出參賽菜式。收到比賽題目後，Beryl毫不猶豫做出兒子最愛的味道。至於前主播張文采則向媽媽取取經，看看媽媽有沒有甚麼小貼</desc></programme>
+<programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="HOYTV.hk@SD"><title lang="zh">邊走邊煮滋味行</title><desc lang="zh">這一集中我們要找「用創意推廣家鄉味」的好食材！Arthur和林莎探索了高雄的手工麻油工藝，以及屏東高樹的檳榔心芋頭。他們親手參與百年麻油的製作過程，感受古法榨油的精華，而老闆又是怎麼在百年傳統中做出創新？接著來到屏東，檳榔心芋頭的田地裡，他們學習如何</desc></programme>
+<programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="HOYTV.hk@SD"><title lang="zh">食材大變身</title></programme>
+<programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
+<programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="HOYTV.hk@SD"><title lang="zh">魚樂無限</title></programme>
+<programme start="20261128220000 +0000" stop="20261128223000 +0000" channel="HOYTV.hk@SD"><title lang="zh">日旅大比拼</title></programme>
+<programme start="20261128223000 +0000" stop="20261128230000 +0000" channel="HOYTV.hk@SD"><title lang="zh">馬田煮場</title><desc lang="zh">雞肉的可塑性可以說是無限大！想要放縱自己可以吃炸雞；要瘦身可以吃烚雞胸；想有家的味道可以吃蒸雞，總有一款合你口味。今集煮場美味秘密將為大家拆解:「雞種該如何選擇?」、「蒸雞營養是最高?」以及「雞胸是健康之選?」另外，主持到訪燒雞達人Eric餐廳，尋找</desc></programme>
+<programme start="20261128230000 +0000" stop="20261128233000 +0000" channel="HOYTV.hk@SD"><title lang="zh">上海工匠</title></programme>
+<programme start="20261128233000 +0000" stop="20261128235500 +0000" channel="HOYTV.hk@SD"><title lang="zh">來頓燒烤</title></programme>
+<programme start="20261128235500 +0000" stop="20261129000000 +0000" channel="HOYTV.hk@SD"><title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title></programme>
 </tv>
