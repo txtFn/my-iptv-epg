@@ -1,111 +1,111 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261120">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261126">
 <channel id="TeleBilbao.es@SD"><display-name>TeleBilbao</display-name><icon src="https://i.imgur.com/x2HmBq1.png"/></channel>
-<programme start="20261120060000 +0000" stop="20261120063000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BAI HORIXE</title></programme>
-<programme start="20261120063000 +0000" stop="20261120070000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BAI HORIXE</title></programme>
-<programme start="20261120070000 +0000" stop="20261120073000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BAI HORIXE</title></programme>
-<programme start="20261120073000 +0000" stop="20261120080000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261120080000 +0000" stop="20261120083000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261120083000 +0000" stop="20261120090000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
-<programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOPOSRT</title></programme>
-<programme start="20261120093000 +0000" stop="20261120100000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120100000 +0000" stop="20261120103000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120103000 +0000" stop="20261120110000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LOCAL MUSICAL</title></programme>
-<programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="TeleBilbao.es@SD"><title lang="es">COCINA FAMILIAR</title></programme>
-<programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
-<programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
-<programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120150000 +0000" stop="20261120153000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261120163000 +0000" stop="20261120170000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261120170000 +0000" stop="20261120173000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261120173000 +0000" stop="20261120180000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261120180000 +0000" stop="20261120183000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261120183000 +0000" stop="20261120190000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DOS BUTACAS</title></programme>
-<programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
-<programme start="20261120200000 +0000" stop="20261120203000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
-<programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261120210000 +0000" stop="20261120213000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PREMIOS</title></programme>
-<programme start="20261120213000 +0000" stop="20261120230000 +0000" channel="TeleBilbao.es@SD"><title lang="es">SAREKIN</title></programme>
-<programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
-<programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE HOMEBOY. 1988. 114′ .Drama deporte Mickey Rourke, Christopher Walken.</title></programme>
-<programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE HOMEBOY. 1988. 114′ .Drama deporte Mickey Rourke, Christopher Walken.</title></programme>
-<programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARADA Y FONDA</title></programme>
-<programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARADA Y FONDA</title></programme>
-<programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="TeleBilbao.es@SD"><title lang="es">VERICAT</title></programme>
-<programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARTIDO PELOTA</title></programme>
-<programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARTIDO PELOTA</title></programme>
-<programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="TeleBilbao.es@SD"><title lang="es">COME BIEN</title></programme>
-<programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="TeleBilbao.es@SD"><title lang="es">COME BIEN</title></programme>
-<programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA TRIBUNA</title></programme>
-<programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
-<programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
-<programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BIZKAIKO BERRIAK</title></programme>
-<programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CAMBIO DE RASANTE</title></programme>
-<programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LOCAL MUSICAL</title></programme>
-<programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BONNIE Y CLYDE. 1967. 111′ Acción. Warren Beatty, Faye Dunaway</title></programme>
-<programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BONNIE Y CLYDE. 1967. 111′ Acción. Warren Beatty, Faye Dunaway</title></programme>
-<programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BONNIE Y CLYDE. 1967. 111′ Acción. Warren Beatty, Faye Dunaway</title></programme>
-<programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BONNIE Y CLYDE. 1967. 111′ Acción. Warren Beatty, Faye Dunaway</title></programme>
-<programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="TeleBilbao.es@SD"><title lang="es">MERIDIANO 0</title></programme>
-<programme start="20261121190000 +0000" stop="20261121193000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA VISITA</title></programme>
-<programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA VISITA</title></programme>
-<programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BIZKAIKO BERRIAK</title></programme>
-<programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIAIRO LOCAL</title></programme>
-<programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
-<programme start="20261121213000 +0000" stop="20261121230000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
-<programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
-<programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
-<programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIAIRO LOCAL</title></programme>
-<programme start="20261122003000 +0000" stop="20261122010000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="TeleBilbao.es@SD"><title lang="es">TERRETA</title></programme>
-<programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="TeleBilbao.es@SD"><title lang="es">TERRETA</title></programme>
-<programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="TeleBilbao.es@SD"><title lang="es">TERRETA</title></programme>
-<programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIRECTO AL GRANO</title></programme>
-<programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261122083000 +0000" stop="20261122090000 +0000" channel="TeleBilbao.es@SD"><title lang="es">MERIDIANO CERO</title></programme>
-<programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="TeleBilbao.es@SD"><title lang="es">MERIDIANO CERO</title></programme>
-<programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="TeleBilbao.es@SD"><title lang="es">VERICAT</title></programme>
-<programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="TeleBilbao.es@SD"><title lang="es">MISA EN DIRECTO desde la catedral de Santiago</title></programme>
-<programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="TeleBilbao.es@SD"><title lang="es">MISA EN DIRECTO desde la catedral de Santiago</title></programme>
-<programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CHARLA INFORMATIVA DESINFORMACION EN REDES</title></programme>
-<programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BARAKALDO BERRIAK</title></programme>
-<programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BIZKAIKO BERRIAK</title></programme>
-<programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LA LOCAL</title></programme>
-<programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA VISITA</title></programme>
-<programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA VISITA</title></programme>
-<programme start="20261122150000 +0000" stop="20261122153000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DOS BUTACAS</title></programme>
-<programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LOCAL MUSICAL</title></programme>
-<programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BAT 21 1988. 105′ Béiico. Gene Hackman, Danny Glover.</title></programme>
-<programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BAT 21 1988. 105′ Béiico. Gene Hackman, Danny Glover.</title></programme>
-<programme start="20261122170000 +0000" stop="20261122173000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BAT 21 1988. 105′ Béiico. Gene Hackman, Danny Glover.</title></programme>
-<programme start="20261122173000 +0000" stop="20261122180000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. BAT 21 1988. 105′ Béiico. Gene Hackman, Danny Glover.</title></programme>
-<programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261122190000 +0000" stop="20261122193000 +0000" channel="TeleBilbao.es@SD"/>
-<programme start="20261122193000 +0000" stop="20261122200000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BARAKALDO BERRIAK</title></programme>
-<programme start="20261122200000 +0000" stop="20261122203000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BIZKAIKO BERRIAK</title></programme>
-<programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
-<programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261122213000 +0000" stop="20261122230000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
-<programme start="20261123000000 +0000" stop="20261123003000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIAIRO LOCAL</title></programme>
-<programme start="20261123003000 +0000" stop="20261123010000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126070000 +0000" stop="20261126073000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126073000 +0000" stop="20261126080000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126080000 +0000" stop="20261126083000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126083000 +0000" stop="20261126090000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126090000 +0000" stop="20261126093000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126093000 +0000" stop="20261126100000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126100000 +0000" stop="20261126103000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126103000 +0000" stop="20261126110000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126113000 +0000" stop="20261126120000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126120000 +0000" stop="20261126123000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126130000 +0000" stop="20261126133000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126133000 +0000" stop="20261126140000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126140000 +0000" stop="20261126143000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126143000 +0000" stop="20261126150000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126150000 +0000" stop="20261126153000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126153000 +0000" stop="20261126160000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126160000 +0000" stop="20261126163000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126163000 +0000" stop="20261126170000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126170000 +0000" stop="20261126173000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126173000 +0000" stop="20261126180000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126180000 +0000" stop="20261126183000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126183000 +0000" stop="20261126190000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126190000 +0000" stop="20261126193000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126203000 +0000" stop="20261126210000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126213000 +0000" stop="20261126230000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261127060000 +0000" stop="20261127063000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BAI HORIXE</title></programme>
+<programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BAI HORIXE</title></programme>
+<programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BAI HORIXE</title></programme>
+<programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
+<programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOPOSRT</title></programme>
+<programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LOCAL MUSICAL</title></programme>
+<programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="TeleBilbao.es@SD"><title lang="es">COCINA FAMILIAR</title></programme>
+<programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
+<programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
+<programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127150000 +0000" stop="20261127153000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
+<programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
+<programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
+<programme start="20261127180000 +0000" stop="20261127183000 +0000" channel="TeleBilbao.es@SD"><title lang="es">REVISTA SEMANAL</title></programme>
+<programme start="20261127183000 +0000" stop="20261127190000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DOS BUTACAS</title></programme>
+<programme start="20261127190000 +0000" stop="20261127193000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
+<programme start="20261127200000 +0000" stop="20261127203000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
+<programme start="20261127203000 +0000" stop="20261127210000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127213000 +0000" stop="20261127230000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL</title></programme>
+<programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261128000000 +0000" stop="20261128003000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE FAT CITY, CIUDAD DORADA. 1972. 96′ Drama. Stacy Keach, Jeff Bridges.</title></programme>
+<programme start="20261128003000 +0000" stop="20261128010000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE FAT CITY, CIUDAD DORADA. 1972. 96′ Drama. Stacy Keach, Jeff Bridges.</title></programme>
+<programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARADA Y FONDA</title></programme>
+<programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARADA Y FONDA</title></programme>
+<programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="TeleBilbao.es@SD"><title lang="es">VERICAT</title></programme>
+<programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARTIDO PELOTA</title></programme>
+<programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="TeleBilbao.es@SD"><title lang="es">PARTIDO PELOTA</title></programme>
+<programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261128100000 +0000" stop="20261128103000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261128103000 +0000" stop="20261128110000 +0000" channel="TeleBilbao.es@SD"><title lang="es">COME BIEN</title></programme>
+<programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="TeleBilbao.es@SD"><title lang="es">COME BIEN</title></programme>
+<programme start="20261128113000 +0000" stop="20261128120000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA TRIBUNA</title></programme>
+<programme start="20261128120000 +0000" stop="20261128123000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
+<programme start="20261128123000 +0000" stop="20261128130000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BILBOSPORT</title></programme>
+<programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BIZKAIKO BERRIAK</title></programme>
+<programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIARIO LOCAL</title></programme>
+<programme start="20261128140000 +0000" stop="20261128143000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CAMBIO DE RASANTE</title></programme>
+<programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LOCAL MUSICAL</title></programme>
+<programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. FELIZ NAVIDAD, MR LAWRENCE Drama Bélico. 1983. David Bowie</title></programme>
+<programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. FELIZ NAVIDAD, MR LAWRENCE Drama Bélico. 1983. David Bowie</title></programme>
+<programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. FELIZ NAVIDAD, MR LAWRENCE Drama Bélico. 1983. David Bowie</title></programme>
+<programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="TeleBilbao.es@SD"><title lang="es">CINE. FELIZ NAVIDAD, MR LAWRENCE Drama Bélico. 1983. David Bowie</title></programme>
+<programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="TeleBilbao.es@SD"/>
+<programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="TeleBilbao.es@SD"><title lang="es">MERIDIANO 0</title></programme>
+<programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA VISITA</title></programme>
+<programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA VISITA</title></programme>
+<programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="TeleBilbao.es@SD"><title lang="es">BIZKAIKO BERRIAK</title></programme>
+<programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIAIRO LOCAL</title></programme>
+<programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
+<programme start="20261128213000 +0000" stop="20261128230000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
+<programme start="20261128230000 +0000" stop="20261128233000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
+<programme start="20261128233000 +0000" stop="20261129000000 +0000" channel="TeleBilbao.es@SD"><title lang="es">LA KAPITAL  Lo mejor de la semana</title></programme>
+<programme start="20261129000000 +0000" stop="20261129003000 +0000" channel="TeleBilbao.es@SD"><title lang="es">DIAIRO LOCAL</title></programme>
+<programme start="20261129003000 +0000" stop="20261129010000 +0000" channel="TeleBilbao.es@SD"/>
 </tv>
