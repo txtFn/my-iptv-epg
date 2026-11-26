@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261120">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261126">
 <channel id="SRFinfo.ch@SD"><display-name>SRF info</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png"/></channel>
 <channel id="StarTV.ch@SD"><display-name>Star TV</display-name><icon src="https://i.imgur.com/04y9wz8.png"/></channel>
 <channel id="TeleM1.ch@SD"><display-name>Tele M1</display-name><icon src="https://i.imgur.com/oFiixzK.png"/></channel>
@@ -70,7 +70,7 @@
 <channel id="RTS2.ch@SD"><display-name>RTS Deux</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/960px-RTS_2_logo_2019.svg.png"/></channel>
 <channel id="ZDF.de@SD"><display-name>ZDF</display-name><icon src="https://i.imgur.com/rtLb6m9.png"/></channel>
 <channel id="ORF1.at@SD"><display-name>ORF 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg"/></channel>
-<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://i.imgur.com/QxHt9NC.png"/></channel>
+<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-a19dbf-0@1x.avif"/></channel>
 <channel id="DasErste.de@SD"><display-name>Das Erste</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"/></channel>
 <channel id="arte.de@SD"><display-name>Arte de</display-name><icon src="https://i.imgur.com/ecXMjNl.png"/></channel>
 <channel id="3sat.de@SD"><display-name>3sat</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"/></channel>
@@ -123,7 +123,7 @@
 <channel id="TFX.fr@SD"><display-name>TFX</display-name><icon src="https://i.imgur.com/d91GcVf.png"/></channel>
 <channel id="RMCStory.fr@SD"><display-name>RMC Story</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png"/></channel>
 <channel id="RiC.de@SD"><display-name>RiC</display-name><icon src="https://i.imgur.com/4wMZ8Em.png"/></channel>
-<channel id="RMCDecouverte.fr@SD"><display-name>RMC Découverte</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png"/></channel>
+<channel id="RMCDecouverte.fr@SD"><display-name>RMC Découverte</display-name><icon src="https://fr.themedialeader.com/wp-content/uploads/2026/01/RMCD-LOGO-BLANC-1LIGNE-COLOR-BG-2025-RVB.png"/></channel>
 <channel id="TMC.fr@SD"><display-name>TMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png"/></channel>
 <channel id="TV8MontBlanc.fr@SD"><display-name>TV8 Mont Blanc</display-name><icon src="https://i.imgur.com/dOXRNVj.png"/></channel>
 <channel id="TVM3.ch@SD"><display-name>TVM3</display-name><icon src="https://i.imgur.com/zNJlFMg.png"/></channel>
