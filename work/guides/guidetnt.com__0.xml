@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261119">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261126">
 <channel id="6ter.fr@SD"><display-name>6ter</display-name><icon src="https://i.imgur.com/2nd5Cox.png"/></channel>
 <channel id="13emeRue.fr@SD"><display-name>13ème RUE</display-name><icon src="https://i.imgur.com/k0DCMTL.png"/></channel>
 <channel id="AB1.fr@SD"><display-name>AB1</display-name><icon src="https://i.imgur.com/9C7UsOe.png"/></channel>
@@ -51,14 +51,14 @@
 <channel id="PlanetePlusAventure.fr@SD"><display-name>Planète+ Aventure</display-name><icon src="https://i.imgur.com/h09sbN0.png"/></channel>
 <channel id="PlanetePlusCrime.fr@SD"><display-name>Planète+ Crime</display-name><icon src="https://i.imgur.com/xGGBbun.png"/></channel>
 <channel id="PolarPlus.fr@SD"><display-name>Polar+</display-name><icon src="https://i.imgur.com/RjnuWFU.png"/></channel>
-<channel id="RMCDecouverte.fr@SD"><display-name>RMC Découverte</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png"/></channel>
+<channel id="RMCDecouverte.fr@SD"><display-name>RMC Découverte</display-name><icon src="https://fr.themedialeader.com/wp-content/uploads/2026/01/RMCD-LOGO-BLANC-1LIGNE-COLOR-BG-2025-RVB.png"/></channel>
 <channel id="RMCStory.fr@SD"><display-name>RMC STORY</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png"/></channel>
 <channel id="RTL9.lu@SD"><display-name>RTL9</display-name><icon src="https://i.imgur.com/nFqjVNW.png"/></channel>
 <channel id="ScienceVieTV.fr@SD"><display-name>Science&amp;Vie TV</display-name><icon src="https://i.imgur.com/9ELsSMI.png"/></channel>
 <channel id="Syfy.fr@SD"><display-name>Syfy</display-name><icon src="https://i.imgur.com/gUOXdjv.png"/></channel>
 <channel id="T18.fr@HD"><display-name>T18</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png"/></channel>
 <channel id="TCMCinema.fr@SD"><display-name>TCM</display-name><icon src="https://i.imgur.com/fT4XxM6.png"/></channel>
-<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://i.imgur.com/QxHt9NC.png"/></channel>
+<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-a19dbf-0@1x.avif"/></channel>
 <channel id="TF1SeriesFilms.fr@SD"><display-name>TF1 Séries Films</display-name><icon src="https://i.imgur.com/4CJIDKQ.png"/></channel>
 <channel id="TFX.fr@SD"><display-name>TFX</display-name><icon src="https://i.imgur.com/d91GcVf.png"/></channel>
 <channel id="TMC.fr@SD"><display-name>TMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png"/></channel>
