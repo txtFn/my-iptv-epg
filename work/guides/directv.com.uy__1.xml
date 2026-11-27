@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261120">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261127">
 <channel id="1534#HBOFHD"><display-name>HBO Family HD</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/534.png"/></channel>
 <channel id="1535#TMIAHD"><display-name>Tierra Mia HD</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/1266.png"/></channel>
 <channel id="1536#UNIHD"><display-name>Universal TV HD (Sur)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/1218.png"/></channel>
@@ -173,47 +173,17 @@
 <channel id="4773#ESC+"><display-name>Escuela plus</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/302.png"/></channel>
 <channel id="4992#TRES"><display-name>EL TRES Rosario</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/134.png"/></channel>
 <channel id="4997#KZO"><display-name>KZO</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/199.png"/></channel>
-<programme start="20261120023200 +0000" stop="20261120050700 +0000" channel="1534#HBOFHD"><title lang="es">Harry Potter y la piedra filosofal</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120050700 +0000" stop="20261120065400 +0000" channel="1534#HBOFHD"><title lang="es">Pokémon Detective Pikachu</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120065400 +0000" stop="20261120085200 +0000" channel="1534#HBOFHD"><title lang="es">Regreso al futuro</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120085200 +0000" stop="20261120102000 +0000" channel="1534#HBOFHD"><title lang="es">Cigüeñas</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120102000 +0000" stop="20261120120000 +0000" channel="1534#HBOFHD"><title lang="es">Un amigo abominable</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120120000 +0000" stop="20261120133400 +0000" channel="1534#HBOFHD"><title lang="es">Hotel Transilvania</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120133400 +0000" stop="20261120154200 +0000" channel="1534#HBOFHD"><title lang="es">El Hombre Araña 2</title></programme>
-<programme start="20261120154200 +0000" stop="20261120171500 +0000" channel="1534#HBOFHD"><title lang="es">Shrek</title></programme>
-<programme start="20261120171500 +0000" stop="20261120195900 +0000" channel="1534#HBOFHD"><title lang="es">Harry Potter y la cámara secreta (Versión Extendida)</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120195900 +0000" stop="20261120214500 +0000" channel="1534#HBOFHD"><title lang="es">Cómo entrenar a tu dragón 2</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261120214500 +0000" stop="20261120232600 +0000" channel="1534#HBOFHD"><title lang="es">La casa de muñecas de Gabby: la película</title><rating system="MPA"><value>G</value></rating></programme>
-<programme start="20261120232600 +0000" stop="20261121005900 +0000" channel="1534#HBOFHD"><title lang="es">Hotel Transilvania</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121005900 +0000" stop="20261121024300 +0000" channel="1534#HBOFHD"><title lang="es">Otra oportunidad para amar</title></programme>
-<programme start="20261121024300 +0000" stop="20261121052800 +0000" channel="1534#HBOFHD"><title lang="es">Harry Potter y la cámara secreta (Versión Extendida)</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121024300 +0000" stop="20261121052800 +0000" channel="1534#HBOFHD"><title lang="es">Harry Potter y la cámara secreta (Versión Extendida)</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121052800 +0000" stop="20261121071200 +0000" channel="1534#HBOFHD"><title lang="es">Tom y Jerry</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121071200 +0000" stop="20261121084200 +0000" channel="1534#HBOFHD"><title lang="es">Zoom y los superhéroes</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121084200 +0000" stop="20261121101400 +0000" channel="1534#HBOFHD"><title lang="es">Monster House: La casa de los sustos</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121101400 +0000" stop="20261121120000 +0000" channel="1534#HBOFHD"><title lang="es">Cómo entrenar a tu dragón 2</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121120000 +0000" stop="20261121133700 +0000" channel="1534#HBOFHD"><title lang="es">Kung Fu Panda 3</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121133700 +0000" stop="20261121150700 +0000" channel="1534#HBOFHD"><title lang="es">Una Navidad única</title></programme>
-<programme start="20261121150700 +0000" stop="20261121170500 +0000" channel="1534#HBOFHD"><title lang="es">Regreso al futuro</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121170500 +0000" stop="20261121183400 +0000" channel="1534#HBOFHD"><title lang="es">Emoji: La película</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121183400 +0000" stop="20261121202000 +0000" channel="1534#HBOFHD"><title lang="es">El Grinch</title></programme>
-<programme start="20261121202000 +0000" stop="20261121214900 +0000" channel="1534#HBOFHD"><title lang="es">La vida secreta de tus mascotas</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121214900 +0000" stop="20261121232400 +0000" channel="1534#HBOFHD"><title lang="es">Kung Fu Panda 2</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261121232400 +0000" stop="20261122010100 +0000" channel="1534#HBOFHD"><title lang="es">Kung Fu Panda 3</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122010100 +0000" stop="20261122022400 +0000" channel="1534#HBOFHD"><title lang="es">Mágica Navidad</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122022400 +0000" stop="20261122043000 +0000" channel="1534#HBOFHD"><title lang="es">Aquaman y el reino perdido</title></programme>
-<programme start="20261122022400 +0000" stop="20261122043000 +0000" channel="1534#HBOFHD"><title lang="es">Aquaman y el reino perdido</title></programme>
-<programme start="20261122043000 +0000" stop="20261122063000 +0000" channel="1534#HBOFHD"><title lang="es">Space Jam: Una nueva era</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122063000 +0000" stop="20261122081600 +0000" channel="1534#HBOFHD"><title lang="es">Un motivo para ganar</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122081600 +0000" stop="20261122103100 +0000" channel="1534#HBOFHD"><title lang="es">¡Shazam!</title></programme>
-<programme start="20261122103100 +0000" stop="20261122120000 +0000" channel="1534#HBOFHD"><title lang="es">La vida secreta de tus mascotas</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122120000 +0000" stop="20261122135100 +0000" channel="1534#HBOFHD"><title lang="es">Canta 3D</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122135100 +0000" stop="20261122161700 +0000" channel="1534#HBOFHD"><title lang="es">Animales fantásticos: Los secretos de Dumbledore</title></programme>
-<programme start="20261122161700 +0000" stop="20261122182500 +0000" channel="1534#HBOFHD"><title lang="es">Cómo entrenar a tu dragón</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122182500 +0000" stop="20261122195800 +0000" channel="1534#HBOFHD"><title lang="es">Shrek</title></programme>
-<programme start="20261122195800 +0000" stop="20261122213400 +0000" channel="1534#HBOFHD"><title lang="es">Shrek 2</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122213400 +0000" stop="20261122230900 +0000" channel="1534#HBOFHD"><title lang="es">Shrek 3</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261122230900 +0000" stop="20261123010100 +0000" channel="1534#HBOFHD"><title lang="es">Canta 3D</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261123010100 +0000" stop="20261123023800 +0000" channel="1534#HBOFHD"><title lang="es">Las travesuras de Peter Rabbit</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20261123023800 +0000" stop="20261123042300 +0000" channel="1534#HBOFHD"><title lang="es">Otra oportunidad para amar</title></programme>
+<programme start="20261127024100 +0000" stop="20261127045400 +0000" channel="1534#HBOFHD"><title lang="es">Harry Potter y las reliquias de la muerte 2</title></programme>
+<programme start="20261127045400 +0000" stop="20261127065300 +0000" channel="1534#HBOFHD"><title lang="es">Regreso al futuro</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127065300 +0000" stop="20261127084000 +0000" channel="1534#HBOFHD"><title lang="es">Pokémon Detective Pikachu</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127084000 +0000" stop="20261127101300 +0000" channel="1534#HBOFHD"><title lang="es">Kung Fu Panda 2</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127101300 +0000" stop="20261127120000 +0000" channel="1534#HBOFHD"><title lang="es">Cómo el Grinch se robó la Navidad</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127120000 +0000" stop="20261127133200 +0000" channel="1534#HBOFHD"><title lang="es">Espanta tiburones</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127133200 +0000" stop="20261127150000 +0000" channel="1534#HBOFHD"><title lang="es">El Grinch</title></programme>
+<programme start="20261127150000 +0000" stop="20261127163200 +0000" channel="1534#HBOFHD"><title lang="es">El mejor espectáculo navideño de todos los tiempos</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127163200 +0000" stop="20261127180500 +0000" channel="1534#HBOFHD"><title lang="es">Kung Fu Panda 2</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127180500 +0000" stop="20261127194200 +0000" channel="1534#HBOFHD"><title lang="es">Kung Fu Panda 3</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127194200 +0000" stop="20261127211100 +0000" channel="1534#HBOFHD"><title lang="es">Emoji: La película</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127211100 +0000" stop="20261127225200 +0000" channel="1534#HBOFHD"><title lang="es">Los Croods</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20261127225200 +0000" stop="20261128010000 +0000" channel="1534#HBOFHD"><title lang="es">Cómo entrenar a tu dragón</title><rating system="MPA"><value>PG</value></rating></programme>
 </tv>
