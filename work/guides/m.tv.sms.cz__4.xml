@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261121">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261128">
 <channel id="TVSLO2.si@SD"><display-name>Slovenija 2</display-name><icon src="https://i.imgur.com/OPlzjjv.png"/></channel>
 <channel id="Slovenija+3"><display-name>Slovenija 3</display-name></channel>
 <channel id="Viasat2.hu@SD"><display-name>Sony Max</display-name><icon src="https://i.imgur.com/lEAhKPa.png"/></channel>
@@ -76,7 +76,7 @@
 <channel id="Telewizja+Biznesowa"><display-name>Telewizja Biznesowa</display-name></channel>
 <channel id="TVRepublika.pl@SD"><display-name>Telewizja Republika</display-name><icon src="https://i.imgur.com/ljpK6dZ.png"/></channel>
 <channel id="TET"><display-name>TET</display-name></channel>
-<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://i.imgur.com/QxHt9NC.png"/></channel>
+<channel id="TF1.fr@SD"><display-name>TF1</display-name><icon src="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-a19dbf-0@1x.avif"/></channel>
 <channel id="TheFishingHuntingChannel.hu@SD"><display-name>The Fishing and Hunting</display-name><icon src="https://i.imgur.com/KcTTnUA.png"/></channel>
 <channel id="TiJi"><display-name>TiJi</display-name></channel>
 <channel id="TIK"><display-name>TIK</display-name></channel>
