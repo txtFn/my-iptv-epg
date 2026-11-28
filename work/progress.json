@@ -1319,7 +1319,8 @@
     "abc.net.au@2",
     "airtelxstream.in@2",
     "canalplus.com@2",
-    "directv.com@2"
+    "directv.com@2",
+    "dishtv.in@2"
   ],
   "attempts": {
     "alexastream.kanal8.mk@0": 1,
@@ -1350,10 +1351,17 @@
     "dstv.com@6",
     "dstv.com@7",
     "dstv.com@8",
-    "dstv.com@9"
+    "dstv.com@9",
+    "programtv.onet.pl@0",
+    "programtv.onet.pl@1",
+    "programtv.onet.pl@2"
   ],
   "skipped_sites": {
     "dstv.com": {
+      "strikes": 2,
+      "done": 0
+    },
+    "programtv.onet.pl": {
       "strikes": 2,
       "done": 0
     }
